@@ -217,16 +217,6 @@ export default function Header() {
         </DropdownMenuContent>
       </DropdownMenu>
 
-      <Button
-        variant="ghost"
-        size="icon"
-        className="text-foreground/70 hover:text-primary hover:bg-primary/10"
-        onClick={handleTranslate}
-        aria-label="Traduzir para Inglês"
-      >
-        <Languages className="h-5 w-5" />
-        {isMobile ? <span className="ml-2">Traduzir</span> : <span className="sr-only">Traduzir para Inglês</span>}
-      </Button>
     </>
   );
 
