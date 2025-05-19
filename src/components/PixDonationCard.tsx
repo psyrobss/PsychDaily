@@ -38,7 +38,7 @@ export default function PixDonationCard() {
         <div className="flex justify-center items-center mb-2">
           <Coffee className="h-8 w-8 text-accent" />
         </div>
-        <CardTitle className="text-xl text-primary">Ajude-nos a comprar café!</CardTitle>
+        <CardTitle className="text-xl text-primary">Doe um cafezinho!</CardTitle>
         <CardDescription className="text-sm text-muted-foreground font-sans pt-1">
           Sabemos que o café está bastante caro e cada gole de café nos 
           aproxima de um site melhor. Doe um cafezinho!
