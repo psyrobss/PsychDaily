@@ -31,8 +31,6 @@ export default function HomePage() {
       if (todasEdicoes.length === 0) { // Se não há edições, para de carregar
         setIsLoadingPage(false);
       }
-      // Se 'today' ainda não está pronto mas há edições, pode continuar carregando
-      // ou definir um fallback se 'today' demorar muito (não implementado aqui)
       return;
     }
 

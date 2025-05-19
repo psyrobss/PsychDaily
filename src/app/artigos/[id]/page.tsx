@@ -2,7 +2,6 @@
 // No 'use client' here - this is now a Server Component
 
 import { getConteudoById } from '@/lib/mock-data/index';
-import type { Conteudo } from '@/lib/types';
 import { notFound } from 'next/navigation';
 import ArticlePageClient from '@/components/conteudo/ArticlePageClient'; // Import the new client component
 
