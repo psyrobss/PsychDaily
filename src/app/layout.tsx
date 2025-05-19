@@ -21,6 +21,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'PsychDaily - Sua Dose Diária de Psicologia',
   description: 'Insights psicológicos diários e narrativas ficcionais em um formato de jornal digital.',
+   icons: {
+    icon: '/favicon.ico', // Next.js procurará por src/app/favicon.ico
+  },
 };
 
 export default function RootLayout({
