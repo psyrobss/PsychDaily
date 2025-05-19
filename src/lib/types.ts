@@ -17,6 +17,7 @@ export interface CorpoImagem {
   legenda?: string;
   credito?: string;
   dataAiHint?: string;
+  imageHint?: string; // Hint for AI image generation if placeholders are used
 }
 
 export interface CorpoCitacao {
