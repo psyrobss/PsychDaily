@@ -1,29 +1,41 @@
-
 'use client';
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useEffect } from 'react';
 import { edicoes as todasEdicoes } from '@/lib/mock-data/index';
 import EdicaoCard from '@/components/EdicaoCard';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import { BookOpen, ChevronLeft, ChevronRight } from 'lucide-react';
-import { parse } from 'date-fns';
+import { parse, startOfDay, isBefore, isEqual } from 'date-fns';
 import { cn } from '@/lib/utils';
 
-const ITEMS_PER_PAGE = 9; // Alterado de 6 para 9
+const ITEMS_PER_PAGE = 9;
 
 export default function EdicoesPage() {
   const [currentPage, setCurrentPage] = useState(1);
+  const [today, setToday] = useState<Date | null>(null);
+
+  useEffect(() => {
+    setToday(startOfDay(new Date()));
+  }, []);
+
+  const publishedEdicoes = useMemo(() => {
+    if (!today) return [];
+    return todasEdicoes.filter(edicao => {
+      const edicaoDate = parse(edicao.data, 'yyyy-MM-dd', new Date());
+      return isEqual(edicaoDate, today) || isBefore(edicaoDate, today);
+    });
+  }, [today]);
 
   const sortedEdicoes = useMemo(() => {
-    return [...todasEdicoes].sort((a, b) => {
+    return [...publishedEdicoes].sort((a, b) => {
       const dateA = parse(a.data, 'yyyy-MM-dd', new Date());
       const dateB = parse(b.data, 'yyyy-MM-dd', new Date());
       const dateComparison = dateB.getTime() - dateA.getTime();
       if (dateComparison !== 0) return dateComparison;
       return parseInt(b.edicao) - parseInt(a.edicao);
     });
-  }, []);
+  }, [publishedEdicoes]);
 
   const totalPages = Math.ceil(sortedEdicoes.length / ITEMS_PER_PAGE);
 
@@ -32,6 +44,16 @@ export default function EdicoesPage() {
     const endIndex = startIndex + ITEMS_PER_PAGE;
     return sortedEdicoes.slice(startIndex, endIndex);
   }, [currentPage, sortedEdicoes]);
+
+  useEffect(() => {
+    // Reset to page 1 if the number of total pages changes and current page becomes invalid
+    if (currentPage > totalPages && totalPages > 0) {
+      setCurrentPage(1);
+    } else if (totalPages === 0 && currentPage !== 1) {
+      setCurrentPage(1); // Reset if no pages
+    }
+  }, [totalPages, currentPage]);
+
 
   const handleNextPage = () => {
     setCurrentPage((prev) => Math.min(prev + 1, totalPages));
@@ -47,12 +69,12 @@ export default function EdicoesPage() {
 
   const generatePageNumbers = useCallback(() => {
     const pageNumbers: (number | string)[] = [];
-    const siblingCount = 1; // Quantidade de números antes e depois da página atual
-    const totalNumbersToDisplay = siblingCount * 2 + 3; // (2*siblings) + currentPage + firstPage + lastPage
-    const totalBlocks = totalNumbersToDisplay + 2; // Adiciona espaço para reticências
+    if (totalPages === 0) return [];
+    const siblingCount = 1; 
+    const totalNumbersToDisplay = siblingCount * 2 + 3; 
+    const totalBlocks = totalNumbersToDisplay + 2; 
 
     if (totalPages <= totalBlocks) {
-      // Mostra todos os números se não houver muitas páginas
       for (let i = 1; i <= totalPages; i++) {
         pageNumbers.push(i);
       }
@@ -63,7 +85,7 @@ export default function EdicoesPage() {
       const shouldShowLeftDots = leftSiblingIndex > 2;
       const shouldShowRightDots = rightSiblingIndex < totalPages - 1;
 
-      pageNumbers.push(1); // Sempre mostra a primeira página
+      pageNumbers.push(1); 
 
       if (shouldShowLeftDots) {
         pageNumbers.push('...');
@@ -82,10 +104,9 @@ export default function EdicoesPage() {
       }
       
       if (totalPages > 1 && !pageNumbers.includes(totalPages)) {
-        pageNumbers.push(totalPages); // Sempre mostra a última página, se diferente da primeira
+        pageNumbers.push(totalPages); 
       }
     }
-    // Remove duplicatas de reticências ou números adjacentes
     return pageNumbers.filter((item, index, self) => {
         if (item === '...') {
             return self[index-1] !== '...' && typeof self[index-1] === 'number' && typeof self[index+1] === 'number' && (self[index+1] as number) > (self[index-1] as number) + 1;
@@ -95,6 +116,14 @@ export default function EdicoesPage() {
 
   }, [currentPage, totalPages]);
 
+  if (!today) {
+    return (
+      <div className="text-center py-10 animate-pulse">
+        <p className="text-2xl text-primary font-serif">PsychDaily</p>
+        <p className="text-muted-foreground mt-2 font-sans">Carregando edições...</p>
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-12 animate-in fade-in-50 duration-500">
@@ -115,8 +144,8 @@ export default function EdicoesPage() {
           ))}
         </section>
       ) : (
-        <p className="text-center text-muted-foreground text-lg">
-          Nenhuma edição anterior encontrada. Volte em breve!
+        <p className="text-center text-muted-foreground text-lg py-10">
+          Nenhuma edição anterior encontrada até o momento.
         </p>
       )}
 

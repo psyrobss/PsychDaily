@@ -2,7 +2,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Newspaper, Home, BookCopy, Search, ChevronDown, Menu, Users, Info, UserCircle } from 'lucide-react'; // Added UserCircle
+import { Newspaper, Home, BookCopy, Search, ChevronDown, Menu, Users, Info, UserCircle, Languages } from 'lucide-react'; 
 import { Button } from '@/components/ui/button';
 import { usePathname, useRouter } from 'next/navigation';
 import { cn } from '@/lib/utils';
@@ -22,7 +22,7 @@ import {
 } from "@/components/ui/sheet";
 import { edicoes as todasEdicoes } from '@/lib/mock-data/index';
 import type { Edicao } from '@/lib/types';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { format, startOfDay, isEqual, isBefore, parse } from 'date-fns';
 import { ptBR } from 'date-fns/locale';
 
@@ -42,8 +42,8 @@ const navItemsBase = [
 
 const userMenuItems = [
   { href: '/assine', label: 'Assine' },
-  { href: '/login', label: 'Login (Construção)' },
-  { href: '/cadastro', label: 'Cadastro (Construção)' },
+  // { href: '/login', label: 'Login (Construção)' }, // Temporariamente removido
+  // { href: '/cadastro', label: 'Cadastro (Construção)' }, // Temporariamente removido
 ];
 
 export default function Header() {
@@ -54,17 +54,15 @@ export default function Header() {
   const [isEditionsDropdownOpen, setIsEditionsDropdownOpen] = useState(false);
   const [isUserDropdownOpen, setIsUserDropdownOpen] = useState(false);
   
+  const [today, setToday] = useState<Date | null>(null);
   const [mostRecentPublishedEdition, setMostRecentPublishedEdition] = useState<Edicao | null>(null);
   const [lastSevenPublishedEditions, setLastSevenPublishedEditions] = useState<Edicao[]>([]);
-  const [today, setToday] = useState<Date | null>(null); // Initialize today as null
 
   useEffect(() => {
-    // Set 'today' only on the client-side after mount
     setToday(startOfDay(new Date()));
   }, []);
 
   useEffect(() => {
-    // This effect runs when 'today' is set, ensuring calculations are client-side
     if (!today || todasEdicoes.length === 0) {
       setMostRecentPublishedEdition(null);
       setLastSevenPublishedEditions([]);
@@ -75,25 +73,32 @@ export default function Header() {
       const edicaoDate = parse(edicao.data, 'yyyy-MM-dd', new Date());
       return isEqual(edicaoDate, today) || isBefore(edicaoDate, today);
     });
+    
+    const sortedPublished = [...publishedEditions].sort((a, b) => parse(b.data, 'yyyy-MM-dd', new Date()).getTime() - parse(a.data, 'yyyy-MM-dd', new Date()).getTime());
+    setLastSevenPublishedEditions(sortedPublished.slice(0, 7));
 
-    if (publishedEditions.length > 0) {
-      const sortedPublished = publishedEditions.sort((a, b) => parse(b.data, 'yyyy-MM-dd', new Date()).getTime() - parse(a.data, 'yyyy-MM-dd', new Date()).getTime());
+    if (sortedPublished.length > 0) {
       setMostRecentPublishedEdition(sortedPublished[0]);
-      setLastSevenPublishedEditions(sortedPublished.slice(0, 7));
     } else {
       // Fallback: if no editions are "published" yet, show the next one to be published
       const sortedFutureEditions = [...todasEdicoes].sort((a, b) => parse(a.data, 'yyyy-MM-dd', new Date()).getTime() - parse(b.data, 'yyyy-MM-dd', new Date()).getTime());
-      const earliestFuture = sortedFutureEditions.length > 0 ? sortedFutureEditions[0] : null;
-      setMostRecentPublishedEdition(earliestFuture); 
-      setLastSevenPublishedEditions(earliestFuture ? [earliestFuture] : []);
+      setMostRecentPublishedEdition(sortedFutureEditions.length > 0 ? sortedFutureEditions[0] : null);
     }
-  }, [today]); // Rerun when 'today' state changes
+  }, [today]);
 
   const handleMenuNavigation = (href?: string) => {
     setIsMobileMenuOpen(false);
     setIsEditionsDropdownOpen(false);
     setIsUserDropdownOpen(false);
     if (href) router.push(href);
+  };
+
+  const handleTranslate = () => {
+    if (typeof window !== 'undefined') {
+      const currentPageUrl = window.location.href;
+      const googleTranslateUrl = `https://translate.google.com/translate?sl=pt&tl=en&u=${encodeURIComponent(currentPageUrl)}`;
+      window.open(googleTranslateUrl, '_blank');
+    }
   };
 
   const commonLinkClasses = (href: string, isActive?: boolean) => cn(
@@ -151,13 +156,13 @@ export default function Header() {
                 </DropdownMenuItem>
               )}
 
-              {mostRecentPublishedEdition && lastSevenPublishedEditions.filter(ed => ed.edicao !== mostRecentPublishedEdition.edicao).length > 0 && (
+              {mostRecentPublishedEdition && lastSevenPublishedEditions.length > 0 && (
                 <DropdownMenuSeparator />
               )}
 
               {lastSevenPublishedEditions
-                .filter(edicao => edicao.edicao !== mostRecentPublishedEdition?.edicao) // Ensure not to duplicate the "Mais Recente"
-                .slice(0, mostRecentPublishedEdition ? 6 : 7) // Show up to 6 others if "Mais Recente" is shown, or 7 if not
+                .filter(edicao => edicao.edicao !== mostRecentPublishedEdition?.edicao) 
+                .slice(0, mostRecentPublishedEdition ? 6 : 7) 
                 .map((edicao: Edicao) => (
                 <DropdownMenuItem key={edicao.edicao} asChild onClick={() => handleMenuNavigation(`/edicao/${edicao.edicao}`)}>
                   <Link href={`/edicao/${edicao.edicao}`}>
@@ -181,11 +186,11 @@ export default function Header() {
         <DropdownMenuTrigger asChild>
           <Button
             variant="ghost"
-            size="icon" // Icon only for desktop
+            size="icon" 
             className={cn(
               "text-foreground/70 hover:text-primary hover:bg-primary/10",
-              isMobile && "w-full justify-start text-base py-3 px-3", // Full width with text for mobile sheet
-              (pathname === '/assine' || pathname === '/login' || pathname === '/cadastro') && !isMobile && "text-primary bg-primary/10"
+              isMobile && "w-full justify-start text-base py-3 px-3", 
+              (pathname === '/assine') && !isMobile && "text-primary bg-primary/10"
             )}
           >
             <UserCircle className="h-5 w-5" />
@@ -203,8 +208,25 @@ export default function Header() {
               <Link href={item.href}>{item.label}</Link>
             </DropdownMenuItem>
           ))}
+           <DropdownMenuItem onClick={() => handleMenuNavigation("/login")}>
+            Login (Construção)
+          </DropdownMenuItem>
+          <DropdownMenuItem onClick={() => handleMenuNavigation("/cadastro")}>
+            Cadastro (Construção)
+          </DropdownMenuItem>
         </DropdownMenuContent>
       </DropdownMenu>
+
+      <Button
+        variant="ghost"
+        size="icon"
+        className="text-foreground/70 hover:text-primary hover:bg-primary/10"
+        onClick={handleTranslate}
+        aria-label="Traduzir para Inglês"
+      >
+        <Languages className="h-5 w-5" />
+        {isMobile ? <span className="ml-2">Traduzir</span> : <span className="sr-only">Traduzir para Inglês</span>}
+      </Button>
     </>
   );
 
