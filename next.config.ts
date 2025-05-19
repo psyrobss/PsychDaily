@@ -29,7 +29,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'placekitten.com',
+        hostname: 'pexels.com',
         port: '',
         pathname: '/**',
       },
