@@ -67,7 +67,7 @@ export const conteudosEdicao001: Conteudo[] = [
     data_publicacao: '2025-05-19',
     corpo: [
       { tipo: 'paragrafo', texto: 'A resiliência psicológica é frequentemente definida como a capacidade de se adaptar bem e se recuperar rapidamente de situações de estresse significativo, adversidade, trauma ou tragédia. É crucial entender que resiliência não implica ausência de dificuldades, dor emocional ou sofrimento. Pelo contrário, trata-se da habilidade de navegar por essas experiências desafiadoras, aprender com elas e, idealmente, emergir fortalecido ou, no mínimo, funcionalmente adaptado. É um processo dinâmico que envolve uma interação complexa entre fatores individuais (como traços de personalidade, habilidades de enfrentamento e regulação emocional) e fatores ambientais (como apoio social, recursos comunitários e oportunidades). Este artigo detalha os fatores que contribuem para a resiliência e como eles podem ser desenvolvidos de forma prática e consciente.' },
-      { tipo: 'imagem', url: 'https://images.pexels.com/photos/248812/pexels-photo-248812.jpeg', legenda: 'O bambu se curva com o vento, mas raramente quebra: uma metáfora visual para a flexibilidade e força da resiliência humana.', imageHint: 'strong tree' },
+      { tipo: 'imagem', url: 'https://images.unsplash.com/photo-1619313949781-a9ed1aca9e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW1idXxlbnwwfHx8fDE3NDc2OTU4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080', legenda: 'O bambu se curva com o vento, mas raramente quebra: uma metáfora visual para a flexibilidade e força da resiliência humana.', imageHint: 'article content image' },
       { tipo: 'sub_cabecalho', texto: 'Pilares Fundamentais e Estratégias para Cultivar a Resiliência:' },
       { tipo: 'paragrafo', texto: 'A construção da resiliência é análoga à construção de um músculo: requer intenção, prática consistente e tempo. Diversos estudos em psicologia positiva e psicologia do desenvolvimento identificaram componentes chave que sustentam a capacidade resiliente. Apresentamos a seguir alguns dos mais significativos, acompanhados de estratégias para seu desenvolvimento:' },
       {
@@ -119,7 +119,7 @@ export const conteudosEdicao001: Conteudo[] = [
         ],
       },
       { tipo: 'paragrafo', texto: 'Cada uma dessas teorias enfrenta desafios conceituais, metodológicos e empíricos significativos. A pesquisa sobre a consciência é eminentemente interdisciplinar, exigindo a colaboração entre neurocientistas, psicólogos cognitivos, filósofos da mente, físicos e especialistas em inteligência artificial. Avanços em neuroimagem, como ressonância magnética funcional (fMRI) e eletroencefalografia (EEG) de alta densidade, e em técnicas de estimulação cerebral, como estimulação magnética transcraniana (TMS), têm permitido investigar os correlatos neurais da consciência com crescente precisão. No entanto, a ponte entre a atividade neural observada e a experiência subjetiva sentida permanece um campo de intenso debate e exploração.' },
-      { tipo: "imagem", url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080", legenda: "Representação abstrata da complexidade da atividade cerebral e das redes neurais, simbolizando a busca pela compreensão da consciência.", dataAiHint: "brain activity"},
+      { tipo: "imagem", url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080", legenda: "Representação abstrata da complexidade da atividade cerebral e das redes neurais, simbolizando a busca pela compreensão da consciência.", imageHint: "brain activity"},
       { tipo: 'paragrafo', texto: 'A elucidação da natureza da consciência possui implicações profundas que transcendem a academia. Ela afeta nossa compreensão da mente humana, o desenvolvimento ético de inteligência artificial geral (AGI), a prática médica (especialmente em casos de estados alterados de consciência como coma, estado vegetativo ou síndrome do encarceramento), questões sobre direitos e bem-estar dos animais e, em última análise, nossa própria concepção da realidade e do nosso lugar nela. O enigma da consciência continua a nos desafiar e a inspirar a busca por respostas, lembrando-nos da vastidão do que ainda não compreendemos sobre nós mesmos e o universo.'},
     ],
     tags: ['consciência', 'neurociência', 'filosofia da mente', 'teorias científicas', 'mente', 'cognição', 'problema difícil', 'qualia', 'IIT', 'GWT'],
@@ -276,7 +276,7 @@ export const edicao001: Edicao = {
     {
       nome_secao: "Destaques da Edição",
       tipo: "capa",
-      conteudo_ids: ["psicologia-empatia-01", "psicologia-resiliencia-03", "psicofarmaco-antidepressivos-01", "cronica-luto-arthur-01", "tecnica-respiracao-01"]
+      conteudo_ids: ["psicologia-empatia-01", "psicologia-resiliencia-03", "psicofarmaco-antidepressivos-01", "tecnica-respiracao-01"]
     },
     {
       nome_secao: "A Perspectiva do Psicólogo",
@@ -287,11 +287,6 @@ export const edicao001: Edicao = {
       nome_secao: "Contos da Psique",
       tipo: "narrativas",
       conteudo_ids: ["ficcao-labirinto-espelhos-02"]
-    },
-    {
-      nome_secao: "Do Consultório: Relatos e Reflexões",
-      tipo: "narrativas",
-      conteudo_ids: ["cronica-luto-arthur-01"]
     },
     {
       nome_secao: "Palavras da Alma",
@@ -307,6 +302,11 @@ export const edicao001: Edicao = {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
       conteudo_ids: ["psicofarmaco-antidepressivos-01"]
+    },
+    {
+      nome_secao: "Do Consultório: Relatos e Reflexões",
+      tipo: "narrativas",
+      conteudo_ids: ["cronica-luto-arthur-01"]
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
