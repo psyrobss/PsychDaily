@@ -17,7 +17,6 @@ export interface CorpoImagem {
   legenda?: string;
   credito?: string;
   dataAiHint?: string;
-  imageHint?: string;
 }
 
 export interface CorpoCitacao {

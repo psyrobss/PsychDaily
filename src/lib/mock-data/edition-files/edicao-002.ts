@@ -32,7 +32,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['vulnerabilidade', 'autocompaixão', 'perfeccionismo', 'crescimento pessoal', 'saúde mental', 'editorial', 'aceitação', 'bem-estar'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1491225063580-7e097e87dcb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb3VyYWdlfGVufDB8fHx8MTc0NzY2MDQzN3ww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'kintsugi pottery',
   },
   {
@@ -105,7 +105,7 @@ export const conteudosEdicao002: Conteudo[] = [
     titulo: 'Palavras da Alma: O Silêncio que Ensina e Restaura',
     subtitulo: 'Uma breve reflexão sobre a importância de cultivar momentos de quietude intencional para a escuta interior, o autoconhecimento e a restauração do equilíbrio mental em um mundo ruidoso.',
     autor: 'Kai Fictício Oliveira',
-    persona_autor: 'O Tecelão de Perspectivas',
+    persona_autor: 'O Analista de Contextos',
     data_publicacao: '2025-05-20',
     corpo: [
       { tipo: 'paragrafo', texto: 'No turbilhão incessante de ruídos externos – notificações incessantes de smartphones, o zumbido constante do trânsito urbano, conversas sobrepostas em ambientes lotados, o fluxo interminável de informações da mídia – e internos – o fluxo contínuo e muitas vezes caótico de pensamentos, preocupações, listas de tarefas e planejamentos – que compõem nosso cotidiano moderno, o silêncio muitas vezes é negligenciado, quando não ativamente evitado. Frequentemente, associamos o silêncio ao vazio, à solidão indesejada, ao tédio improdutivo ou até mesmo a um confronto desconfortável com nossos próprios pensamentos e emoções não processadas. Para muitos, o silêncio tornou-se sinônimo de ausência, em vez de presença.' },
@@ -164,14 +164,13 @@ export const conteudosEdicao002: Conteudo[] = [
       { tipo: 'sub_cabecalho', texto: 'As Fronteiras Invisíveis e Suas Consequências' },
       { tipo: 'paragrafo', texto: 'A ausência de fronteiras internas saudáveis estava minando sua energia vital. Relações que deveriam ser fontes de apoio tornavam-se drenantes. No trabalho, acumulava tarefas que não eram suas. Em casa, sentia-se culpada por desejar um momento para si. O resultado era um ressentimento velado, uma sensação de invisibilidade e uma autoestima que se esvaía a cada "sim" dito quando seu íntimo gritava "não".' },
       { tipo: 'paragrafo', texto: 'O processo terapêutico com Clara focou em ajudá-la a reconectar-se com suas próprias necessidades, valores e emoções. Trabalhamos o conceito de limites não como muros que isolam, mas como cercas que protegem um jardim interior, permitindo que ele floresça. Isso envolveu identificar seus "direitos pessoais" – o direito de ter suas próprias opiniões, de expressar suas necessidades, de descansar, de recusar pedidos sem sentir culpa excessiva.' },
-      { tipo: 'paragrafo', texto: 'Um dos primeiros passos foi explorar o medo subjacente à dificuldade de impor limites. Clara temia a rejeição, o conflito e a possibilidade de ser vista como egoísta. Reconhecer esses medos foi crucial para começar a desafiá-los. Através de role-playing e discussões, ela começou a experimentar formas assertivas de comunicação.'},
       { tipo: 'dialogo', personagem: 'Clara (em sessão, com um misto de alívio e receio)', fala: 'Mas se eu começar a dizer não, as pessoas não vão mais gostar de mim? E se eu magoar alguém?' },
       { tipo: 'paragrafo', texto: 'Este é um medo comum e legítimo. Exploramos que impor limites pode, sim, gerar desconforto inicial em relações acostumadas à sua total disponibilidade. No entanto, as relações verdadeiramente saudáveis não apenas sobrevivem, mas se fortalecem com a clareza e o respeito mútuo que os limites proporcionam. Aquelas que se desfazem geralmente eram baseadas em um desequilíbrio de poder ou em uma dinâmica de exploração.' },
       { tipo: 'paragrafo', texto: 'Clara começou com pequenos passos: recusar um convite social quando estava cansada, delegar uma tarefa no trabalho, expressar uma opinião divergente em uma conversa familiar. Cada "não" consciente era uma vitória, um ato de autoafirmação. Ela aprendeu a comunicar seus limites de forma assertiva, mas respeitosa, usando frases como "Eu entendo sua necessidade, mas neste momento não posso ajudar" ou "Agradeço o convite, mas preciso de um tempo para mim".' },
       { tipo: 'paragrafo', texto: 'Com o tempo, Clara percebeu que, ao proteger seu espaço e sua energia, ela se tornava, paradoxalmente, uma pessoa mais presente e genuína em suas relações. Sua ansiedade diminuiu, e uma nova vitalidade começou a surgir. Ela não deixou de ser gentil e atenciosa, mas sua gentileza agora incluía a si mesma. Redesenhar suas fronteiras internas foi um ato de coragem que lhe permitiu não apenas sobreviver, mas florescer.' },
     ],
     tags: ['limites saudáveis', 'assertividade', 'terapia', 'autocuidado', 'codependência', 'casos clínicos', 'crônica', 'relações interpessoais'],
-    isPremium: false, // Changed for testing purposes
+    isPremium: true,
     imageUrl: 'https://placehold.co/600x400.png',
     imageHint: 'person drawing line',
   },
@@ -238,9 +237,9 @@ export const edicao002: Edicao = {
   capa: {
     titulo_principal: "Desvendando a Imperfeição, Estresse, TDAH e o Poder da Escrita",
     subtitulo: "Nesta edição: Vulnerabilidade, impacto do estresse, TDAH em debate, limites internos e o diário terapêutico como ferramenta.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "https://images.unsplash.com/photo-1595552900947-11d59614541d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxBREhEfGVufDB8fHx8MTc0NzY1Nzc1NHww&ixlib=rb-4.1.0&q=80&w=1080",
     imageHint: "thoughtful abstract",
-    credito_imagem: "PsychDaily Images",
+    credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: "A Coragem de Ser Imperfeito: Libertando-se da Tirania da Perfeição", id_conteudo: "editorial-segunda-ed-01" },
       { titulo: "Estimulantes e Foco: Navegando os Desafios do TDAH", id_conteudo: "psicofarmaco-tdah-02" },
@@ -291,3 +290,4 @@ export const edicao002: Edicao = {
     }
   ]
 };
+

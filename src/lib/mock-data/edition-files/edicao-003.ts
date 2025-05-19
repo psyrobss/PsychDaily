@@ -56,7 +56,7 @@ export const conteudosEdicao003: Conteudo[] = [
     titulo: 'Palavras da Alma: Encontrando Beleza na Simplicidade do Agora',
     subtitulo: 'Uma reflexão sobre como a apreciação dos pequenos momentos e a simplicidade podem enriquecer nossa experiência de vida.',
     autor: 'Kai Fictício Oliveira',
-    persona_autor: 'O Tecelão de Perspectivas',
+    persona_autor: 'O Analista de Contextos',
     data_publicacao: '2025-05-21',
     corpo: [
       { tipo: 'paragrafo', texto: 'Vivemos em uma busca constante pelo "mais": mais conquistas, mais posses, mais experiências extraordinárias. Nessa corrida, muitas vezes deixamos de perceber a profunda beleza e a riqueza que residem na simplicidade dos momentos cotidianos, no aqui e agora. Aquele café da manhã tranquilo, o sorriso de um ente querido, o calor do sol na pele, o silêncio reconfortante de um livro aberto.' },
@@ -179,9 +179,9 @@ export const edicao003: Edicao = {
   capa: {
     titulo_principal: "Autocuidado, Neuroplasticidade e a Arte de Libertar Preocupações",
     subtitulo: "Nesta edição: A urgência do autocuidado, o cérebro adaptável, fábulas sobre ansiedade e técnicas de grounding.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "https://images.unsplash.com/photo-1579591165159-edec885269b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2VsZnxlbnwwfHx8fDE3NDc2NTgxNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     imageHint: "brain calm connection",
-    credito_imagem: "PsychDaily Images",
+    credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: "A Urgência do Autocuidado em Tempos de Hiperconexão", id_conteudo: "editorial-autocuidado-01" },
       { titulo: "Neuroplasticidade: A Incrível Capacidade do Cérebro de Mudar", id_conteudo: "neuroplasticidade-cerebro-01" },

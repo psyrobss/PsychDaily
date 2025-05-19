@@ -21,6 +21,8 @@ import { edicao026, conteudosEdicao026 } from '../edition-files/edicao-026';
 import { edicao027, conteudosEdicao027 } from '../edition-files/edicao-027';
 import { edicao028, conteudosEdicao028 } from '../edition-files/edicao-028';
 import { edicao029, conteudosEdicao029 } from '../edition-files/edicao-029';
+import { edicao030, conteudosEdicao030 } from '../edition-files/edicao-030';
+import { edicao031, conteudosEdicao031 } from '../edition-files/edicao-031';
 
 
 export const edicoesJunho2025: Edicao[] = [
@@ -43,6 +45,8 @@ export const edicoesJunho2025: Edicao[] = [
   edicao027,
   edicao028,
   edicao029,
+  edicao030,
+  edicao031,
 ];
 
 export const conteudosJunho2025: Conteudo[] = [
@@ -65,14 +69,8 @@ export const conteudosJunho2025: Conteudo[] = [
   ...conteudosEdicao027,
   ...conteudosEdicao028,
   ...conteudosEdicao029,
+  ...conteudosEdicao030,
+  ...conteudosEdicao031,
 ];
-
-    
-
-    
-
-    
-
-    
 
     

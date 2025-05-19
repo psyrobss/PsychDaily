@@ -194,7 +194,7 @@ export const conteudosEdicao026: Conteudo[] = [
       ]},
       { tipo: 'paragrafo', texto: 'A chave para integrar o mindfulness no dia a dia é a gentileza, a curiosidade e a consistência, não a perfeição. Não se trata de "esvaziar a mente", mas de se tornar mais consciente do que está acontecendo nela e ao seu redor, momento a momento. Esses pequenos exercícios, praticados regularmente, podem transformar sua relação com o estresse, aumentar sua capacidade de apreciação e trazer uma maior sensação de calma e presença para sua vida.' }
     ],
-    tags: ['mindfulness', 'atenção plena', 'estresse', 'bem-estar', 'técnicas terapêuticas', 'meditação', 'consciência'],
+    tags: ['mindfulness', 'atenção plena', 'estresse', 'bem-estar', 'técnicas terapêuticas', 'meditação', 'consciência', 'ansiedade'],
     isPremium: false,
     imageUrl: 'https://images.unsplash.com/photo-1474418397713-7ede21d4990a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG5hdHVyZSUyMGJyZWF0aHxlbnwwfHx8fDE3MTc4ODA3NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
     imageHint: 'mindfulness nature breath'
@@ -207,51 +207,51 @@ export const edicao026: Edicao = {
   capa: {
     titulo_principal: "Estigma, Ansiedade e TCC: Ferramentas para uma Mente Mais Saudável",
     subtitulo: "Nesta edição: Quebrando o estigma das doenças mentais, compreendendo a ansiedade, o poder da TCC e a importância dos hábitos e do mindfulness no cotidiano.",
-    imagem_destaque: "https://images.unsplash.com/photo-1579034170186-4d68cb74520c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwYnJhaW4lMjBzeW1ib2x8ZW58MHx8fHwxNzE3ODgwMzk1fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "https://images.unsplash.com/photo-1699777741083-7c0a31895bd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8c3RpZ21hfGVufDB8fHx8MTc0NzY1OTEwNXww&ixlib=rb-4.1.0&q=80&w=1080",
     imageHint: "healthy brain symbol",
-    credito_imagem: "PsychDaily Images",
+    credito_imagem: "Unsplash",
     links_manchetes: [
-      { titulo: conteudosEdicao026[0].titulo, id_conteudo: conteudosEdicao026[0].id }, // Editorial - Estigma
-      { titulo: conteudosEdicao026[1].titulo, id_conteudo: conteudosEdicao026[1].id }, // Aprofundado - Ansiedade (Premium)
-      { titulo: conteudosEdicao026[2].titulo, id_conteudo: conteudosEdicao026[2].id }, // Aprofundado - TCC
-      { titulo: conteudosEdicao026[6].titulo, id_conteudo: conteudosEdicao026[6].id }  // Técnica - Mindfulness
+      { titulo: conteudosEdicao026[0].titulo, id_conteudo: conteudosEdicao026[0].id },
+      { titulo: conteudosEdicao026[1].titulo, id_conteudo: conteudosEdicao026[1].id },
+      { titulo: conteudosEdicao026[2].titulo, id_conteudo: conteudosEdicao026[2].id },
+      { titulo: conteudosEdicao026[6].titulo, id_conteudo: conteudosEdicao026[6].id }
     ]
   },
   secoes: [
-    { 
-      nome_secao: "Destaques da Edição", 
-      tipo: "capa", 
-      conteudo_ids: [conteudosEdicao026[0].id, conteudosEdicao026[1].id, conteudosEdicao026[2].id, conteudosEdicao026[6].id] 
+    {
+      nome_secao: "Destaques da Edição",
+      tipo: "capa",
+      conteudo_ids: [conteudosEdicao026[0].id, conteudosEdicao026[1].id, conteudosEdicao026[2].id, conteudosEdicao026[6].id]
     },
-    { 
-      nome_secao: "A Perspectiva do Psicólogo", 
-      tipo: "editorial", 
-      conteudo_ids: [conteudosEdicao026[0].id] 
+    {
+      nome_secao: "A Perspectiva do Psicólogo",
+      tipo: "editorial",
+      conteudo_ids: [conteudosEdicao026[0].id]
     },
-    { 
-      nome_secao: "Exploração Profunda", 
-      tipo: "caderno_especial", 
-      conteudo_ids: [conteudosEdicao026[1].id, conteudosEdicao026[2].id] 
+    {
+      nome_secao: "Exploração Profunda",
+      tipo: "caderno_especial",
+      conteudo_ids: [conteudosEdicao026[1].id, conteudosEdicao026[2].id]
     },
-    { 
-      nome_secao: "Contos da Psique", 
-      tipo: "narrativas", 
-      conteudo_ids: [conteudosEdicao026[3].id] 
+    {
+      nome_secao: "Contos da Psique",
+      tipo: "narrativas",
+      conteudo_ids: [conteudosEdicao026[3].id]
     },
-    { 
-      nome_secao: "Palavras da Alma", 
-      tipo: "colunas", 
-      conteudo_ids: [conteudosEdicao026[4].id] 
+    {
+      nome_secao: "Palavras da Alma",
+      tipo: "colunas",
+      conteudo_ids: [conteudosEdicao026[4].id]
     },
-    { 
-      nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica", 
-      tipo: "caderno_especial", 
-      conteudo_ids: [conteudosEdicao026[5].id] 
+    {
+      nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
+      tipo: "caderno_especial",
+      conteudo_ids: [conteudosEdicao026[5].id]
     },
-    { 
-      nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas", 
-      tipo: "caderno_especial", 
-      conteudo_ids: [conteudosEdicao026[6].id] 
+    {
+      nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
+      tipo: "caderno_especial",
+      conteudo_ids: [conteudosEdicao026[6].id]
     }
   ]
 };

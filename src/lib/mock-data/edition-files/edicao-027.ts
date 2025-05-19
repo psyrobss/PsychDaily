@@ -183,22 +183,20 @@ export const conteudosEdicao027: Conteudo[] = [
   }
 ];
 
-// Removida a crônica para manter 7 artigos, conforme solicitado para esta edição.
-
 export const edicao027: Edicao = {
   edicao: "027",
   data: "2025-06-24",
   capa: {
     titulo_principal: "Felicidade, Reich, Empatia e a Força da Arte na Cura",
     subtitulo: "Nesta edição: A ciência do bem-estar, a função do orgasmo em Reich, cultivando empatia, e o poder transformador da arteterapia. Explore também os desafios dos transtornos alimentares e como estabelecer limites saudáveis.",
-    imagem_destaque: "https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGVtb3Rpb24lMjBoYXBwaW5lc3N8ZW58MHx8fHwxNzE3ODgwOTI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "https://images.unsplash.com/photo-1536047408160-e6dc1ff76a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoYXBweW5lc3N8ZW58MHx8fHwxNzQ3NjU5NDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     imageHint: "abstract emotion happiness",
-    credito_imagem: "PsychDaily Images",
+    credito_imagem: "Unsplash",
     links_manchetes: [
-      { titulo: conteudosEdicao027[0].titulo, id_conteudo: conteudosEdicao027[0].id }, // Editorial Felicidade
-      { titulo: conteudosEdicao027[1].titulo, id_conteudo: conteudosEdicao027[1].id }, // Aprofundado Reich (Premium)
-      { titulo: conteudosEdicao027[2].titulo, id_conteudo: conteudosEdicao027[2].id }, // Aprofundado Empatia
-      { titulo: conteudosEdicao027[6].titulo, id_conteudo: conteudosEdicao027[6].id }  // Técnica Arteterapia
+      { titulo: conteudosEdicao027[0].titulo, id_conteudo: conteudosEdicao027[0].id }, 
+      { titulo: conteudosEdicao027[1].titulo, id_conteudo: conteudosEdicao027[1].id }, 
+      { titulo: conteudosEdicao027[2].titulo, id_conteudo: conteudosEdicao027[2].id }, 
+      { titulo: conteudosEdicao027[6].titulo, id_conteudo: conteudosEdicao027[6].id }  
     ]
   },
   secoes: [
@@ -210,32 +208,32 @@ export const edicao027: Edicao = {
     {
       nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
-      conteudo_ids: [conteudosEdicao027[0].id] // Editorial Felicidade
+      conteudo_ids: [conteudosEdicao027[0].id] 
     },
     {
       nome_secao: "Exploração Profunda",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao027[1].id, conteudosEdicao027[2].id] // Reich (Premium), Empatia
+      conteudo_ids: [conteudosEdicao027[1].id, conteudosEdicao027[2].id] 
     },
     {
       nome_secao: "Contos da Psique",
       tipo: "narrativas",
-      conteudo_ids: [conteudosEdicao027[3].id] // Narrativa Espelhos Futuro
+      conteudo_ids: [conteudosEdicao027[3].id] 
     },
     {
       nome_secao: "Palavras da Alma",
       tipo: "colunas",
-      conteudo_ids: [conteudosEdicao027[4].id] // Coluna Limites Saudáveis
+      conteudo_ids: [conteudosEdicao027[4].id] 
     },
     {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao027[5].id] // Psicofarmaco Transtornos Alimentares
+      conteudo_ids: [conteudosEdicao027[5].id] 
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao027[6].id] // Técnica Arteterapia
+      conteudo_ids: [conteudosEdicao027[6].id] 
     }
   ]
 };

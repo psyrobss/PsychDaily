@@ -13,6 +13,8 @@ import { edicao007, conteudosEdicao007 } from '../edition-files/edicao-007';
 import { edicao008, conteudosEdicao008 } from '../edition-files/edicao-008';
 import { edicao009, conteudosEdicao009 } from '../edition-files/edicao-009';
 import { edicao010, conteudosEdicao010 } from '../edition-files/edicao-010';
+// A Edição 020 é de 13 de Junho, então ela não pertence a Maio.
+// Ela será importada no arquivo de Junho.
 
 export const edicoesMaio2025: Edicao[] = [
   edicao001,
@@ -39,3 +41,5 @@ export const conteudosMaio2025: Conteudo[] = [
   ...conteudosEdicao009,
   ...conteudosEdicao010,
 ];
+
+    

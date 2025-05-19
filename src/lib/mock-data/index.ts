@@ -5,12 +5,14 @@ import { equipeEditorial as allEquipeEditorial } from './team';
 // Importações dos dados agregados por mês
 import { edicoesMaio2025, conteudosMaio2025 } from './months/2025-05';
 import { edicoesJunho2025, conteudosJunho2025 } from './months/2025-06';
+import { edicoesJulho2025, conteudosJulho2025 } from './months/2025-07';
 // Adicione importações para outros meses aqui conforme eles são criados
 
 // Agregando todos os conteúdos
 export const conteudos: Conteudo[] = [
     ...conteudosMaio2025,
     ...conteudosJunho2025,
+    ...conteudosJulho2025,
     // Espalhe os conteúdos de outros meses aqui
 ];
 
@@ -18,6 +20,7 @@ export const conteudos: Conteudo[] = [
 export const edicoes: Edicao[] = [
     ...edicoesMaio2025,
     ...edicoesJunho2025,
+    ...edicoesJulho2025,
     // Espalhe as edições de outros meses aqui
 ];
 

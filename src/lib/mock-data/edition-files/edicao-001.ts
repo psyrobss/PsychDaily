@@ -54,7 +54,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['autoconhecimento', 'identidade', 'aceitação', 'narrativa', 'psicologia arquetípica', 'inconsciente', 'psicologia junguiana'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1595455967759-5f1356993e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaXJyb3JzfGVufDB8fHx8MTc0NzYyNzcyMHww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'surreal mirror',
   },
   {
@@ -119,12 +119,12 @@ export const conteudosEdicao001: Conteudo[] = [
         ],
       },
       { tipo: 'paragrafo', texto: 'Cada uma dessas teorias enfrenta desafios conceituais, metodológicos e empíricos significativos. A pesquisa sobre a consciência é eminentemente interdisciplinar, exigindo a colaboração entre neurocientistas, psicólogos cognitivos, filósofos da mente, físicos e especialistas em inteligência artificial. Avanços em neuroimagem, como ressonância magnética funcional (fMRI) e eletroencefalografia (EEG) de alta densidade, e em técnicas de estimulação cerebral, como estimulação magnética transcraniana (TMS), têm permitido investigar os correlatos neurais da consciência com crescente precisão. No entanto, a ponte entre a atividade neural observada e a experiência subjetiva sentida permanece um campo de intenso debate e exploração.' },
-      { tipo: "imagem", url: "https://placehold.co/500x300.png", legenda: "Representação abstrata da complexidade da atividade cerebral e das redes neurais, simbolizando a busca pela compreensão da consciência.", dataAiHint: "brain activity"},
+      { tipo: "imagem", url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080", legenda: "Representação abstrata da complexidade da atividade cerebral e das redes neurais, simbolizando a busca pela compreensão da consciência.", dataAiHint: "brain activity"},
       { tipo: 'paragrafo', texto: 'A elucidação da natureza da consciência possui implicações profundas que transcendem a academia. Ela afeta nossa compreensão da mente humana, o desenvolvimento ético de inteligência artificial geral (AGI), a prática médica (especialmente em casos de estados alterados de consciência como coma, estado vegetativo ou síndrome do encarceramento), questões sobre direitos e bem-estar dos animais e, em última análise, nossa própria concepção da realidade e do nosso lugar nela. O enigma da consciência continua a nos desafiar e a inspirar a busca por respostas, lembrando-nos da vastidão do que ainda não compreendemos sobre nós mesmos e o universo.'},
     ],
     tags: ['consciência', 'neurociência', 'filosofia da mente', 'teorias científicas', 'mente', 'cognição', 'problema difícil', 'qualia', 'IIT', 'GWT'],
-    isPremium: true, // Keeping one premium for testing paywall
-    imageUrl: 'https://placehold.co/600x400.png',
+    isPremium: true,
+    imageUrl: 'https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2xvcnN8ZW58MHx8fHwxNzQ3NjI4MjI1fDA&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'abstract brain',
   },
   {
@@ -315,3 +315,5 @@ export const edicao001: Edicao = {
     }
   ]
 };
+
+    
