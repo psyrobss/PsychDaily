@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: EdicaoPageProps) {
 // Layout types for single column presentation
 const singleColumnSectionTypes = ['colunas', 'editorial'];
 
-export default function EdicaoPage({ params }: EdicaoPageProps) {
+export default async function EdicaoPage({ params }: EdicaoPageProps) {
   const edicao = getEdicaoByNumero(params.numeroEdicao);
 
   if (!edicao) {
@@ -102,8 +102,6 @@ export default function EdicaoPage({ params }: EdicaoPageProps) {
 
       <TableOfContents secoes={secoes} className="my-8 shadow-md border-primary/10" />
 
-      {/* Removed Separator that was here, relying on TableOfContents card margin and parent space-y */}
-
       <main className="space-y-10">
         {secoes.map((secao: Secao) => {
           const conteudosDaSecao: Conteudo[] = secao.conteudo_ids
@@ -126,10 +124,10 @@ export default function EdicaoPage({ params }: EdicaoPageProps) {
             <section key={secao.nome_secao} id={secaoTitleId} aria-labelledby={secaoTitleId}>
               <h2 
                 className={cn(
-                  "text-3xl font-bold mb-6", // Default serif by global styles
+                  "text-3xl font-bold mb-6", 
                   isCadernoEspecial
-                    ? "text-primary bg-primary/5 p-4 rounded-md border-l-4 border-primary shadow" // Estilo para caderno especial
-                    : "text-primary/90 border-b-2 border-primary/15 pb-3" // Estilo padrão
+                    ? "text-primary bg-primary/5 p-4 rounded-md border-l-4 border-primary shadow" 
+                    : "text-primary/90 border-b-2 border-primary/15 pb-3" 
                 )}
               >
                 {secao.nome_secao}

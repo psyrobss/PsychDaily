@@ -13,7 +13,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Formada com louvor pela prestigiosa Universidade Fictícia de Acolhimento e Saber (UFAS), Dra. Helena possui Doutorado em Psicologia Clínica com ênfase em Psicoterapias Humanistas e Fenomenológicas, Mestrado em Psicologia Social e Comunitária, e especializações em Terapia Narrativa e Aconselhamento no Luto. Seus estudos sempre buscaram integrar o rigor acadêmico com uma sensibilidade aguçada para as questões existenciais e sociais que permeiam a condição humana.',
       'É autora de obras aclamadas como "O Coração que Ouve: Narrativas de Cura e Compaixão" e "Para Além do Diagnóstico: Encontrando o Humano no Sofrimento Psíquico", onde explora a importância de uma abordagem psicológica que seja ao mesmo tempo rigorosa e intrinsecamente humana, acessível a todos, e que reconheça a diversidade das experiências vividas como central para o entendimento da psique. Seu trabalho é um farol para uma psicologia anticolonialista e anticapacitista, que celebra a multiplicidade de vozes e saberes.'
     ],
-    imageUrl: '/images/Helena Ficticia Alcantra.jpg',
+    imageUrl: '/images/equipe/Helena Ficticia Alcantra.jpg',
     imageHint: 'thoughtful woman'
   },
   {
@@ -27,7 +27,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Com uma trajetória acadêmica exemplar no Instituto Fictício de Pesquisa da Mente (IFPM), Dr. Arthur concluiu seu Doutorado em Neuropsicologia Cognitiva e seu Mestrado em Psicometria e Avaliação Psicológica. Possui também especializações em Terapias Comportamentais de Terceira Geração e em Análise do Comportamento Aplicada (ABA), o que lhe confere uma visão ampla e integrada das abordagens comportamentais e cognitivas.',
       'É um pesquisador prolífico, com estudos publicados sobre "Mecanismos de Atenção, Memória e Funções Executivas" e "Eficácia de Intervenções Baseadas em TCC para Transtornos de Ansiedade e Humor". Seu compromisso no PsychDaily é traduzir a complexidade da ciência psicológica de forma clara, precisa e aplicável ao cotidiano, tornando o conhecimento científico uma ferramenta poderosa para a transformação social positiva e para o empoderamento individual, sempre com um olhar crítico sobre vieses e com o objetivo de promover uma ciência mais justa e inclusiva.'
     ],
-    imageUrl: '/images/Arthur Ficticio.jpg',
+    imageUrl: '/images/equipe/Arthur Ficticio.jpg',
     imageHint: 'focused man'
   },
   {
@@ -41,7 +41,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Doutora em História e Filosofia da Psicologia pela renomada Universidade Fictícia Livre de Epistemes (UFLE), onde também concluiu seu Mestrado em Estudos Culturais e Psicologia Social Crítica, a Prof. Isadora possui especializações em Psicologia Analítica Junguiana e em Abordagens Etnopsiquiátricas, o que lhe permite um diálogo rico entre diferentes tradições de pensamento.',
       'Autora de obras impactantes como "Descolonizando a Psique: Por uma Psicologia Antirracista, Antissexista e Anticolonial" e "As Vozes Silenciadas da Loucura: Uma História da Psiquiatria sob a Ótica dos Excluídos", ela promove no PsychDaily uma psicologia que reconhece sua diversidade intrínseca, sua responsabilidade social e a importância de um diálogo constante entre o passado e os desafios contemporâneos, fomentando um pensamento crítico e emancipatório.'
     ],
-    imageUrl: '/images/Isadora Ficticia.jpg',
+    imageUrl: '/images/equipe/Isadora Ficticia.jpg',
     imageHint: 'wise academic'
   },
   {
@@ -55,7 +55,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Sua formação singular reflete essa paixão interdisciplinar: Mestrado em Psicologia Clínica com especialização em Arteterapia e Terapias Expressivas pela inovadora Escola Fictícia de Artes da Psique (EFAP), onde também se aprofundou em Psicodrama. Sua graduação dupla em Psicologia e Artes Visuais forneceu a base para sua abordagem única, que integra o rigor do pensamento psicológico com a liberdade da expressão artística.',
       'Autora do inspirador "O Ateliê da Alma: Cadernos de uma Arteterapeuta" e criadora de diversos workshops sobre "Desbloqueio Criativo e Saúde Emocional", Clarice busca no PsychDaily explorar novas e engajadoras formas de comunicar a psicologia. Sua prática é inerentemente anticapacitista, buscando formatos que acolham diversas formas de aprender, sentir e interagir com o conhecimento, e seu trabalho visa desconstruir estereótipos, promover uma visão de mundo mais inclusiva e facilitar a expressão autêntica do self.'
     ],
-    imageUrl: '/images/Clarice Ficticia Arantes.jpg',
+    imageUrl: '/images/equipe/Clarice Ficticia Arantes.jpg',
     imageHint: 'creative person'
   },
   {
@@ -69,7 +69,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Formado em Psicologia, Kai possui Mestrado em Psicologia Social e Institucional pelo renomado Centro Fictício de Estudos Sociais Aplicados (CFESA), e especializações em Mediação de Conflitos e Práticas Restaurativas. Sua abordagem é interdisciplinar, dialogando com a antropologia, a sociologia e os estudos culturais para enriquecer a compreensão dos fenômenos psicossociais.',
       'Suas colunas instigantes, como "Psicologia e Cotidiano: Um Olhar Crítico" e "Vozes da Comunidade: Saberes que Curam", convidam à reflexão sobre como diferentes culturas compreendem o bem-estar e como podemos construir uma psicologia verdadeiramente plural, antirracista, antissexista e que responda de forma coerente e eficaz às necessidades de todos. Kai é um defensor de uma ciência engajada, que se coloca a serviço da transformação social e da valorização da dignidade humana em todas as suas formas.'
     ],
-    imageUrl: '/images/Kai Ficticio.jpg',
+    imageUrl: '/images/equipe/Kai Ficticio.jpg',
     imageHint: 'thoughtful storyteller'
   },
   {
@@ -83,7 +83,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Graduada em Jornalismo pela Faculdade Fictícia de Comunicação Crítica (FFCC) e com especialização em Jornalismo Científico e de Saúde, Sofia aprimorou suas habilidades investigativas em diversas redações antes de se dedicar integralmente à cobertura de temas psicológicos. Ela busca ativamente pautas que desafiem o status quo e que promovam uma compreensão mais profunda e humanizada da saúde mental.',
       'No PsychDaily, Sofia está empenhada em produzir um jornalismo psicológico que seja rigoroso, ético e socialmente responsável. Sua abordagem é conscientemente antissexista e anticapacitista, esforçando-se para dar voz a especialistas e comunidades diversas, desafiar vieses e promover uma cobertura que reflita a complexidade e a diversidade da experiência humana.'
     ],
-    imageUrl: '/images/Sofia Ficticia Almeida.jpg',
+    imageUrl: '/images/equipe/Sofia Ficticia Almeida.jpg',
     imageHint: 'dynamic journalist'
   },
   {
@@ -97,7 +97,7 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
       'Doutora em Psicofarmacologia Clínica pelo prestigioso Instituto Fictício de Neurociências e Farmacologia (IFNFar), onde também realizou seu Mestrado em Farmacologia com ênfase em Neurotransmissão, Dra. Klein possui especialização em Ética em Pesquisa e Saúde Mental. Sua sólida formação acadêmica é complementada por uma constante atualização sobre os avanços e debates na área.',
       'No PsychDaily, ela se dedica a desmistificar o uso de psicofármacos, a alertar para os perigos da automedicação e das interações medicamentosas, e a promover uma visão da saúde mental que valoriza a autonomia do paciente e a complexidade de cada caso. Seu trabalho reflete uma perspectiva anticapacitista e anticolonialista em relação à produção e disseminação do conhecimento farmacêutico, buscando empoderar os leitores com informação de qualidade para que possam tomar decisões mais conscientes sobre sua saúde.'
     ],
-    imageUrl: '/images/Sofia Ficticia Klein.jpg',
+    imageUrl: '/images/equipe/Sofia Ficticia Klein.jpg',
     imageHint: 'careful scientist'
   },
   {
@@ -106,12 +106,12 @@ export let equipeEditorial: MembroEquipeEditorial[] = [
     persona: 'Psicólogo Apaixonado',
     cargo: 'Idealizador e Psicólogo Cognitivo Chefe',
     biografia: [
-      'Dr. Robson Savoldi, o Psicólogo Apaixonado por trás do PsychDaily, é a força motriz e o coração pulsante deste projeto. Como Psicólogo Cognitivo com um entusiasmo contagiante por aprender, ensinar e pela rica intersecção entre psicologia, neurociência e tecnologia, ele idealizou o jornal com uma visão clara e poderosa: criar um espaço digital onde o conhecimento psicológico fosse não apenas cientificamente robusto e metodologicamente coerente, mas também profundamente humano, acessível e radicalmente inclusivo.',
-      'Sua trajetória pessoal e profissional como pessoa com deficiência (PcD) é uma fonte central de inspiração e o alicerce da missão intrinsecamente anticapacitista e inclusiva do PsychDaily. Dr. Savoldi acredita fervorosamente que a tecnologia, quando usada com sabedoria e ética, pode ser uma ferramenta revolucionária para democratizar o acesso à informação de qualidade, promover o autoconhecimento, desafiar narrativas excludentes e amplificar vozes e perspectivas diversas, muitas vezes marginalizadas.',
-      'Formado em Psicologia pela Universidade Fictícia de Inovação e Conhecimento (UFIC), com especialização em Psicologia Cognitivo-Comportamental e Mestrado em Neurociência Cognitiva e Comportamental, sua prática clínica e acadêmica sempre buscou integrar o rigor científico com uma aplicação prática e transformadora. Ele enxerga a psicologia não como um campo estático, mas como uma ciência viva, em constante diálogo com as demandas e complexidades do mundo contemporâneo.',
-      'No PsychDaily, Dr. Savoldi supervisiona a linha editorial com um olhar atento para garantir que cada artigo, cada insight e cada história reflita os valores fundamentais de coerência científica, antirracismo, antissexismo, justiça social e, acima de tudo, um profundo respeito pela dignidade humana. Seu objetivo é fazer do PsychDaily um farol de conhecimento compassivo, um espaço de aprendizado e reflexão que seja verdadeiramente acessível e transformador para todos, impulsionado pela sua inextinguível paixão por aprender, ensinar e conectar.'
+      'Dr. Robson Savoldi, é ainda o único humano por trás do PsychDaily, que idealizou o projeto como uma forma de comunicar sobre psicologia a partir de pré-criações feitas por IA. Como Psicólogo Cognitivo com um entusiasmo pela autoconsciência e pela rica intersecção entre psicologia, neurociência e tecnologia, ele busca criar um espaço digital onde o conhecimento psicológico seja acessível e inclusivo.',
+      'Sua trajetória como pessoa com deficiência (PcD) e enquanto pesquisador do self são uma fonte de inspiração e base da missão do PsychDaily. Dr. Savoldi acredita fervorosamente que a tecnologia, quando usada com sabedoria e ética, pode ser uma ferramenta revolucionária para democratizar o acesso à informação de qualidade, promover o autoconhecimento, desafiar narrativas excludentes e amplificar vozes e perspectivas diversas, muitas vezes marginalizadas.',
+      'Formado em Psicologia e mestre em Neurociências pela Universidade Federal de Santa Catarina, com doutorado em Psicologia Cognitiva pela Universidade Federal de Pernambuco, sua prática clínica e acadêmica sempre buscou integrar a ciência com uma aplicação prática e transformadora. Ele enxerga a psicologia não como um campo estático, mas como uma ciência viva, em constante diálogo com as demandas e complexidades do mundo contemporâneo.',
+      'No PsychDaily, Dr. Savoldi supervisiona a linha editorial para garantir que cada artigo, cada insight e cada história reflita os valores fundamentais de coerência e justiça social e, acima de tudo, um profundo respeito pela dignidade humana, imprescindíveis para o jornal. Seu objetivo é fazer do PsychDaily um dispositivo de conhecimento, um espaço de aprendizado e reflexão que seja acessível e transformador, impulsionado pela sua inextinguível paixão por aprender, ensinar e conectar.'
     ],
-    imageUrl: '/images/rob.jpg',
+    imageUrl: '/images/equipe/rob.jpg',
     imageHint: 'innovative psychologist',
     externalProfileUrl: 'https://psyrobss.github.io/Webpage/'
   },

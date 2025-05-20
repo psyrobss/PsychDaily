@@ -54,7 +54,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['memória', 'esquecimento', 'identidade', 'narrativa', 'redescoberta', 'inconsciente', 'cura emocional', 'fábula psicológica'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1571192776145-9f563c1df686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYXJkZW58ZW58MHx8fHwxNzQ3NjkyNjM5fDA&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'mystical garden',
   },
   {
@@ -72,7 +72,7 @@ export const conteudosEdicao002: Conteudo[] = [
       {
         tipo: 'lista_nao_ordenada',
         itens: [
-          { texto: 'Eixo Hipotálamo-Pituitária-Adrenal (HPA): A hiperativação contínua deste eixo neuroendócrino leva à liberação excessiva e sustentada de cortisol, o principal "hormônio do estresse". Em condições normais, o cortisol tem um ritmo circadiano (picos pela manhã, queda à noite) e ajuda a regular o metabolismo, a resposta imune e a inflamação. No estresse crônico, níveis cronicamente elevados de cortisol podem desregular o metabolismo da glicose (aumentando o risco de resistência à insulina e diabetes tipo 2), suprimir a função do sistema imunológico (tornando o corpo mais vulnerável a infecções e retardando a cicatrização), afetar negativamente a densidade óssea, prejudicar funções cognitivas como memória e aprendizado (especialmente pela ação no hipocampo, que pode sofrer atrofia) e contribuir para o acúmulo de gordura visceral (associada a maior risco cardiovascular).' },
+          { texto: 'Eixo Hipotálamo-Pituitária-Adrenal (HPA): A hiperativação contínua deste eixo neuroendócrino leva à liberação excessiva e sustentada de cortisol, o principal "hormônio do estresse". Em condições normais, o cortisol tem um ritmo circadiano (picos pela manhã, queda à noite) e ajuda a regular o metabolismo, a resposta imune e a inflamação. No estresse crônico, níveis cronicamente elevados de cortisol podem desregular o metabolismo da glicose (aumentando o risco de resistência à insulina e diabetes tipo 2), suprimir a função do sistema imunológico (tornando o corpo mais vulnerable a infecções e retardando a cicatrização), afetar negativamente a densidade óssea, prejudicar funções cognitivas como memória e aprendizado (especialmente pela ação no hipocampo, que pode sofrer atrofia) e contribuir para o acúmulo de gordura visceral (associada a maior risco cardiovascular).' },
           { texto: 'Sistema Nervoso Autônomo (SNA): O estresse crônico induz um desequilíbrio no SNA, com predominância da atividade do sistema simpático (responsável pela resposta de "luta ou fuga") em detrimento do sistema parassimpático (que promove "repouso e digestão", relaxamento e recuperação). Isso resulta em um estado de alerta fisiológico constante ("hiperatividade simpática"), manifestado por aumento da pressão arterial, da frequência cardíaca, da tensão muscular crônica, vasoconstrição periférica e maior reatividade cardiovascular a novos estressores. Esse estado de "hipervigilância" consome uma grande quantidade de energia e sobrecarrega o sistema cardiovascular.' },
           { texto: 'Inflamação Sistêmica de Baixo Grau: O estresse crônico está associado à promoção de um estado inflamatório crônico de baixo grau no corpo, mediado pela liberação de citocinas pró-inflamatórias (como IL-1, IL-6, TNF-alfa) por células imunes ativadas e pela desregulação do cortisol, que em excesso pode paradoxalmente se tornar menos eficaz em suprimir a inflamação. Essa inflamação sistêmica, embora não seja tão intensa quanto uma infecção aguda, é um fator de risco conhecido e significativo para diversas doenças crônicas, incluindo doenças cardiovasculares (aterosclerose), diabetes tipo 2, alguns tipos de câncer, depressão (a "hipótese inflamatória da depressão") e certas condições autoimunes.' },
           { texto: 'Desregulação de Neurotransmissores e Neuromoduladores: Alterações nos níveis e na função de neurotransmissores cruciais como serotonina (regulação do humor, sono, apetite), dopamina (sistema de recompensa, motivação, prazer), noradrenalina (alerta, atenção, resposta ao estresse) e GABA (principal neurotransmissor inibitório) são frequentemente observadas no estresse crônico. Essas alterações podem contribuir para o desenvolvimento de distúrbios de humor (depressão, ansiedade), anedonia (perda de prazer), problemas de sono, fadiga crônica e dificuldades de concentração e tomada de decisão. O estresse crônico também pode levar à neuroplasticidade mal-adaptativa em regiões cerebrais como a amígdala (hipertrofia, aumentando a reatividade ao medo) e o córtex pré-frontal (redução da atividade, prejudicando funções executivas).' }
@@ -96,7 +96,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['estresse crônico', 'saúde mental', 'fisiologia do estresse', 'bem-estar', 'manejo do estresse', 'psiconeuroimunologia', 'cortisol', 'doenças crônicas', 'carga alostática', 'eixo HPA'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1533537841959-705741f3d3a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaHJvbmljJTIwc3RyZXNzfGVufDB8fHx8MTc0NzY5MzkwMHww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'brain stress',
   },
   {
@@ -147,7 +147,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['TDAH', 'estimulantes', 'psicofarmacologia', 'saúde mental', 'neurodiversidade', 'produtividade', 'tratamento', 'metilfenidato'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1512069938357-89703bda53ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8cGhhcm1hY29sb2d5fGVufDB8fHx8MTc0NzY5NDgwM3ww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'brain focus',
   },
   {
@@ -171,7 +171,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['limites saudáveis', 'assertividade', 'terapia', 'autocuidado', 'codependência', 'casos clínicos', 'crônica', 'relações interpessoais'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1505489304219-85ce17010209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8c2VsZiUyMGJvcmRlcnxlbnwwfHx8fDE3NDc2OTM2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'person drawing line',
   },
   {
@@ -226,7 +226,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ["diário terapêutico", "escrita terapêutica", "autoconhecimento", "regulação emocional", "processamento emocional", "bem-estar", "saúde mental"],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3cml0aW5nfGVufDB8fHx8MTc0NzcxMDg4MHww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'journal writing person',
   },
 ];
@@ -291,3 +291,5 @@ export const edicao002: Edicao = {
   ]
 };
 
+    
+    
