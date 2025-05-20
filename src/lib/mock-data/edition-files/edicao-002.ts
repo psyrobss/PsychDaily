@@ -139,7 +139,7 @@ export const conteudosEdicao002: Conteudo[] = [
           { texto: 'Riscos e Efeitos Colaterais: Os efeitos colaterais podem incluir insônia, perda de apetite, dores de cabeça, aumento da frequência cardíaca e pressão arterial, irritabilidade e, em alguns casos, exacerbação de tiques ou ansiedade. Há também preocupações sobre o potencial de abuso ou dependência, especialmente em adolescentes e adultos jovens, e o risco de problemas cardiovasculares em indivíduos predispostos.' },
           { texto: 'Diagnóstico e Uso "Off-Label": O aumento no diagnóstico de TDAH, especialmente em adultos, levanta debates sobre a precisão diagnóstica e a possibilidade de uso "off-label" de estimulantes por pessoas sem o transtorno, buscando melhoria de performance cognitiva ("smart drugs") em ambientes acadêmicos ou profissionais altamente competitivos. Isso levanta questões éticas e de saúde pública.' },
           { texto: 'Pressão por Produtividade: Vivemos em uma sociedade que valoriza intensamente a produtividade e a alta performance. É importante questionar se a busca por medicamentos que otimizem o foco não é, em parte, uma resposta a exigências sociais e laborais excessivas, em vez de uma necessidade puramente clínica. Onde traçamos a linha entre tratar um transtorno e tentar "otimizar" o cérebro para demandas irreais?' },
-          { texto: 'Abordagem Multimodal: O tratamento mais eficaz para o TDAH geralmente envolve uma abordagem multimodal, que pode incluir, além da medicação, terapia comportamental (especialmente TCC), treinamento de habilidades organizacionais, coaching, adaptações ambientais e mudanças no estilo de vida. A medicação sozinha raramente aborda todos os aspectos do transtorno.' }
+          { texto: 'Abordagem Multimodal: O tratamento mais eficaz para o TDAH geralmente envolve uma abordagem multimodal, que pode incluir, além da medicação, terapia comportamental (especialmente TCC), treinamento de habilidades organizacionais, adaptações ambientais e mudanças no estilo de vida. A medicação sozinha raramente aborda todos os aspectos do transtorno.' }
         ]
       },
       { tipo: 'paragrafo', texto: 'A decisão de usar estimulantes para TDAH deve ser tomada após uma avaliação diagnóstica completa por um profissional qualificado, considerando o perfil individual do paciente, a gravidade dos sintomas, a presença de comorbidades e uma discussão honesta sobre os potenciais benefícios e riscos. O monitoramento regular é essencial para ajustar doses e manejar efeitos colaterais.' },
@@ -199,7 +199,7 @@ export const conteudosEdicao002: Conteudo[] = [
         ]
       },
       { tipo: 'paragrafo', texto: 'Além disso, a escrita pode melhorar a memória de trabalho, fortalecer o sistema imunológico (devido à redução do estresse) e até mesmo facilitar a comunicação interpessoal, pois ao clarear suas próprias ideias, você se torna mais capaz de expressá-las aos outros.'},
-      { tipo: 'sub_cabecalho', texto: 'Como Começar seu Diário Terapêutico: Dicas Práticas e Exemplos de Prompts' },
+      { tipo: 'sub_cabecalho', texto: 'Como Começar seu Diário Terapêutico: Dicas Práticas e Exemplos de Deixas' },
       { tipo: 'paragrafo', texto: 'Iniciar um diário não requer habilidades especiais de escrita. O mais importante é a honestidade e a regularidade. Aqui estão algumas dicas:' },
       {
         tipo: 'lista_ordenada',
@@ -207,10 +207,10 @@ export const conteudosEdicao002: Conteudo[] = [
           { texto: 'Escolha seu Formato: Pode ser um caderno físico, um documento no computador ou um aplicativo de diário. O importante é que seja um meio confortável e acessível para você. Exemplo: Muitas pessoas preferem a sensação tátil de escrever à mão, enquanto outras valorizam a praticidade do digital.' },
           { texto: 'Defina uma Frequência (Flexível): Tente escrever regularmente, mas não se pressione por uma frequência diária se isso parecer demais. Algumas vezes por semana pode ser suficiente. O importante é a consistência ao longo do tempo. Exemplo: "Vou dedicar 15 minutos nas manhãs de segunda, quarta e sexta para escrever."' },
           { texto: 'Escreva Livremente e Sem Julgamento: Este é um espaço para você. Não se preocupe com gramática, ortografia ou se o que você escreve "faz sentido". Permita-se ser autêntico. Exemplo: Se estiver com raiva, escreva com raiva. Se estiver triste, deixe as lágrimas fluírem no papel.' },
-          { texto: 'Use Prompts (Sugestões de Escrita) se Precisar de Inspiração: Às vezes, começar pode ser difícil. Prompts podem ajudar:' }
+          { texto: 'Use Deixas (Sugestões de Escrita) se Precisar de Inspiração: Às vezes, começar pode ser difícil. Deixas podem ajudar:' }
         ]
       },
-      { tipo: 'paragrafo', texto: 'Exemplos de Prompts para seu Diário:' },
+      { tipo: 'paragrafo', texto: 'Exemplos de Deixas para seu Diário:' },
       {
         tipo: 'lista_nao_ordenada',
         itens: [
