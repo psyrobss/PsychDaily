@@ -1,5 +1,5 @@
 
-import type { Conteudo, Edicao } from '../types';
+import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao004: Conteudo[] = [
   {
@@ -26,7 +26,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['comunidade', 'saúde mental', 'conexões sociais', 'pertencimento', 'bem-estar', 'editorial', 'isolamento'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1490187763999-9f273a5b7516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29tbXVuaXR5fGVufDB8fHx8MTc0Nzc1MDIzOXww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'community hands',
   },
   {
@@ -46,7 +46,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['sonhos', 'esperança', 'medo', 'coragem', 'narrativa', 'autodescoberta'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://images.unsplash.com/photo-1620312531721-fb7d039c93ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8ZHJlYW1zfGVufDB8fHx8MTc0Nzc1MTM5NHww&ixlib=rb-4.1.0&q=80&w=1080',
     imageHint: 'glowing orb hand',
   },
   {
@@ -55,7 +55,7 @@ export const conteudosEdicao004: Conteudo[] = [
     titulo: 'Palavras da Alma: A Sabedoria Intrínseca do Corpo',
     subtitulo: 'Uma reflexão sobre a importância de ouvir e respeitar os sinais e a inteligência do nosso corpo.',
     autor: 'Kai Fictício Oliveira',
-    persona_autor: 'O Tecelão de Perspectivas',
+    persona_autor: 'O Analista de Contextos',
     data_publicacao: '2025-05-22',
     corpo: [
       { tipo: 'paragrafo', texto: 'Em nossa cultura predominantemente mental, muitas vezes tratamos o corpo como um mero veículo para a mente, uma máquina a ser controlada e otimizada. Esquecemos, ou talvez nunca tenhamos aprendido, a ouvir a profunda sabedoria que reside em nossas sensações físicas, em nossos instintos e em nossos ritmos corporais.' },
@@ -176,56 +176,56 @@ export const edicao004: Edicao = {
   capa: {
     titulo_principal: "Laços Comunitários, Sonhos Redescobertos e a Sabedoria do Corpo",
     subtitulo: "Nesta edição: O poder da comunidade, a loja de sonhos perdidos, escutando o corpo e a comunicação não-violenta.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "https://images.unsplash.com/photo-1591197172062-c718f82aba20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21tdW5pdHl8ZW58MHx8fHwxNzQ3NzUwMjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     imageHint: "community connection abstract",
-    credito_imagem: "PsychDaily Images",
+    credito_imagem: "Unsplash",
     links_manchetes: [
-      { titulo: "O Poder da Comunidade para a Saúde Mental", id_conteudo: "editorial-comunidade-saude-mental-01" },
-      { titulo: "Psicologia Social e Influência: Entendendo o Comportamento em Grupo", id_conteudo: "psicologia-social-influencia-01" },
-      { titulo: "Comunicação Não-Violenta (CNV): Expressando-se com Empatia", id_conteudo: "tecnica-cnv-01"},
-      { titulo: "Medicalização da Infância: TDAH e Comportamento", id_conteudo: "psicofarmaco-medicalizacao-infancia-01" }
+      { titulo: conteudosEdicao004[0].titulo, id_conteudo: conteudosEdicao004[0].id },
+      { titulo: conteudosEdicao004[3].titulo, id_conteudo: conteudosEdicao004[3].id },
+      { titulo: conteudosEdicao004[6].titulo, id_conteudo: conteudosEdicao004[6].id },
+      { titulo: conteudosEdicao004[4].titulo, id_conteudo: conteudosEdicao004[4].id }
     ]
   },
   secoes: [
     {
       nome_secao: "Destaques da Edição",
       tipo: "capa",
-      conteudo_ids: ["editorial-comunidade-saude-mental-01", "psicologia-social-influencia-01", "tecnica-cnv-01", "psicofarmaco-medicalizacao-infancia-01", "ficcao-loja-sonhos-perdidos-01", "cronica-medos-carlos-01"]
+      conteudo_ids: [conteudosEdicao004[0].id, conteudosEdicao004[3].id, conteudosEdicao004[6].id, conteudosEdicao004[4].id, conteudosEdicao004[1].id, conteudosEdicao004[5].id]
     },
     {
       nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
-      conteudo_ids: ["editorial-comunidade-saude-mental-01"]
+      conteudo_ids: [conteudosEdicao004[0].id]
     },
     {
       nome_secao: "Contos da Psique",
       tipo: "narrativas",
-      conteudo_ids: ["ficcao-loja-sonhos-perdidos-01"]
+      conteudo_ids: [conteudosEdicao004[1].id]
     },
     {
       nome_secao: "Palavras da Alma",
       tipo: "colunas",
-      conteudo_ids: ["coluna-sabedoria-corpo-01"]
+      conteudo_ids: [conteudosEdicao004[2].id]
     },
     {
       nome_secao: "Exploração Profunda",
       tipo: "caderno_especial",
-      conteudo_ids: ["psicologia-social-influencia-01"]
+      conteudo_ids: [conteudosEdicao004[3].id]
     },
     {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
-      conteudo_ids: ["psicofarmaco-medicalizacao-infancia-01"]
+      conteudo_ids: [conteudosEdicao004[4].id]
     },
     {
       nome_secao: "Do Consultório: Relatos e Reflexões",
       tipo: "narrativas",
-      conteudo_ids: ["cronica-medos-carlos-01"]
+      conteudo_ids: [conteudosEdicao004[5].id]
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
       tipo: "caderno_especial",
-      conteudo_ids: ["tecnica-cnv-01"]
+      conteudo_ids: [conteudosEdicao004[6].id]
     }
   ]
 };
