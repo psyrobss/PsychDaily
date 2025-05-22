@@ -68,34 +68,67 @@ export const conteudosEdicao004: Conteudo[] = [
     imageUrl: 'https://placehold.co/600x300.png',
     imageHint: 'body silhouette nature',
   },
-  {
-    id: 'psicologia-social-influencia-01',
-    tipo: 'artigo_aprofundado',
-    titulo: 'Psicologia Social e Influência: Entendendo o Comportamento em Grupo e a Tomada de Decisão Coletiva',
-    subtitulo: 'Uma exploração dos principais conceitos da psicologia social, como conformidade, obediência, e o poder das normas sociais na modelagem do comportamento individual e coletivo.',
-    autor: 'Prof. Dra. Isadora Fictícia Valente',
-    persona_autor: 'Prof. Historiadora',
-    data_publicacao: '2025-05-22',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'A psicologia social é o campo que investiga como os pensamentos, sentimentos e comportamentos dos indivíduos são influenciados pela presença real, imaginada ou implícita de outras pessoas. Desde os estudos clássicos de Solomon Asch sobre conformidade até as controversas experiências de Stanley Milgram sobre obediência à autoridade, este campo oferece insights cruciais sobre a dinâmica de grupo, a formação de atitudes e o poder das situações sociais.' },
-      { tipo: 'paragrafo', texto: 'Entender esses mecanismos é fundamental não apenas para a academia, mas para a compreensão de fenômenos sociais complexos, como a polarização, o preconceito, a cooperação e o altruísmo. A influência social permeia todas as esferas da vida, desde decisões de consumo até escolhas políticas e comportamentos de saúde.' },
-      { tipo: 'sub_cabecalho', texto: 'Conceitos Chave em Influência Social:' },
-      { tipo: 'lista_ordenada', itens: [
-          { texto: 'Conformidade: Mudança de comportamento ou crenças para se alinhar com os de um grupo, mesmo sem uma ordem direta. Pode ser motivada pelo desejo de estar correto (influência informacional) ou de ser aceito (influência normativa).' },
-          { texto: 'Obediência à Autoridade: Comportamento em resposta a ordens diretas de uma figura percebida como autoridade. Os estudos de Milgram demonstraram a surpreendente capacidade das pessoas de infligir dor a outros sob ordens de uma autoridade.' },
-          { texto: 'Normas Sociais: Regras implícitas ou explícitas que um grupo estabelece para comportamentos, valores e crenças aceitáveis. Elas guiam nosso comportamento em diversas situações sociais.' },
-          { texto: 'Pensamento de Grupo (Groupthink): Fenômeno onde o desejo de coesão e unanimidade em um grupo de tomada de decisão pode suplantar uma avaliação realista de cursos de ação alternativos, levando a decisões ruins.' },
-          { texto: 'Difusão de Responsabilidade e Efeito Espectador: Quanto maior o número de espectadores em uma emergência, menor a probabilidade de um indivíduo ajudar, pois a responsabilidade é percebida como diluída entre todos.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'A conscientização sobre esses processos de influência social pode nos tornar mais críticos em relação às nossas próprias decisões e comportamentos, e mais capazes de resistir a pressões sociais negativas. Também nos ajuda a entender como promover mudanças sociais positivas, utilizando o poder da influência social para o bem comum, incentivando a cooperação e o comportamento pró-social.' },
-      { tipo: 'citacao', texto: 'Nenhum homem é uma ilha isolada; cada homem é uma partícula do continente, uma parte da terra firme.', autor_citado: 'John Donne (Adaptado)' }
-    ],
-    tags: ['psicologia social', 'influência social', 'conformidade', 'obediência', 'normas sociais', 'comportamento de grupo'],
-    isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1617699746668-3642fd0658a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5pZmVzdGF0aW9ufGVufDB8fHx8MTc0NzkwNjY5OXww&ixlib=rb-4.1.0&q=80&w=1080',
-    imageHint: 'group people interaction',
-  },
+{
+  id: 'psicologia-social-influencia-01',
+
+  tipo: 'artigo_aprofundado',
+
+  titulo: 'Psicologia Social e Influência: Entendendo o Comportamento em Grupo e a Tomada de Decisão Coletiva',
+
+  subtitulo: 'Uma exploração dos principais conceitos da psicologia social, como conformidade, obediência, e o poder das normas sociais na modelagem do comportamento individual e coletivo.',
+
+  autor: 'Prof. Dra. Isadora Fictícia Valente',
+
+  persona_autor: 'Prof. Historiadora',
+
+  data_publicacao: '2025-05-22',
+
+  corpo: [
+
+    { tipo: 'paragrafo', texto: 'A psicologia social é o campo que investiga como os pensamentos, sentimentos e comportamentos dos indivíduos são influenciados pela presença real, imaginada ou implícita de outras pessoas. Desde os estudos clássicos de Solomon Asch sobre conformidade até as controversas experiências de Stanley Milgram sobre obediência à autoridade, este campo oferece insights cruciais sobre a dinâmica de grupo, a formação de atitudes e o poder das situações sociais.' },
+
+    { tipo: 'paragrafo', texto: 'Estes estudos nos revelam como até mesmo pessoas bem-intencionadas podem agir de maneira contrária aos seus valores em contextos sociais específicos. A influência social, quando combinada com estruturas de poder ou com pressões grupais, pode desencadear comportamentos inesperados — tanto positivos quanto destrutivos.' },
+
+    { tipo: 'paragrafo', texto: 'Entender esses mecanismos é fundamental não apenas para a academia, mas para a compreensão de fenômenos sociais complexos, como a polarização, o preconceito, a cooperação e o altruísmo. A influência social permeia todas as esferas da vida, desde decisões de consumo até escolhas políticas e comportamentos de saúde.' },
+
+    { tipo: 'paragrafo', texto: 'A psicologia social, ao desvelar essas dinâmicas invisíveis, também nos permite refletir criticamente sobre o papel dos grupos sociais, das mídias e das instituições na sustentação — ou contestação — de normas e valores. Em um mundo cada vez mais interconectado, torna-se vital reconhecer os fatores que moldam nossas decisões e reações coletivas.' },
+
+    { tipo: 'sub_cabecalho', texto: 'Conceitos Chave em Influência Social:' },
+
+    { tipo: 'lista_ordenada', itens: [
+
+        { texto: 'Conformidade: Mudança de comportamento ou crenças para se alinhar com os de um grupo, mesmo sem uma ordem direta. Pode ser motivada pelo desejo de estar correto (influência informacional) ou de ser aceito (influência normativa). A pesquisa de Asch revelou como indivíduos podem renunciar ao julgamento próprio diante da maioria, ainda que a resposta do grupo seja evidentemente errada.' },
+
+        { texto: 'Obediência à Autoridade: Comportamento em resposta a ordens diretas de uma figura percebida como autoridade. Os estudos de Milgram demonstraram a surpreendente capacidade das pessoas de infligir dor a outros sob ordens de uma autoridade, questionando os limites da responsabilidade moral sob hierarquias.' },
+
+        { texto: 'Normas Sociais: Regras implícitas ou explícitas que um grupo estabelece para comportamentos, valores e crenças aceitáveis. Elas guiam nosso comportamento em diversas situações sociais, como por exemplo, o modo como nos vestimos, nos expressamos e reagimos diante de infrações morais ou jurídicas.' },
+
+        { texto: 'Pensamento de Grupo (Groupthink): Fenômeno onde o desejo de coesão e unanimidade em um grupo de tomada de decisão pode suplantar uma avaliação realista de cursos de ação alternativos, levando a decisões ruins. Este processo já foi identificado em contextos corporativos, políticos e militares, onde o medo da dissonância interna compromete a racionalidade coletiva.' },
+
+        { texto: 'Difusão de Responsabilidade e Efeito Espectador: Quanto maior o número de espectadores em uma emergência, menor a probabilidade de um indivíduo ajudar, pois a responsabilidade é percebida como diluída entre todos. O caso da morte de Kitty Genovese, em Nova York, tornou-se símbolo desse fenômeno e inspirou debates éticos sobre o papel da intervenção pública.' }
+
+      ]
+    },
+
+    { tipo: 'paragrafo', texto: 'Além desses conceitos centrais, a psicologia social investiga também como os estigmas, estereótipos e expectativas culturais influenciam o comportamento de grupos minoritários, afetando oportunidades, autoestima e até mesmo desempenho em tarefas cognitivas. A chamada “ameaça do estereótipo”, por exemplo, ilustra como o medo de confirmar uma imagem negativa pode impactar a performance de indivíduos pertencentes a grupos marginalizados.' },
+
+    { tipo: 'paragrafo', texto: 'Outro campo relevante é o estudo das normas de reciprocidade e da influência de pares na promoção de comportamentos prosociais. Em ambientes educacionais e organizacionais, compreender os mecanismos de influência social positiva pode ser uma ferramenta poderosa para o fortalecimento de vínculos colaborativos, empatia e engajamento coletivo.' },
+
+    { tipo: 'paragrafo', texto: 'A conscientização sobre esses processos de influência social pode nos tornar mais críticos em relação às nossas próprias decisões e comportamentos, e mais capazes de resistir a pressões sociais negativas. Também nos ajuda a entender como promover mudanças sociais positivas, utilizando o poder da influência social para o bem comum, incentivando a cooperação e o comportamento pró-social.' },
+
+    { tipo: 'paragrafo', texto: 'Por fim, reconhecer os limites e potenciais da influência social é um passo essencial para fortalecer a autonomia moral, a responsabilidade coletiva e a resiliência diante de contextos de manipulação, seja por meios institucionais, ideológicos ou tecnológicos. A psicologia social nos convida, assim, a enxergar o comportamento humano como um fenômeno profundamente interdependente, onde o individual e o coletivo se entrelaçam em camadas invisíveis de influência.' }
+
+  ],
+
+  tags: ['psicologia social', 'influência social', 'conformidade', 'obediência', 'normas sociais', 'comportamento de grupo'],
+
+  isPremium: false,
+
+  imageUrl: 'https://images.unsplash.com/photo-1617699746668-3642fd0658a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5pZmVzdGF0aW9ufGVufDB8fHx8MTc0NzkwNjY5OXww&ixlib=rb-4.1.0&q=80&w=1080',
+
+  imageHint: 'group people interaction',
+},
+
   {
     id: 'psicofarmaco-medicalizacao-infancia-01',
     tipo: 'artigo_aprofundado',
