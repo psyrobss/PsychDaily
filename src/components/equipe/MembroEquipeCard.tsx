@@ -3,7 +3,7 @@ import type { MembroEquipeEditorial } from '@/lib/types';
 import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import Link from 'next/link'; // Import Link from Next.js
-import { Edit3, ExternalLink } from 'lucide-react'; 
+import { Edit3 } from 'lucide-react'; 
 
 interface MembroEquipeCardProps {
   membro: MembroEquipeEditorial;
@@ -34,8 +34,8 @@ export default function MembroEquipeCard({ membro }: MembroEquipeCardProps) {
       </CardHeader>
       <CardContent className="flex-grow pt-0 pb-4">
         {/* Show only the first paragraph of the bio on the team page card */}
-        {membro.biografia.length > 0 && (
-          <p className="text-sm text-foreground/80 leading-relaxed line-clamp-3 font-serif">
+        {membro.biografia && membro.biografia.length > 0 && (
+          <p className="text-sm text-foreground/80 leading-relaxed font-serif">
             {membro.biografia[0]}
           </p>
         )}
