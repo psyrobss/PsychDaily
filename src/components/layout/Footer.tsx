@@ -22,7 +22,7 @@ export default function Footer() {
   const footerRef = useRef<HTMLDivElement | null>(null);
   const pathname = usePathname(); // Get current pathname
 
-  const displayDonationCardPaths = ['/sobre', '/equipe'];
+  const displayDonationCardPaths = ['/sobre', '/equipe', '/assine'];
   const shouldDisplayDonationCard = displayDonationCardPaths.includes(pathname);
 
   useEffect(() => {
