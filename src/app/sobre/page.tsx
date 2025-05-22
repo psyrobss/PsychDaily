@@ -66,7 +66,7 @@ export default function SobrePage() {
               <p className="text-foreground/80 leading-relaxed font-sans text-base mb-3">
                 Para dar vida inicial ao PsychDaily e explorar as fronteiras da criação de conteúdo, algumas de nossas personas editoriais e uma parte dos artigos iniciais foram concebidos com o auxílio de Inteligência Artificial. Este processo é conduzido com total responsabilidade e sob curadoria humana, buscando sempre alinhar cada texto aos princípios éticos e científicos da psicologia que defendemos.
                 <br />
-                Como o Dr. Savoldi é muito pouco criativo, ele não cria nada dos conteúdos aqui. mas ele organiza e faz a curadoria dos textos, sempre com o olhar crítico e atento às nuances da psicologia. A IA é uma ferramenta que nos ajuda a explorar novas possibilidades, mas nunca substitui a voz humana e a experiência vivida.
+                Como o Dr. Savoldi é muito pouco criativo, ele não cria nada dos conteúdos aqui. Mas ele organiza e faz a curadoria dos textos, sempre com o olhar crítico e atento às nuances da psicologia. A IA é uma ferramenta que nos ajuda a explorar novas possibilidades, mas nunca substitui a voz humana e a experiência vivida.
                 <br />
                 A ideia é, ironicamente, ir substituindo textos artificiais por escritos humanos, à medida que nossa equipe editorial cresce e se diversifica. Assim, o PsychDaily se torna um espaço onde a tecnologia e a humanidade coexistem,  mas sempre com o compromisso de priorizar a voz humana e a experiência vivida.
                 <br />
