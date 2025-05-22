@@ -129,33 +129,74 @@ export const conteudosEdicao004: Conteudo[] = [
   imageHint: 'group people interaction',
 },
 
-  {
-    id: 'psicofarmaco-medicalizacao-infancia-01',
-    tipo: 'artigo_aprofundado',
-    titulo: 'Medicalização da Infância: TDAH, Comportamento e o Uso Crescente de Psicofármacos',
-    subtitulo: 'Uma discussão crítica sobre o aumento do diagnóstico de TDAH e outros transtornos na infância e o uso de medicamentos, ponderando benefícios, riscos e o contexto sociocultural.',
-    autor: 'Dra. Sofia Fictícia Klein',
-    persona_autor: 'A Farmacologista Cautelosa',
-    data_publicacao: '2025-05-22',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'Nas últimas décadas, observou-se um aumento significativo no diagnóstico de Transtorno de Déficit de Atenção e Hiperatividade (TDAH) e outros transtornos comportamentais e de humor em crianças e adolescentes, acompanhado por um crescimento no uso de psicofármacos, como estimulantes e antidepressivos, nesta população. Este fenômeno, conhecido como medicalização da infância, levanta debates importantes entre profissionais de saúde, educadores e pais.' },
-      { tipo: 'paragrafo', texto: 'Por um lado, o diagnóstico e tratamento adequados podem trazer alívio significativo para crianças que sofrem com sintomas incapacitantes, melhorando seu desempenho escolar, relações sociais e qualidade de vida. Por outro lado, há preocupações sobre a possibilidade de superdiagnóstico, a pressão por "normalizar" comportamentos que podem ser variações do desenvolvimento ou respostas a ambientes inadequados, e os efeitos a longo prazo de medicamentos psicotrópicos em cérebros em desenvolvimento.' },
-      { tipo: 'sub_cabecalho', texto: 'Pontos para Reflexão Crítica:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Critérios Diagnósticos: A subjetividade e a sobreposição de sintomas em alguns critérios diagnósticos podem levar a interpretações variadas.' },
-          { texto: 'Influências Socioculturais: Expectativas escolares, pressão por desempenho, falta de espaços para brincar livremente e mudanças na dinâmica familiar podem influenciar o comportamento infantil e a percepção dos adultos.' },
-          { texto: 'Efeitos dos Medicamentos: Embora eficazes para muitos, os psicofármacos podem ter efeitos colaterais e seu impacto no desenvolvimento cerebral a longo prazo ainda é objeto de estudo.' },
-          { texto: 'Alternativas e Abordagens Integradas: Terapias comportamentais, intervenções psicossociais, apoio familiar e adaptações no ambiente escolar são componentes cruciais do tratamento e, em muitos casos, podem ser suficientes ou reduzir a necessidade de medicação.' },
-          { texto: 'O Papel da Indústria Farmacêutica: A promoção de medicamentos pode influenciar as taxas de prescrição.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'É fundamental uma abordagem cautelosa e individualizada ao considerar o diagnóstico e o tratamento de transtornos na infância. Uma avaliação multidisciplinar completa, que envolva a criança, a família e a escola, é essencial. A decisão pelo uso de medicamentos deve ser tomada após uma análise cuidadosa dos benefícios e riscos, priorizando sempre o bem-estar integral da criança e explorando todas as alternativas terapêuticas disponíveis.'}
-    ],
-    tags: ['medicalização', 'infância', 'TDAH', 'psicofármacos', 'saúde mental infantil', 'diagnóstico', 'tratamento'],
-    isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2luZXxlbnwwfHx8fDE3NDc5MDY4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080',
-    imageHint: 'child thinking classroom',
-  },
+{
+  id: "psicofarmaco-medicalizacao-infancia-01",
+  tipo: "artigo_aprofundado",
+  titulo: "Medicalização da Infância: TDAH, Comportamento e o Uso Crescente de Psicofármacos",
+  subtitulo: "Uma discussão crítica sobre o aumento do diagnóstico de TDAH e outros transtornos na infância e o uso de medicamentos, ponderando benefícios, riscos e o contexto sociocultural.",
+  autor: "Dra. Sofia Fictícia Klein",
+  persona_autor: "A Farmacologista Cautelosa",
+  data_publicacao: "2025-05-22",
+  corpo: [
+    {
+      tipo: "paragrafo",
+      texto: "Nas últimas décadas, observou-se um aumento significativo no diagnóstico de Transtorno de Déficit de Atenção e Hiperatividade (TDAH), bem como de outros transtornos comportamentais e de humor em crianças e adolescentes. Esse crescimento veio acompanhado de um uso cada vez mais frequente de psicofármacos, especialmente estimulantes e antidepressivos, prescritos em idades cada vez mais precoces. O fenômeno é amplamente discutido sob o termo 'medicalização da infância', suscitando preocupações éticas, clínicas e sociais."
+    },
+    {
+      tipo: "paragrafo",
+      texto: "Por um lado, é inegável que, para muitas crianças, o diagnóstico correto e o uso adequado de medicamentos podem representar um alívio real de sintomas incapacitantes, contribuindo para uma melhora significativa na concentração, no comportamento e na qualidade de vida. Contudo, também é necessário considerar que a fronteira entre sofrimento psíquico e variações normativas do desenvolvimento é, por vezes, tênue. A pressão por desempenho, o modelo escolar padronizado e a intolerância ao comportamento disruptivo podem levar à rotulação precoce de comportamentos infantis como patológicos."
+    },
+    {
+      tipo: "paragrafo",
+      texto: "Além disso, o contexto sociocultural exerce um papel fundamental na construção do que é considerado comportamento 'adequado'. Em sociedades altamente competitivas, há menos tolerância ao erro, à lentidão e à inquietude — características comuns na infância, mas cada vez mais patologizadas. Crianças que não se encaixam nos moldes de atenção sustentada e obediência prolongada podem ser rapidamente encaminhadas para avaliação médica, frequentemente resultando em prescrições farmacológicas antes mesmo de se considerar outras abordagens."
+    },
+    {
+      tipo: "sub_cabecalho",
+      texto: "Pontos para Reflexão Crítica:"
+    },
+    {
+      tipo: "lista_nao_ordenada",
+      itens: [
+        {
+          texto: "Critérios Diagnósticos: A subjetividade envolvida em alguns critérios para TDAH e outros transtornos comportamentais pode levar a diagnósticos inconsistentes entre profissionais e a uma medicalização baseada mais em expectativas sociais do que em evidências clínicas robustas."
+        },
+        {
+          texto: "Influências Socioculturais: A pressão escolar, a redução do tempo livre, a superexposição a telas, a insegurança alimentar ou emocional, e a falta de espaços adequados para brincar e explorar são fatores que influenciam profundamente o comportamento infantil, podendo ser confundidos com transtornos clínicos."
+        },
+        {
+          texto: "Efeitos dos Medicamentos: Os psicofármacos podem ser eficazes em curto prazo, mas os efeitos adversos, como perda de apetite, insônia, irritabilidade, e os impactos a longo prazo no desenvolvimento cerebral, ainda não são plenamente compreendidos. É preciso ponderar riscos e benefícios em cada caso."
+        },
+        {
+          texto: "Alternativas e Abordagens Integradas: Intervenções psicoeducacionais, apoio psicoterapêutico, orientação familiar, adaptações pedagógicas e maior escuta ativa às necessidades emocionais das crianças são fundamentais. Essas abordagens podem ser mais eficazes e menos invasivas do que a farmacoterapia isolada."
+        },
+        {
+          texto: "O Papel da Indústria Farmacêutica: A influência da indústria no processo de prescrição não deve ser subestimada. A promoção ativa de medicamentos pode contribuir para um aumento nas prescrições, moldando a percepção pública e profissional sobre o que é 'tratável'."
+        }
+      ]
+    },
+    {
+      tipo: "paragrafo",
+      texto: "Uma abordagem cuidadosa, empática e individualizada é essencial ao lidar com o sofrimento psíquico na infância. Diagnóstico não deve ser sinônimo de sentença medicamentosa. O olhar deve ser ampliado para considerar os contextos familiares, escolares e sociais que moldam o comportamento. Uma criança não é apenas um conjunto de sintomas: ela é um ser em formação, em constante transformação."
+    },
+    {
+      tipo: "paragrafo",
+      texto: "O uso de medicamentos, quando necessário, deve ser monitorado de perto e integrado a um plano terapêutico abrangente. A decisão por prescrever psicofármacos exige responsabilidade ética, formação técnica e compromisso com o bem-estar integral da criança — não apenas com a adequação ao sistema. Devemos, portanto, evitar respostas simplistas a questões complexas e buscar soluções que respeitem a singularidade de cada infância."
+    }
+  ],
+  tags: [
+    "medicalização",
+    "infância",
+    "TDAH",
+    "psicofármacos",
+    "saúde mental infantil",
+    "diagnóstico",
+    "tratamento"
+  ],
+  isPremium: true,
+  imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2luZXxlbnwwfHx8fDE3NDc5MDY4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+  imageHint: "child thinking classroom"
+},
+
   {
     id: 'cronica-medos-carlos-01',
     tipo: 'narrativa_ficticia',
