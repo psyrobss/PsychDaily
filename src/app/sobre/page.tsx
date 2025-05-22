@@ -64,7 +64,7 @@ export default function SobrePage() {
             <div>
               <h3 className="text-xl font-semibold text-accent-foreground mb-2">Transparência e Ética com IA</h3>
               <p className="text-foreground/80 leading-relaxed font-sans text-base mb-3">
-                Para dar vida inicial ao PsychDaily e explorar as fronteiras da criação de conteúdo, algumas de nossas personas editoriais e uma parte dos artigos iniciais foram concebidos com o auxílio de Inteligência Artificial. Este processo é conduzido com total responsabilidade e sob curadoria humana, buscando sempre alinhar cada texto aos princípios éticos e científicos da psicologia que defendemos.
+                Para dar vida inicial ao PsychDaily e explorar as fronteiras da criação de conteúdo,  nossas personas editoriais e os artigos iniciais foram concebidos com o auxílio de Inteligência Artificial. Este processo é conduzido com total responsabilidade e sob curadoria humana, buscando sempre alinhar cada texto aos princípios éticos e científicos da psicologia que defendemos.
                 <br />
                 Como o Dr. Savoldi é muito pouco criativo, ele não cria nada dos conteúdos aqui. Mas ele organiza e faz a curadoria dos textos, sempre com o olhar crítico e atento às nuances da psicologia. A IA é uma ferramenta que nos ajuda a explorar novas possibilidades, mas nunca substitui a voz humana e a experiência vivida.
                 <br />
