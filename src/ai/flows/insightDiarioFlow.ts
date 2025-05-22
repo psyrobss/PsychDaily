@@ -30,7 +30,7 @@ const insightDiarioPrompt = ai.definePrompt({
 Gere um insight psicológico curto (1-2 frases), positivo e inspirador para o dia.
 O insight deve ser original e encorajar a introspecção ou uma pequena ação positiva.
 Evite clichês e foque em uma linguagem acessível e empática.
-Tema: Psicologia do cotidiano, bem-estar emocional, autoconhecimento ou resiliência.
+Tema: Psicologia cognitiva, TCC, psicologia do cotidiano, bem-estar emocional, autoconhecimento ou resiliência.
 Exemplo de tom: "Lembre-se que cada pequeno passo em direção ao autocuidado é uma grande vitória para sua mente."
 `,
   config: { // Configuração de segurança para este prompt específico
