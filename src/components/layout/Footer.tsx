@@ -6,6 +6,7 @@ import PixDonationCard from '../PixDonationCard';
 import { Separator } from '../ui/separator';
 import Link from 'next/link';
 import { BookOpen, Home, Info, Search, Users } from 'lucide-react';
+import { usePathname } from 'next/navigation'; // Import usePathname
 
 const footerNavItems = [
   { href: '/', label: 'Início', icon: Home },
@@ -17,19 +18,25 @@ const footerNavItems = [
 
 export default function Footer() {
   const [currentYear, setCurrentYear] = useState<number | null>(null);
-  const [showPixCard, setShowPixCard] = useState(false);
+  const [showPixCardState, setShowPixCardState] = useState(false); // Renamed to avoid conflict if PixDonationCard also uses a showPixCard
   const footerRef = useRef<HTMLDivElement | null>(null);
+  const pathname = usePathname(); // Get current pathname
+
+  const displayDonationCardPaths = ['/sobre', '/equipe'];
+  const shouldDisplayDonationCard = displayDonationCardPaths.includes(pathname);
 
   useEffect(() => {
     setCurrentYear(new Date().getFullYear());
   }, []);
 
   useEffect(() => {
+    if (!shouldDisplayDonationCard) return; // Only run observer if card should be displayed
+
     const observer = new IntersectionObserver(
       (entries) => {
         const [entry] = entries;
         if (entry.isIntersecting) {
-          setShowPixCard(true);
+          setShowPixCardState(true);
           observer.unobserve(entry.target); // Stop observing once visible
         }
       },
@@ -39,28 +46,35 @@ export default function Footer() {
       }
     );
 
-    if (footerRef.current) {
-      observer.observe(footerRef.current);
+    const currentFooterRef = footerRef.current;
+    if (currentFooterRef) {
+      observer.observe(currentFooterRef);
     }
 
     return () => {
-      if (footerRef.current) {
-        // eslint-disable-next-line react-hooks/exhaustive-deps
-        observer.unobserve(footerRef.current);
+      if (currentFooterRef) {
+        observer.unobserve(currentFooterRef);
       }
     };
-  }, []);
+  }, [shouldDisplayDonationCard]); // Re-run if shouldDisplayDonationCard changes (though it won't after initial load for a given page)
 
   return (
     <footer ref={footerRef} className="bg-muted/50 text-muted-foreground py-8 mt-12 font-sans">
       <div className="container mx-auto px-4 space-y-8">
-        <div className="flex flex-col md:flex-row justify-center items-center md:items-start gap-8 min-h-[280px] md:min-h-[300px]">
-          {showPixCard && (
-            <div className="w-full md:w-auto animate-in fade-in-50 slide-in-from-bottom-10 duration-700">
-              <PixDonationCard />
-            </div>
-          )}
-        </div>
+        {shouldDisplayDonationCard && (
+          <div className="flex flex-col md:flex-row justify-center items-center md:items-start gap-8 min-h-[280px] md:min-h-[300px]">
+            {showPixCardState && (
+              <div className="w-full md:w-auto animate-in fade-in-50 slide-in-from-bottom-10 duration-700">
+                <PixDonationCard />
+              </div>
+            )}
+            {/* If showPixCardState is false, this div will still take up space unless we conditionally render it too, 
+                or ensure its parent min-height is only applied when shouldDisplayDonationCard is true.
+                For simplicity, keeping min-height, it will just be empty space if not on /sobre or /equipe and card not yet visible.
+                Alternatively, conditionally render the whole donation section:
+            */}
+          </div>
+        )}
         
         <Separator className="border-primary/20" />
 
