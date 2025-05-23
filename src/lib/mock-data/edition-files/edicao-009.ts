@@ -1,5 +1,5 @@
 
-import type { Conteudo, Edicao } from '../types';
+import type { Conteudo, Edicao } from '../../types';
 
 // Existing mandatory article
 const pobrezaDepressaoSocial009: Conteudo = {

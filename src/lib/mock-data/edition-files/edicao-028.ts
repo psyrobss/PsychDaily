@@ -1,5 +1,5 @@
 
-import type { Conteudo, Edicao } from '../types';
+import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao028: Conteudo[] = [
   {

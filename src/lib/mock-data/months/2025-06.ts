@@ -1,5 +1,5 @@
 
-import type { Conteudo, Edicao } from '../types';
+import type { Conteudo, Edicao } from '../../types';
 
 // Importações das edições de Junho de 2025
 import { edicao011, conteudosEdicao011 } from '../edition-files/edicao-011';

@@ -33,9 +33,14 @@ export interface CorpoSubCabecalho {
 
 export interface CorpoListaItem {
   texto: string;
+  imagem?: string;  // Optional image for list items
+  legenda?: string; // Optional caption for list item images
+  imageHint?: string; // Hint for AI image generation if placeholders are used
+  subLista?: CorpoLista;  // Optional sub-list for nested lists
+  subListaTipo?: 'lista_ordenada' | 'lista_nao_ordenada'; // Type of the sub-list
 }
 export interface CorpoLista {
-  tipo: 'lista_nao_ordenada' | 'lista_ordenada';
+  tipo: 'lista_nao_ordenada' | 'lista_ordenada'|'lista_com_imagem'| 'legenda_imagem' ;
   itens: CorpoListaItem[];
 }
 
