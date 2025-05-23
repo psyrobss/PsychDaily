@@ -1,4 +1,3 @@
-
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao015: Conteudo[] = [
@@ -28,8 +27,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['saúde mental no trabalho', 'burnout', 'estresse ocupacional', 'cultura organizacional', 'bem-estar', 'editorial'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'office wellbeing plants'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i01.png',
+    imageHint: 'A bright, calm office environment with elements of nature like thriving plants, showing people collaborating peacefully or focusing on work without visible stress. Soft lighting, open spaces, conveying a sense of well-being and balance in the workplace.'
   },
   {
     id: 'narrativa-015-o-jardim-das-desculpas',
@@ -48,8 +47,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['perdão', 'arrependimento', 'reconciliação', 'cura emocional', 'narrativa', 'autocompaixão'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'secret garden flowers'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i02.png',
+    imageHint: 'A magical, hidden garden filled with unique, symbolic flowers representing unspoken apologies, unresolved hurts, and forgiveness. Some flowers might appear wilted or thorny, while others are bright and resilient. Show subtle glowing effects or ethereal mist to emphasize the magical nature. Focus on the beauty found even in painful experiences.'
   },
   {
     id: 'coluna-015-limites-digitais',
@@ -66,8 +65,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['limites digitais', 'bem-estar digital', 'tecnologia', 'saúde mental', 'mindfulness', 'coluna', 'desconexão'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
-    imageHint: 'person phone nature'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i03.png',
+    imageHint: 'A person intentionally setting down or distancing themselves from a smartphone or laptop in a peaceful natural setting (park, garden, beach), symbolizing disconnecting and establishing healthy boundaries with technology. Soft, calm lighting.'
   },
   {
     id: 'aprofundado-015-apego-relacionamentos',
@@ -93,8 +92,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['teoria do apego', 'John Bowlby', 'Mary Ainsworth', 'relacionamentos', 'desenvolvimento infantil', 'psicologia do desenvolvimento', 'apego seguro', 'apego ansioso', 'apego evitativo'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'mother child bond'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i04.png',
+    imageHint: 'A tender and secure visual depiction of a primary caregiver (e.g., parent figure) and a young child (infant or toddler) forming a strong, loving bond. Focus on proximity, comfort, and responsiveness. Could show gentle touch or eye contact. Soft lighting, warm colors, evoking safety and connection.'
   },
   {
     id: 'psicofarmaco-015-tdah-adulto',
@@ -130,8 +129,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['TDAH em adultos', 'diagnóstico tardio', 'tratamento multimodal', 'estimulantes', 'TCC', 'funções executivas', 'psicofarmacologia', 'neurodiversidade'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'adult brain focus'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i05.png',
+    imageHint: 'Conceptual illustration of an adult brain with pathways representing focus, attention, and executive functions. Some pathways might appear scattered or chaotic (representing challenges), while others are organized and clear (representing effective treatment or strategies). Could incorporate subtle symbols of time management or organization. Use vibrant colors for clarity and structure.'
   },
   {
     id: 'cronica-015-o-espelho-da-autoestima',
@@ -151,8 +150,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['autoestima', 'autovalorização', 'autocompaixão', 'terapia', 'diálogo interno', 'crônica', 'cura emocional', 'imagem corporal'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'broken mirror self reflection'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i06.png',
+    imageHint: 'A visually striking representation of a shattered mirror reflecting a distorted, negative image of a person. Hands are carefully piecing the fragments back together, and as they do, the reflection starts to show a clearer, more compassionate, and whole image of the person. Symbolize healing, self-acceptance, and reconstruction of self-worth.'
   },
   {
     id: 'tecnica-015-treinamento-de-relaxamento',
@@ -167,7 +166,7 @@ export const conteudosEdicao015: Conteudo[] = [
       { tipo: 'paragrafo', texto: 'Diferentemente do relaxamento passivo (como assistir TV), o treinamento de relaxamento envolve um engajamento ativo e consciente em processos que promovem a calma. Com a prática, essas habilidades podem ser acessadas mais rapidamente e em diversas situações do cotidiano.' },
       { tipo: 'sub_cabecalho', texto: 'Principais Técnicas de Treinamento de Relaxamento:' },
       { tipo: 'lista_nao_ordenada', itens: [
-          { texto: '1. Respiração Diafragmática (ou Abdominal Profunda): Como já detalhado em edições anteriores, esta técnica envolve respirar profundamente usando o diafragma, permitindo que o abdômen se expanda na inspiração e se contraia na expiração. Promove a ativação do sistema nervoso parassimpático. Pratique por 5-10 minutos, focando na sensação do ar e no movimento suave do abdômen.' },
+          { texto: '1. Respiração Diafragmática (ou Abdominal Profunda): Como já detalhado em edições anteriores, esta técnica envolve respirar profundamente usando o diafragma, permitindo que o abdômen se expanda na inspiração e se contraia na expiração. Promove a ativação do sistema nervoso parassimpático. Pratique por 5-10 minutos, focando na sensação do air e no movimento suave do abdômen.' },
           {  texto: '2. Relaxamento Muscular Progressivo (RMP) de Jacobson: Também já abordado, consiste em tensionar e depois relaxar sistematicamente diferentes grupos musculares do corpo, da cabeça aos pés (ou vice-versa). Ajuda a tomar consciência da tensão muscular e a liberá-la ativamente.' },
           { texto: '3. Visualização Guiada (ou Imagens Mentais): Envolve criar imagens mentais detalhadas e vívidas de um lugar ou situação pacífica e relaxante (como uma praia tranquila, uma floresta serena, um jardim florido). Use todos os sentidos em sua imaginação: o que você vê, ouve, cheira, sente (temperatura, texturas)? O objetivo é evocar as sensações de calma e segurança associadas a esse lugar. Pode ser feita com o auxílio de áudios guiados ou de forma autodirigida.' },
           {  texto: '4. Meditação Mindfulness (Atenção Plena): Envolve focar a atenção no momento presente, sem julgamento. Pode ser focada na respiração, nas sensações corporais, nos sons do ambiente, ou nos pensamentos e emoções que surgem, observando-os como eventos mentais passageiros. A prática regular do mindfulness ajuda a reduzir a ruminação, a aumentar a autoconsciência e a cultivar uma maior equanimidade diante das experiências.' },
@@ -190,8 +189,8 @@ export const conteudosEdicao015: Conteudo[] = [
     ],
     tags: ['relaxamento', 'estresse', 'ansiedade', 'mindfulness', 'respiração diafragmática', 'RMP', 'visualização guiada', 'técnicas terapêuticas', 'bem-estar'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'person meditating calm'
+    imageUrl: '/images/mes-edicoes/m06/ed015/i07.png',
+    imageHint: 'A figure in a peaceful, relaxed posture (e.g., seated in meditation or lying down), surrounded by calming elements like soft light, gentle textures, or a serene natural background. Visual cues could include flowing lines or soft colors emanating from the figure, symbolizing diffused tension and inner calm. Focus on tranquility and stress release.'
   }
 ];
 
@@ -202,7 +201,7 @@ export const edicao015: Edicao = {
     titulo_principal: "Saúde Mental no Trabalho, Teoria do Apego e a Arte de Relaxar",
     subtitulo: "Nesta edição: Cultivando bem-estar no ambiente profissional, como os vínculos da infância nos moldam e um guia completo de técnicas de relaxamento.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "workplace wellness balance",
+    imageHint: 'Conceptual image depicting workplace wellness and balance. Could show symbolic elements of professional life (e.g., simplified office desk, computer) integrated with elements of well-being (e.g., scale in balance, person in a relaxed pose, elements of nature). Focus on achieving harmony between work demands and mental health. Clean, modern illustration style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "Saúde Mental no Trabalho: Desafios e Estratégias", id_conteudo: "editorial-015-saude-mental-trabalho" },
@@ -254,5 +253,3 @@ export const edicao015: Edicao = {
     }
   ]
 };
-
-    

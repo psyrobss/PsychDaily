@@ -27,7 +27,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['estigma', 'saúde mental', 'doença mental', 'preconceito', 'empatia', 'editorial', 'informação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1560586504-56a03c2698a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXBhdGh5JTIwc3VwcG9ydCUyMGdyb3VwfGVufDB8fHx8MTcxNzg4MDQwN3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i01.png',
     imageHint: 'empathy support group'
   },
   {
@@ -61,7 +61,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['ansiedade', 'transtornos de ansiedade', 'TAG', 'pânico', 'fobia social', 'TOC', 'TEPT', 'TCC', 'tratamento', 'saúde mental'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1587040370909-204143045c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbnhpZXR5JTIwYnJhaW4lMjBzdG9ybXxlbnwwfHx8fDE3MTc4ODA1MzZ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i02.png',
     imageHint: 'anxiety brain storm'
   },
   {
@@ -98,7 +98,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['TCC', 'terapia cognitivo-comportamental', 'psicoterapia', 'reestruturação cognitiva', 'exposição gradual', 'ativação comportamental', 'saúde mental', 'tratamento'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1583912268183-a3d6f2ebd6dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aGVyYXB5JTIwc2Vzc2lvbiUyMHRhbGtpbmd8ZW58MHx8fHwxNzE3ODgwNTc1fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i03.png',
     imageHint: 'therapy session talking'
   },
   {
@@ -118,7 +118,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['emoções', 'repressão emocional', 'autoconsciência', 'inteligência emocional', 'narrativa', 'fábula', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1504711304549-4dceac79c677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvZCUyMGNsb2NrJTIwZ2VhcnMlMjBlbW90aW9ufGVufDB8fHx8MTcxNzg4MDYyM3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i04.png',
     imageHint: 'old clock gears emotion'
   },
   {
@@ -137,7 +137,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['hábitos', 'mudança comportamental', 'bem-estar', 'desenvolvimento pessoal', 'psicologia positiva', 'coluna', 'James Clear', 'hábitos atômicos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1529369699589-f766a2530692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW55JTIwc21hbGwlMjBzdGVwc3xlbnwwfHx8fDE3MTc4ODA2Njh8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i05.png',
     imageHint: 'many small steps'
   },
   {
@@ -168,7 +168,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['medicação psiquiátrica', 'psicoterapia', 'tratamento combinado', 'saúde mental', 'psicofarmacologia', 'TCC', 'depressão', 'ansiedade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2F0aW9uJTIwYW5kJTIwdGhlcmFweXxlbnwwfHx8fDE3MTc4ODA3MTF8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i06.png',
     imageHint: 'medication and therapy'
   },
   {
@@ -196,7 +196,7 @@ export const conteudosEdicao026: Conteudo[] = [
     ],
     tags: ['mindfulness', 'atenção plena', 'estresse', 'bem-estar', 'técnicas terapêuticas', 'meditação', 'consciência', 'ansiedade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1474418397713-7ede21d4990a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG5hdHVyZSUyMGJyZWF0aHxlbnwwfHx8fDE3MTc4ODA3NTJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed026/i07.png',
     imageHint: 'mindfulness nature breath'
   }
 ];

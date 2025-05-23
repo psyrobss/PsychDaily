@@ -27,7 +27,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['brincar', 'vida adulta', 'saúde mental', 'ludicidade', 'criatividade', 'editorial', 'estresse', 'bem-estar'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1518310601133-52c409ce451a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhZHVsdHMlMjBwbGF5aW5nJTIwam95ZnVsbHl8ZW58MHx8fHwxNzE3NzAyNzYxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i01.png',
     imageHint: 'adults playing joyfully'
   },
   {
@@ -62,7 +62,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['desenvolvimento infantil', 'Piaget', 'Erikson', 'Bowlby', 'psicologia do desenvolvimento', 'cognição', 'emoções', 'apego'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1485846234544-c48108959AE3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGlsZCUyMGRldmVsb3BtZW50JTIwc3RhZ2VzfGVufDB8fHx8MTcxNzcwMjg2M3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i02.png',
     imageHint: 'child development stages'
   },
   {
@@ -82,7 +82,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['conexão emocional', 'solidão', 'empatia', 'relacionamentos', 'narrativa', 'fábula', 'comunicação', 'compreensão'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1506781591089-54327753c800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxicmlkZ2UlMjBjb25uZWN0aW5nJTIwaXNsYW5kc3xlbnwwfHx8fDE3MTc3MDI5MjV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i03.png',
     imageHint: 'bridge connecting islands'
   },
   {
@@ -100,7 +100,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['produtividade', 'burnout', 'ser vs fazer', 'bem-estar', 'coluna', 'sociedade', 'mindfulness', 'autocuidado'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1473187983301-b151590386f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBtZWRpdGF0aW5nJTIwYmFsYW5jZXxlbnwwfHx8fDE3MTc3MDI5NzV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i04.png',
     imageHint: 'person meditating balance'
   },
   {
@@ -127,7 +127,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['ansiolíticos', 'benzodiazepínicos', 'ansiedade', 'mitos', 'psicofarmacologia', 'dependência', 'TCC', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604536997470-f30096008119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2F0aW9uJTIwYm90dGxlJTIwcGlsbHN8ZW58MHx8fHwxNzE3NzAzMTAxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i05.png',
     imageHint: 'pills calm brain'
   },
   {
@@ -148,7 +148,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['ansiedade de desempenho', 'escola', 'terapia', 'superação', 'crônica', 'estudantes', 'perfeccionismo', 'TCC', 'autocompaixão'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwb3ZlcmNvbWluZyUyMHN0cmVzc3xlbnwwfHx8fDE3MTc3MDMxNDh8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i06.png',
     imageHint: 'student overcoming stress'
   },
   {
@@ -175,7 +175,7 @@ export const conteudosEdicao023: Conteudo[] = [
     ],
     tags: ['mindful eating', 'alimentação consciente', 'comer emocional', 'mindfulness', 'bem-estar', 'saúde', 'técnicas terapêuticas', 'relação com a comida'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kZnVsJTIwZWF0aW5nJTIwZnJ1aXR8ZW58MHx8fHwxNzE3NzAzMjA4fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed023/i07.png',
     imageHint: 'person eating mindfully fruit'
   }
 ];

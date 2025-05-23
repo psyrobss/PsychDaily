@@ -26,7 +26,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['autocuidado', 'saúde mental', 'bem-estar', 'limites', 'estresse', 'editorial'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1623261599836-d3b7b0acdcbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxteXNlbGZ8ZW58MHx8fHwxNzQ3NzEyNzU4fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i01.png',
     imageHint: 'person relaxing nature',
   },
   {
@@ -47,7 +47,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['preocupação', 'ansiedade', 'deixar ir', 'fábula', 'saúde emocional', 'narrativa'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1618498390344-445c804f2ac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b3JyeXxlbnwwfHx8fDE3NDc3MTM1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i02.png',
     imageHint: 'wind blowing leaves',
   },
   {
@@ -65,7 +65,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['simplicidade', 'mindfulness', 'gratidão', 'bem-estar', 'reflexão', 'coluna'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i03.png',
     imageHint: 'simple flower',
   },
   {
@@ -94,7 +94,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['neuroplasticidade', 'cérebro', 'neurociência', 'aprendizado', 'memória', 'terapia', 'saúde cerebral'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1617791160536-598cf32026fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i04.png',
     imageHint: 'brain connections',
   },
   {
@@ -121,7 +121,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['ansiolíticos', 'benzodiazepínicos', 'ansiedade', 'saúde mental', 'dependência', 'tratamento', 'psicofarmacologia'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8bWVkaWNpbmV8ZW58MHx8fHwxNzQ3NjU4NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i05.png',
     imageHint: 'pills anxiety',
   },
   {
@@ -141,7 +141,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['luto', 'terapia', 'saúde mental', 'superação', 'resiliência', 'crônica', 'alegria'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1525120334885-38cc03a6ec77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxncmllZnxlbnwwfHx8fDE3NDc3MTQyNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i06.png',
     imageHint: 'sunrise hope',
   },
   {
@@ -170,7 +170,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['grounding', 'aterramento', 'ansiedade', 'estresse', 'mindfulness', 'técnicas terapêuticas', 'presente', 'TEPT', 'dissociação', 'pânico'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZWV0JTIwb24lMjBncm91bmQlMjBuYXR1cmV8ZW58MHx8fHwxNzE4MDg1MjQxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i07.png',
     imageHint: 'feet ground nature',
   }
 ];

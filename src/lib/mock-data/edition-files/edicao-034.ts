@@ -18,7 +18,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['neurodiversidade', 'inclusão', 'autismo', 'TDAH', 'editorial', 'diversidade', 'capacitismo', 'equidade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604881991720-f91add26905c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXVyb2RpdmVyc2l0eSUyMGFic3RyYWN0fGVufDB8fHx8MTY5OTkxNjQwMHww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i01.png',
     imageHint: 'diverse brains connected'
   },
   {
@@ -42,7 +42,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['autismo adulto', 'neurodiversidade', 'diagnóstico tardio', 'TEA', 'inclusão', 'saúde mental', 'capacitismo', 'comorbidades', 'masking', 'processamento sensorial'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1560586504-56a03c2698a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdXRpc20lMjBhZHVsdCUyMHN1cHBvcnR8ZW58MHx8fHwxNzE4MDg5ODU5fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i02.png',
     imageHint: 'autism spectrum adult'
   },
   {
@@ -63,7 +63,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['dons', 'talentos', 'colaboração', 'diversidade', 'narrativa', 'comunidade', 'propósito coletivo', 'interdependência', 'neurodiversidade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1529306622966-591469725bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW55JTIwaGFuZHMlMjBwdXp6bGUlMjBwaWVjZXN8ZW58MHx8fHwxNzE4MDg5OTMwfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i03.png',
     imageHint: 'many hands puzzle pieces'
   },
   {
@@ -82,7 +82,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['gentileza', 'bondade', 'bem-estar', 'coluna', 'conexão social', 'psicologia positiva', 'compaixão', 'empatia'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb3clMjBvZCUyMGZsb3dlcnN8ZW58MHx8fHwxNzE4MDkwMDA1fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i04.png',
     imageHint: 'ripple effect water'
   },
   {
@@ -111,7 +111,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['psicologia da saúde', 'mente-corpo', 'doenças crônicas', 'prevenção', 'adesão ao tratamento', 'estresse', 'modelo biopsicossocial', 'saúde integral', 'bem-estar'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1505751172876-fa1923c5c528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBtaW5kJTIwYm9keSUyMGJhbGFuY2V8ZW58MHx8fHwxNzE4MDkwMDQ3fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i05.png',
     imageHint: 'mind body balance health'
   },
   {
@@ -132,7 +132,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['diálogo interno', 'autocrítica', 'autocompaixão', 'terapia', 'crônica', 'TCC', 'saúde mental', 'autoestima', 'crescimento pessoal'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjB0YWxraW5nJTIwdG8lMjBoaW1zZWxmJTIwcmVmbGVjdGlvbnxlbnwwfHx8fDE3MTgwOTAwODJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i06.png',
     imageHint: 'person inner dialogue'
   },
   {
@@ -158,7 +158,7 @@ export const conteudosEdicao034: Conteudo[] = [
     ],
     tags: ['CNV', 'comunicação não-violenta', 'Marshall Rosenberg', 'empatia', 'relacionamentos', 'resolução de conflitos', 'técnicas terapêuticas', 'necessidades humanas', 'assertividade', 'escuta ativa'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0d28lMjBwZW9wbGUlMjB0YWxraW5nJTIwcGVhY2VmdWxseSUyMGVtcGF0aHl8ZW58MHx8fHwxNzE4MDkwMTUyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed034/i07.png',
     imageHint: 'two people talking bridge'
   }
 ];

@@ -18,7 +18,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['felicidade', 'bem-estar', 'psicologia positiva', 'propósito', 'significado', 'editorial', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1473187983301-b151590386f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBwaW5lc3MlMjBzdW5yaXNlJTIwYmFsYW5jZXxlbnwwfHx8fDE3MTc4ODA4NzB8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i01.png',
     imageHint: 'happiness sunrise balance'
   },
   {
@@ -41,7 +41,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['Wilhelm Reich', 'função do orgasmo', 'energia orgone', 'couraça muscular', 'psicoterapia corporal', 'história da psicologia', 'sexualidade', 'vegetoterapia'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1518093364827-0a437b418138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbmVyZ3klMjBmbG93JTIwYWJzdHJhY3QlMjBib2R5fGVufDB8fHx8MTcxNzg4MTAwMnww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i02.png',
     imageHint: 'energy flow abstract body'
   },
   {
@@ -79,7 +79,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['empatia', 'compaixão', 'inteligência emocional', 'relacionamentos', 'bondade', 'escuta ativa', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1593113630405-5f500075d9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGNvbm5lY3RpbmclMjBlbXBhdGh5fGVufDB8fHx8MTcxNzg4MTExMHww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i03.png',
     imageHint: 'hands connecting empathy'
   },
   {
@@ -99,7 +99,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['escolhas', 'futuro', 'agência', 'responsabilidade', 'narrativa', 'fábula', 'potencial', 'autoconhecimento'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1505521219994-eb15f9ef3738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMG1pcnJvciUyMGZ1dHVyZXxlbnwwfHx8fDE3MTc4ODEyMzV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i04.png',
     imageHint: 'magic mirror future'
   },
   {
@@ -118,7 +118,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['limites saudáveis', 'assertividade', 'autocuidado', 'bem-estar emocional', 'coluna', 'respeito próprio', 'burnout'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1556760544-44286b9cda4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZW5jZSUyMGdhcmRlbiUyMGJvdW5kYXJ5fGVufDB8fHx8MTcxNzg4MTI4MXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i05.png',
     imageHint: 'fence garden boundary'
   },
   {
@@ -149,7 +149,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['transtornos alimentares', 'anorexia', 'bulimia', 'compulsão alimentar', 'psicofarmacologia', 'TCC', 'tratamento multidisciplinar', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlYXRpbmclMjBkaXNvcmRlciUyMHN1cHBvcnR8ZW58MHx8fHwxNzE3ODgxMzU5fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i06.png',
     imageHint: 'eating disorder support'
   },
   {
@@ -178,7 +178,7 @@ export const conteudosEdicao027: Conteudo[] = [
     ],
     tags: ['arteterapia', 'expressão criativa', 'saúde mental', 'psicoterapia', 'emoções', 'autoconhecimento', 'técnicas terapêuticas', 'cura'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1541753866384-00ac27a08ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjB0aGVyYXB5JTIwcGFpbnRpbmd8ZW58MHx8fHwxNzE3ODgxNDQyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed027/i07.png',
     imageHint: 'art therapy painting'
   }
 ];

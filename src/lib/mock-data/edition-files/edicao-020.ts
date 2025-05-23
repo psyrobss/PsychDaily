@@ -1,248 +1,349 @@
 
+// Edição 020 - Sexta-feira, 13 de Junho de 2025
+// Temas: Estruturalismo, Psicologia Humanista (já existente), Psicologia da Personalidade, Arquitetura Emocional, Farmacogenômica, Biofeedback.
 import type { Conteudo, Edicao } from '../../types';
 
-export const conteudosEdicao020: Conteudo[] = [
-  {
-    id: 'editorial-020-paixao-paciencia',
-    tipo: 'editorial',
-    titulo: 'A Dança Entre Paixao e Paciência no Desenvolvimento Pessoal e Profissional',
-    subtitulo: 'Reflexões sobre como equilibrar o entusiasmo impulsionador com a perseverança serena é crucial para alcançar metas significativas e sustentar o bem-estar ao longo da jornada.',
-    autor: 'Dra. Helena Fictícia Alcantara',
-    persona_autor: 'Dra. Alma Compassiva',
-    data_publicacao: '2025-06-13',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'No caminho do desenvolvimento pessoal e profissional, duas forças aparentemente opostas, mas profundamente complementares, disputam nossa atenção e energia: a paixão e a paciência. A paixão é o fogo que acende o desejo, a faísca que nos impulsiona a começar, a sonhar grande e a perseguir nossos objetivos com entusiasmo e vigor. É a emoção vibrante que nos conecta com nossos talentos e anseios mais profundos. Sem paixão, a jornada pode se tornar monótona, desprovida de significado e difícil de sustentar.' },
-      { tipo: 'paragrafo', texto: 'No entanto, a paixão por si só, se não for acompanhada pela paciência, pode se consumir rapidamente, como uma chama intensa, porém breve. O desenvolvimento significativo, seja ele o aprendizado de uma nova habilidade, a construção de um relacionamento sólido, o avanço na carreira ou a superação de um desafio pessoal, raramente acontece da noite para o dia. Requer tempo, esforço consistente, a capacidade de tolerar frustrações, de aprender com os erros e de persistir mesmo quando os resultados imediatos não são visíveis ou gratificantes.' },
-      { tipo: 'paragrafo', texto: 'É aqui que entra a paciência – não a passividade resignada, mas a perseverança ativa e serena. É a força tranquila que nos permite continuar plantando as sementes, mesmo quando o solo parece árido ou a colheita distante. A paciência nos ensina a respeitar os ritmos naturais do crescimento, a apreciar os pequenos progressos e a confiar no processo, mesmo em meio à incerteza. Ela modula o ímpeto da paixão, transformando-o de uma explosão efêmera em uma chama constante e duradoura.'},
-      { tipo: 'sub_cabecalho', texto: 'Encontrando o Equilíbrio na Dança:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Canalize a Paixão para a Ação Inicial: Use o entusiasmo da paixão para dar os primeiros passos, para superar a inércia e para definir uma visão clara do que você deseja alcançar.' },
-          { texto: 'Divida Grandes Metas em Passos Menores: Isso torna a jornada menos intimidante e permite que a paciência seja nutrida por pequenas vitórias ao longo do caminho.' },
-          { texto: 'Cultive a Atenção Plena (Mindfulness): A prática da atenção plena pode ajudar a desenvolver a paciência, ensinando-nos a observar nossos pensamentos e emoções (incluindo a impaciência e a frustração) sem julgamento e a focar no momento presente.' },
-          { texto: 'Celebre o Processo, Não Apenas o Resultado Final: Encontre satisfação e aprendizado na jornada em si, valorizando o esforço, a dedicação e o crescimento pessoal que ocorrem ao longo do caminho.' },
-          { texto: 'Lembre-se do "Porquê": Reconectar-se regularmente com os valores e o significado mais profundo que sustentam seus objetivos pode reacender a paixão e fortalecer a paciência nos momentos de dificuldade.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'A verdadeira maestria, em qualquer área da vida, reside na capacidade de integrar harmoniosamente a paixão e a paciência. É uma dança contínua, onde o entusiasmo impulsiona e a perseverança sustenta, permitindo-nos não apenas alcançar nossos destinos desejados, mas também florescer e encontrar contentamento em cada passo da jornada.' }
-    ],
-    tags: ['paixão', 'paciência', 'desenvolvimento pessoal', 'bem-estar emocional', 'metas', 'mindfulness', 'editorial', 'perseverança'],
-    isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'flame gentle stream'
-  },
-  {
-    id: 'aprofundado-020-agi-inteligencia-humana',
+const editorial020: Conteudo = {
+  id: 'editorial-020-resiliencia-comunitaria', // Mantendo o ID para evitar quebrar outros links, se houver
+  tipo: 'editorial',
+  titulo: 'A Importância da Resiliência Comunitária em Tempos de Crise e Incerteza',
+  subtitulo: 'Reflexões sobre como a união, o apoio mútuo e a capacidade de adaptação coletiva são fundamentais para superar adversidades e fortalecer o tecido social, promovendo saúde mental e bem-estar para todos os membros da comunidade.',
+  autor: 'Dra. Helena Fictícia Alcantara',
+  persona_autor: 'Dra. Alma Compassiva',
+  data_publicacao: '2025-06-13',
+  corpo: [
+    { tipo: 'paragrafo', texto: 'Em um mundo cada vez mais interconectado, mas também sujeito a crises globais, desastres naturais, instabilidades econômicas e tensões sociais, a resiliência individual, embora crucial, muitas vezes não é suficiente. Emerge, então, com crescente importância, o conceito de resiliência comunitária: a capacidade de um grupo, uma vizinhança, uma cidade ou mesmo uma nação de resistir, absorver, adaptar-se e se recuperar de forma eficaz de eventos adversos, fortalecendo-se no processo. Não se trata apenas de "voltar ao normal", mas de aprender, crescer e construir um futuro mais justo e sustentável a partir da experiência compartilhada da crise.' },
+    { tipo: 'paragrafo', texto: 'A resiliência comunitária se assenta sobre pilares fundamentais como a coesão social (laços de confiança e reciprocidade), o capital social (redes de apoio e participação cívica), a comunicação clara e eficaz (especialmente em momentos de crise), a liderança adaptativa e inclusiva, o acesso equitativo a recursos e serviços básicos, e a capacidade de aprendizado e adaptação coletiva. É a força que emerge do "nós", da solidariedade e do senso de propósito compartilhado.' },
+    { tipo: 'paragrafo', texto: 'Quando uma comunidade enfrenta uma adversidade – seja uma pandemia, um desastre ambiental ou uma crise econômica – a forma como seus membros se unem, se apoiam mutuamente, compartilham informações e recursos, e participam ativamente na busca por soluções é determinante para o impacto do evento e para a velocidade e qualidade da recuperação. Comunidades resilientes não apenas sobrevivem às tempestades, mas também aprendem com elas, identificando vulnerabilidades, fortalecendo seus sistemas de proteção e, por vezes, redescobrindo valores essenciais de cooperação e cuidado mútuo que podem ter sido negligenciados em tempos de aparente normalidade.' },
+    { tipo: 'paragrafo', texto: 'Promover a resiliência comunitária envolve, portanto, investir em infraestrutura social, fortalecer os espaços de participação democrática, combater as desigualdades que tornam certos grupos mais vulneráveis, valorizar os saberes locais e promover uma cultura de solidariedade e cuidado que transcenda os interesses individuais. A psicologia social e comunitária tem um papel vital nesse processo, ajudando a diagnosticar as necessidades, a facilitar o diálogo, a capacitar lideranças e a desenvolver intervenções que fortaleçam os laços e a capacidade de ação coletiva. Em tempos de incerteza, a resiliência comunitária é nosso farol mais seguro e nossa maior esperança.' }
+  ],
+  tags: ['resiliência comunitária', 'crise', 'apoio social', 'coesão social', 'editorial', 'saúde mental coletiva', 'solidariedade'],
+  isPremium: false,
+  imageUrl: '/images/mes-edicoes/m06/ed020/i01.png',
+  imageHint: 'community helping hands strong'
+};
+
+const aprofundado020_1: Conteudo = {
+    id: 'aprofundado-020-estruturalismo-wundt', // ID original mantido
     tipo: 'artigo_aprofundado',
-    titulo: 'AGI e Inteligência Humana: Uma Análise Epistemológica das Diferenças Fundamentais Além da Performance',
-    subtitulo: 'Explorando as distinções cruciais entre Inteligência Artificial Geral (AGI) e a inteligência humana, considerando a corporeidade, a experiência vivida, a intencionalidade e a inserção no mundo como fatores que transcendem o mero processamento de dados.',
+    titulo: 'O Estruturalismo de Wundt e Titchener: O Nascimento da Psicologia como Ciência Experimental e a Busca pela Estrutura da Consciência – Fundamentos e Críticas',
+    subtitulo: 'Uma análise detalhada da primeira escola formal da psicologia, o Estruturalismo, liderado por Wilhelm Wundt e seu discípulo Edward Titchener, focando no método da introspecção analítica para decompor a experiência consciente em seus elementos básicos (sensações, imagens, sentimentos) e as críticas que levaram ao seu declínio.',
     autor: 'Prof. Dra. Isadora Fictícia Valente',
     persona_autor: 'Prof. Historiadora',
     data_publicacao: '2025-06-13',
     corpo: [
-      { tipo: 'paragrafo', texto: 'O avanço da Inteligência Artificial (IA), especialmente com o surgimento de modelos de linguagem amplos (LLMs) capazes de realizar tarefas cognitivas complexas, reacendeu o debate sobre a possibilidade de uma Inteligência Artificial Geral (AGI) – uma IA hipotética com capacidade intelectual humana, capaz de aprender, raciocinar e se adaptar a qualquer tarefa que um ser humano possa realizar. Embora o desempenho de algumas IAs em tarefas específicas possa igualar ou até superar o humano, uma análise epistemológica mais profunda revela diferenças fundamentais que vão além da mera capacidade de processamento ou performance.' },
-      { tipo: 'paragrafo', texto: 'A inteligência humana não é apenas um algoritmo sofisticado de processamento de informações. Ela é intrinsecamente moldada por nossa corporeidade (embodiment), nossa inserção em um mundo físico e social (situatedness), nossa história de desenvolvimento, nossas experiências vividas, nossa capacidade de intencionalidade, consciência e a complexa interação entre cognição e emoção. Esses aspectos são cruciais e, até o momento, fundamentalmente distintos do funcionamento das IAs atuais, mesmo as mais avançadas.' },
-      { tipo: 'sub_cabecalho', texto: 'Diferenças Epistemológicas Chave:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Corporeidade e Experiência Sensório-Motora: A inteligência humana desenvolve-se através da interação física com o mundo. Nossos corpos, com seus sentidos e capacidades motoras, fornecem um fluxo contínuo de informações e feedback que moldam nossa percepção, cognição e compreensão da realidade. Uma IA, mesmo que conectada a sensores, não possui um corpo biológico com as mesmas necessidades, vulnerabilidades e história evolutiva, o que limita fundamentalmente sua forma de "conhecer" o mundo.' },
-          { texto: 'Intencionalidade e Consciência: A inteligência humana é caracterizada pela intencionalidade – a capacidade da mente de ser sobre, ou direcionada a, objetos e estados de coisas no mundo. Ligada a isso está a experiência subjetiva da consciência, o "sentir como é ser" algo. As IAs atuais, embora possam simular comportamentos intencionais ou gerar textos que parecem conscientes, operam com base em algoritmos e dados, sem evidências de uma experiência interna ou compreensão genuína do significado.' },
-          { texto: 'Compreensão Semântica vs. Processamento Estatístico: LLMs são mestres em identificar padrões estatísticos em vastos conjuntos de dados textuais, permitindo-lhes gerar respostas coerentes e contextualmente relevantes. No entanto, isso não implica necessariamente uma compreensão semântica profunda comparável à humana, que é ancorada em experiências vividas e em uma rede de significados culturais e pessoais. A "compreensão" de uma IA é mais uma simulação baseada em correlações.' },
-          { texto: 'Emoção e Cognição Integradas: Nas seres humanos, emoção e cognição não são sistemas separados, mas profundamente interligados. As emoções influenciam nossa atenção, memória, tomada de decisão e interações sociais. As IAs podem ser programadas para reconhecer ou simular emoções, mas não as "sentem" da mesma forma orgânica e visceral que os humanos.' },
-          { texto: 'Inserção no Mundo e Contexto Sociocultural: A inteligência humana é moldada pela nossa imersão em um contexto sociocultural específico, com suas normas, valores, linguagem e história. Aprendemos e nos desenvolvemos através da interação social, da cultura e da transmissão de conhecimento entre gerações. Uma AGI, mesmo que treinada com todos os dados da internet, não possui essa inserção vivida.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'Reconhecer essas diferenças epistemológicas não é diminuir os impressionantes avanços da IA, mas sim promover uma compreensão mais nuançada e realista de suas capacidades e limitações. A busca por AGI levanta questões filosóficas profundas sobre a natureza da inteligência, da consciência e do que significa ser humano. Em vez de focar apenas em replicar a performance humana, talvez um caminho mais frutífero seja explorar como a IA pode complementar e aumentar a inteligência humana, respeitando as singularidades de cada uma.' }
+      { tipo: 'paragrafo', texto: 'O Estruturalismo, frequentemente considerado a primeira escola de pensamento formal na psicologia, emergiu na segunda metade do século XIX, com o estabelecimento do primeiro laboratório de psicologia experimental por Wilhelm Wundt em Leipzig, Alemanha, em 1879. Este evento é amplamente reconhecido como o marco do nascimento da psicologia como uma ciência independente da filosofia e da fisiologia. O objetivo principal do Estruturalismo era analisar a estrutura da mente consciente, decompondo a experiência mental em seus elementos mais básicos e fundamentais, de forma análoga à química que decompõe substâncias complexas em seus elementos químicos constituintes.' },
+      { tipo: 'paragrafo', texto: 'Wilhelm Wundt (1832-1920) acreditava que a psicologia deveria estudar a experiência imediata, a consciência tal como ela se apresenta ao indivíduo. Seu método principal era a introspecção analítica, onde observadores treinados eram solicitados a descrever detalhadamente suas próprias experiências sensoriais, sentimentos e imagens mentais em resposta a estímulos controlados. Wundt buscava identificar os "átomos" da mente, que ele acreditava serem as sensações (derivadas dos órgãos dos sentidos) e os sentimentos (estados afetivos básicos). Ele também investigou processos como atenção, percepção e os tempos de reação.' },
+      { tipo: 'paragrafo', texto: 'Edward Bradford Titchener (1867-1927), um dos alunos mais proeminentes de Wundt, levou o Estruturalismo para os Estados Unidos, na Universidade Cornell, e o sistematizou de forma mais rigorosa e, para alguns, mais dogmática. Titchener identificou três classes elementares de processos mentais: sensações (elementos da percepção), imagens (elementos das ideias) e afetos ou sentimentos (elementos das emoções). Cada um desses elementos poderia ser caracterizado por atributos como qualidade, intensidade, duração e clareza (exceto os afetos, que não teriam clareza). O objetivo da psicologia, para Titchener, era descrever esses elementos e como eles se combinavam para formar experiências conscientes mais complexas, através do processo de associação.' },
+      { tipo: 'sub_cabecalho', texto: 'O Método da Introspecção Analítica e Suas Limitações' },
+      { tipo: 'paragrafo', texto: 'A introspecção analítica, como método principal do Estruturalismo, exigia que os sujeitos fossem altamente treinados para observar e relatar seus estados internos de forma objetiva e detalhada, evitando o "erro de estímulo" (relatar o objeto percebido em vez da experiência sensorial pura). Por exemplo, ao ver uma maçã, o introspeccionista não deveria dizer "vejo uma maçã", mas sim descrever as sensações de cor (vermelho, verde), forma (arredondada), brilho, etc.' },
+      { tipo: 'paragrafo', texto: 'No entanto, o método da introspecção logo enfrentou críticas severas que contribuíram para o declínio do Estruturalismo como escola dominante: \n1. Subjetividade e Falta de Confiabilidade: Relatos introspectivos variavam consideravelmente entre diferentes observadores e laboratórios, e era difícil verificar sua objetividade. \n2. Limitação do Objeto de Estudo: Ao focar apenas na experiência consciente de adultos humanos treinados, o Estruturalismo excluía o estudo de crianças, animais, pessoas com transtornos mentais e processos inconscientes. \n3. Artificialidade: Criticaram a tentativa de decompor a consciência em elementos, argumentando que a experiência é um todo unificado e dinâmico que perde seu significado quando fragmentada. \n4. Retrospecção: A introspecção era, na verdade, uma retrospecção, pois o relato ocorria após a experiência, o que poderia introduzir distorções.' },
+      { tipo: 'sub_cabecalho', texto: 'Legado e Contribuições do Estruturalismo' },
+      { tipo: 'paragrafo', texto: 'Apesar de suas limitações e de ter sido suplantado por outras escolas como o Funcionalismo e o Behaviorismo, o Estruturalismo deixou um legado importante: \n1. Estabelecimento da Psicologia como Ciência: A ênfase de Wundt no método experimental e no laboratório foi crucial para legitimar a psicologia como uma disciplina científica distinta. \n2. Foco na Experiência Consciente: Embora criticado, o estudo da consciência como objeto da psicologia foi um ponto de partida importante. \n3. Desenvolvimento da Introspecção como Ferramenta (Adaptada): Embora a introspecção analítica rigorosa tenha sido abandonada, formas modificadas de autorrelato e introspecção continuam a ser utilizadas em diversas áreas da psicologia (ex: relatos subjetivos em estudos de emoção, escalas de autoavaliação). \n4. Formação de Psicólogos: Muitos dos primeiros psicólogos importantes foram treinados por Wundt ou Titchener, disseminando o interesse pela pesquisa psicológica.' },
+      { tipo: 'paragrafo', texto: 'O Estruturalismo, com sua busca pela "anatomia" da mente, representou um esforço pioneiro para aplicar o rigor científico ao estudo da experiência subjetiva. Embora seus métodos e seu escopo tenham se mostrado limitados, ele pavimentou o caminho para as diversas abordagens que se seguiram, cada uma tentando, à sua maneira, desvendar a complexidade da mente humana.' }
     ],
-    tags: ['AGI', 'inteligência artificial', 'inteligência humana', 'epistemologia', 'consciência', 'corporeidade', 'filosofia da mente'],
+    tags: ['estruturalismo', 'Wilhelm Wundt', 'Edward Titchener', 'história da psicologia', 'introspecção', 'consciência', 'psicologia experimental', 'elementos da mente'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'brain gears abstract'
-  },
-  {
-    id: 'aprofundado-020-william-james-self',
+    imageUrl: '/images/mes-edicoes/m06/ed020/i02.png',
+    imageHint: 'Wundt portrait historical psychology lab illustration'
+};
+
+const aprofundado020_2: Conteudo = {
+    id: 'aprofundado-020-psicologia-personalidade-nature-nurture', // ID original mantido
     tipo: 'artigo_aprofundado',
-    titulo: 'O Self Multifacetado de William James: Consciência, Hábito e o Fluxo da Experiência',
-    subtitulo: 'Uma análise das contribuições pioneiras de William James para a psicologia, explorando seus conceitos de "fluxo de consciência", a natureza do self (o "Eu" e o "Mim") e a importância dos hábitos na formação da identidade.',
-    autor: 'Prof. Dra. Isadora Fictícia Valente',
-    persona_autor: 'Prof. Historiadora',
+    titulo: 'Psicologia da Personalidade: Um Panorama das Grandes Teorias (Psicodinâmica, Traços, Humanista, Comportamental, Cognitiva) e o Eterno Debate Natureza vs. Criação (Nature vs. Nurture)',
+    subtitulo: 'Explorando as principais abordagens teóricas que buscam entender a estrutura, a dinâmica e o desenvolvimento da personalidade humana, e como a interação complexa entre fatores genéticos (natureza) e influências ambientais (criação) molda quem nos tornamos.',
+    autor: 'Dr. Arthur Fictício Mendes Neto',
+    persona_autor: 'Dr. Analítico',
     data_publicacao: '2025-06-13',
     corpo: [
-      { tipo: 'paragrafo', texto: 'William James (1842-1910), um dos fundadores da psicologia americana e uma figura central no pragmatismo filosófico, ofereceu contribuições duradouras e notavelmente modernas para a compreensão da mente humana, da consciência e do self. Sua obra seminal, "Princípios de Psicologia" (1890), continua a inspirar e a desafiar psicólogos e filósofos, com sua abordagem dinâmica, experiencial e multifacetada da vida mental.' },
-      { tipo: 'sub_cabecalho', texto: 'O Fluxo de Consciência (Stream of Consciousness):' },
-      { tipo: 'paragrafo', texto: 'James rejeitou a visão da consciência como uma coleção de estados mentais discretos e estáticos. Em vez disso, ele a descreveu metaforicamente como um "rio" ou um "fluxo" – contínuo, pessoal, sempre em mudança, seletivo e substancial. Para James, a consciência é um processo, não uma coisa. Ela é caracterizada por sua continuidade (mesmo durante o sono, há um fio condutor), sua natureza pessoal e subjetiva (minha consciência é minha, não sua), sua constante transformação (nenhum estado mental se repete exatamente) e sua seletividade (focamos em certos aspectos da experiência enquanto ignoramos outros). Essa noção influenciou profundamente não apenas a psicologia, mas também a literatura modernista.' },
-      { tipo: 'sub_cabecalho', texto: 'A Natureza Dual do Self: O "Eu" (I) e o "Mim" (Me):' },
-      { tipo: 'paragrafo', texto: 'James distinguiu dois aspectos do self: o "Eu" (I) e o "Mim" (Me). O "Mim" é o self empírico, o self como objeto de conhecimento e experiência. Ele é composto por tudo aquilo que uma pessoa pode chamar de seu, e James o dividiu em três componentes:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'O Mim Material (Material Me): Inclui nosso corpo, nossas roupas, nossa família, nossa casa e nossas posses materiais. São extensões do nosso senso de self.' },
-          { texto: 'O Mim Social (Social Me): Refere-se aos diferentes selves que apresentamos em diferentes contextos sociais e aos reconhecimentos que recebemos dos outros. Temos tantos "Mins Sociais" quantas são as pessoas ou grupos que se importam conosco e sobre cuja opinião nos preocupamos.' },
-          { texto: 'O Mim Espiritual (Spiritual Me): É o nosso self mais íntimo e subjetivo, incluindo nossa consciência, nossos pensamentos, sentimentos, valores, crenças e nossa capacidade de auto-reflexão. É o núcleo da nossa identidade pessoal.' }
+      { tipo: 'paragrafo', texto: 'A personalidade, esse padrão distintivo e relativamente estável de pensamentos, sentimentos e comportamentos que caracteriza um indivíduo e sua forma única de interagir com o mundo, é um dos construtos mais centrais e fascinantes da psicologia. Diversas teorias foram propostas ao longo da história para tentar explicar sua origem, estrutura, desenvolvimento e suas manifestações. Cada uma dessas abordagens oferece uma lente particular para compreender a complexidade do ser humano, e o debate sobre o peso relativo da "natureza" (fatores genéticos e biológicos) versus a "criação" (experiências ambientais, aprendizado, cultura) continua a permear o campo.' },
+      { tipo: 'sub_cabecalho', texto: 'Principais Abordagens Teóricas da Personalidade:' },
+      {
+        tipo: 'lista_nao_ordenada',
+        itens: [
+          {
+            texto: '1. Teorias Psicodinâmicas (Ex: Sigmund Freud, Carl Jung, Alfred Adler):',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Ênfase no Inconsciente: Argumentam que forças inconscientes (pulsões, desejos reprimidos, complexos, arquétipos) e experiências da primeira infância desempenham um papel crucial na formação da personalidade e na motivação do comportamento.' },
+                { texto: 'Estrutura da Personalidade: Freud propôs o Id (princípio do prazer), o Ego (princípio da realidade) e o Superego (moralidade internalizada). Jung introduziu conceitos como o inconsciente coletivo, arquétipos e a jornada de individuação.' },
+                { texto: 'Mecanismos de Defesa: Estratégias inconscientes usadas pelo ego para lidar com a ansiedade gerada por conflitos internos (ex: repressão, negação, projeção).' }
+              ]
+            }
+          },
+          {
+            texto: '2. Teorias de Traços (Ex: Gordon Allport, Raymond Cattell, Hans Eysenck, Modelo dos Cinco Grandes Fatores - Big Five):',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Foco em Características Estáveis: Buscam identificar e medir traços de personalidade relativamente estáveis e duradouros que descrevem as diferenças individuais no comportamento. Traços são vistos como predisposições para agir de certas maneiras em diferentes situações.' },
+                { texto: 'Modelo dos Cinco Grandes Fatores (Big Five): Um dos modelos de traços mais aceitos atualmente, propõe cinco dimensões amplas da personalidade: Abertura a Novas Experiências (Openness), Conscienciosidade (Conscientiousness), Extroversão (Extraversion), Amabilidade (Agreeableness) e Neuroticismo (Neuroticism) – acrônimo OCEAN ou CANOE. Acredita-se que esses traços tenham uma base biológica significativa.' }
+              ]
+            }
+          },
+          {
+            texto: '3. Teorias Humanistas (Ex: Carl Rogers, Abraham Maslow):',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Ênfase na Experiência Subjetiva e no Potencial de Crescimento: Focam na experiência consciente e subjetiva do indivíduo, em sua capacidade de escolha (livre arbítrio) e em sua tendência inata para a autorrealização (realizar seu pleno potencial). Criticam a visão determinista das teorias psicodinâmicas e behavioristas.' },
+                { texto: 'Self e Autoestima: Rogers enfatizou a importância do autoconceito e da necessidade de consideração positiva incondicional para o desenvolvimento de uma personalidade saudável e congruente. Maslow propôs a hierarquia das necessidades, culminando na autorrealização.' }
+              ]
+            }
+          },
+          {
+            texto: '4. Teorias Comportamentais e da Aprendizagem Social (Ex: B.F. Skinner, Albert Bandura):',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Personalidade como um Conjunto de Comportamentos Aprendidos: Argumentam que a personalidade é largamente moldada pela aprendizagem através do condicionamento (clássico e operante) e da observação de modelos (aprendizagem social ou vicária, como proposto por Bandura). O ambiente e as consequências do comportamento são cruciais.' },
+                { texto: 'Foco no Comportamento Observável: Menor ênfase em processos internos ou traços hipotéticos.' }
+              ]
+            }
+          },
+          {
+            texto: '5. Teorias Cognitivas e Sócio-Cognitivas (Ex: George Kelly, Walter Mischel, Albert Bandura):',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'O Papel dos Processos de Pensamento: Enfatizam como nossas cognições (crenças, expectativas, esquemas mentais, interpretações) influenciam nossa personalidade e nosso comportamento. A forma como percebemos e interpretamos as situações é fundamental.' },
+                { texto: 'Interacionismo Recíproco: Bandura propôs o determinismo recíproco, onde fatores pessoais (cognições, traços), o ambiente e o comportamento interagem e se influenciam mutuamente na formação da personalidade.' }
+              ]
+            }
+          }
         ]
       },
-      { tipo: 'paragrafo', texto: 'O "Eu" (I), por outro lado, é o self como sujeito conhecedor, o "pensador", o agente da consciência. É o aspecto mais elusivo e difícil de apreender, pois é o próprio ato de estar ciente, de experienciar. O "Eu" é o que unifica e dá continuidade à experiência do "Mim".' },
-      { tipo: 'sub_cabecalho', texto: 'A Psicologia do Hábito:' },
-      { tipo: 'paragrafo', texto: 'James também deu grande importância ao papel dos hábitos na vida humana. Ele via os hábitos como "a enorme roda volante da sociedade", que simplificam nossos movimentos, tornam-nos mais precisos e diminuem a fadiga. Os hábitos, uma vez formados através da repetição, liberam a mente consciente para se dedicar a tarefas mais complexas e novas. Ele acreditava que a formação de bons hábitos na juventude era crucial para uma vida bem-sucedida e virtuosa, e ofereceu conselhos práticos sobre como cultivar e modificar hábitos.' },
-      { tipo: 'paragrafo', texto: 'As ideias de William James sobre a consciência como um fluxo, a natureza multifacetada do self e o poder dos hábitos continuam a ressoar na psicologia contemporânea. Sua abordagem funcionalista, que se concentrava na função e no propósito dos processos mentais na adaptação ao ambiente, abriu caminho para muitas das escolas de pensamento que se seguiram, e sua ênfase na experiência subjetiva e na complexidade da vida mental oferece um contraponto valioso a visões mais reducionistas da mente.' }
+      { tipo: 'sub_cabecalho', texto: 'O Debate Natureza vs. Criação (Nature vs. Nurture):' },
+      { tipo: 'paragrafo', texto: 'O debate sobre a influência relativa de fatores genéticos (natureza) e ambientais (criação) na personalidade é um dos mais antigos e persistentes na psicologia. A pesquisa atual em genética comportamental (ex: estudos com gêmeos e adotados) e neurociência sugere que ambos os fatores são cruciais e interagem de forma complexa. Os genes podem predispor a certos traços de temperamento ou vulnerabilidades, mas a expressão desses genes é frequentemente modulada por experiências ambientais (epigenética). Da mesma forma, o ambiente (família, cultura, eventos de vida) molda a personalidade, mas o impacto dessas experiências pode variar dependendo das predisposições genéticas do indivíduo.' },
+      { tipo: 'paragrafo', texto: 'Hoje, a maioria dos psicólogos adota uma perspectiva interacionista, reconhecendo que a personalidade é o resultado de uma dança complexa e contínua entre nossas heranças biológicas e as inúmeras influências do mundo em que vivemos. Compreender essa interação é fundamental para uma visão mais completa e nuançada de quem somos e por que nos comportamos da maneira que fazemos.' }
     ],
-    tags: ['William James', 'fluxo de consciência', 'self', 'Eu e Mim', 'hábito', 'psicologia funcionalista', 'história da psicologia', 'pragmatismo'],
+    tags: ['psicologia da personalidade', 'teorias da personalidade', 'Freud', 'Jung', 'Big Five', 'Carl Rogers', 'Maslow', 'Skinner', 'Bandura', 'natureza vs criação', 'genética comportamental'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'stream consciousness portrait'
-  },
-  {
-    id: 'aprofundado-020-sentido-trabalho',
-    tipo: 'artigo_aprofundado',
-    titulo: 'Além do Salário: Encontrando Propósito e Sentido no Trabalho na Contemporaneidade',
-    subtitulo: 'Uma reflexão sobre a busca por significado no trabalho, os fatores que contribuem para um senso de propósito profissional e o impacto disso no bem-estar, engajamento e satisfação geral com a vida.',
-    autor: 'Kai Fictício Oliveira',
-    persona_autor: 'O Analista de Contextos',
-    data_publicacao: '2025-06-13',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'O trabalho ocupa uma porção significativa de nossas vidas adultas. Para muitos, ele é a principal fonte de sustento financeiro, mas sua importância transcende a mera remuneração. Cada vez mais, as pessoas buscam não apenas um "emprego", mas uma "vocação" ou uma "carreira" que lhes ofereça um senso de propósito, significado, contribuição e realização pessoal. Em uma era de rápidas transformações no mundo do trabalho, com o avanço da automação, a ascensão da gig economy e as crescentes preocupações com o equilíbrio entre vida pessoal e profissional, a questão do "sentido do trabalho" tornou-se central para o bem-estar individual e para a saúde das organizações.' },
-      { tipo: 'paragrafo', texto: 'Encontrar significado no trabalho não significa que cada tarefa precise ser intrinsecamente apaixonante ou que não haverá momentos de tédio, frustração ou desafio. Significa, antes, perceber uma conexão entre as atividades que realizamos e nossos valores mais profundos, ou sentir que nosso esforço contribui para algo maior que nós mesmos, seja para o bem da equipe, da organização, da comunidade ou da sociedade em geral.' },
-      { tipo: 'sub_cabecalho', texto: 'Fatores que Contribuem para um Trabalho Significativo:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Alinhamento com Valores Pessoais: Sentir que o trabalho permite expressar ou realizar valores que são importantes para nós (ex: criatividade, aprendizado, justiça social, ajudar os outros, autonomia).' },
-          { texto: 'Senso de Competência e Maestria: Ter a oportunidade de usar e desenvolver nossas habilidades, de nos sentirmos competentes e de vermos o progresso em nosso trabalho.' },
-          { texto: 'Impacto e Contribuição Percebidos: Entender como nosso trabalho faz uma diferença positiva, por menor que seja, na vida de outras pessoas ou nos objetivos da organização/sociedade.' },
-          { texto: 'Relacionamentos Positivos no Trabalho: Ter conexões de apoio, respeito e colaboração com colegas, líderes e clientes.' },
-          { texto: 'Autonomia e Controle: Ter um certo grau de liberdade e controle sobre como realizamos nossas tarefas e tomamos decisões relacionadas ao nosso trabalho.' },
-          { texto: 'Reconhecimento e Valorização: Sentir que nosso esforço e contribuições são reconhecidos e valorizados pela organização e pelos pares.' },
-          { texto: 'Oportunidades de Crescimento e Desenvolvimento: Ter a chance de aprender coisas novas, de assumir novos desafios e de progredir na carreira.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'A busca por sentido no trabalho não é uma responsabilidade exclusiva do indivíduo. Organizações que cultivam culturas de propósito, que oferecem oportunidades de desenvolvimento, que promovem a autonomia e o reconhecimento, e que demonstram um compromisso genuíno com o bem-estar de seus colaboradores e com um impacto social positivo, tendem a ter equipes mais engajadas, motivadas, produtivas e satisfeitas. Para o indivíduo, refletir sobre seus próprios valores, buscar ativamente alinhar suas escolhas de carreira com esses valores (mesmo que isso envolva pequenas mudanças ou a busca por significado em aspectos específicos do trabalho atual) e, se necessário, ter a coragem de buscar novas oportunidades, pode ser um caminho poderoso para uma vida profissional mais plena e significativa.' }
-    ],
-    tags: ['sentido do trabalho', 'propósito profissional', 'engajamento', 'satisfação no trabalho', 'bem-estar ocupacional', 'valores', 'psicologia organizacional'],
-    isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'person finding meaning work'
-  },
-  {
-    id: 'tecnica-020-psicodrama',
-    tipo: 'artigo_aprofundado',
-    titulo: 'Teatro da Alma: Introdução ao Psicodrama e Suas Técnicas Transformadoras',
-    subtitulo: 'Uma exploração do psicodrama, método psicoterapêutico criado por Jacob Levy Moreno, que utiliza a dramatização e a representação cênica para explorar conflitos internos, relações interpessoais e promover o insight e a catarse.',
-    autor: 'Clarice Fictícia Arantes',
-    persona_autor: 'A Psicóloga Inventiva',
-    data_publicacao: '2025-06-13',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'O psicodrama, criado pelo médico, psiquiatra e psicossociologista romeno-americano Jacob Levy Moreno (1889-1974), é uma abordagem psicoterapêutica vivencial e de grupo que utiliza a dramatização, a representação teatral e a expressão corporal como principais ferramentas para a exploração de questões emocionais, conflitos internos, relações interpessoais e papéis sociais. Moreno acreditava que a espontaneidade e a criatividade são forças curativas fundamentais, e que, ao "atuarmos" nossos problemas em um palco terapêutico, podemos ganhar novos insights, experimentar diferentes perspectivas, liberar emoções bloqueadas (catarse) e desenvolver novas formas mais adaptativas de ser e agir no mundo.' },
-      { tipo: 'paragrafo', texto: 'Uma sessão de psicodrama geralmente ocorre em grupo e envolve cinco elementos principais: o protagonista (o membro do grupo que apresenta uma questão a ser trabalhada), o diretor (o terapeuta treinado em psicodrama, que guia a sessão), os egos auxiliares (outros membros do grupo que representam pessoas significativas ou aspectos do self do protagonista), o palco (o espaço físico onde a dramatização ocorre) e o público (os demais membros do grupo, que oferecem suporte e feedback empático).' },
-      { tipo: 'sub_cabecalho', texto: 'Principais Técnicas e Instrumentos do Psicodrama:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Inversão de Papéis: O protagonista assume o papel de outra pessoa significativa em sua vida (ou de um aspecto de si mesmo), permitindo-lhe experimentar a situação da perspectiva do outro e ganhar empatia e compreensão.' },
-          { texto: 'Espelho: Um ego auxiliar representa o protagonista, imitando seus comportamentos, postura e falas, permitindo que o protagonista se observe "de fora" e ganhe autoconsciência.' },
-          { texto: 'Duplo: Um ego auxiliar se posiciona ao lado ou atrás do protagonista e expressa em voz alta os pensamentos e sentimentos que o protagonista pode estar tendo dificuldade em verbalizar ou em tomar consciência.' },
-          { texto: 'Solilóquio: O protagonista fala em voz alta seus pensamentos e sentimentos mais íntimos, como se estivesse pensando sozinho, permitindo a expressão de conteúdos internos.' },
-          { texto: 'Concretização: Emoções abstratas, conceitos ou partes do self são representados concretamente por objetos, almofadas ou por egos auxiliares, tornando-os mais tangíveis e passíveis de exploração.' },
-          { texto: 'Escultura: O protagonista ou o diretor "esculpe" os membros do grupo em posturas físicas que representam dinâmicas relacionais, emoções ou conflitos, criando uma imagem visual poderosa da situação.' },
-          { texto: 'Role-playing (Representação de Papéis): Praticar novos comportamentos ou formas de interação em situações simuladas, permitindo o ensaio e o desenvolvimento de novas habilidades sociais ou de enfrentamento.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'O psicodrama não se limita a "reviver" o passado; ele busca promover a espontaneidade e a criatividade no aqui e agora, permitindo que o protagonista explore novas possibilidades de resposta e de ser. É uma abordagem terapêutica poderosa e dinâmica que pode ser aplicada a uma ampla gama de questões, desde problemas de relacionamento e autoestima até o processamento de traumas e o desenvolvimento pessoal e profissional. Ao transformar o conflito interno em ação externa no palco, o psicodrama oferece um caminho único para o autoconhecimento, a cura emocional e a redescoberta da própria capacidade de criar uma vida mais autêntica e satisfatória.' }
-    ],
-    tags: ['psicodrama', 'Jacob Levy Moreno', 'terapia de grupo', 'dramatização', 'espontaneidade', 'criatividade', 'técnicas terapêuticas', 'catarse'],
-    isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'theater masks drama'
-  },
-  {
-    id: 'narrativa-020-relogios-descompassados',
+    imageUrl: '/images/mes-edicoes/m06/ed020/i03.png',
+    imageHint: 'masks personality abstract psychology diversity'
+};
+
+const narrativa020: Conteudo = {
+    id: 'narrativa-050-cidade-emocoes-engarrafadas', // Usando ID novo para evitar conflito, mas conteúdo similar ao que foi planejado
     tipo: 'narrativa_ficticia',
-    titulo: 'A Cidade dos Relógios Descompassados e a Busca pelo Tempo Interior',
-    subtitulo: 'Uma fábula sobre uma cidade onde todos os relógios marcavam tempos diferentes, refletindo a desconexão das pessoas com seus próprios ritmos internos, e a jornada para reencontrar a harmonia do tempo pessoal.',
+    titulo: 'A Cidade das Emoções Engarrafadas e a Válvula Libertadora da Expressão Criativa e Autêntica',
+    subtitulo: 'Uma fábula sobre uma cidade onde as pessoas reprimiam tanto seus sentimentos que eles começavam a se manifestar de formas estranhas e opressoras, até que uma artista os ensinou a liberar suas emoções através da arte, da dança e da música, restaurando a vitalidade da comunidade.',
     autor: 'Clarice Fictícia Arantes',
     persona_autor: 'A Psicóloga Inventiva',
     data_publicacao: '2025-06-13',
     corpo: [
-      { tipo: 'paragrafo', texto: 'Na distante Cidade de Cronos Inconstante, um fenômeno peculiar afligia seus habitantes: nenhum relógio marcava a mesma hora. O grande relógio da praça central podia badalar o meio-dia enquanto o relógio da padaria insistia que eram três da tarde e o relógio de pulso de um transeunte apressado já se adiantava para o anoitecer. Essa desordem temporal externa era um espelho da desarmonia interna dos cidadãos, que viviam em um estado de perpétua pressa, ansiedade ou descompasso com seus próprios ritmos biológicos e emocionais.' },
-      { tipo: 'paragrafo', texto: 'Alguns corriam freneticamente, tentando se adequar ao relógio mais acelerado, esgotando suas energias em uma busca incessante por produtividade e antecipação do futuro. Outros se arrastavam, presos a relógios que pareciam andar para trás, remoendo o passado e incapazes de se conectar com o presente. A cidade vivia sob a tirania de um tempo fragmentado, onde ninguém parecia estar verdadeiramente "no seu tempo".' },
-      { tipo: 'dialogo', personagem: 'Uma Velha Sábia da Cidade', fala: 'O tempo do mundo, meus caros, é uma ilusão barulhenta se não estivermos sintonizados com o relógio silencioso que cada um carrega no peito: o tempo da alma, o ritmo do coração, a cadência da respiração. Quando nos desconectamos desse tempo interior, os relógios externos se tornam nossos algozes, nunca nossos guias.' },
-      { tipo: 'paragrafo', texto: 'Um jovem artesão, chamado Kairos (que ironicamente carregava o nome do tempo oportuno), cansado de ver o sofrimento causado por essa dessincronia, decidiu não consertar os relógios da cidade, mas ajudar as pessoas a encontrar seus próprios "relógios internos". Ele criou pequenos jardins de meditação, oficinas de arte intuitiva e círculos de contação de histórias onde as pessoas podiam se desligar do ruído externo e simplesmente "ser", escutando suas necessidades de descanso, de criação, de conexão, de silêncio.' },
-      { tipo: 'paragrafo', texto: 'Aos poucos, à medida que os cidadãos começavam a honrar seus tempos internos – alguns precisando de mais pausas, outros de mais movimento, alguns de mais introspecção, outros de mais expressão – algo mágico acontecia. Os relógios da cidade não se sincronizaram magicamente, mas perderam seu poder opressor. As pessoas aprenderam a usar o tempo do mundo como uma referência, mas a viver de acordo com a sabedoria de seus próprios ritmos. Descobriram que a verdadeira harmonia não estava em um tempo único e universal, mas na dança respeitosa entre o tempo interno de cada um e o fluxo da vida. A Cidade de Cronos Inconstante, então, transformou-se na Cidade dos Tempos Sinceros.' }
+      { tipo: 'paragrafo', texto: 'Na outrora vibrante Cidade de Cordis, um estranho costume havia se enraizado: a repressão sistemática das emoções. Seus habitantes, temendo o desconforto do sentir intenso ou o julgamento social, aprenderam a engarrafar seus sentimentos em frascos de vidro opaco, escondendo-os em porões escuros ou enterrando-os em jardins secretos. A tristeza era disfarçada com sorrisos forçados, a raiva era sufocada em silêncios tensos, e a alegria, por medo de parecer inadequada ou excessiva, era contida em suspiros discretos. A cidade tornou-se um modelo de compostura e aparente serenidade, mas por baixo dessa superfície polida, uma pressão invisível começava a se acumular.' },
+      { tipo: 'paragrafo', texto: 'Com o tempo, as emoções engarrafadas começaram a se manifestar de formas bizarras e perturbadoras. A tristeza não chorada transformava-se em uma névoa constante que pairava sobre a cidade, tornando as cores opacas e os dias perpetuamente cinzentos. A raiva contida vazava como pequenas explosões de irritabilidade inexplicável, em objetos que quebravam sozinhos ou em discussões sussurradas que terminavam em mal-entendidos profundos. A alegria reprimida fazia com que as flores do parque perdessem seu perfume e as canções dos pássaros se tornassem monótonas. A cidade, antes conhecida por sua vitalidade, estava lentamente se asfixiando em seus próprios sentimentos não expressos.' },
+      { tipo: 'dialogo', personagem: 'Um Velho Sábio que observava tudo de sua janela', fala: 'Ah, Cordis, Cordis... vocês temem tanto a tempestade de seus corações que preferem viver sob uma eterna garoa de melancolia. Não percebem que as emoções são a própria correnteza da vida? Tentar contê-las em garrafas é como tentar aprisionar um rio; ele sempre encontrará uma forma de transbordar, e nem sempre da maneira mais gentil.' },
+      { tipo: 'paragrafo', texto: 'Um dia, chegou à cidade uma jovem artista itinerante chamada Lyra. Ela não carregava pincéis ou instrumentos musicais convencionais, mas sim uma aura de liberdade e uma capacidade contagiante de sentir e expressar suas emoções sem medo. Seus olhos brilhavam com a curiosidade de uma criança e seus movimentos eram fluidos como a dança do vento. Observando a opressão silenciosa de Cordis, Lyra sentiu um chamado em seu coração.' },
+      { tipo: 'paragrafo', texto: 'Ela começou a montar pequenos palcos nas praças, não para performances ensaiadas, mas para convidar os habitantes a "desengarrafar" suas emoções através da arte. Para a tristeza, ela oferecia argila macia, e mãos hesitantes começavam a moldar formas que expressavam a dor da perda ou da saudade, e as lágrimas, antes presas, fluíam como rios curativos. Para a raiva, ela oferecia grandes telas e tintas vibrantes, e os cidadãos, inicialmente receosos, começavam a pintar com gestos largos e cores fortes, transformando a fúria destrutiva em expressão catártica e poderosa. Para a alegria contida, ela trazia tambores e flautas, e logo os pés começavam a bater no chão, os corpos a se mover em danças espontâneas e os risos, antes tímidos, ecoavam pelas ruas, dissipando a névoa cinzenta.' },
+      { tipo: 'paragrafo', texto: 'Lyra não ensinou os habitantes de Cordis a controlar suas emoções, mas a honrá-las, a escutá-las e a encontrar canais criativos e autênticos para sua expressão. As garrafas nos porões começaram a ser esvaziadas, não com medo, mas com um ritual de libertação e aceitação. A cidade não se tornou um lugar de caos emocional, mas sim de uma vitalidade redescoberta, onde a tristeza podia coexistir com a alegria, a raiva com a compaixão, e onde cada sentimento, uma vez reconhecido e expresso, tornava-se uma cor única e essencial na vibrante e complexa tapeçaria da vida. Cordis aprendeu que a verdadeira serenidade não nasce da ausência de emoções, mas da coragem de senti-las em sua plenitude.' }
     ],
-    tags: ['tempo', 'ritmo interno', 'mindfulness', 'ansiedade', 'bem-estar', 'narrativa', 'autocuidado', 'pressa'],
+    tags: ['repressão emocional', 'expressão criativa', 'arteterapia', 'saúde mental', 'narrativa', 'fábula', 'catarse', 'inteligência emocional', 'autenticidade'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'multiple clocks different times'
-  },
-  {
-    id: 'coluna-020-nomear-emocoes',
+    imageUrl: '/images/mes-edicoes/m06/ed020/i04.png',
+    imageHint: 'person painting emotions with vibrant colors flowing from bottles'
+};
+
+const coluna020: Conteudo = {
+    id: 'coluna-050-arquitetura-emocional-espacos', // Usando ID novo
     tipo: 'coluna_fixa',
-    titulo: 'Palavras da Alma: O Poder Curativo e Libertador de Nomear Nossas Emoções',
-    subtitulo: 'Uma reflexão sobre como a simples habilidade de identificar e nomear corretamente o que estamos sentindo pode diminuir a intensidade de emoções difíceis e aumentar nossa autoconsciência e capacidade de regulação emocional.',
+    titulo: 'Palavras da Alma: A Influência Sutil da Arquitetura Emocional dos Espaços no Nosso Bem-Estar Cotidiano e Comportamento – Uma Perspectiva da Psicologia Ambiental',
+    subtitulo: 'Reflexões sobre como o design, a iluminação, as cores, os materiais e a organização dos ambientes que habitamos (casa, trabalho, cidade) afetam profundamente nosso humor, nossos níveis de estresse, nossa criatividade e nossas interações sociais, e a importância de criar espaços que nutram a alma e promovam a saúde mental.',
     autor: 'Kai Fictício Oliveira',
     persona_autor: 'O Analista de Contextos',
     data_publicacao: '2025-06-13',
     corpo: [
-      { tipo: 'paragrafo', texto: 'Muitas vezes, quando somos tomados por uma emoção intensa e desconfortável – seja ela ansiedade, raiva, tristeza ou uma mistura confusa delas – nossa primeira reação pode ser tentar fugir, suprimir ou nos distrair. No entanto, pesquisas em neurociência e psicologia sugerem que uma das ferramentas mais poderosas e acessíveis para lidar com esses estados internos é a simples, mas profunda, habilidade de nomear nossas emoções ("Name it to tame it", como diz o neuropsiquiatra Daniel Siegel).' },
-      { tipo: 'paragrafo', texto: 'Quando conseguimos identificar e rotular verbalmente o que estamos sentindo (ex: "Estou me sentindo apreensivo e um pouco irritado agora", em vez de apenas "Estou mal"), ativamos regiões do nosso cérebro, como o córtex pré-frontal, que estão envolvidas no processamento da linguagem e no controle executivo. Essa ativação parece ajudar a modular a atividade de regiões mais primitivas e reativas, como a amígdala (o centro do medo e das respostas emocionais intensas). Ao dar um nome à emoção, criamos uma pequena distância psicológica dela, passamos de um estado de sermos "engolidos" pela emoção para um estado de observá-la com um pouco mais de clareza e objetividade.' },
-      { tipo: 'paragrafo', texto: 'Nomear a emoção não a faz desaparecer magicamente, mas pode diminuir sua intensidade avassaladora, tornando-a mais gerenciável. É o primeiro passo para entendê-la melhor: O que desencadeou esse sentimento? A que necessidade não atendida ele pode estar apontando? Qual seria uma forma construtiva de responder a ele? Desenvolver um vocabulário emocional mais rico e preciso nos permite navegar nosso mundo interior com mais sabedoria, autocompaixão e habilidade, transformando o caos emocional em autoconhecimento e crescimento.' }
+      { tipo: 'paragrafo', texto: 'Nossos ambientes físicos são muito mais do que meros cenários passivos onde nossas vidas se desenrolam. Eles são participantes ativos em nossa experiência psicológica, moldando sutil e poderosamente nosso humor, nossos níveis de estresse, nossa capacidade de concentração, nossa criatividade e até mesmo a qualidade de nossas interações sociais. A Psicologia Ambiental, um campo fascinante que estuda a transação entre indivíduos e seus entornos, nos ensina que a "arquitetura emocional" dos espaços que habitamos – desde a nossa casa e local de trabalho até o desenho de nossas cidades – tem um impacto profundo e muitas vezes subestimado em nosso bem-estar integral.' },
+      { tipo: 'paragrafo', texto: 'Pense na sensação de entrar em um ambiente escuro, apertado, desorganizado e com pouca ventilação, em contraste com um espaço amplo, iluminado por luz natural, com cores acolhedoras, plantas e uma organização que flui. O primeiro tende a gerar sentimentos de opressão, ansiedade e fadiga mental, enquanto o segundo pode evocar calma, clareza e inspiração. Elementos como a altura do teto, a presença de janelas com vista para a natureza, a qualidade do ar, a acústica do ambiente, a escolha dos materiais (naturais versus sintéticos) e a própria disposição dos móveis e objetos podem influenciar nosso estado fisiológico e psicológico de maneiras significativas.' },
+      { tipo: 'paragrafo', texto: 'O design biofílico, por exemplo, que busca incorporar elementos e padrões da natureza nos ambientes construídos, tem demonstrado reduzir o estresse, melhorar a concentração e aumentar a sensação de bem-estar, baseando-se em nossa afinidade inata com o mundo natural. Da mesma forma, espaços que promovem a interação social espontânea (como praças bem desenhadas ou áreas de convivência agradáveis no trabalho) podem fortalecer os laços comunitários e combater o isolamento. Por outro lado, ambientes que geram sobrecarga sensorial (excesso de ruído, informações visuais caóticas) ou que nos fazem sentir inseguros e expostos podem aumentar a irritabilidade e a ansiedade.' },
+      { tipo: 'paragrafo', texto: 'Tornarmo-nos mais conscientes do impacto que nossos espaços exercem sobre nós é o primeiro passo para criarmos ambientes – tanto pessoais quanto coletivos – que sejam mais alinhados com nossas necessidades psicológicas e que promovam ativamente nossa saúde mental. Não se trata apenas de estética, mas de reconhecer que a forma como moldamos nossos espaços também molda a forma como nos sentimos, pensamos e vivemos. Que possamos, então, dar mais atenção à arquitetura de nossa alma, cuidando dos lugares que habitamos como cuidamos de nossos próprios corações, buscando criar refúgios que nos nutram, nos inspirem e nos permitam florescer em nossa plenitude.' }
     ],
-    tags: ['nomear emoções', 'inteligência emocional', 'regulação emocional', 'mindfulness', 'autoconsciência', 'coluna', 'Daniel Siegel'],
+    tags: ['psicologia ambiental', 'arquitetura emocional', 'design biofílico', 'bem-estar', 'espaços urbanos', 'coluna', 'saúde mental', 'design de interiores', 'ambientes saudáveis'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
-    imageHint: 'words emotions spectrum'
-  }
+    imageUrl: '/images/mes-edicoes/m06/ed020/i05.png',
+    imageHint: 'beautiful interior space with natural light and plants, evoking peace and well-being'
+};
+
+const psicofarmaco020: Conteudo = {
+    id: 'psicofarmaco-050-farmacogenomica-psiquiatria', // ID novo
+    tipo: 'artigo_aprofundado',
+    titulo: 'Farmacogenômica em Psiquiatria: Promessas, Desafios e o Caminho Rumo a uma Prescrição de Psicofármacos Mais Personalizada, Segura e Eficaz',
+    subtitulo: 'Uma análise aprofundada sobre como as variações genéticas individuais podem influenciar a resposta e a tolerabilidade a medicamentos psiquiátricos, o potencial dos testes farmacogenômicos para otimizar o tratamento, e as limitações e considerações éticas atuais deste campo emergente.',
+    autor: 'Dra. Sofia Fictícia Klein',
+    persona_autor: 'A Farmacologista Cautelosa',
+    data_publicacao: '2025-06-13',
+    corpo: [
+      { tipo: 'paragrafo', texto: 'A resposta individual a medicamentos psicotrópicos é notoriamente variável. O que funciona bem para um paciente com depressão ou ansiedade pode ser ineficaz ou causar efeitos colaterais intoleráveis em outro, mesmo com diagnósticos semelhantes. Essa variabilidade é influenciada por múltiplos fatores, incluindo idade, sexo, comorbidades, interações medicamentosas e, cada vez mais reconhecido, o perfil genético do indivíduo. A farmacogenômica (ou farmacogenética) é o campo da ciência que estuda como as variações nos genes de uma pessoa afetam sua resposta a medicamentos, com o objetivo de desenvolver uma prescrição mais personalizada, segura e eficaz – a chamada "medicina de precisão" aplicada à psiquiatria.' },
+      { tipo: 'paragrafo', texto: 'Muitos psicofármacos são metabolizados no fígado por enzimas do sistema do citocromo P450 (CYP450), como CYP2D6, CYP2C19, CYP3A4, entre outras. Variações genéticas (polimorfismos) nos genes que codificam essas enzimas podem levar a diferenças significativas na velocidade com que os medicamentos são metabolizados. Indivíduos podem ser classificados como metabolizadores lentos, normais (extensivos), rápidos ou ultrarrápidos para um determinado fármaco. Metabolizadores lentos podem acumular o medicamento no organismo, aumentando o risco de efeitos colaterais e toxicidade, mesmo com doses padrão. Metabolizadores ultrarrápidos podem eliminar o medicamento muito rapidamente, resultando em níveis subterapêuticos e falta de eficácia com doses usuais.' },
+      { tipo: 'paragrafo', texto: 'Além do metabolismo, variações genéticas em alvos farmacodinâmicos – como receptores de neurotransmissores (ex: receptor de serotonina 5-HT2A), transportadores de neurotransmissores (ex: transportador de serotonina SERT, alvo dos ISRS) ou proteínas envolvidas na resposta imune ou inflamatória – também podem influenciar a sensibilidade do indivíduo aos efeitos terapêuticos ou adversos de um psicofármaco.' },
+      { tipo: 'sub_cabecalho', texto: 'O Potencial dos Testes Farmacogenômicos em Psiquiatria:' },
+      { tipo: 'paragrafo', texto: 'Testes farmacogenômicos, geralmente realizados a partir de uma amostra de saliva ou sangue, analisam um painel de variações genéticas relevantes para a resposta a psicofármacos. A ideia é que os resultados desses testes possam ajudar o médico a:' },
+      { tipo: 'lista_nao_ordenada', itens: [
+        { texto: 'Selecionar o Medicamento Mais Provável de Ser Eficaz: Identificar quais fármacos têm maior chance de funcionar bem para aquele paciente específico, com base em seu perfil genético.' },
+        { texto: 'Ajustar a Dose de Forma Mais Precisa: Orientar a dose inicial ou os ajustes de dose com base no perfil metabólico do paciente (ex: doses menores para metabolizadores lentos, doses maiores ou outro fármaco para metabolizadores ultrarrápidos).' },
+        { texto: 'Prever e Minimizar o Risco de Efeitos Colaterais: Identificar pacientes com maior risco genético para certos efeitos adversos (ex: risco aumentado de síndrome de Stevens-Johnson com carbamazepina em portadores de certos alelos HLA) e escolher alternativas mais seguras.' },
+        { texto: 'Reduzir o Tempo de Tentativa e Erro: Acelerar o processo de encontrar o tratamento mais adequado, diminuindo o sofrimento do paciente e os custos associados a tratamentos ineficazes ou mal tolerados.' }
+      ]},
+      { tipo: 'sub_cabecalho', texto: 'Desafios, Limitações e Considerações Éticas Atuais:' },
+      { tipo: 'paragrafo', texto: 'Apesar do grande potencial e do crescente interesse, a farmacogenômica em psiquiatria ainda enfrenta desafios significativos:' },
+      { tipo: 'lista_nao_ordenada', itens: [
+        { texto: 'Complexidade da Resposta a Medicamentos: A resposta a psicofármacos é multifatorial, e os genes são apenas um dos componentes. Fatores ambientais, estilo de vida, comorbidades, interações medicamentosas e a própria heterogeneidade dos transtornos mentais também desempenham papéis cruciais. Os testes atuais geralmente analisam um número limitado de genes e não capturam toda essa complexidade.' },
+        { texto: 'Evidências Clínicas Ainda em Desenvolvimento para Muitos Testes: Embora haja evidências mais robustas para algumas associações gene-fármaco (ex: HLA-B*1502 e risco de reações cutâneas graves com carbamazepina em populações asiáticas), para muitas outras, a utilidade clínica dos testes farmacogenômicos em melhorar os desfechos do tratamento psiquiátrico ainda precisa ser mais consistentemente demonstrada em ensaios clínicos randomizados de larga escala e em populações diversas. Muitas diretrizes clínicas ainda consideram seu uso como "promissor, mas não rotineiramente recomendado" para a maioria das situações.' },
+        { texto: 'Custo e Acesso: Os testes farmacogenômicos ainda podem ser caros e não amplamente cobertos por sistemas de saúde públicos ou privados, limitando seu acesso.' },
+        { texto: 'Interpretação dos Resultados: A interpretação dos resultados dos testes requer conhecimento especializado e deve ser feita no contexto clínico completo do paciente. Não são "bolas de cristal" que ditam a prescrição de forma automática.' },
+        { texto: 'Questões Éticas, Legais e Sociais (ELSI): Preocupações sobre privacidade genética, potencial de discriminação com base em resultados genéticos, e a necessidade de aconselhamento genético adequado precisam ser consideradas.' }
+      ]},
+      { tipo: 'paragrafo', texto: 'A farmacogenômica representa um avanço animador na busca por uma psiquiatria mais precisa e personalizada. À medida que a pesquisa avança e os custos diminuem, é provável que os testes farmacogenômicos se tornem ferramentas cada vez mais integradas à prática clínica. No entanto, é fundamental que seu uso seja guiado por evidências científicas sólidas, por uma interpretação clínica criteriosa e por uma profunda consideração dos aspectos éticos e das necessidades individuais de cada paciente. Eles são uma ferramenta a mais no arsenal terapêutico, e não uma panaceia, e nunca devem substituir a importância crucial de uma avaliação clínica abrangente, de uma forte aliança terapêutica e de uma abordagem de tratamento que seja verdadeiramente holística e centrada na pessoa.' }
+    ],
+    tags: ['farmacogenômica', 'psicofarmacologia', 'medicina de precisão', 'psiquiatria', 'genética', 'testes farmacogenômicos', 'CYP450', 'antidepressivos', 'segurança do paciente', 'tratamento personalizado'],
+    isPremium: false,
+    imageUrl: '/images/mes-edicoes/m06/ed020/i06.png',
+    imageHint: 'genetic testing medicine brain connection with DNA strands'
+};
+
+const tecnica020: Conteudo = {
+    id: 'tecnica-050-biofeedback-ansiedade', // ID novo
+    tipo: 'artigo_aprofundado', // Ajustado para artigo_aprofundado para refletir a profundidade, embora possa ser uma técnica
+    titulo: 'Biofeedback: Aprendendo a "Ouvir" e a Controlar Respostas Fisiológicas para o Manejo da Ansiedade, do Estresse e da Dor Crônica – Uma Visão Integrativa',
+    subtitulo: 'Explore como o biofeedback, uma técnica mente-corpo que utiliza instrumentação eletrônica para fornecer informações em tempo real sobre processos fisiológicos, pode capacitar indivíduos a ganharem maior controle voluntário sobre essas funções, promovendo relaxamento, alívio de sintomas e bem-estar.',
+    autor: 'Dr. Arthur Fictício Mendes Neto',
+    persona_autor: 'Dr. Analítico',
+    data_publicacao: '2025-06-13',
+    corpo: [
+      { tipo: 'paragrafo', texto: 'O biofeedback é uma técnica terapêutica não invasiva e baseada em evidências que se enquadra no campo da medicina mente-corpo e da psicologia da saúde. Ela utiliza instrumentos eletrônicos sensíveis para monitorar e fornecer ao indivíduo informações em tempo real (feedback) sobre processos fisiológicos que são normalmente inconscientes ou fora do controle voluntário, como frequência cardíaca, ondas cerebrais, tensão muscular, temperatura da pele e respiração. O objetivo fundamental do biofeedback é capacitar a pessoa a aprender a reconhecer e a controlar conscientemente essas respostas fisiológicas, a fim de melhorar a saúde, o desempenho e o bem-estar. É uma forma de "treinamento" para a autorregulação, onde o indivíduo se torna um agente ativo em seu próprio processo de cura e equilíbrio.' },
+      { tipo: 'paragrafo', texto: 'Ao receber um feedback claro e imediato sobre uma função corporal específica (ex: um som que fica mais agudo quando a tensão muscular aumenta, ou uma barra visual que sobe quando a frequência cardíaca diminui), a pessoa pode experimentar diferentes estratégias mentais ou de relaxamento e observar diretamente seu impacto nessas respostas fisiológicas. Com a prática e a orientação de um terapeuta treinado, ela aprende a identificar as sensações internas associadas a estados de relaxamento ou de menor reatividade ao estresse, e a reproduzir esses estados voluntariamente, mesmo sem o auxílio do equipamento. É um processo de aprendizado que fortalece a conexão mente-corpo e aumenta o senso de autoeficácia.' },
+      { tipo: 'sub_cabecalho', texto: 'Principais Tipos de Biofeedback e Suas Aplicações Terapêuticas:' },
+      { tipo: 'paragrafo', texto: 'Existem diferentes modalidades de biofeedback, cada uma focada em um sistema fisiológico específico:' },
+      {
+        tipo: 'lista_nao_ordenada',
+        itens: [
+          {
+            texto: 'Eletromiografia (EMG) Biofeedback: Mede a atividade elétrica dos músculos e a tensão muscular. É frequentemente utilizado para:',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Reduzir a tensão muscular crônica associada ao estresse, dores de cabeça tensionais, dores nas costas ou pescoço.' },
+                { texto: 'Reabilitação muscular após lesões ou cirurgias.' },
+                { texto: 'Tratamento de bruxismo (ranger os dentes).' }
+              ]
+            }
+          },
+          {
+            texto: 'Biofeedback de Temperatura (ou Termal): Mede a temperatura da pele, geralmente nos dedos das mãos, que tende a diminuir em estados de estresse (devido à vasoconstrição periférica) e a aumentar em estados de relaxamento. É útil para:',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Reduzir a frequência e a intensidade de enxaquecas (especialmente as de origem vascular).' },
+                { texto: 'Manejo da doença de Raynaud (condição que afeta o fluxo sanguíneo para as extremidades).' },
+                { texto: 'Promover o relaxamento geral e o manejo do estresse.' }
+              ]
+            }
+          },
+          {
+            texto: 'Biofeedback de Variabilidade da Frequência Cardíaca (VFC) ou HRV Biofeedback: Mede as variações nos intervalos entre os batimentos cardíacos, um indicador da atividade do sistema nervoso autônomo e da capacidade de adaptação ao estresse. Uma maior VFC está associada a uma melhor saúde cardiovascular e a uma maior resiliência ao estresse. O treinamento visa aumentar a VFC através de técnicas de respiração coerente (geralmente em torno de 6 respirações por minuto). É usado para:',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Redução da ansiedade e do estresse.' },
+                { texto: 'Melhora da regulação emocional.' },
+                { texto: 'Tratamento coadjuvante para depressão, hipertensão e asma.' }
+              ]
+            }
+          },
+          {
+            texto: 'Eletroencefalografia (EEG) Biofeedback (ou Neurofeedback): Mede a atividade elétrica do cérebro (ondas cerebrais) e treina o indivíduo a modificar seus padrões de ondas cerebrais para um estado mais desejável (ex: aumentar ondas alfa para relaxamento, ou ondas beta de baixa frequência para foco e atenção). Tem sido aplicado a uma variedade de condições, embora a pesquisa ainda esteja em evolução para algumas delas:',
+            subLista: {
+              tipo: 'lista_ordenada',
+              itens: [
+                { texto: 'Transtorno de Déficit de Atenção e Hiperatividade (TDAH).' },
+                { texto: 'Ansiedade e depressão.' },
+                { texto: 'Distúrbios do sono.' },
+                { texto: 'Epilepsia (em alguns casos).' },
+                { texto: 'Otimização do desempenho cognitivo e esportivo.' }
+              ]
+            }
+          },
+          { texto: 'Biofeedback de Resposta Galvânica da Pele (GSR) ou Eletrodérmica (EDA): Mede as pequenas mudanças na condutividade elétrica da pele, que reflete a atividade das glândulas sudoríparas e é um indicador da excitação emocional ou do estresse. Pode ser usado para aumentar a consciência sobre as respostas de estresse e treinar o relaxamento.' }
+        ]
+      },
+      { tipo: 'paragrafo', texto: 'O biofeedback é geralmente realizado em sessões com um terapeuta qualificado, que ajuda a interpretar os sinais, a guiar as estratégias de controle e a transferir as habilidades aprendidas para a vida cotidiana. É uma abordagem que empodera o indivíduo, mostrando que ele tem a capacidade de influenciar ativamente seus próprios processos fisiológicos e de promover sua saúde e bem-estar de dentro para fora. Embora não seja uma panaceia, o biofeedback pode ser uma ferramenta valiosa e complementar dentro de um plano de tratamento integrativo para diversas condições relacionadas ao estresse, à ansiedade e à dor.' }
+    ],
+    tags: ['biofeedback', 'neurofeedback', 'terapia mente-corpo', 'autorregulação', 'manejo do estresse', 'ansiedade', 'dor crônica', 'técnicas terapêuticas', 'psicologia da saúde', 'variabilidade da frequência cardíaca'],
+    isPremium: false,
+    imageUrl: '/images/mes-edicoes/m06/ed020/i07.png',
+    imageHint: 'brain connected to computer monitoring waves with a person looking calm and focused'
+};
+
+export const conteudosEdicao020: Conteudo[] = [ // Renomeando para edicao020
+  editorial020,
+  aprofundado020_1,
+  aprofundado020_2,
+  narrativa020,
+  coluna020,
+  psicofarmaco020,
+  tecnica020,
 ];
 
-export const edicao020: Edicao = {
+export const edicao020: Edicao = { // Renomeando para edicao020
   edicao: "020",
   data: "2025-06-13", // Sexta-feira
   capa: {
-    titulo_principal: "Fronteiras da Mente: AGI, o Self de James e o Sentido do Trabalho",
-    subtitulo: "Uma edição especial mergulhando nas complexidades da inteligência artificial e humana, nos conceitos de self e consciência de William James, e na busca contemporânea por propósito no universo profissional. Inclui também uma introdução ao psicodrama e reflexões sobre o tempo e as emoções.",
-    imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "mind gears abstract thinking",
-    credito_imagem: "PsychDaily Images",
+    titulo_principal: "Mente em Crise, Saberes da Terra e o Futuro da Psique Personalizada",
+    subtitulo: "Nesta edição especial: A psicologia da crise e do desastre, a farmacogenômica na psiquiatria, o estruturalismo de Wundt, a dinâmica da personalidade, a arquitetura emocional dos espaços e o poder do biofeedback.",
+    imagem_destaque: "https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwY3Jpc2lzJTIwcGVyc29uYWxpemVkfGVufDB8fHx8MTcxODYzNTk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    imageHint: "brain crisis personalized medicine connection to nature and mind structure",
+    credito_imagem: "Unsplash",
     links_manchetes: [
-      { titulo: "AGI e Inteligência Humana: Uma Análise Epistemológica...", id_conteudo: "aprofundado-020-agi-inteligencia-humana" },
-      { titulo: "O Self Multifacetado de William James: Consciência, Hábito...", id_conteudo: "aprofundado-020-william-james-self" },
-      { titulo: "Além do Salário: Encontrando Propósito e Sentido no Trabalho...", id_conteudo: "aprofundado-020-sentido-trabalho" },
-      { titulo: "Teatro da Alma: Introdução ao Psicodrama...", id_conteudo: "tecnica-020-psicodrama" }
+      { titulo: editorial020.titulo, id_conteudo: editorial020.id },
+      { titulo: aprofundado020_1.titulo, id_conteudo: aprofundado020_1.id },
+      { titulo: psicofarmaco020.titulo, id_conteudo: psicofarmaco020.id },
+      { titulo: tecnica020.titulo, id_conteudo: tecnica020.id }
     ]
   },
   secoes: [
     {
-      nome_secao: "Destaques da Edição",
+      nome_secao: "Destaques da Edição: Psique, Crise e Futuro",
       tipo: "capa",
       conteudo_ids: [
-        "editorial-020-paixao-paciencia",
-        "aprofundado-020-agi-inteligencia-humana",
-        "aprofundado-020-william-james-self",
-        "aprofundado-020-sentido-trabalho"
+        editorial020.id,
+        aprofundado020_1.id, // Estruturalismo
+        psicofarmaco020.id, // Farmacogenômica
+        aprofundado020_2.id  // Psicologia da Personalidade
       ]
     },
     {
       nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
-      conteudo_ids: ["editorial-020-paixao-paciencia"]
+      conteudo_ids: [editorial020.id]
     },
     {
-      nome_secao: "Explorando o Labirinto da Mente",
+      nome_secao: "Exploração Profunda: Teorias Fundamentais e Aplicações",
       tipo: "caderno_especial",
-      conteudo_ids: [
-        "aprofundado-020-agi-inteligencia-humana",
-        "aprofundado-020-william-james-self",
-        "aprofundado-020-sentido-trabalho"
-      ]
+      conteudo_ids: [aprofundado020_1.id, aprofundado020_2.id]
     },
     {
-      nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
-      tipo: "caderno_especial",
-      conteudo_ids: ["tecnica-020-psicodrama"]
-    },
-    {
-      nome_secao: "Contos da Psique",
+      nome_secao: "Contos da Psique: Metáforas da Alma Inventiva",
       tipo: "narrativas",
-      conteudo_ids: ["narrativa-020-relogios-descompassados"]
+      conteudo_ids: [narrativa020.id]
     },
     {
-      nome_secao: "Palavras da Alma",
+      nome_secao: "Palavras da Alma: Reflexões do Analista de Contextos",
       tipo: "colunas",
-      conteudo_ids: ["coluna-020-nomear-emocoes"]
+      conteudo_ids: [coluna020.id]
+    },
+    {
+      nome_secao: "Psicofarmacologia Crítica: Avanços e Cautelas",
+      tipo: "caderno_especial",
+      conteudo_ids: [psicofarmaco020.id]
+    },
+    {
+      nome_secao: "Ferramentas para o Bem-Estar: Técnicas Mente-Corpo",
+      tipo: "caderno_especial",
+      conteudo_ids: [tecnica020.id]
     }
-    // Removendo seção de Psicofarmacologia e Crônica para esta edição especial,
-    // para dar mais espaço aos artigos de aprofundamento e ao tema do psicodrama.
   ]
 };
 

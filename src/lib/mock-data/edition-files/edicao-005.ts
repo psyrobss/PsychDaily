@@ -192,7 +192,7 @@ export const conteudosEdicao005: Conteudo[] = [
 
 export const edicao005: Edicao = {
   edicao: "005",
-  data: "2025-05-23",
+  data: "2025-05-23", // sexta-feira
   capa: {
     titulo_principal: "Gratidão, O Poder do Inconsciente e a Arte Libertadora da Pausa",
     subtitulo: "Nesta edição aprofundada: Como a gratidão diária e a visualização criativa podem transformar seu bem-estar, o papel crucial do inconsciente em nossas decisões, os dilemas éticos do placebo, e a urgência de pausas conscientes em um mundo acelerado.",

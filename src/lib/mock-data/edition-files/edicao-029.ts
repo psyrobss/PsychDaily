@@ -17,7 +17,7 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['resiliência', 'cotidiano', 'bem-estar emocional', 'superação', 'editorial', 'mindfulness', 'autocompaixão'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1534531808129-a43a53f35078?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMHBsYW50JTIwZ3Jvd2luZyUyMGNyYWNrfGVufDB8fHx8MTcxNzk1NzgzN3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i01.png',
     imageHint: 'plant growing crack'
   },
   {
@@ -40,7 +40,7 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['Rorschach', 'testes projetivos', 'avaliação psicológica', 'psicanálise', 'inconsciente', 'personalidade', 'TAT', 'história da psicologia'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1560420829-a21fe016808b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb3JzY2hhY2glMjBpbmtibG90fGVufDB8fHx8MTcxNzk1ODAyNnww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i02.png',
     imageHint: 'rorschach inkblot'
   },
   {
@@ -85,7 +85,7 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['burnout', 'estresse ocupacional', 'saúde mental no trabalho', 'exaustão emocional', 'despersonalização', 'prevenção'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1554224154-2672932207c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHxlbmVyZ3klMjBmbG93JTIwYWJzdHJhY3QlMjBib2R5fGVufDB8fHx8MTcxNzg4MTAwMnww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i03.png',
     imageHint: 'person exhausted desk'
   },
   {
@@ -111,7 +111,7 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['tríade sombria', 'narcisismo', 'maquiavelismo', 'psicopatia', 'personalidade', 'psicologia social', 'relacionamentos tóxicos', 'ambiente de trabalho'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1568822376054-617c1671997c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXJrJTIwcGVyc29uYWxpdHklMjBzaGFkb3d8ZW58MHx8fHwxNzE3OTU4MTE0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i04.png',
     imageHint: 'dark personality shadow'
   },
   {
@@ -130,7 +130,7 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['emoções', 'cores', 'inteligência emocional', 'equilíbrio', 'narrativa', 'fábula', 'autoconsciência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1502691879800-1ae32599e893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyYWluYm93JTIwZW1vdGlvbnMlMjBhYnN0cmFjdHxlbnwwfHx8fDE3MTc5NTgyMzN8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i05.png',
     imageHint: 'rainbow emotions abstract'
   },
   {
@@ -148,7 +148,7 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['escuta ativa', 'comunicação', 'empatia', 'polarização', 'ruído informativo', 'coluna', 'relacionamentos', 'mindfulness'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1582807107913-d80195549545?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBsaXN0ZW5pbmclMjBpbnRlbnRseXxlbnwwfHx8fDE3MTc5NTgzMDh8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i06.png',
     imageHint: 'man listening intently'
   },
   {
@@ -175,10 +175,9 @@ export const conteudosEdicao029: Conteudo[] = [
     ],
     tags: ['mindfulness', 'aceitação', 'ACT', 'terapia cognitivo-comportamental', 'emoções', 'pensamentos negativos', 'técnicas terapêuticas', 'regulação emocional', 'ansiedade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1474418397713-7ede21d4990a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMGJyZWF0aCUyMGNsb3NlfGVufDB8fHx8MTcxNzk1ODQ1NXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed029/i07.png',
     imageHint: 'mindfulness breath close'
   }
-  // A seção de Psicofarmacologia e Crônica Terapêutica foram omitidas intencionalmente para dar espaço aos 3 artigos de aprofundamento solicitados.
   // A crônica foi substituída por uma narrativa e a psicofarmacologia por um dos artigos de aprofundamento.
 ];
 

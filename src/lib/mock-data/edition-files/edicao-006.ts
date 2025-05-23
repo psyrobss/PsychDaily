@@ -25,7 +25,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ['autenticidade', 'autoconhecimento', 'pressão social', 'vulnerabilidade', 'editorial', 'conexões humanas', 'compaixão', 'narrativas de cura', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1514582086679-4024becf927e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjByZW1vdmluZyUyMG1hc2slMjByZWZsZWN0aW9ufGVufDB8fHx8MTcxODQwNDQzM3ww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i01.png',
     imageHint: 'person removing a mask looking at their true reflection in a mirror, symbolizing authenticity'
   },
   {
@@ -63,7 +63,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["efeito spotlight", "percepção social", "ansiedade social", "psicologia cognitiva", "vieses cognitivos", "Thomas Gilovich", "autoconsciência", "julgamento social", "neurociência social"],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1555602278-cb0e4ab8a01a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzcG90bGlnaHR8ZW58MHx8fHwxNzQ3OTEwNjA1fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i02.png',
     imageHint: 'person under a spotlight on a stage, looking slightly anxious but with a hint of realization, symbolizing the internal nature of the spotlight effect'
   },
   {
@@ -84,7 +84,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["tempo", "impermanência", "aceitação", "mindfulness", "narrativa", "sabedoria", "fluxo da vida", "psicologia existencial", "desapego", "perda", "renovação"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1619349728544-b9bf09b7c18e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyaXZlciUyMGJvYXR8ZW58MHx8fHwxNzQ3OTEwODM1fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i03.png',
     imageHint: 'old boatman on a mystical river of time, with shimmering waters reflecting past and future moments'
   },
   {
@@ -102,7 +102,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["hábitos", "mudança comportamental", "bem-estar", "desenvolvimento pessoal", "consistência", "coluna", "psicologia positiva", "paciência", "processo", "saberes comunitários"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1529369699589-f766a2530692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcHJvdXQlMjBncm93aW5nJTIwY29uY3JldGV8ZW58MHx8fHwxNzE4NjczNDgxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i04.png',
     imageHint: 'small plant growing through concrete, symbolizing the power of small, consistent efforts'
   },
   {
@@ -132,7 +132,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["medicamentos para dormir", "insônia", "hipnóticos", "zolpidem", "benzodiazepínicos", "dependência", "tolerância", "TCC-I", "higiene do sono", "psicofarmacologia", "efeitos colaterais", "arquitetura do sono", "segurança do paciente"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1515350540008-a3f566782a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8c2xlZXAlMjBtZWRpY2luZXxlbnwwfHx8fDE3NDc5MTEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i05.png',
     imageHint: 'sleeping pills next to an alarm clock, symbolizing the struggle with insomnia and the temptation of medication'
   },
   {
@@ -154,7 +154,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["autoestima", "trauma", "cura", "resiliência", "jardinagem terapêutica", "narrativa", "psicologia positiva", "crônica", "natureza", "autocuidado", "esperança", "transformação"],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1547391076-c6132ab72010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzZWNyZXQlMjBnYXJkZW58ZW58MHx8fHwxNzQ3OTExNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i06.png',
     imageHint: 'woman gardening with vibrant flowers blooming around her, symbolizing inner healing and growth'
   },
   {
@@ -183,7 +183,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["ACT", "terapia de aceitação e compromisso", "mindfulness", "valores", "flexibilidade psicológica", "técnicas terapêuticas", "psicoterapia", "aceitação", "desfusão cognitiva", "ação comprometida", "humanismo", "psicologia contextual"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531410569299-927453214750?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtZWFuaW5nZnVsfGVufDB8fHx8MTc0NzkxMTk0Mnww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed006/i07.png',
     imageHint: 'person embracing a challenge with a determined yet peaceful expression, perhaps on a mountaintop with a wide vista, symbolizing a values-driven life'
   }
 ];
@@ -194,9 +194,9 @@ export const edicao006: Edicao = {
   capa: {
     titulo_principal: "Autenticidade, Holofotes Sociais e a Sabedoria da Impermanência e da Ação Consciente",
     subtitulo: "Nesta edição aprofundada: A jornada corajosa para ser autêntico em um mundo de aparências, o surpreendente efeito holofote, as lições milenares do Rio do Tempo, o poder transformador dos pequenos hábitos consistentes, a arte de abraçar o desconforto com a ACT e a importância da jardinagem para a cura da alma.",
-    imagem_destaque: 'https://images.unsplash.com/photo-1585236820787-8cb3b8f97613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzcG90bGlnaHR8ZW58MHx8fHwxNzQ3OTEwNjA1fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imagem_destaque: '/images/mes-edicoes/m05/ed006/i09.png',
     imageHint: "A person standing on a stage under a spotlight, but looking away from it towards a path of self-discovery and authenticity, with subtle elements of nature and time.",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "O Efeito Holofote (Spotlight Effect): Por Que Superestimamos Cronicamente a Atenção que os Outros Nos Dedicam?", id_conteudo: "spotlight-effect-explained-01" },
       { titulo: "A Corajosa Busca pela Autenticidade em um Mundo de Aparências e Expectativas Fluidas", id_conteudo: "editorial-autenticidade-006" },

@@ -27,7 +27,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['comunidade', 'saúde mental', 'apoio social', 'pertencimento', 'editorial', 'conexão', 'solidariedade', 'resiliência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHklMjBzdXBwb3J0JTIwaGFuZHN8ZW58MHx8fHwxNzE4MDMyNjMwfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i01.png',
     imageHint: 'community support hands'
   },
   {
@@ -50,7 +50,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['Franz Fanon', 'psiquiatria decolonial', 'colonialismo', 'saúde mental', 'opressão racial', 'Pele Negra Máscaras Brancas', 'Os Condenados da Terra', 'alienação', 'psicologia crítica'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1534389730706-5171b880f02a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmFueml8ZW58MHx8fHwxNzE4MDMyNjg0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i02.png',
     imageHint: 'Fanon portrait abstract'
   },
   {
@@ -70,7 +70,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['memória', 'impermanência', 'mudança', 'narrativa', 'esquecimento', 'identidade coletiva', 'desapego', 'fábula'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1488866022504-f2584929ca5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aW5kJTIwYmxvd2luZyUyMG1lbW9yaWVzJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzE4MDMyNzQ0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i03.png',
     imageHint: 'wind blowing memories'
   },
   {
@@ -89,7 +89,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['incerteza', 'ansiedade', 'futuro', 'mindfulness', 'coluna', 'aceitação', 'autoeficácia', 'resiliência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1470104240373-bc1812eddc9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb2dneSUyMHBhdGglMjBmdXR1cmV8ZW58MHx8fHwxNzE4MDMyNzk2fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i04.png',
     imageHint: 'foggy path future'
   },
   {
@@ -115,7 +115,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['transtorno bipolar', 'estabilizadores de humor', 'lítio', 'psicofarmacologia', 'saúde mental', 'mania', 'depressão bipolar', 'tratamento multidisciplinar', 'psicoeducação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1618369650296-3a0d19b59940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb29kJTIwc3dpbmdzJTIwYmFsYW5jZXxlbnwwfHx8fDE3MTgwMzI4NDd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i05.png',
     imageHint: 'brain balance waves'
   },
   {
@@ -136,7 +136,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['fobia social', 'ansiedade social', 'terapia', 'superação', 'crônica', 'TCC', 'exposição gradual', 'habilidades sociais', 'conexão'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzdGVwcGluZyUyMG91dCUyMHNoYWRvd3xlbnwwfHx8fDE3MTgwMzI5MTd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i06.png',
     imageHint: 'person stepping out shadow'
   },
   {
@@ -174,7 +174,7 @@ export const conteudosEdicao031: Conteudo[] = [
     ],
     tags: ['habilidades sociais', 'THS', 'comunicação assertiva', 'empatia', 'relacionamentos', 'técnicas terapêuticas', 'TCC', 'ansiedade social'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1519671482700-2b8fe4a32f29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjBjb25uZWN0aW5nJTIwZGlhbG9ndWV8ZW58MHx8fHwxNzE4MDMyOTc3fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed031/i07.png',
     imageHint: 'people connecting dialogue'
   }
 ];

@@ -30,7 +30,7 @@ export const conteudosEdicao042: Conteudo[] = [
     ],
     tags: ['psicologia do cuidado', 'ética do cuidado', 'saúde mental coletiva', 'compaixão', 'editorial', 'interdependência', 'justiça social', 'autocuidado', 'bem-estar social'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGhvbGRpbmclMjBwbGFudCUyMGNvbW11bml0eXxlbnwwfHx8fDE3MTgzNjI1OTZ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed042/i01.png',
     imageHint: 'diverse hands holding and nurturing a small plant sprout, symbolizing collective care and growth'
   },
   {
@@ -94,7 +94,7 @@ export const conteudosEdicao042: Conteudo[] = [
     ],
     tags: ['neurociência da criatividade', 'criatividade', 'cérebro', 'Rede de Modo Padrão', 'DMN', 'Rede Executiva Central', 'Rede de Saliência', 'pensamento divergente', 'inovação', 'imaginação', 'neuroimagem'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1518002798698-4583603b72e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwcmFpbiUyMGV4cGxvZGluZyUyMGNvbG9yZnVsJTIwaWRlYXN8ZW58MHx8fHwxNzE4MzYyNjM3fDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m07/ed042/i02.png',
     imageHint: 'a stylized brain exploding with colorful ideas and interconnected light pathways, representing the dynamic neural networks involved in creativity'
   },
   {
@@ -159,7 +159,7 @@ export const conteudosEdicao042: Conteudo[] = [
     ],
     tags: ['Psicologia da Libertação', 'Ignacio Martín-Baró', 'América Latina', 'Descolonização da Psicologia', 'Psicologia Social Crítica', 'Opressão', 'Justiça Social', 'Conscientização', 'Práxis', 'Saúde Mental Comunitária', 'Direitos Humanos'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXRpbiUyMGFtZXJpY2FuJTIwY29tbXVuaXR5JTIwc3RydWdnbGV8ZW58MHx8fHwxNzE4MzYyNzE1fDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m07/ed042/i03.png',
     imageHint: 'a powerful image representing a Latin American community engaged in a struggle for social justice and liberation, perhaps a mural depicting raised fists, diverse faces, and symbols of hope and resistance'
   },
   {
@@ -188,7 +188,7 @@ export const conteudosEdicao042: Conteudo[] = [
     ],
     tags: ['gentrificação', 'saúde mental', 'direito à cidade', 'desigualdade urbana', 'psicologia social comunitária', 'coluna', 'deslocamento', 'identidade territorial', 'estresse psicossocial', 'justiça social'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZW50cmlmaWNhdGlvbiUyMGNpdHklMjBjb250cmFzdHxlbnwwfHx8fDE3MTgzNjI3NzN8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m07/ed042/i04.png',
     imageHint: 'a stark contrast in a city scene, with a new, modern, expensive building архитектура next to older, more modest homes, symbolizing the social and economic displacement of gentrification'
   },
   {
@@ -227,7 +227,7 @@ export const conteudosEdicao042: Conteudo[] = [
     ],
     tags: ['polifarmácia', 'idosos', 'interações medicamentosas', 'saúde mental geriátrica', 'desprescrição', 'segurança do paciente', 'psicofarmacologia crítica', 'Critérios de Beers', 'medicamentos potencialmente inapropriados', 'cuidado geriátrico'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1584515933487-759828d2792b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtJTIwb3JlJTIwcGlsbHMlMjBmb3IlMjBlbGRlcmx5JTIwcGVyc29uJTIwd2l0aCUyMGElMjBjYXJlZnVsJTIwaGFuZHxlbnwwfHx8fDE3MTgzNjI4MTJ8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m07/ed042/i05.png',
     imageHint: 'an elderly person s hand carefully sorting through multiple pill bottles, with a magnifying glass nearby, symbolizing the complexity and risks of polypharmacy in older adults'
   },
   {
@@ -259,7 +259,7 @@ export const conteudosEdicao042: Conteudo[] = [
     ],
     tags: ['saúde mental no Brasil', 'desertos de saúde mental', 'acesso a cuidados psicológicos', 'SUS', 'RAPS', 'desigualdade em saúde', 'telemedicina', 'saúde mental comunitária', 'reportagem especial', 'políticas públicas', 'estigma'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjB3aXRoJTIwYSUyMGxvbmVseSUyMHBlcnNvbiUyMGxvb2tpbmclMjBmb3IlMjBoZWxwfGVufDB8fHx8MTcxODM2Mjg2M3ww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m07/ed042/i06.png',
     imageHint: 'a vast, arid desert landscape with a lone, small figure in the distance, symbolizing isolation and lack of resources, with a tiny green oasis barely visible on the horizon, representing hope and the struggle for access to mental health care'
   }
 ];

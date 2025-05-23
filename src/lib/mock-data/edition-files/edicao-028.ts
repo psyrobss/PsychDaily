@@ -18,7 +18,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['Carl Jung', 'Psicologia Analítica', 'Individuação', 'Inconsciente Coletivo', 'Arquétipos', 'Editorial', 'Autoconhecimento'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604720032018-2e600c414181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG9mJTIwY2FybCUyMGp1bmd8ZW58MHx8fHwxNzE3ODk1ODgyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i01.png',
     imageHint: 'Carl Jung portrait'
   },
   {
@@ -45,7 +45,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['Carl Jung', 'arquétipos', 'inconsciente coletivo', 'Self', 'Sombra', 'Anima', 'Animus', 'Persona', 'Psicologia Analítica'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1557682250-33bd709cbe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcmNoZXR5cGVzJTIwc3ltYm9sc3xlbnwwfHx8fDE3MTc4OTU5NDR8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i02.png',
     imageHint: 'archetypes symbols'
   },
   {
@@ -68,7 +68,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['Nise da Silveira', 'Psicologia Junguiana', 'Arte Terapia', 'Museu de Imagens do Inconsciente', 'Psiquiatria Humanizada', 'Afeto', 'Esquizofrenia'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1541796093-38972149a699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5kYWxhJTIwYXJ0JTIwYnJhemlsfGVufDB8fHx8MTcxNzg5NjAxN3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i03.png',
     imageHint: 'mandala art Nise'
   },
   {
@@ -89,7 +89,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['Sombra', 'Carl Jung', 'integração', 'criatividade', 'narrativa', 'psicologia analítica', 'autoconhecimento', 'arquétipos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1506703109003-a98a27015e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMG1pcnJvciUyMHNoYWRvd3xlbnwwfHx8fDE3MTc4OTYxNDR8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i04.png',
     imageHint: 'magic mirror shadow'
   },
   {
@@ -108,7 +108,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['sonhos', 'Carl Jung', 'símbolos', 'inconsciente', 'Psicologia Analítica', 'coluna', 'interpretação de sonhos', 'individuação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1484411907264-ea757e59640b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMHN5bWJvbHMlMjBtb29ufGVufDB8fHx8MTcxNzg5NjE5NXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i05.png',
     imageHint: 'dream symbols moon'
   },
   {
@@ -136,7 +136,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['psicodélicos', 'Carl Jung', 'Psicologia Analítica', 'inconsciente', 'arquétipos', 'estados alterados de consciência', 'psilocibina', 'LSD', 'ayahuasca', 'terapia psicodélica', 'integração'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1528154243260-a63674329059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwc3ljaGVkZWxpYyUyMGJyYWluJTIwYXJ0fGVufDB8fHx8MTcxNzg5NjI1M3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i06.png',
     imageHint: 'psychedelic brain art'
   },
   {
@@ -165,7 +165,7 @@ export const conteudosEdicao028: Conteudo[] = [
     ],
     tags: ['imaginação ativa', 'Carl Jung', 'Psicologia Analítica', 'inconsciente', 'individuação', 'técnicas terapêuticas', 'sonhos', 'símbolos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531810348390-75598c20449a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBkaWFsb2d1ZSUyMHdpdGglMjBzaGFkb3d8ZW58MHx8fHwxNzE3ODk2MzE0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed028/i07.png',
     imageHint: 'man dialogue shadow'
   }
 ];

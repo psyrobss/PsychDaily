@@ -20,7 +20,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['ética em pesquisa', 'psicologia', 'consentimento informado', 'responsabilidade social', 'editorial', 'desafios contemporâneos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlJTIwdGhpY3MlMjBpbiUyMHJlc2VhcmNofGVufDB8fHx8MTcxODM2ODc4N3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i01.png',
     imageHint: 'ethics research balance'
   },
   {
@@ -47,7 +47,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['neurobiologia', 'depressão maior', 'neurotransmissores', 'eixo HPA', 'neuroinflamação', 'BDNF', 'circuitos cerebrais', 'saúde mental'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1598395559538-c85578056d3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXVyYWwlMjBuZXR3b3JrJTIwZGVwcmVzc2lvbnxlbnwwfHx8fDE3MTgzNjg4NTV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i02.png',
     imageHint: 'neural network depression'
   },
   {
@@ -73,7 +73,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['experimentos em psicologia', 'Milgram', 'Asch', 'Zimbardo', 'ética em pesquisa', 'história da psicologia', 'conformidade', 'obediência', 'psicologia social'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1580274459988-7336c6049830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwc3ljaG9sb2d5JTIwZXhwZXJpbWVudCUyMGxhYnxlbnwwfHx8fDE3MTgzNjg5MDd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i03.png',
     imageHint: 'psychology experiment lab'
   },
   {
@@ -94,7 +94,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['sonhos lúcidos', 'inconsciente', 'engenharia onírica', 'narrativa', 'ética', 'tecnologia', 'psicologia junguiana', 'controle vs aceitação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531307562608-8b7b0a0a4f17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdXJyZWFsJTIwZHJlYW0lMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzE4MzY4OTgyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i04.png',
     imageHint: 'surreal dream landscape'
   },
   {
@@ -113,7 +113,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['psicologia ambiental', 'design biofílico', 'bem-estar', 'espaços', 'coluna', 'arquitetura', 'saúde mental', 'natureza urbana'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWF1dGlmdWwlMjBob3VzZSUyMG5hdHVyZXxlbnwwfHx8fDE3MTgzNjkwMDV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i05.png',
     imageHint: 'beautiful house nature'
   },
   {
@@ -140,7 +140,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['anticonvulsivantes', 'estabilizadores de humor', 'transtorno bipolar', 'psicofarmacologia', 'ácido valproico', 'lamotrigina', 'carbamazepina', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1618369650296-3a0d19b59940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb29kJTIwc3RhYmlsaXplcnMlMjBicmFpbnxlbnwwfHx8fDE3MTgzNjkwNDV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i06.png',
     imageHint: 'mood stabilizers brain'
   },
   {
@@ -173,7 +173,7 @@ export const conteudosEdicao041: Conteudo[] = [
     ],
     tags: ['treinamento de inoculação de estresse', 'TIE', 'TCC', 'manejo do estresse', 'resiliência', 'habilidades de enfrentamento', 'técnicas terapêuticas', 'ansiedade', 'Donald Meichenbaum'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1529078153919-55b19070f1d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBmYWNpbmclMjBjaGFsbGVuZ2UlMjBzdHJvbmd8ZW58MHx8fHwxNzE4MzY5MDk0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed041/i07.png',
     imageHint: 'person facing challenge strong'
   }
   // A crônica terapêutica foi omitida nesta edição para dar espaço aos 3 artigos de aprofundamento/técnicas.

@@ -29,7 +29,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['autoestima', 'autoconhecimento', 'autoaceitação', 'validação', 'saúde mental', 'editorial', 'bem-estar'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i01.png',
     imageHint: 'person mirror selflove'
   },
   {
@@ -49,7 +49,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['ambivalência emocional', 'sentimentos contraditórios', 'aceitação', 'inteligência emocional', 'narrativa', 'complexidade humana'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i02.png',
     imageHint: 'yin yang garden'
   },
   {
@@ -67,7 +67,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['discordar', 'comunicação', 'respeito', 'empatia', 'diálogo', 'coluna', 'conflito construtivo', 'polarização'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i03.png',
     imageHint: 'two people debate bridge'
   },
   {
@@ -97,7 +97,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['resiliência comunitária', 'coesão social', 'capital social', 'gestão de crises', 'desenvolvimento comunitário', 'psicologia social', 'saúde pública'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i04.png',
     imageHint: 'community hands together tree'
   },
   {
@@ -135,7 +135,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['disfunção sexual', 'psicofármacos', 'antidepressivos', 'ISRS', 'efeitos colaterais', 'saúde sexual', 'comunicação médico-paciente'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i05.png',
     imageHint: 'couple intimacy issues'
   },
   {
@@ -157,7 +157,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['repressão emocional', 'expressão de sentimentos', 'saúde mental masculina', 'terapia', 'inteligência emocional', 'crônica', 'cura', 'vulnerabilidade'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i06.png',
     imageHint: 'man throat knot emotional'
   },
   {
@@ -185,7 +185,7 @@ export const conteudosEdicao017: Conteudo[] = [
     ],
     tags: ['intenção paradoxal', 'logoterapia', 'Viktor Frankl', 'ansiedade antecipatória', 'fobias', 'técnicas terapêuticas', 'psicoterapia', 'humor'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed017/i07.png',
     imageHint: 'person juggling fears humorously'
   }
 ];

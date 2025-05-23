@@ -18,7 +18,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['propósito', 'sentido de vida', 'resiliência', 'mudança', 'autoconhecimento', 'editorial', 'bem-estar emocional'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i01.png',
     imageHint: 'compass uncertain map'
   },
   {
@@ -55,7 +55,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['psicologia positiva', 'bem-estar', 'felicidade', 'florescimento', 'PERMA', 'forças de caráter', 'gratidão', 'mindfulness', 'resiliência', 'martin seligman', 'flow'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i02.png',
     imageHint: 'person thriving vibrant colors'
   },
   {
@@ -83,7 +83,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['avaliação psicológica', 'porte de armas', 'ética profissional', 'psicologia jurídica', 'segurança pública', 'testes psicológicos', 'legislação brasileira'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i03.png',
     imageHint: 'target firearm psychology'
   },
   {
@@ -104,7 +104,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['inclusão', 'PcD', 'capacitismo', 'barreiras atitudinais', 'representatividade', 'autonomia', 'direitos humanos', 'crônica'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i04.png',
     imageHint: 'wheelchair person city'
   },
   {
@@ -124,7 +124,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['emoções', 'inteligência emocional', 'autoconhecimento', 'sentimentos', 'narrativa', 'alexithymia', 'vocabulário emocional'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i05.png',
     imageHint: 'glowing potions library'
   },
   {
@@ -143,7 +143,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['diálogo', 'polarização', 'comunicação construtiva', 'empatia', 'escuta ativa', 'coluna', 'conflito', 'sociedade'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i06.png',
     imageHint: 'bridge over chasm people'
   },
   {
@@ -172,7 +172,7 @@ export const conteudosEdicao018: Conteudo[] = [
     ],
     tags: ['ativação comportamental', 'depressão', 'terapia comportamental', 'TCC', 'engajamento', 'reforço positivo', 'técnicas terapêuticas', 'anedonia'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed018/i07.png',
     imageHint: 'person engaging activity sun'
   }
 ];

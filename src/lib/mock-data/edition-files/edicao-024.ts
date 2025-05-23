@@ -13,7 +13,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['luto', 'perda', 'saúde mental', 'cura emocional', 'compaixão', 'editorial'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'person grieving window'
   },
   {
@@ -27,7 +27,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['autoconsciência objetiva', 'psicologia social', 'comportamento', 'autoavaliação', 'emoções'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'person mirror reflection'
   },
   {
@@ -41,7 +41,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['ruminação', 'mindfulness', 'pensamentos negativos', 'atenção plena', 'narrativa', 'fábula'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'lighthouse mind storm'
   },
   {
@@ -55,7 +55,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['fracasso', 'aprendizado', 'resiliência', 'mentalidade de crescimento', 'coluna'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'phoenix rising ashes'
   },
   {
@@ -69,7 +69,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['interações medicamentosas', 'suplementos', 'psicofármacos', 'segurança', 'fitoterapia', 'psicofarmacologia'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'pills herbs warning'
   },
   {
@@ -83,7 +83,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['perda de emprego', 'luto profissional', 'resiliência', 'propósito', 'crônica', 'recolocação'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'person crossroads new path'
   },
   {
@@ -97,7 +97,7 @@ export const conteudosEdicao024: Conteudo[] = [
     corpo: [{ tipo: 'paragrafo', texto: 'Conteúdo em elaboração...' }],
     tags: ['linha do tempo', 'terapia narrativa', 'história de vida', 'autoconhecimento', 'técnicas terapêuticas'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed024/i01.png',
     imageHint: 'timeline path journey'
   }
 ];

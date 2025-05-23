@@ -30,7 +30,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['compaixão', 'escuta ativa', 'relacionamentos', 'inteligência emocional', 'editorial', 'bem-estar', 'comunicação não-violenta'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1544027993-37dbfe43562a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwc2ljb3RlcmFwaWF8ZW58MHx8fHwxNzQ3NDk3NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i01.png',
     imageHint: 'thoughtful listening',
     audioUrl: '/audio/ed001/compassive-listening.mp3',
   },
@@ -53,7 +53,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['autoconhecimento', 'identidade', 'aceitação', 'narrativa', 'psicologia arquetípica', 'inconsciente', 'psicologia junguiana'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1595455967759-5f1356993e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaXJyb3JzfGVufDB8fHx8MTc0NzYyNzcyMHww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i02.png',
     imageHint: 'surreal mirror',
   },
   {
@@ -90,7 +90,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['resiliência', 'superação', 'saúde mental', 'bem-estar', 'crescimento pessoal', 'estratégias psicológicas', 'adaptação', 'psicologia positiva'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1505672678657-cc7037095e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHJvbmclMjB0cmVlfGVufDB8fHx8MTc0NzQ5MTU5Mnww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i03.png',
     imageHint: 'strong tree',
   },
   {
@@ -123,7 +123,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['consciência', 'neurociência', 'filosofia da mente', 'teorias científicas', 'mente', 'cognição', 'problema difícil', 'qualia', 'IIT', 'GWT'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2xvcnN8ZW58MHx8fHwxNzQ3NjI4MjI1fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i04.png',
     imageHint: 'abstract brain',
   },
   {
@@ -142,7 +142,7 @@ export const conteudosEdicao001: Conteudo[] = [
       ],
     tags: ['gentileza', 'reflexão', 'bem-estar', 'humanidade', 'pequenos gestos', 'conexão', 'psicologia positiva'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i05.png',
     imageHint: 'kindness abstract',
   },
   {
@@ -174,7 +174,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['psicofarmacologia', 'antidepressivos', 'saúde mental', 'medicalização', 'terapia', 'análise crítica', 'efeitos colaterais'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1585830812369-b88fce3bee22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwaWxscyUyMHJlZmxlY3Rpb258ZW58MHx8fHwxNzQ3NDkxNTkyfDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i06.png',
     imageHint: 'pills reflection',
   },
   {
@@ -199,7 +199,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['luto', 'terapia', 'saúde mental', 'emoções', 'silêncio', 'casos clínicos', 'crônica', 'psicologia clínica'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1738441388022-aefbdf6bdbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzb2xpdGFyeSUyMGZpZ3VyZXxlbnwwfHx8fDE3NDc0OTE1OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i07.png',
     imageHint: 'solitary figure',
   },
   {
@@ -247,7 +247,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ["respiração diafragmática", "técnicas de relaxamento", "manejo do estresse", "ansiedade", "mindfulness", "bem-estar", "autocuidado"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1513097847644-f00cfe868607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8YnJlYXRofGVufDB8fHx8MTc0NzQ5ODA3OHww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed001/i08.png',
     imageHint: 'calm breathing meditation',
   },
 ];

@@ -28,7 +28,7 @@ const tdahAutismoDiagnostico007: Conteudo = {
     ],
     tags: ["TDAH", "autismo", "TEA", "diagnóstico", "neurodiversidade", "saúde mental infantil", "medicalização", "desenvolvimento", "DSM", "psicofarmacologia crítica", "abordagem multidisciplinar", "ansiedade"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1495900593237-22dc861b231d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0ZGFoJTIwYXV0aXNtfGVufDB8fHx8MTc0NzkxNTEzNnww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed007/i07.png',
     imageHint: 'abstract representation of neurodiversity, perhaps interconnected brain pathways with diverse colors and patterns'
   };
 
@@ -60,7 +60,7 @@ const editorialEd007: Conteudo = {
   ],
   tags: ['perdão', 'autocompaixão', 'cura emocional', 'saúde mental', 'libertação', 'editorial', 'ressentimento', 'relacionamentos', 'psicologia humanista', 'processo terapêutico'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1529586124295-a9cd09a28048?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmb3JnaXZlfGVufDB8fHx8MTc0NzkxNDM1OHww&ixlib=rb-4.1.0&q=80&w=1080',
+  imageUrl: '/images/mes-edicoes/m05/ed007/i07.png',
   imageHint: 'open hands releasing a glowing light or a dove, symbolizing peace and liberation'
 };
 
@@ -82,7 +82,7 @@ const narrativaEd007: Conteudo = {
   ],
   tags: ['coração partido', 'cura emocional', 'esperança', 'resiliência', 'narrativa', 'kintsugi', 'amor', 'perda', 'transformação', 'arteterapia', 'psicologia inventiva', 'biblioterapia', 'metáfora'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1554906493-4812e307243d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bGlicmFyeXxlbnwwfHx8fDE3NDc4OTEyMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+  imageUrl: '/images/mes-edicoes/m05/ed007/i03.png',
   imageHint: 'old library with glowing crystal hearts on shelves, some cracked but mended with gold lines (kintsugi style)'
 };
 
@@ -102,7 +102,7 @@ const colunaEd007: Conteudo = {
   ],
   tags: ['tédio', 'criatividade', 'mindfulness', 'descanso mental', 'introspecção', 'coluna', 'sobrecarga de informação', 'ócio criativo', 'saúde mental', 'produtividade tóxica', 'cultura da pressa'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1489515217757-5fd1be406f6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBsb29raW5nJTIwb3V0JTIwd2luZG93JTIwYm9yZWR8ZW58MHx8fHwxNzE4NDA1MDI3fDA&ixlib=rb-4.0.3&q=80&w=1080', // Placeholder atualizado para algo mais contemplativo
+  imageUrl: '/images/mes-edicoes/m05/ed007/i04.png',
   imageHint: 'person looking thoughtfully out a window, perhaps on a quiet, slightly melancholic day, symbolizing creative boredom'
 };
 
@@ -135,7 +135,7 @@ const psicofarmacoEd007: Conteudo = {
   ],
   tags: ['sono', 'insônia', 'higiene do sono', 'relaxamento', 'bem-estar', 'saúde natural', 'TCC-I', 'melatonina', 'ritmo circadiano', 'psicofarmacologia crítica', 'estilo de vida', 'autocuidado'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbGVlcHxlbnwwfHx8fDE3NDc5MTYwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+  imageUrl: '/images/mes-edicoes/m05/ed007/i05.png',
   imageHint: 'peaceful sleeping person with a serene moonlit background and subtle natural elements like lavender or chamomile'
 };
 
@@ -157,7 +157,7 @@ const cronicaEd007: Conteudo = {
   ],
   tags: ['ansiedade social', 'TCC', 'exposição gradual', 'habilidades sociais', 'terapia', 'crônica', 'autoconfiança', 'medo do julgamento', 'isolamento', 'mindfulness', 'autocompaixão', 'vulnerabilidade'],
   isPremium: true,
-  imageUrl: 'https://images.unsplash.com/photo-1653228122607-18bbe479f547?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bWV0YW1vcnBob3Npc3xlbnwwfHx8fDE3NDc5MTY1Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080',
+  imageUrl: '/images/mes-edicoes/m05/ed007/i06.png',
   imageHint: 'person confidently interacting in a group, with a subtle visual metaphor of breaking free from shadows or a confined space'
 };
 
@@ -186,7 +186,7 @@ const tecnicaEd007: Conteudo = {
   ],
   tags: ["mindful eating", "alimentação consciente", "mindfulness", "bem-estar", "saúde", "comer emocional", "técnicas terapêuticas", "fome e saciedade", "relação com a comida", "autocompaixão", "prazer sensorial", "gratidão"],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlYXRpbmd8ZW58MHx8fHwxNzQ3OTE3MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080',
+  imageUrl: '/images/mes-edicoes/m05/ed007/i07.png',
   imageHint: 'person mindfully eating a colorful plate of fruits and vegetables, with a calm and serene expression'
 };
 

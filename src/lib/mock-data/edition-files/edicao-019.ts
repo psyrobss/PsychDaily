@@ -17,7 +17,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['imperfeição', 'autoaceitação', 'autocompaixão', 'vulnerabilidade', 'crescimento pessoal', 'editorial'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i01.png',
     imageHint: 'kintsugi art heart'
   },
   {
@@ -37,7 +37,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['pequenas alegrias', 'felicidade', 'mindfulness', 'gratidão', 'presente', 'narrativa', 'contentamento'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i02.png',
     imageHint: 'small flower dew drop'
   },
   {
@@ -55,7 +55,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['quietude', 'desconexão digital', 'mindfulness', 'bem-estar', 'introspecção', 'coluna', 'saúde mental', 'silêncio'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i03.png',
     imageHint: 'person quiet nature'
   },
   {
@@ -81,7 +81,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['inteligência emocional', 'Daniel Goleman', 'autoconsciência', 'autogerenciamento', 'empatia', 'habilidades sociais', 'bem-estar', 'relacionamentos'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i04.png',
     imageHint: 'brain heart connection'
   },
   {
@@ -116,7 +116,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['lítio', 'transtorno bipolar', 'estabilizador de humor', 'psicofarmacologia', 'mania', 'depressão bipolar', 'monitoramento terapêutico', 'efeitos colaterais'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i05.png',
     imageHint: 'lithium salt brain chemistry'
   },
   {
@@ -137,7 +137,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['redes sociais', 'comparação social', 'autoestima', 'saúde mental', 'ansiedade', 'crônica', 'bem-estar digital', 'imagem corporal', 'cultura da perfeição'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i06.png',
     imageHint: 'person phone sad comparison'
   },
   {
@@ -166,7 +166,7 @@ export const conteudosEdicao019: Conteudo[] = [
     ],
     tags: ['registro de pensamentos', 'RPD', 'TCC', 'pensamentos automáticos negativos', 'reestruturação cognitiva', 'técnicas terapêuticas', 'ansiedade', 'depressão', 'distorções cognitivas'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed019/i07.png',
     imageHint: 'person writing journal thoughts'
   }
 ];

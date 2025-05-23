@@ -29,7 +29,7 @@ const editorialEd013: Conteudo = {
   ],
   tags: ['resiliência', 'desafios cotidianos', 'saúde mental', 'mindfulness', 'autoeficácia', 'editorial', 'mentalidade de crescimento', 'autocompaixão', 'bem-estar emocional', 'superação'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1534531808129-a43a53f35078?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzJTIwbWFsbCUyMHBsYW50JTIwZ3Jvd2luZyUyMGluJTIwYSUyMGNyYWNrJTIwb2YlMjBhJTIwcm9ja3xlbnwwfHx8fDE3MTgzNjE0NDR8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i01.png',
   imageHint: 'a small, resilient plant 🌱 growing tenaciously in a crack of a rock or pavement, symbolizing strength found in everyday challenges'
 };
 
@@ -52,7 +52,7 @@ const narrativaEd013: Conteudo = {
   ],
   tags: ['narrativa pessoal', 'reescrita de vida', 'agência', 'terapia narrativa', 'resiliência', 'história de vida', 'significado', 'psicologia existencial', 'autoria', 'transformação', 'psicologia inventiva', 'metáfora'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1482196379892-4b4f00ce0c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0YXBlc3RyeSUyMG9mJTIwbGlmZSUyMGhhbmRzJTIwd2VhdmluZ3xlbnwwfHx8fDE3MTgzNjE0ODh8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i02.png',
   imageHint: 'hands weaving a complex and colorful tapestry of life, with some threads golden and others darker, symbolizing the rewriting of personal narratives with resilience and hope'
 };
 
@@ -72,7 +72,7 @@ const colunaEd013: Conteudo = {
   ],
   tags: ['emoções', 'inteligência emocional', 'acolhimento', 'saúde mental', 'mindfulness', 'coluna', 'autoconhecimento', 'regulação emocional', 'aceitação', 'psicologia humanista'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1502691879800-1ae32599e893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2xvcnNlJTIwZW1vdGlvbnMlMjBhYnN0cmFjdCUyMGRhbmNlfGVufDB8fHx8MTcxODM2MTU1M3ww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i03.png',
   imageHint: 'abstract representation of a colorful dance of emotions, with different colors swirling and blending harmoniously, symbolizing the acceptance and wisdom of all feelings'
 };
 
@@ -108,7 +108,7 @@ const artigoAprofundadoEd013: Conteudo = {
   ],
   tags: ['sonhos', 'sono REM', 'neurociência dos sonhos', 'psicanálise', 'Freud', 'Jung', 'TCC e sonhos', 'interpretação de sonhos', 'consolidação da memória', 'regulação emocional', 'saúde mental', 'criatividade', 'teoria da simulação de ameaças'],
   isPremium: true,
-  imageUrl: 'https://images.unsplash.com/photo-1531307562608-8b7b0a0a4f17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdXJyZWFsJTIwZHJlYW0lMjBsYW5kc2NhcGUlMjB3aXRoJTIwYnJhaW4lMjBzeW1ib2xzfGVufDB8fHx8MTcxODM2MTYxOXww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i04.png',
   imageHint: 'surreal dream landscape with floating clocks, eyes, and brain symbols, evoking the mystery and complexity of the dream world'
 };
 
@@ -139,7 +139,7 @@ const psicofarmacoEd013: Conteudo = {
   ],
   tags: ['psilocibina', 'psicodélicos', 'depressão refratária', 'terapia assistida por psicodélicos', 'neuroplasticidade', 'saúde mental', 'pesquisa psicodélica', '5-HT2A', 'DMN', 'set and setting', 'integração psicodélica', 'psicofarmacologia crítica'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1599940778173-0248a45c197c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwJTIwc2lsb2N5YmluJTIwYnJhaW4lMjBuZXVyb25zfGVufDB8fHx8MTcxODM2MTY3NXww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i05.png',
   imageHint: 'stylized image of psilocybin mushrooms with glowing neural pathways in the background, representing the connection between the substance and brain activity/neuroplasticity'
 };
 
@@ -161,7 +161,7 @@ const cronicaEd013: Conteudo = {
   ],
   tags: ['expectativas alheias', 'autenticidade', 'autoestima', 'limites saudáveis', 'terapia', 'crônica terapêutica', 'medo da rejeição', 'aprovação social', 'perfeccionismo', 'autocompaixão', 'crescimento pessoal'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBicmVha2luZyUyMGElMjBnbGFzcyUyMHNoZWxsJTIwd2l0aCUyMGxpZ2h0JTIwY29taW5nJTIwZnJvbSUyMHdpdGhpbnxlbnwwfHx8fDE3MTgzNjE3NDN8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i06.png',
   imageHint: 'a person gently breaking free from a fragile glass armor, with a warm light emanating from within, symbolizing the liberation from external expectations and the emergence of authenticity'
 };
 
@@ -203,7 +203,7 @@ const tecnicaEd013: Conteudo = {
   ],
   tags: ['assertividade', 'comunicação eficaz', 'limites saudáveis', 'autoestima', 'relacionamentos interpessoais', 'técnicas terapêuticas', 'TCC', 'habilidades sociais', 'resolução de conflitos', 'comunicação não-violenta'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1519671482700-2b8fe4a32f29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzcGVha2luZyUyMGNvbmZpZGVudGx5JTIwYW5kJTIwY2FsbWx5fGVufDB8fHx8MTcxODM2MTgwMnww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+  imageUrl: '/images/mes-edicoes/m06/ed013/i07.png',
   imageHint: 'a person speaking confidently yet calmly in a professional or social setting, with listeners attentively engaged, symbolizing effective assertive communication'
 };
 
@@ -223,7 +223,7 @@ export const edicao013: Edicao = {
   capa: {
     titulo_principal: "Resiliência Cotidiana, a Dança das Emoções, o Universo dos Sonhos e a Arte da Assertividade",
     subtitulo: "Nesta edição aprofundada: Fortalecendo a resiliência no dia a dia, acolhendo a complexidade das emoções, desvendando os mistérios e funções dos sonhos, e um guia prático para uma comunicação mais assertiva e eficaz. E mais: o poder curativo da psilocibina e a jornada de superação de expectativas.",
-    imagem_destaque: "https://images.unsplash.com/photo-1534531808129-a43a53f35078?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwcmFpbiUyMHJlc2lsaWVuY2UlMjBjb25uZWN0aW9uJTIwZW1vdGlvbnN8ZW58MHx8fHwxNzE4MzYxMzgwfDA&ixlib=rb-4.0.3&q=80&w=1080", // Nova imagem de capa,
+    imagem_destaque: "/images/mes-edicoes/m05/ed013/i09.png", 
     imageHint: "a stylized brain with interconnected lines representing resilience, surrounded by a kaleidoscope of colors symbolizing emotions and dreamlike imagery, with a clear path illustrazione assertiveness.",
     credito_imagem: "PsychDaily Images (Compilação)",
     links_manchetes: [

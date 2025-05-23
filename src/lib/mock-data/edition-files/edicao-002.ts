@@ -32,7 +32,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['vulnerabilidade', 'autocompaixão', 'perfeccionismo', 'crescimento pessoal', 'saúde mental', 'editorial', 'aceitação', 'bem-estar'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1491225063580-7e097e87dcb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb3VyYWdlfGVufDB8fHx8MTc0NzY2MDQzN3ww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i01.png',
     imageHint: 'kintsugi pottery',
   },
   {
@@ -54,7 +54,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['memória', 'esquecimento', 'identidade', 'narrativa', 'redescoberta', 'inconsciente', 'cura emocional', 'fábula psicológica'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1571192776145-9f563c1df686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYXJkZW58ZW58MHx8fHwxNzQ3NjkyNjM5fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i02.png',
     imageHint: 'mystical garden',
   },
   {
@@ -96,7 +96,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['estresse crônico', 'saúde mental', 'fisiologia do estresse', 'bem-estar', 'manejo do estresse', 'psiconeuroimunologia', 'cortisol', 'doenças crônicas', 'carga alostática', 'eixo HPA'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1533537841959-705741f3d3a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaHJvbmljJTIwc3RyZXNzfGVufDB8fHx8MTc0NzY5MzkwMHww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i03.png',
     imageHint: 'brain stress',
   },
   {
@@ -115,7 +115,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['silêncio', 'introspecção', 'mindfulness', 'autoconhecimento', 'bem-estar emocional', 'paz interior', 'restauração', 'sobrecarga sensorial'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i04.png',
     imageHint: 'peaceful silence',
   },
   {
@@ -147,7 +147,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['TDAH', 'estimulantes', 'psicofarmacologia', 'saúde mental', 'neurodiversidade', 'produtividade', 'tratamento', 'metilfenidato'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1512069938357-89703bda53ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8cGhhcm1hY29sb2d5fGVufDB8fHx8MTc0NzY5NDgwM3ww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i05.png',
     imageHint: 'brain focus',
   },
   {
@@ -171,7 +171,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['limites saudáveis', 'assertividade', 'terapia', 'autocuidado', 'codependência', 'casos clínicos', 'crônica', 'relações interpessoais'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1505489304219-85ce17010209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8c2VsZiUyMGJvcmRlcnxlbnwwfHx8fDE3NDc2OTM2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i06.png',
     imageHint: 'person drawing line',
   },
   {
@@ -226,7 +226,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ["diário terapêutico", "escrita terapêutica", "autoconhecimento", "regulação emocional", "processamento emocional", "bem-estar", "saúde mental"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3cml0aW5nfGVufDB8fHx8MTc0NzcxMDg4MHww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i07.png',
     imageHint: 'journal writing person',
   },
 ];

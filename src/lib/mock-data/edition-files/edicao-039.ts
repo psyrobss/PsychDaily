@@ -28,7 +28,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['recomeço', 'resiliência', 'perda', 'transformação', 'editorial', 'autoconhecimento', 'esperança', 'autocompaixão'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1470104240373-bc1812eddc9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXRoJTIwbGlnaHQlMjBuZXclMjBiZWdpbm5pbmd8ZW58MHx8fHwxNzE4MzU3MjgzfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i01.png',
     imageHint: 'path light new beginning'
   },
   {
@@ -65,7 +65,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['cirurgia bariátrica', 'psicologia', 'obesidade', 'acompanhamento psicológico', 'saúde mental', 'transformação', 'autoimagem', 'transtornos alimentares'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1604427062488-3e051741f00a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiYXJpYXRyaWMlMjBzdXJnZXJ5JTIwc3VwcG9ydHxlbnwwfHx8fDE3MTgzNTczMjV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i02.png',
     imageHint: 'bariatric surgery support'
   },
   {
@@ -97,7 +97,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['noção de tempo', 'desenvolvimento infantil', 'percepção temporal', 'psicologia cognitiva', 'Piaget', 'memória', 'mindfulness', 'experiência subjetiva'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbG9jayUyMHRpbWUlMjBjb25jZXB0fGVufDB8fHx8MTcxODM1NzM4M3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i03.png',
     imageHint: 'clock time concept'
   },
   {
@@ -122,7 +122,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['Sigmund Freud', 'psicanálise', 'cinco lições', 'inconsciente', 'repressão', 'sonhos', 'sexualidade infantil', 'complexo de Édipo', 'transferência', 'história da psicologia'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604720032018-2e600c414181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmV1ZCUyMHBvcnRyYWl0JTIwYm9va3xlbnwwfHx8fDE3MTgzNTc0NDJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i04.png',
     imageHint: 'Freud portrait books'
   },
   {
@@ -159,7 +159,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['CREAS', 'assistência social', 'SUAS', 'proteção social', 'vulnerabilidade', 'direitos humanos', 'psicologia social', 'PAEFI', 'saúde mental comunitária'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBzdXBwb3J0JTIwY29tbXVuaXR5JTIwYnJhemlsfGVufDB8fHx8MTcxODM1NzUwMHww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i05.png',
     imageHint: 'social support community'
   },
   {
@@ -179,7 +179,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['intenção', 'poder da mente', 'cocriação', 'mindfulness', 'narrativa', 'fábula', 'manifestação', 'responsabilidade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1518002798698-4583603b72e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMGNpdHklMjBnbG93aW5nJTIwdGhvdWdodHN8ZW58MHx8fHwxNzE4MzU3NTUwfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i06.png',
     imageHint: 'magic city glowing thoughts'
   },
   {
@@ -197,7 +197,7 @@ export const conteudosEdicao039: Conteudo[] = [
     ],
     tags: ['não fazer nada', 'ócio criativo', 'descanso mental', 'mindfulness', 'coluna', 'saúde mental', 'criatividade', 'produtividade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1473187983301-b151590386f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjByZWxheGluZyUyMG5hdHVyZSUyMG5vdGhpbmd8ZW58MHx8fHwxNzE4MzU3NjEwfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed039/i07.png',
     imageHint: 'person relaxing nature nothing'
   }
   // Como temos 4 artigos aprofundados, vamos omitir a seção de Psicofarmacologia e Técnica Terapêutica para esta edição.
@@ -207,7 +207,7 @@ export const edicao039: Edicao = {
   edicao: "039",
   data: "2025-07-10",
   capa: {
-    titulo_principal: "Psique e Sociedade: Bariátrica, Noção de Tempo, Freud e o Papel do CREAS",
+    titulo_principal: "Psique e Sociedade: Cirurgia Bariátrica, Noção de Tempo, Freud e o Papel do CREAS",
     subtitulo: "Nesta edição exploramos o acompanhamento psicológico na cirurgia bariátrica, o desenvolvimento da noção de tempo, as cinco lições de Freud e a importância do CREAS na assistência social. E mais: narrativas e reflexões sobre o poder da intenção e do 'não fazer nada'.",
     imagem_destaque: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kJTIwc29jaWV0eSUyMGhlYWx0aHxlbnwwfHx8fDE3MTgzNTcyMzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
     imageHint: "mind society health",

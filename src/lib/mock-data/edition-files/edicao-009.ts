@@ -1,4 +1,3 @@
-
 import type { Conteudo, Edicao } from '../../types';
 
 // Existing mandatory article
@@ -29,8 +28,8 @@ const pobrezaDepressaoSocial009: Conteudo = {
     ],
     tags: ["pobreza", "depressão", "desigualdade social", "saúde mental", "determinantes sociais da saúde", "estresse crônico", "justiça social", "saúde pública", "vulnerabilidade", "carga alostática", "direitos humanos"],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'person struggling poverty shadow'
+    imageUrl: '/images/mes-edicoes/m05/ed009/i01.png',
+    imageHint: 'Full shot of a solitary figure in a desolate, low-income urban or rural setting, portraying deep sadness and the weight of mental burden. Muted, somber colors and realistic style with a slight shadow effect to emphasize the struggle. Use a vertical format if possible to enhance the feeling of being overwhelmed.'
   };
 
 const editorialEd009: Conteudo = {
@@ -58,8 +57,8 @@ const editorialEd009: Conteudo = {
   ],
   tags: ['diálogo interno', 'autoconversa', 'autocompaixão', 'autoestima', 'saúde mental', 'mindfulness', 'editorial', 'resiliência', 'terapia cognitivo-comportamental'],
   isPremium: false,
-  imageUrl: 'https://placehold.co/600x400.png',
-  imageHint: 'person quiet reflection'
+  imageUrl: '/images/mes-edicoes/m05/ed009/i02.png',
+  imageHint: 'Close-up or medium shot of a person in a calm, contemplative posture, meditating or journaling. The setting should be serene, either a peaceful indoor space or a tranquil natural environment. Bathed in soft, diffused light to evoke a peaceful atmosphere. Focus on the person\'s expression conveying introspection and inner peace.'
 };
 
 const narrativaEd009: Conteudo = {
@@ -71,7 +70,7 @@ const narrativaEd009: Conteudo = {
   persona_autor: 'A Psicóloga Inventiva',
   data_publicacao: '2025-05-29',
   corpo: [
-    { tipo: 'paragrafo', texto: 'No centro da enigmática Cidade das Brumas Eternas, onde a verdade muitas vezes se escondia sob véus espessos de discrição e as palavras não ditas pairavam no ar como uma névoa persistente, havia um jardim secreto, conhecido apenas por aqueles cujas almas carregavam o peso de confidências inconfessáveis. Não era um jardim de flores comuns, com pétalas vibrantes e perfumes doces, mas de plantas extraordinárias e por vezes sombrias, que brotavam dos segredos não ditos dos habitantes da cidade. Cada segredo, uma vez confiado à terra fértil e escura do jardim por seu misterioso zelador, um eremita chamado Elara, transformava-se em uma planta única, refletindo a natureza e a intensidade da confidência.' },
+    { tipo: 'paragrafo', texto: 'No centro da enigmática Cidade das Brumas Eternas, onde a verdade muitas vezes se escondia sob véus espessos de discrição e as palavras não ditas pairavam no air como uma névoa persistente, havia um jardim secreto, conhecido apenas por aqueles cujas almas carregavam o peso de confidências inconfessáveis. Não era um jardim de flores comuns, com pétalas vibrantes e perfumes doces, mas de plantas extraordinárias e por vezes sombrias, que brotavam dos segredos não ditos dos habitantes da cidade. Cada segredo, uma vez confiado à terra fértil e escura do jardim por seu misterioso zelador, um eremita chamado Elara, transformava-se em uma planta única, refletindo a natureza e a intensidade da confidência.' },
     { tipo: 'paragrafo', texto: 'Havia as "Sinos-da-Culpa Silenciosa", cujas flores pálidas e translúcidas emitiam um som quase inaudível de lamento ao toque do vento; as "Trepadeiras-da-Vergonha Oculta", que se enroscavam em si mesmas, escondendo suas flores escuras e aveludadas como feridas secretas; as espinhosas "Roseiras-do-Ressentimento-Não-Expresso", cujos espinhos eram mais afiados que qualquer adaga; e as raras e belas "Orquídeas-da-Esperança-Secreta-e-Preciosa", que brilhavam com uma luz suave e etérea na penumbra do jardim, florescendo apenas sob o olhar da lua. Elara, com suas mãos enrugadas e um olhar que parecia penetrar além das aparências, cuidava de cada planta com reverência e uma compreensão silenciosa, sabendo que os segredos, mesmo os mais dolorosos ou vergonhosos, precisavam de um espaço para existir, para serem reconhecidos e, eventualmente, para se transformar ou se dissolver.' },
     { tipo: 'dialogo', personagem: 'Elara, a Zeladora do Jardim', fala: 'Os segredos são como sementes, meu jovem amigo. Guardados na escuridão sufocante do peito, podem germinar raízes de amargura, medo e isolamento, consumindo a vitalidade por dentro. Mas plantados com cuidado e intenção, mesmo que em solo sagrado e discreto como este, podem encontrar uma forma de crescer, de se expressar e, quem sabe, até de se libertar da sombra que os acompanha, transformando-se em sabedoria ou compaixão.' },
     { tipo: 'paragrafo', texto: 'Um dia, um jovem escriba chamado Luan, atormentado por um segredo de família que o consumia com culpa e o impedia de formar laços verdadeiros, encontrou, guiado por um impulso inexplicável, o caminho para o Jardim dos Segredos Murmurantes. Hesitante e com o coração apertado, ele confiou sua história a Elara, que a ouviu sem julgamento, apenas com a presença atenta de quem compreende o peso das palavras não ditas. Juntos, plantaram o segredo em um canto isolado do jardim, sob uma antiga árvore de galhos retorcidos.' },
@@ -80,8 +79,8 @@ const narrativaEd009: Conteudo = {
   ],
   tags: ['segredos', 'culpa', 'vergonha', 'partilha', 'narrativa', 'libertação emocional', 'confissão', 'verdade', 'psicologia arquetípica'],
   isPremium: false,
-  imageUrl: 'https://placehold.co/600x400.png',
-  imageHint: 'mystical garden glowing plants'
+  imageUrl: '/images/mes-edicoes/m05/ed009/i03.png',
+  imageHint: 'An ethereal, mystical secret garden at twilight, filled with fantastical plants of various shapes and colors. Some plants are dark and thorny (secrets of guilt/shame), while others glow with soft, internal light (secrets of hope/truth). Emphasize atmospheric mist and a sense of hidden wonder and mystery. Fantasy illustration style.'
 };
 
 const colunaEd009: Conteudo = {
@@ -100,8 +99,8 @@ const colunaEd009: Conteudo = {
   ],
   tags: ['impermanência', 'aceitação', 'mindfulness', 'presente', 'desapego', 'coluna', 'filosofia oriental', 'budismo', 'estoicismo', 'sofrimento'],
   isPremium: false,
-  imageUrl: 'https://placehold.co/600x300.png',
-  imageHint: 'river flowing leaves autumn'
+  imageUrl: '/images/mes-edicoes/m05/ed009/i04.png',
+  imageHint: 'A wide shot landscape photograph of a vibrant, gentle river flowing through a dense forest during peak autumn colors. Leaves are visibly falling from trees and some are floating on the water\'s surface. Captured during golden hour to enhance warm light and atmospheric depth. Focus on the smooth movement of water and richness of colors.'
 };
 
 const psicofarmacoEd009: Conteudo = {
@@ -114,7 +113,7 @@ const psicofarmacoEd009: Conteudo = {
   data_publicacao: '2025-05-29',
   corpo: [
     { tipo: 'paragrafo', texto: 'O uso de psicofármacos é uma ferramenta terapêutica importante e, em muitos casos, indispensável no tratamento de diversos transtornos mentais. No entanto, um aspecto frequentemente subestimado, tanto por pacientes quanto, por vezes, por profissionais, é o potencial de interações medicamentosas. Muitos pacientes, especialmente aqueles com comorbidades (outras condições médicas além do transtorno psiquiátrico), idosos ou aqueles que consultam múltiplos especialistas, podem estar em risco de interações entre seus psicofármacos e outras substâncias que utilizam.' },
-    { tipo: 'paragrafo', texto: 'Uma interação medicamentosa ocorre quando uma substância (seja outro medicamento prescrito, um medicamento de venda livre, um suplemento herbal, um alimento específico ou álcool) altera a forma como um psicofármaco age no corpo. Essa alteração pode se dar por diversos mecanismos, resultando em aumento ou diminuição da eficácia do psicofármaco, ou, mais perigosamente, na potencialização de seus efeitos colaterais ou no surgimento de novas reações adversas.' },
+    { tipo: 'paragrafo', texto: 'Uma interação medicamentosa ocorre quando uma substância (se seja outro medicamento prescrito, um medicamento de venda livre, um suplemento herbal, um alimento específico ou álcool) altera a forma como um psicofármaco age no corpo. Essa alteração pode se dar por diversos mecanismos, resultando em aumento ou diminuição da eficácia do psicofármaco, ou, mais perigosamente, na potencialização de seus efeitos colaterais ou no surgimento de novas reações adversas.' },
     { tipo: 'paragrafo', texto: 'As consequências dessas interações podem variar de leves a graves, e em alguns casos, podem ser fatais. Exemplos incluem a falha terapêutica (o medicamento psiquiátrico para de funcionar ou tem seu efeito reduzido), o surgimento ou agravamento de efeitos colaterais (como sedação excessiva, tontura, confusão mental), ou o desenvolvimento de síndromes tóxicas graves, como a síndrome serotoninérgica (uma condição potencialmente letal causada pelo excesso de serotonina no cérebro, geralmente por combinação de medicamentos que aumentam a serotonina), arritmias cardíacas, crises hipertensivas (especialmente com IMAOs e certos alimentos/medicamentos), ou depressão respiratória. É crucial que pacientes e profissionais de saúde estejam vigilantes e bem informados sobre esses riscos.' },
     { tipo: 'sub_cabecalho', texto: 'Principais Tipos de Interações Medicamentosas e Precauções Essenciais:' },
     { tipo: 'lista_ordenada', itens: [
@@ -127,8 +126,8 @@ const psicofarmacoEd009: Conteudo = {
   ],
   tags: ['interações medicamentosas', 'psicofarmacologia', 'segurança do paciente', 'polifarmácia', 'citocromo P450', 'síndrome serotoninérgica', 'suplementos herbais', 'farmacocinética', 'farmacodinâmica'],
   isPremium: true,
-  imageUrl: 'https://placehold.co/600x400.png',
-  imageHint: 'multiple pills warning sign'
+  imageUrl: '/images/mes-edicoes/m05/ed009/i05.png',
+  imageHint: 'Overhead shot of an array of assorted prescription pills, capsules, and potentially herbal supplements scattered across a surface, prominently featuring a stylized warning sign or symbol positioned centrally or near the medications. Emphasize variety and quantity of pills to convey polypharmacy. Use dramatic lighting and focus for a serious tone.'
 };
 
 const cronicaEd009: Conteudo = {
@@ -149,8 +148,8 @@ const cronicaEd009: Conteudo = {
   ],
   tags: ['depressão pós-parto', 'saúde mental materna', 'terapia', 'apoio social', 'autocuidado', 'crônica', 'maternidade', 'puerpério', 'estigma'],
   isPremium: false,
-  imageUrl: 'https://placehold.co/600x400.png',
-  imageHint: 'mother baby gentle light'
+  imageUrl: '/images/mes-edicoes/m05/ed009/i06.png',
+  imageHint: 'A close-up, emotional shot of a mother gently cradling her infant. The lighting is soft and warm, symbolizing comfort and hope emerging from darkness. Focus on the connection between mother and baby, conveying tenderness and a sense of relief or peace, possibly with a subtle suggestion of a lighthouse beam in the background, representing guidance and finding light.'
 };
 
 const tecnicaEd009: Conteudo = {
@@ -176,8 +175,8 @@ const tecnicaEd009: Conteudo = {
   ],
   tags: ['solução de problemas', 'TCC', 'tomada de decisão', 'estresse', 'autoeficácia', 'habilidades de enfrentamento', 'técnicas terapêuticas', 'planejamento', 'resiliência'],
   isPremium: false,
-  imageUrl: 'https://placehold.co/600x400.png',
-  imageHint: 'person solving puzzle maze'
+  imageUrl: '/images/mes-edicoes/m05/ed009/i07.png',
+  imageHint: 'A metaphorical illustration depicting a determined figure standing at the entrance of a complex, intricate puzzle or maze, with glowing lines or paths indicating a clear strategy or pathway towards a solution or exit. Visualize the process of breaking down complexity into manageable steps. Conceptual art style, focus on clarity of path finding.'
 };
 
 export const conteudosEdicao009: Conteudo[] = [
@@ -197,7 +196,7 @@ export const edicao009: Edicao = {
     titulo_principal: "Determinantes Sociais da Saúde Mental, a Impermanência e a Arte de Solucionar Problemas",
     subtitulo: "Nesta edição: A cruel relação entre pobreza e depressão, a sabedoria da impermanência, o diálogo interno e técnicas para resolver desafios.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "social justice balance scales",
+    imageHint: 'Symbolic image featuring intricate balance scales. On one side, abstract elements represent social justice (e.g., diverse figures, simplified structures). On the other side, elements represent mental health (e.g., calming colors, abstract brain shape, calm figure). Emphasize the scales tipping or balanced, showing the strong connection and the need for equilibrium between these concepts. Conceptual art style, high detail.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: pobrezaDepressaoSocial009.titulo, id_conteudo: pobrezaDepressaoSocial009.id },
@@ -217,5 +216,3 @@ export const edicao009: Edicao = {
     { nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas", tipo: "caderno_especial", conteudo_ids: [tecnicaEd009.id] }
   ]
 };
-
-    

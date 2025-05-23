@@ -18,7 +18,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['perdão', 'cura emocional', 'ressentimento', 'autocompaixão', 'editorial', 'saúde mental', 'relacionamentos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1563986768711-b3Bde3dc821e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvJTIwaGFuZHMlMjByZWxlYXNpbmclMjBkb3ZlfGVufDB8fHx8MTcxODA4NTA0N3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i01.png',
     imageHint: 'hands releasing dove'
   },
   {
@@ -47,7 +47,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['psicologia evolucionista', 'seleção natural', 'adaptação', 'comportamento humano', 'natureza humana', 'AAE', 'psicologia comparada'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1501768762654-81825a848598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbnwwfHx8fDE3MTgzNTczMjd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i02.png',
     imageHint: 'evolution human brain'
   },
   {
@@ -75,7 +75,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['desenvolvimento infantil', 'família', 'estilos parentais', 'apego', 'psicologia do desenvolvimento', 'comunicação familiar', 'saúde mental infantil'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1583255200303-997b9105d1d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBwbGF5aW5nJTIwaGFwcHl8ZW58MHx8fHwxNzE4MzU3NzgyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i03.png',
     imageHint: 'family playing happy'
   },
   {
@@ -95,7 +95,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['arteterapia', 'expressão emocional', 'cura', 'criatividade', 'narrativa', 'fábula', 'autoconhecimento', 'cores'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1541753866384-00ac27a08ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjB0aGVyYXB5JTIwY29sb3JzJTIwcGFpbnRpbmd8ZW58MHx8fHwxNzE4MzU3ODc0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i04.png',
     imageHint: 'art therapy colors painting'
   },
   {
@@ -114,7 +114,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['pausa', 'descanso', 'mindfulness', 'bem-estar', 'coluna', 'produtividade', 'ócio criativo', 'autocuidado'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1473187983301-b151590386f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjByZWxheGluZyUyMG5hdHVyZXxlbnwwfHx8fDE3MTgzNTc5Mzh8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i05.png',
     imageHint: 'person relaxing nature'
   },
   {
@@ -140,7 +140,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['transtornos de personalidade', 'psicofarmacologia', 'psicoterapia', 'DBT', 'TFP', 'Terapia do Esquema', 'medicação psiquiátrica', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1550922445-b470f8090f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb25hbGl0eSUyMGRpc29yZGVyJTIwc3ltYm9sc3xlbnwwfHx8fDE3MTgzNTgwOTV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i06.png',
     imageHint: 'personality disorder symbols'
   },
   {
@@ -171,7 +171,7 @@ export const conteudosEdicao040: Conteudo[] = [
     ],
     tags: ['autoestima', 'autoconfiança', 'autocompaixão', 'técnicas terapêuticas', 'bem-estar emocional', 'crescimento pessoal', 'TCC', 'psicologia positiva'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzdGFuZGluZyUyMHRhbGwlMjBjb25maWRlbnR8ZW58MHx8fHwxNzE4MzU4MTQ2fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed040/i07.png',
     imageHint: 'person standing tall confident'
   }
 ];

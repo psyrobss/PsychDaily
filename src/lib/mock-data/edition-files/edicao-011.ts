@@ -30,7 +30,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['vulnerabilidade', 'coragem', 'conexão', 'autenticidade', 'saúde emocional', 'editorial', 'Brené Brown', 'autoaceitação', 'compaixão', 'resiliência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1505051508009-121094d47172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFydCUyMG9wZW5pbmclMjBnbG93aW5nJTIwbGlnaHR8ZW58MHx8fHwxNzE4MzYwMTAxfDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m06/ed011/i01.png', 
     imageHint: 'a heart gently opening, with a soft, warm light emanating from within, symbolizing courage and authentic connection'
   },
   {
@@ -51,7 +51,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['sonhos', 'esperança', 'resiliência', 'autocompaixão', 'perseverança', 'narrativa', 'criatividade', 'psicologia inventiva', 'cura emocional', 'transformação', 'arquétipos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aHJlYWQlMjBuZWVkbGUlMjBmYWJyaWMlMjBnb2xkZW58ZW58MHx8fHwxNzE4MzYwMTQ3fDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m06/ed011/i02.png',
     imageHint: 'golden threads being woven into a torn fabric by wise hands, with a needle shining brightly, symbolizing hope and resilience'
   },
   {
@@ -70,7 +70,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['escuta ativa', 'comunicação', 'empatia', 'relacionamentos', 'sem julgamento', 'coluna', 'mindfulness', 'conexão humana', 'validação emocional', 'diálogo'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFydCUyMGxpc3RlbmluZyUyMGNvbm5lY3Rpb258ZW58MHx8fHwxNzE4MzYwMTk0fDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m06/ed011/i03.png',
     imageHint: 'two people in a deep, empathetic conversation, perhaps one listening intently with a hand on their heart, symbolizing connection and understanding'
   },
   {
@@ -101,7 +101,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['vieses cognitivos', 'heurísticas', 'tomada de decisão', 'psicologia cognitiva', 'pensamento crítico', 'racionalidade', 'Daniel Kahneman', 'erros de julgamento', 'economia comportamental'],
     isPremium: false, // Artigo aberto devido à sua importância
-    imageUrl: 'https://images.unsplash.com/photo-1503454453421-fc7cdd0940b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXplJTIwYnJhaW4lMjBpbGx1c2lvbnxlbnwwfHx8fDE3MTgzNjAyNTF8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m06/ed011/i04.png',
     imageHint: 'a complex brain maze with arrows pointing in different, sometimes misleading, directions, symbolizing cognitive biases and mental shortcuts'
   },
   {
@@ -137,7 +137,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['antipsicóticos', 'esquizofrenia', 'psicose', 'saúde mental', 'psicofarmacologia', 'efeitos colaterais', 'tratamento humanizado', 'TCCp', 'reabilitação psicossocial', 'estigma', 'clozapina', 'haloperidol', 'risperidona', 'olanzapina'],
     isPremium: false, // Mantendo como não premium pela importância do tema
-    imageUrl: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwYnJhaW4lMjBzeW5hcHNlc3xlbnwwfHx8fDE3MTgzNjA0MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m06/ed011/i05.png',
     imageHint: 'stylized image of brain synapses with some areas calmed by medication, but also showing connections to supportive human figures, representing an integrated approach'
   },
   {
@@ -158,7 +158,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['procrastinação', 'terapia', 'ACT', 'TCC', 'valores', 'propósito', 'motivação', 'crônica', 'autoeficácia', 'autocompaixão', 'evitação emocional', 'crescimento pessoal'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1529078153919-55b19070f1d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvdmVyY29taW5nJTIwb2JzdGFjbGUlMjBjbGltYmluZ3xlbnwwfHx8fDE3MTgzNjAzNDV8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m06/ed011/i06.png',
     imageHint: 'person successfully climbing a small, manageable step on a larger staircase, symbolizing overcoming procrastination through small actions and finding purpose'
   },
   {
@@ -221,7 +221,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['roda da vida', 'autoavaliação', 'coaching', 'desenvolvimento pessoal', 'equilíbrio de vida', 'definição de metas', 'técnicas terapêuticas', 'bem-estar integral', 'psicologia positiva', 'autoconhecimento'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1587080414904-7ef0092e5890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBsaWZlJTIwYmFsYW5jZSUyMHdoZWVsJTIwY2hhcnR8ZW58MHx8fHwxNzE4MDg1MTk4fDA&ixlib=rb-4.0.3&q=80&w=1080', // Imagem mantida
+    imageUrl: '/images/mes-edicoes/m06/ed011/i07.png',
     imageHint: 'life balance wheel chart with a person thoughtfully looking at it and planning'
   }
 ];

@@ -17,7 +17,7 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['solitude', 'solidão', 'autoconhecimento', 'mindfulness', 'paz interior', 'editorial', 'introspecção'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldCUyMGNvbnRlbXBsYXRpb258ZW58MHx8fHwxNzE3Nzk4ODMyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i01.png',
     imageHint: 'person quiet contemplation'
   },
   {
@@ -38,7 +38,7 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['psicossomática', 'Lacan', 'psicanálise', 'hieróglifo', 'inconsciente', 'corpo', 'simbolização', 'fenômeno psicossomático'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1541829060513-49e09218e6f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoaWVyb2dseXBocyUyMGRlc2VydCUyMGFic3RyYWN0fGVufDB8fHx8MTcxNzc5OTAyOHww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i02.png',
     imageHint: 'hieroglyphs desert abstract'
   },
   {
@@ -63,7 +63,7 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['psicologia sócio-histórica', 'Vygotsky', 'desenvolvimento humano', 'cultura', 'linguagem', 'mediação semiótica', 'ZDP', 'história da psicologia'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1518030542020-5a02613f096e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2eWdvdHNreSUyMGNoaWxkJTIwbGVhcm5pbmd8ZW58MHx8fHwxNzE3Nzk5MDYzfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i03.png',
     imageHint: 'vygotsky child learning'
   },
   {
@@ -83,7 +83,7 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['felicidade', 'pequenas alegrias', 'memória afetiva', 'gratidão', 'narrativa', 'fábula', 'mindfulness', 'presente'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnannulationJTIwamFycyUyMGhvbGRpbmclMjBsaWdodHxlbnwwfHx8fDE3MTc3OTkwMDd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i04.png',
     imageHint: 'glowing jars happy moments'
   },
   {
@@ -102,7 +102,7 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['gentileza', 'compaixão', 'transformação social', 'bem-estar', 'coluna', 'humanidade', 'resistência', 'bondade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZW50bGUlMjBoYW5kcyUyMGZsb3dlcnxlbnwwfHx8fDE3MTc3OTkxMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i05.png',
     imageHint: 'gentle hands flower'
   },
   {
@@ -129,7 +129,7 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['desmame', 'psicofármacos', 'antidepressivos', 'benzodiazepínicos', 'abstinência', 'segurança do paciente', 'saúde mental', 'retirada gradual', 'síndrome de descontinuação', 'tapering'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1584515933487-759828d2792b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWxlbmRhciUyMHBpbGxzJTIwZ3JhZHVhbCUyMGRlY3JlYXNlfGVufDB8fHx8MTcxNzc5OTE5OXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i06.png',
     imageHint: 'calendar pills gradual'
   },
   {
@@ -157,13 +157,11 @@ export const conteudosEdicao025: Conteudo[] = [
     ],
     tags: ['metáforas terapêuticas', 'linguagem simbólica', 'psicoterapia', 'insight', 'técnicas terapêuticas', 'comunicação terapêutica', 'TCC', 'ACT'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1500373994708-4d7812775152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZXRhcGhvciUyMGJyaWRnZSUyMGxpZ2h0fGVufDB8fHx8MTcxNzc5OTI3M3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed025/i07.png',
     imageHint: 'bridge light water'
   }
 ];
 
-// Removendo a crônica da Edição 025 para manter 7 artigos, já que dois aprofundados foram adicionados.
-// A crônica 'cronica-025-florescer-aurora' pode ser usada em uma edição futura.
 
 export const edicao025: Edicao = {
   edicao: "025",

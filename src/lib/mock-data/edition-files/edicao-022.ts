@@ -26,7 +26,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['sono', 'saúde mental', 'bem-estar', 'regulação emocional', 'memória', 'editorial', 'higiene do sono'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1499199941132-36372731419d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZWFjZWZ1bCUyMHNsZWVwJTIwbW9vbnxlbnwwfHx8fDE3MTc2NDA4NDd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i01.png',
     imageHint: 'peaceful sleep moon'
   },
   {
@@ -57,7 +57,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['comunicação assertiva', 'timidez', 'introversão', 'habilidades sociais', 'autoconfiança', 'ansiedade social'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1530099486328-e021101a494a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxdWlldCUyMHBlcnNvbiUyMHNwZWFraW5nfGVufDB8fHx8MTcxNzY0MDk0N3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i02.png',
     imageHint: 'quiet person speaking'
   },
   {
@@ -77,7 +77,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['propósito', 'sentido de vida', 'narrativa', 'autoconhecimento', 'fábula', 'paixão', 'motivação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnbG93aW5nJTIwbWFwJTIwaGVhcnR8ZW58MHx8fHwxNzE3NjQwOTk0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i03.png',
     imageHint: 'glowing map heart'
   },
   {
@@ -95,7 +95,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['minimalismo mental', 'pensamentos negativos', 'desapego', 'paz interior', 'coluna', 'mindfulness', 'estresse', 'clareza mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1500373994708-4d7812775152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGVhciUyMG1pbmQlMjBza3l8ZW58MHx8fHwxNzE3NjQxMDM0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i04.png',
     imageHint: 'clear mind sky'
   },
   {
@@ -128,7 +128,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['antidepressivos', 'longo prazo', 'medicalização', 'saúde mental', 'psicofarmacologia', 'depressão', 'tristeza', 'ISRS'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1512613733886-411278788516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWxlbmRhciUyMHBpbGxzJTIwbG9uZyUyMHRlcm18ZW58MHx8fHwxNzE3NjQxMDc4fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i05.png',
     imageHint: 'calendar pills long term'
   },
   {
@@ -149,7 +149,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['timidez', 'liderança', 'ansiedade social', 'superação', 'crônica', 'habilidades sociais', 'autoconfiança', 'desenvolvimento pessoal'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzcGVha2luZyUyMGdyb3VwJTIwY29uZmlkZW50bHl8ZW58MHx8fHwxNzE3NjQxMTIyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i06.png',
     imageHint: 'person speaking group confidently'
   },
   {
@@ -177,7 +177,7 @@ export const conteudosEdicao022: Conteudo[] = [
     ],
     tags: ['cadeira vazia', 'gestalt terapia', 'técnicas terapêuticas', 'conflito interno', 'emoções', 'Fritz Perls', 'unfinished business', 'psicoterapia experiencial'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1580490276648-83536f67ba01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGNoYWlyJTIwZGlhbG9ndWV8ZW58MHx8fHwxNzE3NjQxMTY0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed022/i07.png',
     imageHint: 'empty chair dialogue'
   }
 ];

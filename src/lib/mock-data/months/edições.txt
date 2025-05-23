@@ -1,0 +1,10 @@
+| Mês      | Números das edições |
+| -------- | ------------------- |
+| Maio     | 1 – 10              |
+| Junho    | 11 – 31             |
+| Julho    | 32 – 54             |
+| Agosto   | 55 – 75             |
+| Setembro | 76 – 97             |
+| Outubro  | 98 – 120            |
+| Novembro | 121 – 140           |
+| Dezembro | 141 – 163           |

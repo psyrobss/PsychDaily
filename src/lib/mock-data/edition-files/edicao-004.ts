@@ -27,7 +27,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['comunidade', 'saúde mental', 'conexões sociais', 'pertencimento', 'bem-estar', 'editorial', 'isolamento'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1490187763999-9f273a5b7516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29tbXVuaXR5fGVufDB8fHx8MTc0Nzc1MDIzOXww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed003/i01.png',
     imageHint: 'community hands',
   },
   {
@@ -47,7 +47,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['sonhos', 'esperança', 'medo', 'coragem', 'narrativa', 'autodescoberta'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1620312531721-fb7d039c93ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8ZHJlYW1zfGVufDB8fHx8MTc0Nzc1MTM5NHww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed004/i02.png',
     imageHint: 'glowing orb hand',
   },
   {
@@ -65,7 +65,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['corpo', 'mente-corpo', 'interocepção', 'bem-estar', 'sabedoria', 'escuta', 'coluna'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m05/ed004/i03.png',
     imageHint: 'body silhouette nature',
   },
 {
@@ -124,7 +124,7 @@ export const conteudosEdicao004: Conteudo[] = [
 
   isPremium: false,
 
-  imageUrl: 'https://images.unsplash.com/photo-1617699746668-3642fd0658a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW5pZmVzdGF0aW9ufGVufDB8fHx8MTc0NzkwNjY5OXww&ixlib=rb-4.1.0&q=80&w=1080',
+  imageUrl: '/images/mes-edicoes/m05/ed004/i04.png',
 
   imageHint: 'group people interaction',
 },
@@ -193,7 +193,7 @@ export const conteudosEdicao004: Conteudo[] = [
     "tratamento"
   ],
   isPremium: true,
-  imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2luZXxlbnwwfHx8fDE3NDc5MDY4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+  imageUrl: "/images/mes-edicoes/m05/ed004/i05.png",
   imageHint: "child thinking classroom"
 },
 
@@ -214,7 +214,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['ansiedade social', 'medo', 'terapia', 'TCC', 'exposição gradual', 'autoconfiança', 'crônica'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZWFsaW5nfGVufDB8fHx8MTc0NzkwNzQzMHww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed004/i06.png',
     imageHint: 'person overcoming fear',
   },
   {
@@ -240,7 +240,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['CNV', 'comunicação não-violenta', 'empatia', 'relacionamentos', 'conflitos', 'técnicas terapêuticas'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1577563908411-5077b6dc7624?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pY2F0aW9ufGVufDB8fHx8MTc0NzkwNzU3N3ww&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed004/i07.png',
     imageHint: 'two people talking calmly',
   }
 ];

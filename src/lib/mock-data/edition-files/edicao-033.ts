@@ -18,7 +18,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['autocuidado', 'bem-estar', 'saúde mental', 'rotina', 'editorial', 'saúde integral'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1599059819124-d5846e488232?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwaGFiaXRzJTIwc2VsZmNhcmV8ZW58MHx8fHwxNzE4MDg0OTIxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i01.png',
     imageHint: 'person healthy habits'
   },
   {
@@ -51,7 +51,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['metacognição', 'aprendizagem', 'pensamento crítico', 'TCC', 'educação', 'tomada de decisão', 'autorregulação'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1503454453421-fc7cdd0940b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFkJTIwZ2VhcnMlMjB0aGlua2luZ3xlbnwwfHx8fDE3MTgwODQ5NTV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i02.png',
     imageHint: 'brain gears thinking'
   },
   {
@@ -72,7 +72,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['preocupação', 'ansiedade', 'deixar ir', 'leveza', 'narrativa', 'mindfulness', 'fábula'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1529946179072-c6eb108920f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjByZWxlYXNpbmclMjBiYWxsb29uc3xlbnwwfHx8fDE3MTgwODUwMDB8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i03.png',
     imageHint: 'person releasing balloons'
   },
   {
@@ -91,7 +91,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['perdão', 'autocompaixão', 'cura emocional', 'coluna', 'ressentimento', 'crescimento pessoal'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1563986768711-b3Bde3dc821e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvJTIwaGFuZHMlMjByZWxlYXNpbmclMjBkb3ZlfGVufDB8fHx8MTcxODA4NTA0N3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i04.png',
     imageHint: 'open hands releasing bird'
   },
   {
@@ -119,7 +119,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['TDAH adulto', 'psicofarmacologia', 'TCC', 'diagnóstico tardio', 'tratamento multimodal', 'neurodiversidade', 'funções executivas'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604881990506-74535a370a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhZHVsdCUyMGJyYWluJTIwZm9jdXMlMjBwdXp6bGV8ZW58MHx8fHwxNzE4MDg1MDk0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i05.png',
     imageHint: 'adult brain focus puzzle'
   },
   {
@@ -140,7 +140,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['autoestima', 'autovalorização', 'terapia', 'empoderamento', 'crônica', 'TCC', 'autocompaixão', 'diálogo interno'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBsb29raW5nJTIwbWlycm9yJTIwc21pbGluZ3xlbnwwfHx8fDE3MTgwODUxNTN8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i06.png',
     imageHint: 'person looking mirror smiling'
   },
   {
@@ -187,7 +187,7 @@ export const conteudosEdicao033: Conteudo[] = [
     ],
     tags: ['roda da vida', 'desenvolvimento pessoal', 'equilíbrio', 'metas', 'coaching', 'técnicas terapêuticas', 'autoavaliação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1587080414904-7ef0092e5890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBsaWZlJTIwYmFsYW5jZSUyMHdoZWVsJTIwY2hhcnR8ZW58MHx8fHwxNzE4MDg1MTk4fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed033/i07.png',
     imageHint: 'life balance wheel chart'
   }
 ];

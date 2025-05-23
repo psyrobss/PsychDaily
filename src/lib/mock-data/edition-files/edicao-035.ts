@@ -27,7 +27,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['psicologia social', 'transformação social', 'justiça social', 'editorial', 'desigualdade', 'opressão', 'direitos humanos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBqdXN0aWNlJTIwY29tbXVuaXR5fGVufDB8fHx8MTcxODExODQxNXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i01.png',
     imageHint: 'social justice community'
   },
   {
@@ -53,7 +53,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['psicologia decolonial', 'epistemologias do sul', 'colonialismo', 'saúde mental', 'opressão', 'saberes ancestrais', 'justiça cognitiva'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1533656911430-e0dfa37f7b28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBkaXZlcnNpdHklMjBoYW5kc3xlbnwwfHx8fDE3MTgxMTg0OTN8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i02.png',
     imageHint: 'global diversity hands'
   },
   {
@@ -80,7 +80,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['psicologia no SUS', 'saúde mental comunitária', 'RAPS', 'CAPS', 'reforma psiquiátrica', 'políticas públicas de saúde', 'atenção primária'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdXMlMjBoZWFsdGglMjBicmF6aWx8ZW58MHx8fHwxNzE4MTE4NTU0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i03.png',
     imageHint: 'SUS health Brazil'
   },
   {
@@ -100,7 +100,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['percepção', 'realidade subjetiva', 'crenças', 'mindfulness', 'narrativa', 'fábula', 'psicologia cognitiva', 'transformação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1525026198548-4baa812f1183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3ZWF2ZXIlMjB0YXBlc3RyeSUyMGNvc21pY3xlbnwwfHx8fDE3MTgxMTg2MDJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i04.png',
     imageHint: 'weaver tapestry cosmic'
   },
   {
@@ -118,7 +118,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['rituais', 'sagrado', 'cotidiano', 'mindfulness', 'coluna', 'espiritualidade', 'conexão', 'presença'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1547560431-a313401a449c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5kbGUlMjByaXR1YWwlMjBwZWFjZXxlbnwwfHx8fDE3MTgxMTg2NDZ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i05.png',
     imageHint: 'candle ritual peace'
   },
   {
@@ -145,7 +145,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['cannabis medicinal', 'CBD', 'THC', 'saúde mental', 'psicofarmacologia', 'ansiedade', 'depressão', 'TEPT', 'uso crítico', 'pesquisa'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1599940778173-0248a45c197c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5uYWJpcyUyMGxlYWYlMjBzY2llbmNlfGVufDB8fHx8MTcxODExODcwMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i06.png',
     imageHint: 'cannabis leaf science'
   },
   {
@@ -181,7 +181,7 @@ export const conteudosEdicao035: Conteudo[] = [
     ],
     tags: ['escrita expressiva', 'James Pennebaker', 'processamento emocional', 'trauma', 'bem-estar', 'técnicas terapêuticas', 'autocuidado', 'cura'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3cml0aW5nJTIwZmVlbGluZ3MlMjBqb3VybmFsfGVufDB8fHx8MTcxODExODc1MXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed035/i07.png',
     imageHint: 'writing feelings journal'
   }
   // Crônica terapêutica foi omitida para esta edição para dar espaço aos 3 artigos de temas específicos e à técnica.

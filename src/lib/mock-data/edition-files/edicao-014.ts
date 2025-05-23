@@ -1,4 +1,4 @@
-
+// Edição 014 - Terça-feira, 03 de Junho de 2025
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao014: Conteudo[] = [
@@ -27,8 +27,8 @@ export const conteudosEdicao014: Conteudo[] = [
     ],
     tags: ['luto coletivo', 'trauma social', 'cura comunitária', 'saúde mental', 'resiliência', 'editorial', 'crise'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'community mourning together'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i01.png',
+    imageHint: 'A diverse group of people standing together, looking towards a horizon, subtle expressions of shared sadness and hope. Elements like arms around shoulders, hands clasped, or shared symbols of remembrance (candles, flowers) can convey community mourning. Setting could be a public space after a challenging event, with soft, poignant lighting.'
   },
   {
     id: 'narrativa-014-cidade-sombras',
@@ -38,18 +38,18 @@ export const conteudosEdicao014: Conteudo[] = [
     autor: 'Clarice Fictícia Arantes',
     persona_autor: 'A Psicóloga Inventiva',
     data_publicacao: '2025-06-05',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'Na enigmática Cidade da Meia-Luz, onde o dia e a noite pareciam se fundir em um crepúsculo eterno, os habitantes tinham uma peculiaridade: suas sombras não eram meros reflexos escuros no chão, mas entidades semi-independentes, com vontades e desejos próprios, frequentemente opostos aos de seus "donos". Essas sombras personificavam os aspectos rejeitados, reprimidos ou não reconhecidos da personalidade de cada um – os medos, as invejas, os impulsos agressivos, os talentos não desenvolvidos, tudo aquilo que era considerado "inaceitável" ou "inferior" pela consciência.' },
-      { tipo: 'paragrafo', texto: 'A maioria dos cidadãos vivia em constante conflito com suas sombras, tentando controlá-las, escondê-las ou negá-las. Isso, no entanto, só as tornava mais rebeldes, mais sombrias e mais propensas a sabotar os planos e relacionamentos de seus donos. Quanto mais uma sombra era reprimida, mais poder ela acumulava na escuridão, manifestando-se em explosões de raiva inexplicáveis, autossabotagem ou projeções hostis sobre os outros.' },
-      { tipo: 'dialogo', personagem: 'Um Velho Sábio da Cidade', fala: 'A sombra, meu jovem, não é sua inimiga. É uma parte esquecida de você que anseia por reconhecimento e integração. Fugir dela é fugir de sua própria totalidade. Apenas quando você tem a coragem de olhar para sua sombra, de dialogar com ela e de entender suas necessidades, é que ela pode se tornar sua aliada, sua fonte de força e criatividade oculta.' },
-      { tipo: 'paragrafo', texto: 'Um jovem artista chamado Luan, cuja criatividade estava bloqueada por uma autocrítica feroz (sua sombra manifesta como um crítico implacável), decidiu seguir o conselho do velho sábio. Em vez de lutar contra sua sombra crítica, começou a observá-la, a perguntar-lhe o que ela temia, o que ela tentava proteger. Descobriu que, por trás da crítica, havia um medo profundo de não ser bom o suficiente, um desejo de perfeição que o paralisava.' },
-      { tipo: 'paragrafo', texto: 'Luan começou a "dançar" com sua sombra. Em noites de lua cheia, quando as sombras da cidade se tornavam mais nítidas e expressivas, ele ia para a praça central e, em vez de reprimir sua sombra crítica, convidava-a para um diálogo simbólico através da pintura. Ele pintava seus medos, suas inseguranças, dava forma e cor à voz crítica. Ao fazer isso, a sombra começou a se suavizar, a perder sua rigidez. Ela não desapareceu, mas transformou-se. O crítico implacável tornou-se um discernimento aguçado, a autocrítica paralisante deu lugar a uma busca saudável por aprimoramento.' },
-      { tipo: 'paragrafo', texto: 'Os habitantes da Cidade da Meia-Luz que aprendiam a dançar com suas sombras, a integrá-las em vez de combatê-las, descobriam uma profundidade e uma totalidade em si mesmos que desconheciam. Suas vidas se tornavam mais ricas, mais autênticas e, paradoxalmente, mais luminosas, pois haviam aprendido que a verdadeira luz só pode brilhar plenamente quando reconhecemos e abraçamos também a nossa escuridão interior.' }
-    ],
+  corpo: [
+    { tipo: 'paragrafo', texto: 'Na enigmática Cidade da Meia-Luz, onde o dia e a noite pareciam se fundir em um crepúsculo eterno, os habitantes tinham uma peculiaridade: suas sombras não eram meros reflexos escuros no chão, mas entidades semi-independentes, com vontades e desejos próprios, frequentemente opostos aos de seus "donos". Essas sombras personificavam os aspectos rejeitados, reprimidos ou não reconhecidos da personalidade de cada um – os medos, as invejas, os impulsos agressivos, os talentos não desenvolvidos, tudo aquilo que era considerado "inaceitável" ou "inferior" pela consciência.' },
+    { tipo: 'paragrafo', texto: 'A maioria dos cidadãos vivia em constante conflito com suas sombras, tentando controlá-las, escondê-las ou negá-las. Isso, no entanto, só as tornava mais rebeldes, mais sombrias e mais propensas a sabotar os planos e relacionamentos de seus donos. Quanto mais uma sombra era reprimida, mais poder ela acumulava na escuridão, manifestando-se em explosões de raiva inexplicáveis, autossabotagem ou projeções hostis sobre os outros.' },
+    { tipo: 'dialogo', personagem: 'Um Velho Sábio da Cidade', fala: 'A sombra, meu jovem, não é sua inimiga. É uma parte esquecida de você que anseia por reconhecimento e integração. Fugir dela é fugir de sua própria totalidade. Apenas quando você tem a coragem de olhar para sua sombra, de dialogar com ela e de entender suas necessidades, é que ela pode se tornar sua aliada, sua fonte de força e criatividade oculta.' },
+    { tipo: 'paragrafo', texto: 'Um jovem artista chamado Luan, cuja criatividade estava bloqueada por uma autocrítica feroz (sua sombra manifesta como um crítico implacável), decidiu seguir o conselho do velho sábio. Em vez de lutar contra sua sombra crítica, começou a observá-la, a perguntar-lhe o que ela temia, o que ela tentava proteger. Descobriu que, por trás da crítica, havia um medo profundo de não ser bom o suficiente, um desejo de perfeição que o paralisava.' },
+    { tipo: 'paragrafo', texto: 'Luan começou a "dançar" com sua sombra. Em noites de lua cheia, quando as sombras da cidade se tornavam mais nítidas e expressivas, ele ia para a praça central e, em vez de reprimir sua sombra crítica, convidava-a para um diálogo simbólico através da pintura. Ele pintava seus medos, suas inseguranças, dava forma e cor à voz crítica. Ao fazer isso, a sombra começou a se suavizar, a perder sua rigidez. Ela não desapareceu, mas transformou-se. O crítico implacável tornou-se um discernimento aguçado, a autocrítica paralisante deu lugar a uma busca saudável por aprimoramento.' },
+    { tipo: 'paragrafo', texto: 'Os habitantes da Cidade da Meia-Luz que aprendiam a dançar com suas sombras, a integrá-las em vez de combatê-las, descobriam uma profundidade e uma totalidade em si mesmos que desconheciam. Suas vidas se tornavam mais ricas, mais autênticas e, paradoxalmente, mais luminosas, pois haviam aprendido que a verdadeira luz só pode brilhar plenamente quando reconhecemos e abraçamos também a nossa escuridão interior.' }
+],
     tags: ['sombra psicológica', 'Carl Jung', 'autoconhecimento', 'integração', 'narrativa', 'arquétipos', 'psicologia analítica'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'shadow dancing moonlight'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i02.png',
+    imageHint: 'A fantastical scene in a city bathed in moonlight, where a person is gracefully dancing with their own shadow, which appears as a distinct, animated entity. The shadows are visually dynamic and expressive, set against an atmospheric, slightly surreal urban backdrop under a large, luminous moon. Emphasize harmony and integration, not conflict.'
   },
   {
     id: 'coluna-014-vies-confirmacao',
@@ -66,8 +66,8 @@ export const conteudosEdicao014: Conteudo[] = [
     ],
     tags: ['viés de confirmação', 'pensamento crítico', 'bolhas de filtro', 'polarização', 'mente aberta', 'coluna', 'psicologia social'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
-    imageHint: 'person looking different paths'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i03.png',
+    imageHint: 'A figure standing at a prominent fork in a path, but instead of choosing just one, the figure is visually connected to multiple paths leading in different directions, symbolizing the consideration of diverse perspectives and information sources. Could incorporate elements of filter bubbles or echo chambers breaking apart. Conceptual art style.'
   },
   {
     id: 'aprofundado-014-memoria-emocao',
@@ -98,14 +98,14 @@ export const conteudosEdicao014: Conteudo[] = [
     ],
     tags: ['memória', 'emoção', 'neurociência', 'amígdala', 'hipocampo', 'TEPT', 'psicologia cognitiva', 'lembranças'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'brain emotion connection'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i04.png',
+    imageHint: 'A detailed, scientific illustration of a human brain with specific areas (like the amygdala and hippocampus) highlighted and connected with abstract lines or nodes. These connections should visually represent the strong influence of emotional signals on memory pathways, perhaps with some nodes glowing intensely for emotional events. Clean, educational diagram style.'
   },
   {
     id: 'psicofarmaco-014-nootropicos',
     tipo: 'artigo_aprofundado',
     titulo: 'Nootrópicos e "Smart Drugs": Mitos, Realidades, Benefícios Reais e Riscos Potenciais para a Saúde Cognitiva',
-    subtitulo: 'Uma análise crítica sobre o crescente interesse em substâncias que prometem melhorar a cognição, o foco e a memória, distinguindo entre evidências científicas sólidas, marketing e os perigos do uso não supervisionado.',
+    subtitulo: 'Uma análise crítica sobre o crescente interesse em substâncias que prometem melhorar a cognição, o foco e a memória, distinguindo entre evidências científicas sólidas, marketing e os perigos do uso não-supervisionado.',
     autor: 'Dra. Sofia Fictícia Klein',
     persona_autor: 'A Farmacologista Cautelosa',
     data_publicacao: '2025-06-05',
@@ -132,8 +132,8 @@ export const conteudosEdicao014: Conteudo[] = [
     ],
     tags: ['nootrópicos', 'smart drugs', 'cognição', 'memória', 'foco', 'metilfenidato', 'modafinil', 'suplementos', 'saúde cerebral', 'psicofarmacologia'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'brain gears glowing'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i05.png',
+    imageHint: 'Conceptual illustration of a stylized human brain with interconnected glowing pathways or gears, some appearing enhanced or overly stimulated by external elements (like pills or chemical symbols), while others show organic growth or stable function. Represents cognitive enhancement, potential benefits, and artificial interference. Focus on the balance or imbalance. Abstract, modern illustration style.'
   },
   {
     id: 'cronica-014-resgate-ismael',
@@ -153,8 +153,8 @@ export const conteudosEdicao014: Conteudo[] = [
     ],
     tags: ['anedonia', 'depressão', 'prazer', 'terapia', 'ativação comportamental', 'savoring', 'crônica', 'saúde mental', 'recuperação'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'grayscale garden color returning'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i06.png',
+    imageHint: 'A serene garden scene visually transitioning from a muted grayscale on one side to vibrant, full colors on the other. Show subtle details like a single flower regaining color or a ray of warm sunlight breaking through clouds. Represents the recovery from anhedonia and the return of pleasure and meaning. Soft, hopeful lighting.'
   },
   {
     id: 'tecnica-014-dialogo-socratico',
@@ -183,8 +183,8 @@ export const conteudosEdicao014: Conteudo[] = [
     ],
     tags: ['diálogo socrático', 'TCC', 'terapia cognitiva', 'questionamento socrático', 'pensamento crítico', 'técnicas terapêuticas', 'crenças', 'psicoterapia'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
-    imageHint: 'two people thoughtful discussion'
+    imageUrl: '/images/mes-edicoes/m06/ed014/i07.png',
+    imageHint: 'A scene depicting a therapist and patient in a counseling room setting, engaged in a thoughtful, collaborative discussion. Visual cues could include a subtle exchange of ideas symbolized by intertwined thought bubbles or a gentle light bulb appearing over the patient\'s head, representing insight. Emphasize trust, introspection, and the flow of dialogue.'
   }
 ];
 
@@ -195,7 +195,8 @@ export const edicao014: Edicao = {
     titulo_principal: "Luto Coletivo, Sombras Internas e os Segredos da Memória Emocional",
     subtitulo: "Nesta edição: Navegando a dor compartilhada, a dança com a sombra junguiana, como emoções moldam lembranças e os riscos dos nootrópicos.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "shared grief community",
+    imageHint: 'A composite or symbolic image representing the edition themes: a group of diverse figures standing together (collective grief), a figure interacting with their shadow (internal shadows), and abstract elements symbolizing memory pathways influenced by emotion (emotional memory). Use contrasting light and shadow, possibly overlapping elements, to connect the themes. Conceptual art style.'
+,
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "O Luto Coletivo: Navegando a Dor Compartilhada", id_conteudo: "editorial-014-luto-coletivo" },

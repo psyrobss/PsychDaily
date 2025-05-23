@@ -18,7 +18,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['behaviorismo', 'psicologia comportamental', 'editorial', 'história da psicologia', 'condicionamento', 'aprendizagem'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i01.png',
     imageHint: 'brain gears behavior'
   },
   {
@@ -56,7 +56,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['condicionamento clássico', 'condicionamento operante', 'Pavlov', 'Skinner', 'aprendizagem', 'behaviorismo', 'reforço', 'punição'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i02.png',
     imageHint: 'dog bell skinner box'
   },
   {
@@ -81,7 +81,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['história da psicologia', 'behaviorismo', 'John B. Watson', 'B.F. Skinner', 'condicionamento', 'psicologia científica'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i03.png',
     imageHint: 'old psychology book'
   },
   {
@@ -102,7 +102,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['behaviorismo', 'condicionamento', 'reforço', 'punição', 'hábitos', 'narrativa', 'livre arbítrio', 'consciência'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i04.png',
     imageHint: 'gears levers machine'
   },
   {
@@ -121,7 +121,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['behaviorismo', 'cotidiano', 'reforço', 'hábitos', 'condicionamento', 'coluna', 'autoconsciência'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i05.png',
     imageHint: 'domino effect behavior'
   },
   {
@@ -142,7 +142,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['fobia', 'medo de voar', 'terapia comportamental', 'dessensibilização sistemática', 'exposição gradual', 'crônica', 'behaviorismo', 'ansiedade'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i06.png',
     imageHint: 'airplane window clouds'
   },
   {
@@ -171,7 +171,7 @@ export const conteudosEdicao016: Conteudo[] = [
     ],
     tags: ['economia de fichas', 'token economy', 'modificação de comportamento', 'behaviorismo', 'reforço positivo', 'condicionamento operante', 'técnicas terapêuticas', 'educação'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed016/i07.png',
     imageHint: 'star chart rewards'
   }
 ];

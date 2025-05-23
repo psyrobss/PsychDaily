@@ -17,7 +17,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['autocompaixão', 'gentileza', 'bem-estar emocional', 'resiliência', 'editorial', 'mindfulness', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1593113630405-5f500075d9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGhvbGRpbmclMjBoZWFydCUyMGxpZ2h0fGVufDB8fHx8MTcxODMyNzY1MXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i01.png',
     imageHint: 'hands holding heart light'
   },
   {
@@ -40,7 +40,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['rápido e devagar', 'Daniel Kahneman', 'sistemas de pensamento', 'vieses cognitivos', 'tomada de decisão', 'psicologia cognitiva', 'heurísticas'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1503454453421-fc7cdd0940b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwZmFzdCUyMHNsb3d8ZW58MHx8fHwxNzE4MzI3Njk1fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i02.png',
     imageHint: 'brain fast slow gears'
   },
   {
@@ -66,7 +66,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['etnopsicofarmacologia', 'plantas de poder', 'saberes ancestrais', 'ayahuasca', 'psilocibina', 'pesquisa', 'ética', 'decolonialidade', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1599940778173-0248a45c197c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlY29sb2dpYSUyMG9mJTIwa25vd2xlZGdlfGVufDB8fHx8MTcxODMyNzc1MHww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i03.png',
     imageHint: 'plants traditional medicine'
   },
   {
@@ -87,7 +87,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['crítica', 'autocrítica', 'assertividade', 'autocompaixão', 'narrativa', 'fábula', 'resiliência', 'autoestima'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1521747116042-5a810fda9664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWdpYyUyMHNoaWVsZCUyMG1pcnJvcnxlbnwwfHx8fDE3MTgzMjc4NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i04.png',
     imageHint: 'magic shield mirror'
   },
   {
@@ -105,7 +105,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['amizade', 'relacionamentos', 'bem-estar emocional', 'apoio social', 'coluna', 'conexão', 'psicologia social'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1530076888478-5598f769f1b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmllbmRzJTIwaHVnZ2luZyUyMHN1bnNldHxlbnwwfHx8fDE3MTgzMjc5MjZ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i05.png',
     imageHint: 'friends hugging sunset'
   },
   {
@@ -126,7 +126,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['depressão', 'sinais de alerta', 'saúde mental', 'tratamento', 'crônica', 'estigma', 'busca por ajuda', 'autocompaixão', 'TCC'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1520900589040-0815c1a083f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzYWQlMjB3aW5kb3clMjByYWlufGVufDB8fHx8MTcxODMyNzk5OXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i06.png',
     imageHint: 'person sad window rain'
   },
   {
@@ -152,7 +152,7 @@ export const conteudosEdicao037: Conteudo[] = [
     ],
     tags: ['DBT', 'Terapia Comportamental Dialética', 'regulação emocional', 'mindfulness', 'habilidades interpessoais', 'tolerância ao mal-estar', 'técnicas terapêuticas', 'TPB', 'Marsha Linehan'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGJhbGFuY2luZyUyMHN0b25lc3xlbnwwfHx8fDE3MTgzMjgwNzB8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed037/i07.png',
     imageHint: 'hands balancing stones'
   }
 ];

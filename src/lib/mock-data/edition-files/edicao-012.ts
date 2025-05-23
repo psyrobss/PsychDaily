@@ -1,4 +1,3 @@
-
 // Edição 012 - Terça-feira, 03 de Junho de 2025
 import type { Conteudo, Edicao } from '../../types';
 
@@ -17,8 +16,8 @@ const editorialEd012: Conteudo = {
   ],
   tags: ['autovalidação', 'saúde emocional', 'autoestima', 'aceitação', 'editorial', 'autocompaixão'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1505051508009-121094d47172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbm5lciUyMHBlYWNlJTIwcmVmbGVjdGlvbnxlbnwwfHx8fDE3MTgzNjE5NDV8MA&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'inner peace reflection'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i01.png',
+  imageHint: 'A person in a calm, introspective pose, possibly meditating or journaling, with a subtle visual representation of a gentle echo or light emanating from within them, symbolizing self-acceptance and inner validation. Serene setting, soft lighting, focus on peace.'
 };
 
 const narrativaEd012: Conteudo = {
@@ -38,8 +37,8 @@ const narrativaEd012: Conteudo = {
   ],
   tags: ['emoções', 'consciência', 'regulação emocional', 'mindfulness', 'narrativa', 'fábula', 'raiva', 'medo', 'tristeza'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1507558736464-6c817b953365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbm5lciUyMGxpZ2h0aG91c2UlMjBzdG9ybXxlbnwwfHx8fDE3MTgzNjE5OTd8MA&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'inner lighthouse storm'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i02.png',
+  imageHint: 'A majestic, symbolic lighthouse atop a rocky cliff, with its beam piercing through a dark, turbulent sea representing emotional turmoil and stormy feelings. Emphasize the contrast between the steadfast light (consciousness) and the chaotic waves (emotions). Atmospheric, perhaps with a hint of mist.'
 };
 
 const colunaEd012: Conteudo = {
@@ -57,8 +56,8 @@ const colunaEd012: Conteudo = {
   ],
   tags: ['rituais', 'rotina', 'bem-estar emocional', 'estabilidade', 'coluna', 'mindfulness', 'autocuidado', 'previsibilidade'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1547560431-a313401a449c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWlsbGluZyUyMGNhbmRsZXxlbnwwfHx8fDE3MTgzNjIwNDN8MA&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'calm ritual candle'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i03.png',
+  imageHint: 'A simple, calm setting showing a daily ritual object, like a single lit candle next to a journal, a steaming cup of tea/coffee, or hands holding a worn book. Peaceful atmosphere, soft, warm lighting, conveying comfort and consistency in routine.'
 };
 
 const artigoAprofundadoEd012: Conteudo = {
@@ -84,8 +83,8 @@ const artigoAprofundadoEd012: Conteudo = {
   ],
   tags: ['dissonância cognitiva', 'Leon Festinger', 'psicologia social', 'mudança de atitudes', 'coerência', 'crenças', 'comportamento', 'racionalização'],
   isPremium: true,
-  imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwcmFpbiUyMGFuZCUyMGNvbmZsaWN0JTIwdGhvdWdodHN8ZW58MHx8fHwxNzE4MzYyMDc0fDA&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'brain conflict thoughts'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i04.png',
+  imageHint: 'An abstract or conceptual illustration depicting a human brain with two distinct, conflicting sets of ideas or symbols clashing or pulling apart within it, representing cognitive dissonance, use contrasting colors or visual styles for the conflicting elements, focus on the feeling of internal conflict.'
 };
 
 const psicofarmacoEd012: Conteudo = {
@@ -110,8 +109,8 @@ const psicofarmacoEd012: Conteudo = {
   ],
   tags: ['transtorno bipolar', 'estabilizadores de humor', 'lítio', 'ácido valproico', 'lamotrigina', 'psicofarmacologia', 'mania', 'depressão bipolar'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1618369650296-3a0d19b59940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb29kJTIwc3dpbmdzJTIwYmFsYW5jZSUyMGJyYWlufGVufDB8fHx8MTcxODMyNzA3N3ww&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'mood swings balance brain'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i05.png',
+  imageHint: 'Conceptual illustration of a brain with abstract elements representing mood swings (peaks and valleys) being balanced or smoothed out by symbolic elements representing mood stabilizers, possibly showing pills or chemical structures interacting with the brain pathways. Focus on stability and control. Clean, medical illustration style.'
 };
 
 const cronicaEd012: Conteudo = {
@@ -131,8 +130,8 @@ const cronicaEd012: Conteudo = {
   ],
   tags: ['síndrome do impostor', 'autoestima', 'autoconfiança', 'terapia', 'crônica', 'perfeccionismo', 'autocrítica', 'TCC'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBhdCUyMGFuZCUyMGluJTIwZnJvbnQlMjBvZiUyMGElMjBtaXJyb3J8ZW58MHx8fHwxNzE4MzYyMTI5fDA&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'person front mirror'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i06.png',
+  imageHint: 'A person looking into a mirror, but their reflection is slightly distorted or shows a conflicting image – perhaps a shadowy figure or a different, more confident person. Use symbolic elements like cracks in the mirror or contrasting light/shadow to represent self-doubt vs. inner value. Emphasize the internal struggle and potential for self-perception change.'
 };
 
 const tecnicaEd012: Conteudo = {
@@ -157,8 +156,8 @@ const tecnicaEd012: Conteudo = {
   ],
   tags: ['EPR', 'exposição com prevenção de resposta', 'TOC', 'ansiedade', 'terapia comportamental', 'TCC', 'técnicas terapêuticas', 'habituação', 'extinção'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1529078153919-55b19070f1d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBmYWNpbmclMjBmZWFyJTIwY291cmFnZXxlbnwwfHx8fDE3MTgzNjIxNzh8MA&ixlib=rb-4.0.3&q=80&w=1080',
-  imageHint: 'person facing fear courage'
+  imageUrl: '/images/mes-edicoes/m06/ed012/i07.png',
+  imageHint: 'A stylized representation of a person or figure standing bravely before a visually daunting obstacle or source of anxiety (like a wall of turbulent symbols or a dark, uncertain path), emphasizing courage and the act of facing fear without retreating. Use dynamic lines and contrast to convey the challenge and the inner strength.'
 };
 
 export const conteudosEdicao012: Conteudo[] = [
@@ -178,7 +177,7 @@ export const edicao012: Edicao = {
     titulo_principal: "Autovalidação, Emoções Tempestuosas e a Sabedoria dos Rituais",
     subtitulo: "Nesta edição: A importância de validar a si mesmo, como navegar emoções intensas, o poder dos rituais e uma análise da dissonância cognitiva.",
     imagem_destaque: "https://images.unsplash.com/photo-1505051508009-121094d47172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbm5lciUyMHN0cmVuZ3RoJTIwY2FsbSUyMGxpZ2h0fGVufDB8fHx8MTcxODMyNjk3MXww&ixlib=rb-4.0.3&q=80&w=1080",
-    imageHint: "inner strength calm light",
+    imageHint: 'Conceptual image representing inner strength and calm amidst life\'s challenges. Perhaps hands holding a glowing light source, or a serene figure standing composed on a solid ground while abstract elements of chaos or movement swirl gently around them. Use soft, strong lighting and a sense of groundedness.',
     credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: editorialEd012.titulo, id_conteudo: editorialEd012.id },
@@ -198,5 +197,3 @@ export const edicao012: Edicao = {
     { nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas", tipo: "caderno_especial", conteudo_ids: [tecnicaEd012.id] }
   ]
 };
-
-    

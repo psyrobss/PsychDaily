@@ -27,7 +27,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['esperança', 'otimismo', 'resiliência', 'psicologia positiva', 'editorial', 'bem-estar emocional', 'superação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhJTIwbGlnaHQlMjBhdCUyMHRoZSUyMGVuZCUyMG9mJTIwdHVubmVsfGVufDB8fHx8MTcxODExOTM2N3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i01.png',
     imageHint: 'light tunnel hope'
   },
   {
@@ -65,7 +65,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['tomada de decisão', 'vieses cognitivos', 'heurísticas', 'psicologia cognitiva', 'racionalidade', 'Daniel Kahneman', 'pensamento crítico'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1554224154-2672932207c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBhdCUyMGNyb3Nzcm9hZHMlMjBjaG9pY2VzfGVufDB8fHx8MTcxODExOTQxNHww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i02.png',
     imageHint: 'man crossroads choices'
   },
   {
@@ -92,7 +92,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['psicologia transcultural', 'cultura', 'diversidade', 'saúde mental', 'etnocentrismo', 'psicologia comparada', 'contexto sociocultural'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1524292335090-008f4b3049ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBjdWx0dXJlcyUyMGRpdmVyc2l0eXxlbnwwfHx8fDE3MTgxMTk0NTN8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i03.png',
     imageHint: 'global cultures diversity'
   },
   {
@@ -112,7 +112,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['procrastinação', 'ação', 'medo do fracasso', 'perfeccionismo', 'narrativa', 'fábula', 'motivação', 'pequenos passos'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXplJTIwZ29sZGVuJTIwdGhyZWFkfGVufDB8fHx8MTcxODExOTUwMnww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i04.png',
     imageHint: 'maze golden thread'
   },
   {
@@ -130,7 +130,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['efeito halo', 'vieses cognitivos', 'primeira impressão', 'julgamento social', 'coluna', 'psicologia social', 'percepção'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYWxvJTIwZWZmZWN0JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzE4MTE5NTQzfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i05.png',
     imageHint: 'halo effect portrait'
   },
   {
@@ -160,7 +160,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['betabloqueadores', 'ansiedade de desempenho', 'medo de palco', 'propranolol', 'psicofarmacologia', 'uso off-label', 'TCC'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1599219084098-05a97db44b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJmb3JtYW5jZSUyMHN0YWdlJTIwY2FsbXxlbnwwfHx8fDE3MTgxMTk1ODl8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i06.png',
     imageHint: 'performance stage calm'
   },
   {
@@ -191,7 +191,7 @@ export const conteudosEdicao036: Conteudo[] = [
     ],
     tags: ['análise funcional do comportamento', 'modelo ABC', 'behaviorismo', 'TCC', 'mudança comportamental', 'técnicas terapêuticas', 'ABA', 'reforço', 'antecedente', 'consequência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kJTIwbWFwJTIwY2hvaWNlJTIwcGF0aHxlbnwwfHx8fDE3MTgxMTk2MzZ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed036/i07.png',
     imageHint: 'mind map choice path'
   }
 ];

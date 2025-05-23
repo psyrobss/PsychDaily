@@ -29,7 +29,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['escuta ativa', 'empatia', 'comunicação', 'relacionamentos', 'editorial', 'mindfulness', 'conexão'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0d28lMjBwZW9wbGUlMjBsaXN0ZW5pbmclMjBlbXBhdGhldGljYWxseXxlbnwwfHx8fDE3MTgwODg4NTd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
     imageHint: 'two people listening'
   },
   {
@@ -61,7 +61,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['antipsicóticos', 'esquizofrenia', 'saúde mental', 'psicofarmacologia', 'tratamento', 'dignidade', 'TCCp', 'reabilitação psicossocial', 'estigma'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwYnJhaW4lMjBhYnN0cmFjdHxlbnwwfHx8fDE3MTgwODg5NDV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i02.png',
     imageHint: 'brain schizophrenia'
   },
   {
@@ -81,7 +81,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['comunicação', 'autenticidade', 'expressão emocional', 'narrativa', 'relacionamentos', 'coragem', 'vulnerabilidade', 'fábula'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i03.png',
     imageHint: 'book secret glowing'
   },
   {
@@ -99,7 +99,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['gratidão', 'bem-estar', 'psicologia positiva', 'felicidade', 'coluna', 'mindfulness', 'apreciação'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmF0aXR1ZGUlMjBqb3VybmFsJTIwc3Vuc2V0fGVufDB8fHx8MTcxODA4OTEyNnww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i04.png',
     imageHint: 'gratitude journal sunset'
   },
   {
@@ -129,7 +129,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['psicologia do esporte', 'desempenho atlético', 'motivação', 'foco mental', 'ansiedade competitiva', 'visualização', 'saúde mental do atleta'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1517649763984-338c3cf06395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdGhsZXRlJTIwZm9jdXNlZCUyMG1pbmR8ZW58MHx8fHwxNzE4MDg5MjE2fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
     imageHint: 'athlete focused mind'
   },
   {
@@ -150,7 +150,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['luto complicado', 'perda', 'terapia', 'arteterapia', 'grupo de apoio', 'crônica', 'resiliência', 'significado', 'cura emocional'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1505158074946-a2d6cf3752e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmFja2VkJTIwcG90dGVyeSUyMGZsb3dlciUyMGdyb3dpbmd8ZW58MHx8fHwxNzE4MDg5MzAxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
     imageHint: 'cracked pottery flower'
   },
   {
@@ -178,7 +178,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['relaxamento', 'estresse agudo', 'ansiedade', 'técnicas de enfrentamento', 'mindfulness', 'respiração', 'grounding', 'autocuidado'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604415197924-0f70454e5912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWxtJTIwYnJlYXRoJTIwcXVpY2t8ZW58MHx8fHwxNzE4MDg5Mzc4fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
     imageHint: 'calm breath quick'
   }
 ];

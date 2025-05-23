@@ -27,7 +27,7 @@ const ayahuascaDecolonial008: Conteudo = {
     ],
     tags: ["ayahuasca", "medicina ancestral", "decolonialidade", "saúde mental", "espiritualidade", "psicodélicos", "etnofarmacologia", "saberes indígenas", "cura holística", "DMT", "Banisteriopsis caapi", "justiça epistêmica", "sustentabilidade", "apropriação cultural"],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1528154243260-a63674329059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzYWNyZWQlMjBwbGFudCUyMHJpdHVhbCUyMGFtYXpvbiUyMHNoYW1hbnxlbnwwfHx8fDE3MTg0MDQ5OTV8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+    imageUrl: '/images/mes-edicoes/m05/ed008/i01.png', 
     imageHint: 'shaman or indigenous person in a respectful ritualistic setting with ayahuasca elements, emphasizing the cultural and spiritual context, with amazon rainforest background'
   };
 
@@ -56,7 +56,7 @@ const editorialEd008: Conteudo = {
   ],
   tags: ['natureza', 'saúde mental', 'bem-estar', 'ecopsicologia', 'estresse', 'editorial', 'conexão', 'biofilia', 'restauração da atenção', 'Shinrin-yoku', 'psicologia ambiental', 'cura natural'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBpbiUyMGZvcmVzdCUyMHRyYW5xdWlsJTIwbGlnaHR8ZW58MHx8fHwxNzE4NDA1MjMxfDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+  imageUrl: '/images/mes-edicoes/m05/ed008/i02.png',
   imageHint: 'person in a tranquil forest setting, with soft light filtering through the trees, evoking peace and connection with nature'
 };
 
@@ -78,7 +78,7 @@ const narrativaEd008: Conteudo = {
   ],
   tags: ['futuro', 'escolhas', 'agência', 'responsabilidade', 'esperança', 'narrativa', 'propósito', 'livre arbítrio', 'psicologia existencial', 'criatividade', 'psicologia inventiva', 'metáfora', 'autodescoberta'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1482196379892-4b4f00ce0c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3ZWF2aW5nJTIwbG9vbSUyMGNvbG9yZnVsJTIwdGhyZWFkcyUyMG15c3RpY2FsfGVufDB8fHx8MTcxODQwNTI5NXww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+  imageUrl: '/images/mes-edicoes/m05/ed008/i03.png',
   imageHint: 'mystical loom with colorful threads weaving intricate patterns of possible futures, held by wise, gentle hands'
 };
 
@@ -98,7 +98,7 @@ const colunaEd008: Conteudo = {
   ],
   tags: ['autocompaixão', 'gentileza', 'bem-estar emocional', 'resiliência', 'autocuidado', 'coluna', 'mindfulness', 'humanidade comum', 'Kristin Neff', 'saúde mental', 'autoestima'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1593113630405-5f500075d9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBnZW50bGUlMjBzZWxmJTIwaHVnJTIwcGVhY2VmdWx8ZW58MHx8fHwxNzE4NDA1MzQ0fDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+  imageUrl: '/images/mes-edicoes/m05/ed008/i04.png',
   imageHint: 'person gently hugging themselves with a peaceful and kind expression, perhaps in a serene natural setting'
 };
 
@@ -125,7 +125,7 @@ const psicofarmacoEd008: Conteudo = {
   ],
   tags: ['adaptógenos', 'estresse', 'ansiedade', 'saúde natural', 'suplementos', 'medicina integrativa', 'ashwagandha', 'rhodiola', 'ginseng', 'fitoterapia', 'eixo HPA', 'psicofarmacologia crítica', 'segurança do paciente', 'medicina tradicional'],
   isPremium: true,
-  imageUrl: 'https://images.unsplash.com/photo-1599940778173-0248a45c197c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZXJicyUyMG1vcnRhciUyMHBlc3RsZSUyMGxhYm9yYXRvcnl8ZW58MHx8fHwxNzE4NDA1MzgzfDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+  imageUrl: '/images/mes-edicoes/m05/ed008/i05.png',
   imageHint: 'herbs in a mortar and pestle, with a backdrop of scientific lab equipment and ancient texts, symbolizing the blend of traditional wisdom and modern science'
 };
 
@@ -147,7 +147,7 @@ const cronicaEd008: Conteudo = {
   ],
   tags: ['segredos', 'vulnerabilidade', 'confiança', 'terapia', 'ansiedade', 'crônica', 'partilha', 'saúde mental', 'isolamento', 'cura emocional', 'processo terapêutico', 'trauma', 'autenticidade', 'acolhimento'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvcGVuaW5nJTIwb2xkLSUyMGJveCUyMGxpZ2h0JTIwY29taW5nJTIwb3V0fGVufDB8fHx8MTcxODQwNTQ0N3ww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+  imageUrl: '/images/mes-edicoes/m05/ed008/i06.png', 
   imageHint: 'person carefully opening an old, ornate box with a gentle light emanating from within, symbolizing the release of secrets and the beginning of healing'
 };
 
@@ -175,7 +175,7 @@ const tecnicaEd008: Conteudo = {
   ],
   tags: ['reestruturação cognitiva', 'TCC', 'pensamentos negativos', 'distorções cognitivas', 'ansiedade', 'depressão', 'técnicas terapêuticas', 'saúde mental', 'resiliência', 'Aaron Beck', 'psicologia baseada em evidências'],
   isPremium: false,
-  imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kJTIwbWFwJTIwY2hvaWNlJTIwcGF0aCUyMGNvZ25pdGl2ZXxlbnwwfHx8fDE3MTg0MDU0ODN8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem sugerida
+  imageUrl: '/images/mes-edicoes/m05/ed008/i07.png', 
   imageHint: 'stylized brain with interconnected gears turning, some tangled (negative thoughts) and others being straightened or replaced by brighter gears (adaptive thoughts), symbolizing cognitive restructuring'
 };
 
@@ -214,7 +214,7 @@ export const conteudosEdicao008: Conteudo[] = [
     ],
     tags: ['luto', 'perda', 'cura emocional', 'saúde mental', 'compaixão', 'autocuidado', 'resiliência', 'significado', 'processo terapêutico', 'psicologia humanista'],
     isPremium: false, // Tornando acessível
-    imageUrl: 'https://images.unsplash.com/photo-1505158074946-a2d6cf3752e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmFja2VkJTIwcG90dGVyeSUyMGZsb3dlciUyMGdyb3dpbmd8ZW58MHx8fHwxNzE4MDg5MzAxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed008/i08.png',
     imageHint: 'cracked pottery with a flower growing resiliently from it, symbolizing healing and new meaning after loss'
   }
 ];

@@ -27,7 +27,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['ócio criativo', 'bem-estar', 'produtividade', 'criatividade', 'editorial', 'saúde mental', 'mindfulness', 'descanso'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i01.png',
     imageHint: 'person relaxing hammock'
   },
   {
@@ -67,7 +67,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['neuropsicologia', 'avc', 'reabilitação cognitiva', 'cérebro', 'saúde', 'afasia', 'funções executivas', 'memória', 'sequelas neurológicas'],
     isPremium: true,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i02.png',
     imageHint: 'brain recovery puzzle'
   },
   {
@@ -107,7 +107,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['psicologia financeira', 'dinheiro', 'emoções', 'investimentos', 'comportamento econômico', 'vieses cognitivos', 'saúde financeira', 'economia comportamental'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i03.png',
     imageHint: 'money brain chart'
   },
   {
@@ -127,7 +127,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['autoestima', 'autoaceitação', 'narrativa', 'cura emocional', 'fábula', 'amor-próprio', 'autovalorização', 'resiliência'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i04.png',
     imageHint: 'golden thread sewing person'
   },
   {
@@ -146,7 +146,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['paradoxo da escolha', 'decisão', 'minimalismo', 'bem-estar', 'coluna', 'Barry Schwartz', 'satisfação', 'ansiedade de escolha', 'consumismo'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x300.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i05.png',
     imageHint: 'many paths choices person'
   },
   {
@@ -175,7 +175,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['placebo', 'nocebo', 'psicofarmacologia', 'crenças', 'expectativas', 'mente-corpo', 'neurociência', 'ética médica', 'relação terapêutica'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i06.png',
     imageHint: 'sugar pill mind power'
   },
   {
@@ -206,7 +206,7 @@ export const conteudosEdicao021: Conteudo[] = [
     ],
     tags: ['gratidão', 'diário terapêutico', 'bem-estar', 'felicidade', 'técnicas terapêuticas', 'psicologia positiva', 'mindfulness', 'resiliência'],
     isPremium: false,
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: '/images/mes-edicoes/m06/ed021/i07.png',
     imageHint: 'journal gratitude pen'
   }
 ];

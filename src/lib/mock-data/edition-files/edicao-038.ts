@@ -18,7 +18,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Gestalt Terapia', 'Fritz Perls', 'Awareness', 'Aqui e Agora', 'Editorial', 'Autenticidade', 'Psicoterapia Humanista'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1541849001490-5b06b4598783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZXN0YWx0JTIwdGhlcmFweSUyMGFic3RyYWN0fGVufDB8fHx8MTcxODMyNTA4MXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i01.png',
     imageHint: 'gestalt therapy abstract'
   },
   {
@@ -46,7 +46,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Fritz Perls', 'Gestalt Terapia', 'Awareness', 'Aqui e Agora', 'Psicoterapia Humanista', 'História da Psicologia', 'Contato', 'Responsabilidade'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1516970008831-983a180cb5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcml0eiUyMHBlcmxzJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzE4MzI1MTIwfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i02.png',
     imageHint: 'Fritz Perls portrait'
   },
   {
@@ -84,7 +84,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Gestalt Terapia', 'Ciclo de Contato', 'Bloqueios de Contato', 'Awareness', 'Introjeção', 'Projeção', 'Retroflexão', 'Confluência', 'Psicoterapia'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZXN0YWx0JTIwY29udGFjdCUyMGN5Y2xlfGVufDB8fHx8MTcxODMyNTE4N3ww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i03.png',
     imageHint: 'gestalt contact cycle'
   },
   {
@@ -105,7 +105,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Cadeira Vazia', 'Gestalt Terapia', 'Diálogo Interno', 'Crítico Interno', 'Criança Interior', 'Narrativa', 'Autoconhecimento', 'Integração'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1580490276648-83536f67ba01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGNoYWlyJTIwZGlhbG9ndWV8ZW58MHx8fHwxNzE3NjQxMTY0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i04.png',
     imageHint: 'empty chair dialogue'
   },
   {
@@ -123,7 +123,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Aqui e Agora', 'Gestalt Terapia', 'Mindfulness', 'Momento Presente', 'Coluna', 'Awareness', 'Autoconsciência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1474418397713-7ede21d4990a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kZnVsbmVzcyUyMG5hdHVyZSUyMHByZXNlbnR8ZW58MHx8fHwxNzE4MzI1MjU0fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i05.png',
     imageHint: 'mindfulness nature present'
   },
   {
@@ -143,7 +143,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Gestalt Terapia', 'Negócios Inacabados', 'Unfinished Business', 'Cadeira Vazia', 'Expressão Emocional', 'Crônica Terapêutica', 'Cura Emocional', 'Passado'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBsZXR0aW5nJTIwZ28lMjBvZiUyMGJhbGxvb25zfGVufDB8fHx8MTcxODMyNTMxOXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i06.png',
     imageHint: 'person letting go balloons'
   },
   {
@@ -178,7 +178,7 @@ export const conteudosEdicao038: Conteudo[] = [
     ],
     tags: ['Gestalt Terapia', 'Experimentação', 'Awareness', 'Técnicas Terapêuticas', 'Cadeira Vazia', 'Aqui e Agora', 'Autoconhecimento', 'Psicoterapia Experiencial'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZXN0YWx0JTIwZXhwZXJpbWVudCUyMGxpZ2h0YnVsYnxlbnwwfHx8fDE3MTgzMjUzNzR8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m07/ed038/i07.png',
     imageHint: 'gestalt experiment lightbulb'
   }
   // A seção de Psicofarmacologia foi omitida para esta edição especial temática.

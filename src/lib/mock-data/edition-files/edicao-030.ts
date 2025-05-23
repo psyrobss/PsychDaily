@@ -18,7 +18,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['pausa', 'reflexão', 'mindfulness', 'bem-estar', 'editorial', 'saúde mental', 'autocuidado'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldCUyMGNvbnRlbXBsYXRpb258ZW58MHx8fHwxNzE3Nzk4ODMyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i01.png',
     imageHint: 'person quiet contemplation'
   },
   {
@@ -44,7 +44,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['epistemologias do sul', 'decolonialidade', 'psicologia crítica', 'diversidade cultural', 'saberes ancestrais', 'Boaventura de Sousa Santos', 'justiça cognitiva'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1533656911430-e0dfa37f7b28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBrbm93bGVkZ2UlMjBkaXZlcnNpdHl8ZW58MHx8fHwxNzE3OTU3NzIxfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i02.png',
     imageHint: 'global knowledge diversity'
   },
   {
@@ -64,7 +64,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['sonhos', 'recomeço', 'resiliência', 'esperança', 'narrativa', 'autocompaixão', 'perseverança', 'criatividade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aHJlYWQlMjBuZWVkZGUlMjBmYWJyaWN8ZW58MHx8fHwxNzE3OTU3Nzc3fDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i03.png',
     imageHint: 'thread needle fabric'
   },
   {
@@ -83,7 +83,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['imperfeição', 'autoaceitação', 'vulnerabilidade', 'coluna', 'autenticidade', 'Kintsugi', 'resiliência', 'autoestima'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1581196793928-a94a30eb8a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxraW50c3VnaSUyMHBvdHRlcnklMjBiZWF1dHl8ZW58MHx8fHwxNzE3OTU3ODEyfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i04.png',
     imageHint: 'kintsugi pottery beauty'
   },
   {
@@ -120,7 +120,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['insônia', 'hipnóticos', 'sono', 'psicofarmacologia', 'dependência', 'TCC-I', 'Zolpidem', 'benzodiazepínicos', 'higiene do sono'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGJlZCUyMG1vb25saWdodHxlbnwwfHx8fDE3MTc5NTc4Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i05.png',
     imageHint: 'empty bed moonlight'
   },
   {
@@ -142,7 +142,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['anedonia', 'luto', 'depressão', 'terapia', 'crônica', 'recuperação', 'prazer', 'significado', 'ativação comportamental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1522125080248-5415f8a0e381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmF5c2NhbGUlMjBmbG93ZXIlMjBjb2xvciUyMHJldHVybmluZ3xlbnwwfHx8fDE3MTc5NTc5MTZ8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i06.png',
     imageHint: 'grayscale flower color'
   },
   {
@@ -182,7 +182,7 @@ export const conteudosEdicao030: Conteudo[] = [
     ],
     tags: ['diário de emoções', 'inteligência emocional', 'regulação emocional', 'autoconhecimento', 'técnicas terapêuticas', 'TCC', 'mindfulness', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbnRyb3NwZWN0aXZlJTIwd3JpdGluZyUyMGZlZWxpbmdzfGVufDB8fHx8MTcxNzk1Nzk5MXww&ixlib=rb-4.0.3&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m06/ed030/i07.png',
     imageHint: 'journal pen feelings'
   }
 ];

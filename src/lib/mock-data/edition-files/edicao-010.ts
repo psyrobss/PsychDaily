@@ -29,7 +29,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['paixão', 'paciência', 'desenvolvimento pessoal', 'bem-estar emocional', 'metas', 'mindfulness', 'editorial', 'perseverança', 'propósito', 'autocompaixão', 'resiliência'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmJTIwbGFtZSUyMGluJTIwYSUyMGdlbnRsZSUyMHN0cmVhbSUyMG9mJTIwd2F0ZXJ8ZW58MHx8fHwxNzE4MzU4NzIyfDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m05/ed010/i01.png',
     imageHint: 'a gentle flame (passion) steadily burning beside a calm, flowing stream (patience), symbolizing their harmonious coexistence'
   },
   {
@@ -58,7 +58,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['AGI', 'inteligência artificial', 'inteligência humana', 'epistemologia', 'consciência', 'corporeidade', 'filosofia da mente', 'fenomenologia', 'LLMs', 'compreensão semântica', 'ética da IA'],
     isPremium: true,
-    imageUrl: 'https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxBSXxlbnwwfHx8fDE3NDc1MjIzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    imageUrl: '/images/mes-edicoes/m05/ed010/i02.png',
     imageHint: 'abstract representation of a human brain and a circuit board, highlighting the differences and connections between human and artificial intelligence'
   },
   {
@@ -90,7 +90,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['William James', 'fluxo de consciência', 'self', 'Eu e Mim', 'hábito', 'psicologia funcionalista', 'história da psicologia', 'pragmatismo', 'consciência', 'identidade', 'plasticidade'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1604720032018-2e600c414181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBwb3J0cmFpdCUyMHZpbnRhZ2UlMjBwaGlsb3NvcGhlcnxlbnwwfHx8fDE3MTgzNjAwMDB8MA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m05/ed010/i03.png', // Nova imagem
     imageHint: 'vintage portrait of a thoughtful philosopher, evoking William James, with a backdrop of flowing water or a stream, symbolizing the stream of consciousness'
   },
   {
@@ -121,7 +121,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['sentido do trabalho', 'propósito profissional', 'engajamento', 'satisfação no trabalho', 'bem-estar ocupacional', 'valores', 'psicologia organizacional', 'cultura organizacional', 'motivação intrínseca', 'realização pessoal', 'Kai Fictício Oliveira'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjB3b3JraW5nJTIwdG9nZXRoZXIlMjBtZWFuaW5nZnVsbHl8ZW58MHx8fHwxNzE4MzU5Mzk3fDA&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m05/ed010/i04.png', // Nova imagem
     imageHint: 'diverse group of people working together with a sense of purpose and collaboration, perhaps on a project that benefits the community'
   },
   {
@@ -159,7 +159,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['psicodrama', 'Jacob Levy Moreno', 'terapia de grupo', 'dramatização', 'espontaneidade', 'criatividade', 'técnicas terapêuticas', 'catarse', 'role-playing', 'psicoterapia humanista', 'psicologia inventiva'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aGVhdGVyJTIwbWFza3MlMjBkcmFtYSUyMGVtb3Rpb25zfGVufDB8fHx8MTcxODM1OTQ0Nnww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m05/ed010/i05.png', // Nova imagem
     imageHint: 'stylized theater masks representing different emotions, with a spotlight on a central empty stage, symbolizing the potential for psychodramatic exploration'
   },
   {
@@ -179,7 +179,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['tempo', 'ritmo interno', 'mindfulness', 'ansiedade', 'bem-estar', 'narrativa', 'autocuidado', 'pressa', 'psicologia inventiva', 'sincronicidade', 'presença'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1504711304549-4dceac79c677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtJTIwb3VsdGlwbGUlMjBjbG9ja3MlMjBkaWZmZXJlbnQlMjB0aW1lcyUyMGNoYW9zfGVufDB8fHx8MTcxODM1OTQ4NHww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m05/ed010/i06.png', 
     imageHint: 'multiple clocks showing wildly different times in a chaotic, surreal cityscape, with one person calmly meditating in the center finding their own rhythm'
   },
   {
@@ -197,7 +197,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['nomear emoções', 'inteligência emocional', 'regulação emocional', 'mindfulness', 'autoconsciência', 'coluna', 'Daniel Siegel', 'neurociência afetiva', 'vocabulário emocional', 'saúde mental'],
     isPremium: false,
-    imageUrl: 'https://images.unsplash.com/photo-1503520898134-600907042700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3JTIwb3JkcyUyMGVtZXJnaW5nJTIwZnJvbSUyMGElMjBicmFpbiUyMGNvbG9yZnVsfGVufDB8fHx8MTcxODM1OTUzOXww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem
+    imageUrl: '/images/mes-edicoes/m05/ed010/i07.png', 
     imageHint: 'colorful words emerging from a stylized brain or heart, representing the spectrum of emotions being named and understood'
   }
 ];
