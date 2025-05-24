@@ -1,4 +1,5 @@
-
+// Edição 021 - Sexta-feira, 13 de Junho de 2025
+// Temas: Estruturalismo, Psicologia Humanista (já existente), Psicologia da Personalidade, Arquitetura Emocional, Farmacogenômica, Biofeedback.
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao021: Conteudo[] = [
@@ -28,7 +29,7 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['ócio criativo', 'bem-estar', 'produtividade', 'criatividade', 'editorial', 'saúde mental', 'mindfulness', 'descanso'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed021/i01.png',
-    imageHint: 'person relaxing hammock'
+    imageHint: 'A person peacefully relaxing in a comfortable setting (like a hammock, a park bench, or a cozy chair) with subtle visual elements suggesting creative ideas forming around their head (like floating light bulbs, abstract shapes, or gentle glowing lines). Emphasize tranquility and the link between rest and inspiration.'
   },
   {
     id: 'aprofundado-021-neuropsicologia-avc',
@@ -68,7 +69,7 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['neuropsicologia', 'avc', 'reabilitação cognitiva', 'cérebro', 'saúde', 'afasia', 'funções executivas', 'memória', 'sequelas neurológicas'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed021/i02.png',
-    imageHint: 'brain recovery puzzle'
+    imageHint: 'Conceptual illustration of a human brain with a damaged area (represented by a crack or muted section). Puzzle pieces or glowing connections are shown actively repairing or rebuilding the damaged area, symbolizing brain recovery and neuropsychological rehabilitation. Show a sense of process, effort, and potential for healing.'
   },
   {
     id: 'aprofundado-021-psicologia-financeira',
@@ -108,7 +109,7 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['psicologia financeira', 'dinheiro', 'emoções', 'investimentos', 'comportamento econômico', 'vieses cognitivos', 'saúde financeira', 'economia comportamental'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed021/i03.png',
-    imageHint: 'money brain chart'
+    imageHint: 'Conceptual illustration showing a human head or brain interacting with financial symbols (like currency signs, coins, graphs) and emotional icons (like smiling/frowning faces, worried expressions), emphasizing the emotional and cognitive biases influencing financial decisions. Use abstract lines connecting the brain/head to the financial/emotional elements.'
   },
   {
     id: 'narrativa-021-alfaiate-autoestima',
@@ -128,7 +129,7 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['autoestima', 'autoaceitação', 'narrativa', 'cura emocional', 'fábula', 'amor-próprio', 'autovalorização', 'resiliência'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed021/i04.png',
-    imageHint: 'golden thread sewing person'
+    imageHint: 'A fantastical scene in a tailor shop. A wise, kind tailor figure is carefully using a needle threaded with glowing golden thread to mend or embellish a piece of symbolic clothing or fabric (representing a person\'s self-esteem or self-image) that shows visible signs of wear, tears, or patches. Emphasize the golden thread and the gentle, healing process of sewing, symbolizing acceptance and valorization of imperfections.'
   },
   {
     id: 'coluna-021-paradoxo-escolha',
@@ -147,7 +148,7 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['paradoxo da escolha', 'decisão', 'minimalismo', 'bem-estar', 'coluna', 'Barry Schwartz', 'satisfação', 'ansiedade de escolha', 'consumismo'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed021/i05.png',
-    imageHint: 'many paths choices person'
+    imageHint: 'A figure standing before a chaotic, overwhelming number of diverging paths or doors, some labeled with abstract options. The figure appears slightly overwhelmed or paralyzed, while one path in the foreground is clearly marked as "good enough" or "satisfying", leading towards a calmer, clearer scene. Symbolizes the paradox of choice and finding contentment in sufficient options.'
   },
   {
     id: 'psicofarmaco-021-placebo-nocebo',
@@ -176,7 +177,7 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['placebo', 'nocebo', 'psicofarmacologia', 'crenças', 'expectativas', 'mente-corpo', 'neurociência', 'ética médica', 'relação terapêutica'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed021/i06.png',
-    imageHint: 'sugar pill mind power'
+    imageHint: 'A conceptual illustration showing a hand holding a simple pill (like a sugar pill or a generic capsule). Abstract or glowing energy lines are emanating from the pill towards a stylized human head or brain, representing the power of belief and expectation (mind) to influence physiological response (body/healing). Could show both positive (placebo) and negative (nocebo) effects visually. Scientific yet artistic style.'
   },
   {
     id: 'tecnica-021-diario-gratidao',
@@ -207,9 +208,11 @@ export const conteudosEdicao021: Conteudo[] = [
     tags: ['gratidão', 'diário terapêutico', 'bem-estar', 'felicidade', 'técnicas terapêuticas', 'psicologia positiva', 'mindfulness', 'resiliência'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed021/i07.png',
-    imageHint: 'journal gratitude pen'
+    imageHint: 'A close-up view of a beautifully designed journal or notebook with a pen, where someone is writing entries. Subtle visual elements like soft light, blooming flowers, or gentle sparkles could emanate from the journal or the written words, symbolizing the positive emotional impact of gratitude and the cultivation of well-being through the practice.'
   }
 ];
+
+// Removed duplicate definition of conteudosEdicao021 to prevent undeclared identifier errors.
 
 export const edicao021: Edicao = {
   edicao: "021",
@@ -218,7 +221,7 @@ export const edicao021: Edicao = {
     titulo_principal: "Ócio Criativo, Neuropsicologia do AVC e a Sabedoria da Gratidão",
     subtitulo: "Nesta edição: A importância das pausas para inovar, o impacto do AVC no cérebro, como nossas emoções guiam finanças e o poder do diário de gratidão.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "brain creativity finance",
+    imageHint: 'A composite or symbolic image representing the key themes. Could feature abstract representations of the brain (for neuropsychology of stroke), scattered elements symbolizing creativity or relaxed states (for creative leisure/ocio criativo), floating currency symbols or financial graphs being influenced by emotional icons (for financial psychology), and elements of a journal or pen with light emanating from it (for gratitude journal). Visually connect these diverse elements to convey the edition\'s focus areas. Conceptual art style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "O Valor do Ócio Criativo: Pausas Necessárias para a Inovação", id_conteudo: "editorial-021-ocio-criativo" },
@@ -235,9 +238,5 @@ export const edicao021: Edicao = {
     { nome_secao: "Palavras da Alma", tipo: "colunas", conteudo_ids: ["coluna-021-paradoxo-escolha"] },
     { nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica", tipo: "caderno_especial", conteudo_ids: ["psicofarmaco-021-placebo-nocebo"] },
     { nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas", tipo: "caderno_especial", conteudo_ids: ["tecnica-021-diario-gratidao"] }
-    // Decidi não incluir uma crônica terapêutica específica para esta edição para variar um pouco, 
-    // mas o editorial da Dra. Alma Compassiva já tem um tom acolhedor.
   ]
 };
-
-    

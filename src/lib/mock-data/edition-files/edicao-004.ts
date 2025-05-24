@@ -251,7 +251,7 @@ export const edicao004: Edicao = {
   capa: {
     titulo_principal: "Laços Comunitários, Sonhos Redescobertos e a Sabedoria do Corpo",
     subtitulo: "Nesta edição: O poder da comunidade, a loja de sonhos perdidos, escutando o corpo e a comunicação não-violenta.",
-    imagem_destaque: "https://images.unsplash.com/photo-1591197172062-c718f82aba20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21tdW5pdHl8ZW58MHx8fHwxNzQ3NzUwMjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: '/images/mes-edicoes/m05/ed004/capa.png',
     imageHint: "community connection abstract",
     credito_imagem: "Unsplash",
     links_manchetes: [

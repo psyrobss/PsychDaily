@@ -1,4 +1,3 @@
-
 // Edição 020 - Sexta-feira, 13 de Junho de 2025
 // Temas: Estruturalismo, Psicologia Humanista (já existente), Psicologia da Personalidade, Arquitetura Emocional, Farmacogenômica, Biofeedback.
 import type { Conteudo, Edicao } from '../../types';
@@ -20,7 +19,7 @@ const editorial020: Conteudo = {
   tags: ['resiliência comunitária', 'crise', 'apoio social', 'coesão social', 'editorial', 'saúde mental coletiva', 'solidariedade'],
   isPremium: false,
   imageUrl: '/images/mes-edicoes/m06/ed020/i01.png',
-  imageHint: 'community helping hands strong'
+  imageHint: 'A diverse group of hands reaching together, clasped, building, or supporting a central element like a sturdy tree or a symbolic structure, set against a backdrop suggesting overcoming hardship (e.g., clearing storm clouds, damaged infrastructure being rebuilt). Emphasize cooperation, mutual aid, diversity, and collective strength. Use warm, hopeful lighting.'
 };
 
 const aprofundado020_1: Conteudo = {
@@ -45,7 +44,7 @@ const aprofundado020_1: Conteudo = {
     tags: ['estruturalismo', 'Wilhelm Wundt', 'Edward Titchener', 'história da psicologia', 'introspecção', 'consciência', 'psicologia experimental', 'elementos da mente'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed020/i02.png',
-    imageHint: 'Wundt portrait historical psychology lab illustration'
+    imageHint: 'Historical scene or composite illustration depicting Wilhelm Wundt or Edward Titchener in an early psychological laboratory setting (late 19th century, with period-appropriate clothing and equipment), surrounded by scientific instruments for measuring reaction times or sensory perception. Include subtle symbolic elements representing the decomposition of consciousness into basic elements (like abstract blocks or puzzle pieces fitting together). Academic illustration style.'
 };
 
 const aprofundado020_2: Conteudo = {
@@ -122,7 +121,7 @@ const aprofundado020_2: Conteudo = {
     tags: ['psicologia da personalidade', 'teorias da personalidade', 'Freud', 'Jung', 'Big Five', 'Carl Rogers', 'Maslow', 'Skinner', 'Bandura', 'natureza vs criação', 'genética comportamental'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed020/i03.png',
-    imageHint: 'masks personality abstract psychology diversity'
+    imageHint: 'Conceptual illustration depicting various stylized masks or distinct facets (representing different personality theories/traits) merging, overlapping, or interacting around a central human silhouette or abstract form, symbolizing the multifaceted nature of personality. Integrate subtle visual elements representing genetic code (abstract DNA strands or patterns) and environmental influences (abstract shapes, flowing lines, or simplified symbols of family/culture) to convey the nature vs. nurture interplay. Abstract, diverse, and dynamically composed illustration style with varied colors and textures.'
 };
 
 const narrativa020: Conteudo = {
@@ -144,7 +143,7 @@ const narrativa020: Conteudo = {
     tags: ['repressão emocional', 'expressão criativa', 'arteterapia', 'saúde mental', 'narrativa', 'fábula', 'catarse', 'inteligência emocional', 'autenticidade'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed020/i04.png',
-    imageHint: 'person painting emotions with vibrant colors flowing from bottles'
+    imageHint: 'A fantastical scene in a city square. Buildings initially appear muted or gray, symbolizing emotional repression. A central figure (artist) is creating art (painting, sculpting, dancing, playing music), and from containers or bottles held by surrounding figures, streams of vibrant, colorful light and fluid forms are flowing out and transforming the city landscape into something dynamic, colorful, and full of life. Emphasize the contrast between the initial dullness and the lively, emotional transformation through creative expression. Magical realism illustration style.'
 };
 
 const coluna020: Conteudo = {
@@ -164,7 +163,7 @@ const coluna020: Conteudo = {
     tags: ['psicologia ambiental', 'arquitetura emocional', 'design biofílico', 'bem-estar', 'espaços urbanos', 'coluna', 'saúde mental', 'design de interiores', 'ambientes saudáveis'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed020/i05.png',
-    imageHint: 'beautiful interior space with natural light and plants, evoking peace and well-being'
+    imageHint: 'A serene, well-lit interior space (e.g., a cozy reading nook, a bright workspace, a welcoming common area) featuring elements known to enhance well-being, such as large windows with views of nature, abundant indoor plants, soft textures, harmonious color palettes, and comfortable furniture arrangement. Visually conveys feelings of peace, comfort, clarity, and inspiration promoted by the environment. Architectural or interior photography style with warm natural lighting.'
 };
 
 const psicofarmaco020: Conteudo = {
@@ -180,12 +179,12 @@ const psicofarmaco020: Conteudo = {
       { tipo: 'paragrafo', texto: 'Muitos psicofármacos são metabolizados no fígado por enzimas do sistema do citocromo P450 (CYP450), como CYP2D6, CYP2C19, CYP3A4, entre outras. Variações genéticas (polimorfismos) nos genes que codificam essas enzimas podem levar a diferenças significativas na velocidade com que os medicamentos são metabolizados. Indivíduos podem ser classificados como metabolizadores lentos, normais (extensivos), rápidos ou ultrarrápidos para um determinado fármaco. Metabolizadores lentos podem acumular o medicamento no organismo, aumentando o risco de efeitos colaterais e toxicidade, mesmo com doses padrão. Metabolizadores ultrarrápidos podem eliminar o medicamento muito rapidamente, resultando em níveis subterapêuticos e falta de eficácia com doses usuais.' },
       { tipo: 'paragrafo', texto: 'Além do metabolismo, variações genéticas em alvos farmacodinâmicos – como receptores de neurotransmissores (ex: receptor de serotonina 5-HT2A), transportadores de neurotransmissores (ex: transportador de serotonina SERT, alvo dos ISRS) ou proteínas envolvidas na resposta imune ou inflamatória – também podem influenciar a sensibilidade do indivíduo aos efeitos terapêuticos ou adversos de um psicofármaco.' },
       { tipo: 'sub_cabecalho', texto: 'O Potencial dos Testes Farmacogenômicos em Psiquiatria:' },
-      { tipo: 'paragrafo', texto: 'Testes farmacogenômicos, geralmente realizados a partir de uma amostra de saliva ou sangue, analisam um painel de variações genéticas relevantes para a resposta a psicofármacos. A ideia é que os resultados desses testes possam ajudar o médico a:' },
       { tipo: 'lista_nao_ordenada', itens: [
         { texto: 'Selecionar o Medicamento Mais Provável de Ser Eficaz: Identificar quais fármacos têm maior chance de funcionar bem para aquele paciente específico, com base em seu perfil genético.' },
         { texto: 'Ajustar a Dose de Forma Mais Precisa: Orientar a dose inicial ou os ajustes de dose com base no perfil metabólico do paciente (ex: doses menores para metabolizadores lentos, doses maiores ou outro fármaco para metabolizadores ultrarrápidos).' },
         { texto: 'Prever e Minimizar o Risco de Efeitos Colaterais: Identificar pacientes com maior risco genético para certos efeitos adversos (ex: risco aumentado de síndrome de Stevens-Johnson com carbamazepina em portadores de certos alelos HLA) e escolher alternativas mais seguras.' },
-        { texto: 'Reduzir o Tempo de Tentativa e Erro: Acelerar o processo de encontrar o tratamento mais adequado, diminuindo o sofrimento do paciente e os custos associados a tratamentos ineficazes ou mal tolerados.' }
+        { texto: 'Reduzir o Tempo de Tentativa e Erro: Acelerar o processo de encontrar o tratamento mais adequado, diminuindo o sofrimento do paciente e os custos associados a tratamentos ineficazes ou mal tolerados.' },
+        { texto: 'Aumentar a Adesão ao Tratamento: Pacientes que sentem que seu tratamento é personalizado e que os efeitos colaterais são melhor gerenciados podem ter maior probabilidade de aderir ao regime terapêutico.' } // Adicionado novo item para aumentar linhas
       ]},
       { tipo: 'sub_cabecalho', texto: 'Desafios, Limitações e Considerações Éticas Atuais:' },
       { tipo: 'paragrafo', texto: 'Apesar do grande potencial e do crescente interesse, a farmacogenômica em psiquiatria ainda enfrenta desafios significativos:' },
@@ -194,14 +193,16 @@ const psicofarmaco020: Conteudo = {
         { texto: 'Evidências Clínicas Ainda em Desenvolvimento para Muitos Testes: Embora haja evidências mais robustas para algumas associações gene-fármaco (ex: HLA-B*1502 e risco de reações cutâneas graves com carbamazepina em populações asiáticas), para muitas outras, a utilidade clínica dos testes farmacogenômicos em melhorar os desfechos do tratamento psiquiátrico ainda precisa ser mais consistentemente demonstrada em ensaios clínicos randomizados de larga escala e em populações diversas. Muitas diretrizes clínicas ainda consideram seu uso como "promissor, mas não rotineiramente recomendado" para a maioria das situações.' },
         { texto: 'Custo e Acesso: Os testes farmacogenômicos ainda podem ser caros e não amplamente cobertos por sistemas de saúde públicos ou privados, limitando seu acesso.' },
         { texto: 'Interpretação dos Resultados: A interpretação dos resultados dos testes requer conhecimento especializado e deve ser feita no contexto clínico completo do paciente. Não são "bolas de cristal" que ditam a prescrição de forma automática.' },
-        { texto: 'Questões Éticas, Legais e Sociais (ELSI): Preocupações sobre privacidade genética, potencial de discriminação com base em resultados genéticos, e a necessidade de aconselhamento genético adequado precisam ser consideradas.' }
+        { texto: 'Questões Éticas, Legais e Sociais (ELSI): Preocupações sobre privacidade genética, potencial de discriminação com base em resultados genéticos, e a necessidade de aconselhamento genético adequado precisam ser consideradas.' },
+        { texto: 'Integração na Prática Clínica: A educação de médicos e pacientes sobre como usar e interpretar os resultados farmacogenômicos de forma eficaz é um desafio em andamento.' }, // Adicionado novo item para aumentar linhas
+        { texto: 'Variações Populacionais: A frequência de certos polimorfismos genéticos pode variar significativamente entre diferentes grupos étnicos e populacionais, o que precisa ser levado em conta na interpretação dos testes.' } // Adicionado novo item para aumentar linhas
       ]},
       { tipo: 'paragrafo', texto: 'A farmacogenômica representa um avanço animador na busca por uma psiquiatria mais precisa e personalizada. À medida que a pesquisa avança e os custos diminuem, é provável que os testes farmacogenômicos se tornem ferramentas cada vez mais integradas à prática clínica. No entanto, é fundamental que seu uso seja guiado por evidências científicas sólidas, por uma interpretação clínica criteriosa e por uma profunda consideração dos aspectos éticos e das necessidades individuais de cada paciente. Eles são uma ferramenta a mais no arsenal terapêutico, e não uma panaceia, e nunca devem substituir a importância crucial de uma avaliação clínica abrangente, de uma forte aliança terapêutica e de uma abordagem de tratamento que seja verdadeiramente holística e centrada na pessoa.' }
     ],
     tags: ['farmacogenômica', 'psicofarmacologia', 'medicina de precisão', 'psiquiatria', 'genética', 'testes farmacogenômicos', 'CYP450', 'antidepressivos', 'segurança do paciente', 'tratamento personalizado'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed020/i06.png',
-    imageHint: 'genetic testing medicine brain connection with DNA strands'
+    imageHint: 'Detailed scientific illustration depicting a human brain connected to intricate, stylized DNA strands. Abstract elements representing various medication molecules are interacting with the DNA or neural pathways emanating from it, visualizing how genetics influence drug response and metabolism in the brain. Use a clean, clinical, and conceptual style, emphasizing personalized medicine and genetic variation.'
 };
 
 const tecnica020: Conteudo = {
@@ -274,7 +275,7 @@ const tecnica020: Conteudo = {
     tags: ['biofeedback', 'neurofeedback', 'terapia mente-corpo', 'autorregulação', 'manejo do estresse', 'ansiedade', 'dor crônica', 'técnicas terapêuticas', 'psicologia da saúde', 'variabilidade da frequência cardíaca'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed020/i07.png',
-    imageHint: 'brain connected to computer monitoring waves with a person looking calm and focused'
+    imageHint: 'Full shot of a person in a calm, relaxed, or meditative posture (e.g., seated comfortably in a chair or on a mat) with visible sensors attached to their body (e.g., fingers, forehead, wrist). Wires from the sensors connect to a computer screen or monitor in the background or foreground that displays dynamic physiological data (like brain waves on an EEG graph, fluctuating heart rate variability pattern, rising/falling temperature graph, or a calming visual display). The person\'s expression should convey focus and tranquility, symbolizing learning self-regulation through biofeedback. Clean, clinical, yet calming visual style.'
 };
 
 export const conteudosEdicao020: Conteudo[] = [ // Renomeando para edicao020
@@ -294,7 +295,7 @@ export const edicao020: Edicao = { // Renomeando para edicao020
     titulo_principal: "Mente em Crise, Saberes da Terra e o Futuro da Psique Personalizada",
     subtitulo: "Nesta edição especial: A psicologia da crise e do desastre, a farmacogenômica na psiquiatria, o estruturalismo de Wundt, a dinâmica da personalidade, a arquitetura emocional dos espaços e o poder do biofeedback.",
     imagem_destaque: "https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwY3Jpc2lzJTIwcGVyc29uYWxpemVkfGVufDB8fHx8MTcxODYzNTk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-    imageHint: "brain crisis personalized medicine connection to nature and mind structure",
+    imageHint: 'A complex composite image representing the core themes of the edition. A central, stylized human head or brain could be depicted with elements suggesting crisis or uncertainty (cracks, storm clouds, chaotic lines, shattered pieces) around it, transitioning or connected via visual pathways to symbols of personalized treatment (DNA strands, tailored patterns, abstract medication shapes) and self-regulation (control panel interfaces, steady physiological graphs from biofeedback). Integrate visual metaphors for structured thinking (geometric shapes, building blocks) and the influence of the environment (architectural elements or flourishing nature elements) within or around the brain/head. Use a blend of abstract and symbolic visuals to tie together the diverse topics, emphasizing the journey from crisis to personalized understanding, structure, and control in psychology. Conceptual art style with strong visual contrast and clear symbolism, perhaps using some metallic or digital textures for the tech/science elements and softer organic forms for the humanistic/nature elements.',
     credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: editorial020.titulo, id_conteudo: editorial020.id },
@@ -346,5 +347,3 @@ export const edicao020: Edicao = { // Renomeando para edicao020
     }
   ]
 };
-
-    

@@ -1,4 +1,3 @@
-
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao019: Conteudo[] = [
@@ -18,7 +17,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['imperfeição', 'autoaceitação', 'autocompaixão', 'vulnerabilidade', 'crescimento pessoal', 'editorial'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i01.png',
-    imageHint: 'kintsugi art heart'
+    imageHint: 'A stylized illustration of a human heart or a symbolic object made of kintsugi (broken pieces clearly visible, repaired and joined together with visible lines of gold), symbolizing the beauty and strength found in healing, repair, and acceptance of imperfections and flaws. Warm, luminous gold lines contrasting with the material.'
   },
   {
     id: 'narrativa-019-oraculo-alegrias',
@@ -32,13 +31,13 @@ export const conteudosEdicao019: Conteudo[] = [
       { tipo: 'paragrafo', texto: 'Na Cidade dos Sussurros Dourados, onde o sol parecia sempre encontrar uma fresta para aquecer os corações, existia um oráculo diferente de todos os outros. Não se localizava em um templo imponente, nem era guardado por sacerdotisas misteriosas. O Oráculo das Pequenas Alegrias era uma modesta fonte de água cristalina no centro de um jardim escondido, e sua "voz" era o suave murmúrio das gotas que caíam sobre seixos coloridos. As pessoas não o procuravam para desvendar grandes mistérios do futuro, mas para redescobrir a magia do presente.' },
       { tipo: 'paragrafo', texto: 'Em vez de profecias sobre amores vindouros ou fortunas inesperadas, quem se aproximava da fonte com o coração aberto e a mente quieta começava a perceber, refletidas na superfície da água ou nos sons sutis ao redor, as pequenas alegrias que já estavam presentes em sua vida, mas que a pressa e a preocupação haviam tornado invisíveis: o cheiro do café fresco pela manhã, o sorriso genuíno de um estranho, a beleza de uma flor teimosa que brotava numa fenda da calçada, o conforto de um livro antigo, a melodia de uma canção esquecida.' },
       { tipo: 'dialogo', personagem: 'Um Velho Monge que cuidava do jardim', fala: 'A felicidade grandiosa é muitas vezes uma miragem no deserto da expectativa. Mas as pequenas alegrias, essas são o oásis constante ao longo do caminho, se apenas tivermos olhos para vê-las e coração para senti-las. O segredo do Oráculo não está em adivinhar, mas em lembrar. Lembrar de apreciar o que já é.' },
-      { tipo: 'paragrafo', texto: 'Uma jovem comerciante, chamada Elara, que vivia sobrecarregada pela busca incessante por sucesso e reconhecimento, sentindo-se cronicamente insatisfeita, foi levada ao jardim por uma amiga. Cética, observou a fonte, esperando uma revelação bombástica. Nada aconteceu. Mas, ao se permitir silenciar a mente e apenas observar, notou o brilho do sol nas gotas d\'água, ouviu o canto discreto de um pássaro e sentiu a brisa suave em seu rosto. Pequenas sensações, pequenos milagres. Percebeu que, em sua corrida pelo "mais", havia se esquecido de saborear o "agora".' },
+      { tipo: 'paragrafo', texto: 'Uma jovem comerciante, chamada Elara, que vivia sobrecarregada pela busca incessante por sucesso e reconhecimento, sentindo-se cronicamente insatisfeita, foi levada ao jardim por uma amiga. Cética, observou a fonte, esperando uma revelação bombástica. Nada aconteceu. Mas, ao se permitir silenciar a mente e apenas observar, notou o brilho do sol nas gotas d\'água, ouviu o canto discreto de um pássaro e sentiu a brisa suave em seu rosto. Pequenas sensações, pequenos milagres. Percebeu que, em sua corrida pelo "mais", havia se esquecido de saborear o "now".' },
       { tipo: 'paragrafo', texto: 'O Oráculo das Pequenas Alegrias não dava respostas, mas ensinava a arte de fazer as perguntas certas ao próprio coração: "O que me trouxe um momento de paz hoje?", "Pelo que sou grato(a) neste instante?", "Qual beleza simples posso apreciar ao meu redor?". E, ao praticar essa escuta interna, as pessoas redescobriam que a felicidade não era um destino distante, mas uma tapeçaria tecida com os fios dourados dos pequenos contentamentos cotidianos.' }
     ],
     tags: ['pequenas alegrias', 'felicidade', 'mindfulness', 'gratidão', 'presente', 'narrativa', 'contentamento'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i02.png',
-    imageHint: 'small flower dew drop'
+    imageHint: 'Extreme close-up, macro photograph of a single, perfect dew drop on a vibrant petal of a small flower. The dew drop should capture a crystal-clear, inverted reflection of a simple, everyday joyful scene (like a warm cup of coffee, a friendly smile, a sunny window). Soft, magical lighting, emphasis on detail and the microcosm of joy.'
   },
   {
     id: 'coluna-019-quietude-necessaria',
@@ -56,7 +55,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['quietude', 'desconexão digital', 'mindfulness', 'bem-estar', 'introspecção', 'coluna', 'saúde mental', 'silêncio'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i03.png',
-    imageHint: 'person quiet nature'
+    imageHint: 'A solitary figure sitting or standing calmly in a serene natural environment (e.g., forest edge, lakeside, mountain view), intentionally holding a smartphone or digital device face down or away, symbolizing disconnecting from technology to find inner peace and quiet. Peaceful, expansive landscape with soft lighting.'
   },
   {
     id: 'aprofundado-019-inteligencia-emocional',
@@ -82,7 +81,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['inteligência emocional', 'Daniel Goleman', 'autoconsciência', 'autogerenciamento', 'empatia', 'habilidades sociais', 'bem-estar', 'relacionamentos'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed019/i04.png',
-    imageHint: 'brain heart connection'
+    imageHint: 'A conceptual illustration depicting the intricate connection between a human brain and a human heart. Visual elements could include complex, glowing pathways or abstract shapes flowing between them, symbolizing emotional processing, understanding, and regulation influencing thought and vice versa. Focus on harmony, balance, and interconnection. Scientific yet artistic style.'
   },
   {
     id: 'psicofarmaco-019-litio-bipolar',
@@ -117,7 +116,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['lítio', 'transtorno bipolar', 'estabilizador de humor', 'psicofarmacologia', 'mania', 'depressão bipolar', 'monitoramento terapêutico', 'efeitos colaterais'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i05.png',
-    imageHint: 'lithium salt brain chemistry'
+    imageHint: 'A microscopic or abstract representation of Lithium ions interacting with neural pathways or brain chemistry elements, symbolizing its mood-stabilizing effect in the brain. Could show the chemical symbol Li or small crystals interacting with stylized neurons or neurotransmitters. Scientific illustration style, focus on the molecular level effect.'
   },
   {
     id: 'cronica-019-comparacao-redes-sociais',
@@ -138,7 +137,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['redes sociais', 'comparação social', 'autoestima', 'saúde mental', 'ansiedade', 'crônica', 'bem-estar digital', 'imagem corporal', 'cultura da perfeição'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i06.png',
-    imageHint: 'person phone sad comparison'
+    imageHint: 'A person looking at a smartphone screen, with their reflection in the screen (or a mirror nearby) appearing visibly sad, inadequate, or distorted, while the screen displays exaggeratedly perfect, filtered images of happy people or idealized lifestyles from social media feeds. Emphasize the emotional impact of the contrast and the feeling of not being enough.'
   },
   {
     id: 'tecnica-019-thought-record',
@@ -149,7 +148,7 @@ export const conteudosEdicao019: Conteudo[] = [
     persona_autor: 'Dr. Analítico',
     data_publicacao: '2025-06-12',
     corpo: [
-      { tipo: 'paragrafo', texto: 'O Registro de Pensamentos Disfuncionais (RPD), também conhecido como "cadeia de pensamentos" ou "thought record", é uma das ferramentas mais centrais e eficazes da Terapia Cognitivo-Comportamental (TCC). Ele oferece uma maneira estruturada para os indivíduos aprenderem a identificar os pensamentos automáticos negativos (PANs) que surgem em situações específicas, a examinar a validade e a utilidade desses pensamentos, a reconhecer as distorções cognitivas presentes e, finalmente, a desenvolver respostas alternativas mais equilibradas, realistas e adaptativas. Ao praticar o RPD regularmente, as pessoas podem se tornar mais conscientes de seus padrões de pensamento e aprender a modificar aqueles que contribuem para emoções dolorosas e comportamentos problemáticos.' },
+      { tipo: 'paragrafo', texto: 'O Registro de Pensamentos Disfuncionais (RPD), também conhecido como "cadeia de pensamentos" ou "thought record", é uma das ferramentas mais centrais e eficazes da TCC. Ele oferece uma maneira estruturada para os indivíduos aprenderem a identificar os pensamentos automáticos negativos (PANs) que surgem em situações específicas, a examinar a validade e a utilidade desses pensamentos, a reconhecer as distorções cognitivas presentes e, finalmente, a desenvolver respostas alternativas mais equilibradas, realistas e adaptativas. Ao praticar o RPD regularmente, as pessoas podem se tornar mais conscientes de seus padrões de pensamento e aprender a modificar aqueles que contribuem para emoções dolorosas e comportamentos problemáticos.' },
       { tipo: 'paragrafo', texto: 'A premissa subjacente é que nossas emoções e comportamentos são fortemente influenciados pela forma como interpretamos as situações, e não apenas pelas situações em si. Os PANs são frequentemente rápidos, habituais e parecem "verdades" irrefutáveis, mas muitas vezes são distorcidos ou baseados em pressupostos falhos. O RPD nos ajuda a colocar esses pensamentos "sob o microscópio" da análise crítica.' },
       { tipo: 'sub_cabecalho', texto: 'Os Componentes Típicos de um Registro de Pensamentos Disfuncionais:' },
       { tipo: 'paragrafo', texto: 'Um RPD é geralmente organizado em colunas. Embora possa haver variações, uma estrutura comum inclui:' },
@@ -167,7 +166,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['registro de pensamentos', 'RPD', 'TCC', 'pensamentos automáticos negativos', 'reestruturação cognitiva', 'técnicas terapêuticas', 'ansiedade', 'depressão', 'distorções cognitivas'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i07.png',
-    imageHint: 'person writing journal thoughts'
+    imageHint: 'A close-up shot focusing on hands writing in a journal or a structured worksheet with columns (like a thought record table). Visual elements around the head or emerging from the page could represent thoughts as text bubbles or symbols, with negative ones being analyzed or crossed out, and new, balanced thoughts being written, symbolizing the process of cognitive restructuring.'
   }
 ];
 
@@ -178,7 +177,7 @@ export const edicao019: Edicao = {
     titulo_principal: "A Beleza da Imperfeição, Alegrias Cotidianas e a Força da Inteligência Emocional",
     subtitulo: "Nesta edição: Aceitando falhas, o oráculo das pequenas alegrias, a quietude necessária e desvendando a inteligência emocional.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "imperfect flower resilience",
+    imageHint: 'A visually striking image of a single, resilient flower that is clearly imperfect (e.g., a petal is torn, the stem is slightly bent) but still vibrant, beautiful, and bathed in warm, hopeful light, symbolizing the beauty and strength found in imperfection and resilience. Abstract elements suggesting growth or inner light could be included.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "A Beleza da Imperfeição: Aceitando Nossas Falhas", id_conteudo: "editorial-019-beleza-imperfeicao" },

@@ -1,4 +1,3 @@
-
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao016: Conteudo[] = [
@@ -19,7 +18,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['behaviorismo', 'psicologia comportamental', 'editorial', 'história da psicologia', 'condicionamento', 'aprendizagem'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed016/i01.png',
-    imageHint: 'brain gears behavior'
+    imageHint: 'Conceptual illustration of a human brain interacting with symbolic representations of learned behaviors or conditioning pathways, perhaps depicted as interlocking gears or connected nodes, emphasizing the mechanistic view of behavior within the brain. Scientific yet conceptual style, dynamic lines.'
   },
   {
     id: 'aprofundado-016-condicionamento-classico-operante',
@@ -57,7 +56,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['condicionamento clássico', 'condicionamento operante', 'Pavlov', 'Skinner', 'aprendizagem', 'behaviorismo', 'reforço', 'punição'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed016/i02.png',
-    imageHint: 'dog bell skinner box'
+    imageHint: 'A composite illustration showing two distinct scenes. On the left, a stylized depiction of Pavlov\'s experiment with a dog, bell, and food leading to salivation. On the right, a simplified Skinner box with an animal (rat or pigeon) interacting with a lever or key, and a dispenser for rewards. Clearly differentiate between the associative learning (classical) and consequence-based learning (operant). Scientific illustration style.'
   },
   {
     id: 'aprofundado-016-historia-behaviorismo',
@@ -82,7 +81,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['história da psicologia', 'behaviorismo', 'John B. Watson', 'B.F. Skinner', 'condicionamento', 'psicologia científica'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed016/i03.png',
-    imageHint: 'old psychology book'
+    imageHint: 'An open, aged psychology textbook on a wooden desk, with subtle, stylized portraits or illustrations of John B. Watson and B.F. Skinner integrated into the background or emerging from the book\'s pages, conveying the historical foundation of behaviorism. Soft, academic lighting.'
   },
   {
     id: 'narrativa-016-o-condicionador-de-habitos',
@@ -103,7 +102,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['behaviorismo', 'condicionamento', 'reforço', 'punição', 'hábitos', 'narrativa', 'livre arbítrio', 'consciência'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed016/i04.png',
-    imageHint: 'gears levers machine'
+    imageHint: 'A large, fantastical, intricate machine with visible gears, levers, tubes, and dispensers, designed to modify habits. Show mechanisms for delivering small rewards (like golden tokens or treats) and indicators for undesired behaviors (like flashing red lights or gentle buzzers). Steampunk or slightly whimsical mechanical illustration style.'
   },
   {
     id: 'coluna-016-comportamento-no-cotidiano',
@@ -122,7 +121,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['behaviorismo', 'cotidiano', 'reforço', 'hábitos', 'condicionamento', 'coluna', 'autoconsciência'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed016/i05.png',
-    imageHint: 'domino effect behavior'
+    imageHint: 'A visually engaging illustration of a chain reaction using symbolic dominoes. Each domino falls sequentially, representing a behavior leading to a consequence, which triggers the next behavior. Labels or small icons on the dominoes could represent common daily actions or reinforcers/punishers (e.g., phone notification, like button, cup of coffee, anxious thought, successful task completion). Bright, clear, and dynamic style.'
   },
   {
     id: 'cronica-016-superando-fobia-comportamental',
@@ -143,7 +142,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['fobia', 'medo de voar', 'terapia comportamental', 'dessensibilização sistemática', 'exposição gradual', 'crônica', 'behaviorismo', 'ansiedade'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed016/i06.png',
-    imageHint: 'airplane window clouds'
+    imageHint: 'View from an airplane window looking out at bright, serene clouds and a blue sky. Show a hand resting calmly on the armrest in the foreground, subtly implying overcoming previous anxiety. Soft, hopeful lighting, emphasizing peace and successful flight. The view should be expansive and clear.'
   },
   {
     id: 'tecnica-016-economia-de-fichas',
@@ -160,7 +159,7 @@ export const conteudosEdicao016: Conteudo[] = [
       { tipo: 'lista_ordenada', itens: [
         { texto: 'Identificar os Comportamentos-Alvo: Defina claramente quais comportamentos específicos você deseja aumentar ou incentivar. Eles devem ser observáveis, mensuráveis e positivamente formulados (ex: "Completar a lição de casa antes das 19h" em vez de "Não deixar a lição para depois"). Comece com poucos comportamentos para não sobrecarregar.' },
         { texto: 'Escolher as Fichas (Tokens): Decida que tipo de ficha será usado. Deve ser algo fácil de administrar, controlar e que não seja facilmente falsificável ou obtido de outra forma. Podem ser estrelas em um gráfico, pontos em um caderno, botões coloridos, etc.' },
-        { texto: 'Selecionar os Reforçadores de Apoio (Recompensas): Crie uma lista de recompensas que sejam verdadeiramente motivadoras para o indivídu మనో. As recompensas podem variar desde pequenos privilégios (ex: 30 minutos extras de videogame, escolher o filme da noite, um pequeno brinquedo) até atividades especiais ou itens mais significativos, dependendo da idade e dos interesses da pessoa. É importante que as recompensas sejam desejadas e acessíveis.' },
+        { texto: 'Selecionar os Reforçadores de Apoio (Recompensas): Crie uma lista de recompensas que sejam verdadeiramente motivadoras para o indivíduo. As recompensas podem variar desde pequenos privilégios (ex: 30 minutos extras de videogame, escolher o filme da noite, um pequeno brinquedo) até atividades especiais ou itens mais significativos, dependendo da idade e dos interesses da pessoa. É importante que as recompensas sejam desejadas e acessíveis.' },
         { texto: 'Definir o "Preço" das Recompensas: Estabeleça quantas fichas são necessárias para "comprar" cada recompensa. Recompensas mais valiosas devem custar mais fichas. Crie um "menu de recompensas" claro.' },
         { texto: 'Estabelecer as Regras do Sistema: Explique claramente como o sistema funciona: quais comportamentos ganham fichas, quantas fichas são ganhas por comportamento, quando as fichas podem ser trocadas por recompensas, e se há alguma penalidade por comportamentos inadequados (embora o foco principal deva ser no reforço positivo).' },
         { texto: 'Implementar com Consistência e Imediatismo: Entregue a ficha imediatamente após a ocorrência do comportamento desejado. Seja consistente na aplicação das regras. Elogie e incentive verbalmente junto com a entrega da ficha.' },
@@ -172,7 +171,7 @@ export const conteudosEdicao016: Conteudo[] = [
     tags: ['economia de fichas', 'token economy', 'modificação de comportamento', 'behaviorismo', 'reforço positivo', 'condicionamento operante', 'técnicas terapêuticas', 'educação'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed016/i07.png',
-    imageHint: 'star chart rewards'
+    imageHint: 'A visual representation of a reward chart or board where tokens (like golden stars, colorful stickers, or coins) are being placed onto spaces that represent completed tasks or desired behaviors. Nearby, a selection of tangible rewards or privileges are displayed, illustrating the exchange mechanism. Bright, organized, and motivating scene.'
   }
 ];
 
@@ -183,7 +182,7 @@ export const edicao016: Edicao = {
     titulo_principal: "Especial Behaviorismo: Decifrando o Comportamento Humano",
     subtitulo: "Nesta edição: O legado de Pavlov e Skinner, a história do behaviorismo, e aplicações práticas dos princípios comportamentais no cotidiano e na terapia.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "brain gears behavior",
+    imageHint: 'A composite image representing the core concepts of behaviorism. Include elements like a human brain with abstract connections related to learning and behavior, alongside stylized depictions of key behaviorist experiments such as a Pavlovian dog setup (bell, salivation) and a Skinner box (animal, lever/key, reward dispenser). Unify these elements visually to convey the study of observable behavior and learning mechanisms. Scientific illustration style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "Condicionamento Clássico e Operante: Os Pilares da Aprendizagem", id_conteudo: "aprofundado-016-condicionamento-classico-operante" },
@@ -235,5 +234,3 @@ export const edicao016: Edicao = {
     }
   ]
 };
-
-    

@@ -1,4 +1,3 @@
-
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao018: Conteudo[] = [
@@ -19,7 +18,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['propósito', 'sentido de vida', 'resiliência', 'mudança', 'autoconhecimento', 'editorial', 'bem-estar emocional'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i01.png',
-    imageHint: 'compass uncertain map'
+    imageHint: 'A symbolic image of a compass needle pointing towards a source of light or a clear path on a map that is partially obscured or shifting, representing finding purpose amidst uncertainty and change. Warm, guiding light.'
   },
   {
     id: 'aprofundado-018-psicologia-positiva',
@@ -56,7 +55,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['psicologia positiva', 'bem-estar', 'felicidade', 'florescimento', 'PERMA', 'forças de caráter', 'gratidão', 'mindfulness', 'resiliência', 'martin seligman', 'flow'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed018/i02.png',
-    imageHint: 'person thriving vibrant colors'
+    imageHint: 'A radiant figure, representing a person, shown surrounded by vibrant, positive colors and symbols of growth, connection, and fulfillment (like blooming flowers, linked hands, small stars), embodying human flourishing and well-being. Bright, hopeful lighting.'
   },
   {
     id: 'aprofundado-018-avaliacao-armas',
@@ -84,7 +83,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['avaliação psicológica', 'porte de armas', 'ética profissional', 'psicologia jurídica', 'segurança pública', 'testes psicológicos', 'legislação brasileira'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i03.png',
-    imageHint: 'target firearm psychology'
+    imageHint: 'A conceptual image combining elements of psychological testing (like abstract shapes representing cognition or personality traits, or a Rorschach-like pattern) overlaid or interacting with symbols of firearms or targets, set against a backdrop suggesting legal or societal implications (e.g., subtle scales of justice or city skyline). Use a serious, thoughtful tone.'
   },
   {
     id: 'cronica-018-inclusao-pcd',
@@ -105,7 +104,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['inclusão', 'PcD', 'capacitismo', 'barreiras atitudinais', 'representatividade', 'autonomia', 'direitos humanos', 'crônica'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i04.png',
-    imageHint: 'wheelchair person city'
+    imageHint: 'A person in a wheelchair actively and confidently moving through a vibrant, modern city street. Subtle visual elements could represent attitudinal barriers (like dissolving chains or fading walls) contrasted with symbols of voice and empowerment (like stylized sound waves or light emanating from the figure). Emphasize forward movement and visibility.'
   },
   {
     id: 'narrativa-018-biblioteca-sentimentos',
@@ -125,7 +124,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['emoções', 'inteligência emocional', 'autoconhecimento', 'sentimentos', 'narrativa', 'alexithymia', 'vocabulário emocional'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i05.png',
-    imageHint: 'glowing potions library'
+    imageHint: 'A magical, dimly lit library interior with shelves filled with countless small, glowing crystal bottles or vials, each containing unique colored light or essence representing different feelings. A mysterious librarian figure is carefully tending to the collection or handing a specific glowing vial to a visitor. Emphasize wonder, emotional exploration, and the beauty of complex feelings. Ethereal lighting.'
   },
   {
     id: 'coluna-018-dialogo-construtivo',
@@ -144,7 +143,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['diálogo', 'polarização', 'comunicação construtiva', 'empatia', 'escuta ativa', 'coluna', 'conflito', 'sociedade'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i06.png',
-    imageHint: 'bridge over chasm people'
+    imageHint: 'Two figures standing at opposite sides of a visual chasm or divide (symbolizing societal polarization), actively constructing or extending a bridge between them through communication. Show elements like speech bubbles, connecting lines, or hands reaching across the gap, emphasizing dialogue, mutual effort, and building understanding. Avoid aggression, focus on constructive interaction.'
   },
   {
     id: 'tecnica-018-ativacao-comportamental',
@@ -173,7 +172,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['ativação comportamental', 'depressão', 'terapia comportamental', 'TCC', 'engajamento', 'reforço positivo', 'técnicas terapêuticas', 'anedonia'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i07.png',
-    imageHint: 'person engaging activity sun'
+    imageHint: 'A figure gradually emerging from shadow or a gray area into a bright, colorful space, actively engaged in a simple, enjoyable activity like gardening, painting, or walking outdoors. Show a clear visual transition from inertia to engagement and positive change. Use warm, inviting sunlight or vibrant colors to symbolize improved mood and well-being.'
   }
 ];
 
@@ -184,7 +183,7 @@ export const edicao018: Edicao = {
     titulo_principal: "Propósito em Tempos de Incerteza, Psicologia Positiva e Desafios da Avaliação Psicológica",
     subtitulo: "Nesta edição: Encontrando significado, o florescimento humano, a complexa avaliação para porte de armas no Brasil e uma crônica sobre inclusão.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "balance purpose challenge",
+    imageHint: 'A composite image featuring a symbolic balance scale. On one side, abstract elements representing purpose and positive psychology (e.g., a compass pointing to light, symbols of growth and well-being like blooming flowers or a stylized upward arrow). On the other side, abstract elements representing complex challenges or responsibilities (e.g., abstract shapes of a target, intertwined complex lines symbolizing difficult decisions, maybe a subtle legal symbol). The scale should be balancing or finding equilibrium, conveying the themes of finding balance and navigating challenges, especially those involving significant responsibility. Conceptual art style with strong visual contrast and clear symbolism.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "Navegando a Incerteza: A Busca por Propósito em Tempos de Mudança", id_conteudo: "editorial-018-proposito-mudanca" },
@@ -236,5 +235,3 @@ export const edicao018: Edicao = {
     }
   ]
 };
-
-    

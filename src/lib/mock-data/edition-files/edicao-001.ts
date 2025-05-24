@@ -66,7 +66,7 @@ export const conteudosEdicao001: Conteudo[] = [
     data_publicacao: '2025-05-19',
     corpo: [
       { tipo: 'paragrafo', texto: 'A resiliência psicológica é frequentemente definida como a capacidade de se adaptar bem e se recuperar rapidamente de situações de estresse significativo, adversidade, trauma ou tragédia. É crucial entender que resiliência não implica ausência de dificuldades, dor emocional ou sofrimento. Pelo contrário, trata-se da habilidade de navegar por essas experiências desafiadoras, aprender com elas e, idealmente, emergir fortalecido ou, no mínimo, funcionalmente adaptado. É um processo dinâmico que envolve uma interação complexa entre fatores individuais (como traços de personalidade, habilidades de enfrentamento e regulação emocional) e fatores ambientais (como apoio social, recursos comunitários e oportunidades). Este artigo detalha os fatores que contribuem para a resiliência e como eles podem ser desenvolvidos de forma prática e consciente.' },
-      { tipo: 'imagem', url: 'https://images.unsplash.com/photo-1619313949781-a9ed1aca9e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW1idXxlbnwwfHx8fDE3NDc2OTU4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080', legenda: 'O bambu se curva com o vento, mas raramente quebra: uma metáfora visual para a flexibilidade e força da resiliência humana.', imageHint: 'article content image' },
+      { tipo: 'imagem', url: '/images/mes-edicoes/m05/ed001/i03i.png', legenda: 'O bambu se curva com o vento, mas raramente quebra: uma metáfora visual para a flexibilidade e força da resiliência humana.', imageHint: 'article content image' },
       { tipo: 'sub_cabecalho', texto: 'Pilares Fundamentais e Estratégias para Cultivar a Resiliência:' },
       { tipo: 'paragrafo', texto: 'A construção da resiliência é análoga à construção de um músculo: requer intenção, prática consistente e tempo. Apresentamos a seguir algumas descobertas, acompanhadas de estratégias para seu desenvolvimento:' },
       {
@@ -118,7 +118,7 @@ export const conteudosEdicao001: Conteudo[] = [
         ],
       },
       { tipo: 'paragrafo', texto: 'Cada uma dessas teorias enfrenta desafios conceituais, metodológicos e empíricos significativos. A pesquisa sobre a consciência é eminentemente interdisciplinar, exigindo a colaboração entre neurocientistas, psicólogos cognitivos, filósofos da mente, físicos e especialistas em inteligência artificial. Avanços em neuroimagem, como ressonância magnética funcional (fMRI) e eletroencefalografia (EEG) de alta densidade, e em técnicas de estimulação cerebral, como estimulação magnética transcraniana (TMS), têm permitido investigar os correlatos neurais da consciência com crescente precisão. No entanto, a ponte entre a atividade neural observada e a experiência subjetiva sentida permanece um campo de intenso debate e exploração.' },
-      { tipo: "imagem", url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080", legenda: "Representação abstrata da complexidade da atividade cerebral e das redes neurais, simbolizando a busca pela compreensão da consciência.", imageHint: "brain activity"},
+      { tipo: "imagem", url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080", legenda: "Representação abstrata da complexidade e cerebral e das redes neurais.", imageHint: "brain activity"},
       { tipo: 'paragrafo', texto: 'A elucidação da natureza da consciência possui implicações profundas que transcendem a academia. Ela afeta nossa compreensão da mente humana, o desenvolvimento ético de inteligência artificial geral (AGI), a prática médica (especialmente em casos de estados alterados de consciência como coma, estado vegetativo ou síndrome do encarceramento), questões sobre direitos e bem-estar dos animais e, em última análise, nossa própria concepção da realidade e do nosso lugar nela. O enigma da consciência continua a nos desafiar e a inspirar a busca por respostas, lembrando-nos da vastidão do que ainda não compreendemos sobre nós mesmos e o universo.'},
     ],
     tags: ['consciência', 'neurociência', 'filosofia da mente', 'teorias científicas', 'mente', 'cognição', 'problema difícil', 'qualia', 'IIT', 'GWT'],
@@ -216,7 +216,7 @@ export const conteudosEdicao001: Conteudo[] = [
       { tipo: 'sub_cabecalho', texto: 'O Que é e Por Que é Eficaz?' },
       { tipo: 'paragrafo', texto: 'Diferente da respiração torácica (curta e superficial, comum em estados de estresse), a respiração diafragmática envolve o uso pleno do diafragma, um grande músculo em forma de cúpula localizado na base dos pulmões. Ao inspirar profundamente, o diafragma se contrai e desce, permitindo que os pulmões se expandam completamente e absorvam mais oxigênio. Essa ação estimula o nervo vago, um componente chave do sistema nervoso parassimpático, que é responsável pela resposta de "repouso e digestão", contrapondo-se à resposta de "luta ou fuga" do sistema simpático.' },
       { tipo: 'paragrafo', texto: 'A ativação do sistema parassimpático através da respiração diafragmática pode levar a uma série de benefícios fisiológicos, como a redução da frequência cardíaca, da pressão arterial e dos níveis de cortisol (o hormônio do estresse). Psicologicamente, promove uma sensação de calma, clareza mental e maior controle sobre as reações emocionais. É uma forma de autorregulação acessível a qualquer momento.' },
-      { tipo: 'imagem', url: 'https://images.unsplash.com/photo-1513097847644-f00cfe868607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8YnJlYXRofGVufDB8fHx8MTc0NzQ5ODA3OHww&ixlib=rb-4.1.0&q=80&w=1080', legenda: 'Visualização da expansão abdominal durante a respiração diafragmática.', imageHint: 'calm breathing meditation' },
+      { tipo: 'imagem', url: '/images/mes-edicoes/m05/ed001/i10.png', legenda: 'Visualização da expansão abdominal durante a respiração diafragmática.', imageHint: 'calm breathing meditation' },
       { tipo: 'sub_cabecalho', texto: 'Passo a Passo: Como Praticar a Respiração Diafragmática' },
       { tipo: 'paragrafo', texto: 'Praticar a respiração diafragmática é simples e pode ser feito em qualquer lugar. Aqui está um guia passo a passo com exemplos:' },
       {
@@ -256,11 +256,11 @@ export const edicao001: Edicao = {
   edicao: "001",
   data: "2025-05-19",
   capa: {
-    titulo_principal: "PsychDaily: A Voz da Compaixão e da Ciência Psicológica",
-    subtitulo: "Edição de estreia: Mergulhe na escuta compassiva, resiliência, o enigma da consciência, psicofármacos e técnicas terapêuticas.",
-    imagem_destaque: "https://images.unsplash.com/photo-1588130739798-136cb52da55c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYXNzaW9ufGVufDB8fHx8MTc0NzUxMzI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    titulo_principal: "PsychDaily: conteúdos sobre Psicologia, Saúde Mental e Bem-Estar",
+    subtitulo: "Edição de estreia: Mergulhe na escuta empática, resiliência, o enigma da consciência, psicofármacos e técnicas terapêuticas.",
+    imagem_destaque: '/images/mes-edicoes/m05/ed001/capa.jpg',
     imageHint: "newspaper launch",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Imagens",
     links_manchetes: [
       { titulo: "A Arte da Escuta Compassiva: Conectando-se com o Outro", id_conteudo: "psicologia-empatia-01" },
       { titulo: "Resiliência Psicológica: Como Desenvolver Força Interna", id_conteudo: "psicologia-resiliencia-03" },

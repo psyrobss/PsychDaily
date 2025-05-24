@@ -1,4 +1,3 @@
-
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao017: Conteudo[] = [
@@ -30,7 +29,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['autoestima', 'autoconhecimento', 'autoaceitação', 'validação', 'saúde mental', 'editorial', 'bem-estar'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed017/i01.png',
-    imageHint: 'person mirror selflove'
+    imageHint: 'A person looking into a mirror with a serene expression, seeing a reflection that is whole, strong, and accepting, contrasting with perhaps subtle background elements suggesting external judgment or fragmented self-image. Focus on inner peace and self-acceptance.'
   },
   {
     id: 'narrativa-017-o-jardineiro-dos-sentimentos',
@@ -50,7 +49,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['ambivalência emocional', 'sentimentos contraditórios', 'aceitação', 'inteligência emocional', 'narrativa', 'complexidade humana'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed017/i02.png',
-    imageHint: 'yin yang garden'
+    imageHint: 'A mystical garden where plants representing contrasting emotions (e.g., thorny roses for sadness next to bright sunflowers for hope, plants with dual-colored leaves) grow together harmoniously. Subtle integration of Yin Yang symbols or visual balance to represent the coexistence and acceptance of ambivalence. Ethereal or slightly fantastical style.'
   },
   {
     id: 'coluna-017-arte-de-discordar',
@@ -68,7 +67,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['discordar', 'comunicação', 'respeito', 'empatia', 'diálogo', 'coluna', 'conflito construtivo', 'polarização'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed017/i03.png',
-    imageHint: 'two people debate bridge'
+    imageHint: 'Two figures engaged in a calm, earnest discussion on a bridge or with a bridge visually connecting them, symbolizing dialogue, understanding, and connection despite different viewpoints. Avoid aggressive body language. Show subtle visual cues of ideas flowing between them, promoting constructive communication.'
   },
   {
     id: 'aprofundado-017-resiliencia-comunitaria',
@@ -98,7 +97,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['resiliência comunitária', 'coesão social', 'capital social', 'gestão de crises', 'desenvolvimento comunitário', 'psicologia social', 'saúde pública'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed017/i04.png',
-    imageHint: 'community hands together tree'
+    imageHint: 'A diverse group of people from a community linked together or supporting a central element, like a sturdy tree or a symbolic structure, within a landscape that shows signs of recovering from adversity (e.g., subtle storm clouds clearing, new growth). Emphasize unity, mutual aid (hands connected, arms linked), and collective strength. Warm, hopeful lighting.'
   },
   {
     id: 'psicofarmaco-017-efeitos-colaterais-sexuais',
@@ -136,7 +135,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['disfunção sexual', 'psicofármacos', 'antidepressivos', 'ISRS', 'efeitos colaterais', 'saúde sexual', 'comunicação médico-paciente'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed017/i05.png',
-    imageHint: 'couple intimacy issues'
+    imageHint: 'A sensitive depiction of a couple in a bedroom or intimate setting, visually representing emotional distance or difficulty in connection. Abstract or subtle elements could symbolize the external factor of medication interfering with their bond or physical intimacy. Focus on the emotional impact and the potential for vulnerability and open communication.'
   },
   {
     id: 'cronica-017-o-silencio-de-elias',
@@ -158,7 +157,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['repressão emocional', 'expressão de sentimentos', 'saúde mental masculina', 'terapia', 'inteligência emocional', 'crônica', 'cura', 'vulnerabilidade'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed017/i06.png',
-    imageHint: 'man throat knot emotional'
+    imageHint: 'A close-up, poignant depiction of a man with a visible, symbolic knot or constriction around his throat or chest area, representing repressed emotions. A visual transition or dual image shows him later speaking or writing, with the knot dissolving or transforming into words or light, symbolizing emotional release and healing.'
   },
   {
     id: 'tecnica-017-intencao-paradoxal',
@@ -186,7 +185,7 @@ export const conteudosEdicao017: Conteudo[] = [
     tags: ['intenção paradoxal', 'logoterapia', 'Viktor Frankl', 'ansiedade antecipatória', 'fobias', 'técnicas terapêuticas', 'psicoterapia', 'humor'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed017/i07.png',
-    imageHint: 'person juggling fears humorously'
+    imageHint: 'A stylized depiction of a person playfully and humorously interacting with symbolic representations of their fears or anxieties, maybe juggling small, not-so-scary monster symbols or intentionally trying to trip while smiling. Use a lighthearted, slightly exaggerated style to convey the paradoxical approach and the use of humor to disarm fear.'
   }
 ];
 
@@ -197,7 +196,7 @@ export const edicao017: Edicao = {
     titulo_principal: "Autoestima Genuína, a Dança das Emoções e Resiliência Comunitária",
     subtitulo: "Nesta edição: Cultivando o valor próprio, entendendo sentimentos contraditórios, a força do coletivo e o poder da intenção paradoxal.",
     imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: "self reflection community",
+    imageHint: 'A composite image blending themes of individual well-being and collective strength. One side could show a serene figure representing self-reflection and genuine self-esteem, perhaps connected by subtle visual lines or roots to a diverse group of people linked together, symbolizing community resilience and shared support. Use warm, inviting lighting and a sense of interconnectedness. Conceptual art style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "A Essência da Autoestima Genuína: Para Além da Aprovação Externa", id_conteudo: "editorial-017-autoestima-genuina" },
@@ -254,5 +253,3 @@ export const edicao017: Edicao = {
     }
   ]
 };
-
-    

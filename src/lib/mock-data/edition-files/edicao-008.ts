@@ -225,9 +225,9 @@ export const edicao008: Edicao = {
   capa: {
     titulo_principal: "Saberes Ancestrais, Natureza Curativa, a Arquitetura da Mente e a Jornada do Luto Compassivo",
     subtitulo: "Nesta edição expandida: Ayahuasca sob olhar decolonial, o poder terapêutico da natureza e dos adaptógenos, a reestruturação de pensamentos, e uma profunda reflexão sobre como acolher a dor da perda com compaixão, tempo e a busca por novos significados. E mais: o poder da partilha de segredos e a arte de tecer futuros.",
-    imagem_destaque: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBpbiUyMGZvcmVzdCUyMHRyYW5xdWlsJTIwbGlnaHR8ZW58MHx8fHwxNzE4NDA1MjMxfDA&ixlib=rb-4.0.3&q=80&w=1080", // Nova imagem de capa
+    imagem_destaque: '/images/mes-edicoes/m05/ed008/i09.png', 
     imageHint: "composite image: half showing a serene natural landscape with a person meditating, the other half showing abstract brain connections and ancient symbols, with a subtle overlay of a tear transforming into a growing plant.",
-    credito_imagem: "PsychDaily Images (Compilação)",
+    credito_imagem: "PsychDaily Imagens",
     links_manchetes: [
       { titulo: ayahuascaDecolonial008.titulo, id_conteudo: ayahuascaDecolonial008.id },
       { titulo: editorialEd008.titulo, id_conteudo: editorialEd008.id },

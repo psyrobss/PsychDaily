@@ -181,9 +181,9 @@ export const edicao003: Edicao = {
   capa: {
     titulo_principal: "Autocuidado, Neuroplasticidade e a Simplicidade do Agora",
     subtitulo: "Nesta edição: A urgência do autocuidado, a capacidade do cérebro de mudar e como encontrar beleza nos pequenos momentos.",
-    imagem_destaque: "https://images.unsplash.com/photo-1579034170186-4d68cb74520c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwY2FsbSUyMGNvbm5lY3Rpb258ZW58MHx8fHwxNzE4MDM3MDQzfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m05/ed003/capa.png",
     imageHint: "brain calm connection",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDailyImages",
     links_manchetes: [
       { titulo: conteudosEdicao003[0].titulo, id_conteudo: conteudosEdicao003[0].id },
       { titulo: conteudosEdicao003[3].titulo, id_conteudo: conteudosEdicao003[3].id },

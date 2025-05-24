@@ -194,7 +194,7 @@ export const edicao006: Edicao = {
   capa: {
     titulo_principal: "Autenticidade, Holofotes Sociais e a Sabedoria da Impermanência e da Ação Consciente",
     subtitulo: "Nesta edição aprofundada: A jornada corajosa para ser autêntico em um mundo de aparências, o surpreendente efeito holofote, as lições milenares do Rio do Tempo, o poder transformador dos pequenos hábitos consistentes, a arte de abraçar o desconforto com a ACT e a importância da jardinagem para a cura da alma.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed006/i09.png',
+    imagem_destaque: '/images/mes-edicoes/m05/ed006/i08.png',
     imageHint: "A person standing on a stage under a spotlight, but looking away from it towards a path of self-discovery and authenticity, with subtle elements of nature and time.",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
@@ -211,7 +211,7 @@ export const edicao006: Edicao = {
       conteudo_ids: ["spotlight-effect-explained-01", "editorial-autenticidade-006", "tecnica-aceitacao-compromisso-006", "psicofarmaco-sono-006", "narrativa-rio-tempo-006"]
     },
     {
-      nome_secao: "A Perspectiva do Psicólogo: Vozes da Alma Compassiva",
+      nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
       conteudo_ids: ["editorial-autenticidade-006"]
     },

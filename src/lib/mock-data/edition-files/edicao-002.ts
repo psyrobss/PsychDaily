@@ -237,9 +237,9 @@ export const edicao002: Edicao = {
   capa: {
     titulo_principal: "Desvendando a Imperfeição, Estresse, TDAH e o Poder da Escrita",
     subtitulo: "Nesta edição: Vulnerabilidade, impacto do estresse, TDAH em debate, limites internos e o diário terapêutico como ferramenta.",
-    imagem_destaque: "https://images.unsplash.com/photo-1595552900947-11d59614541d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxBREhEfGVufDB8fHx8MTc0NzY1Nzc1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: '/images/mes-edicoes/m05/ed002/capa.png',
     imageHint: "thoughtful abstract",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "A Coragem de Ser Imperfeito: Libertando-se da Tirania da Perfeição", id_conteudo: "editorial-segunda-ed-01" },
       { titulo: "Estimulantes e Foco: Navegando os Desafios do TDAH", id_conteudo: "psicofarmaco-tdah-02" },
