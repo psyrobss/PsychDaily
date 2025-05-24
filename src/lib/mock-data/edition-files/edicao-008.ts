@@ -227,7 +227,7 @@ export const edicao008: Edicao = {
     subtitulo: "Nesta edição expandida: Ayahuasca sob olhar decolonial, o poder terapêutico da natureza e dos adaptógenos, a reestruturação de pensamentos, e uma profunda reflexão sobre como acolher a dor da perda com compaixão, tempo e a busca por novos significados. E mais: o poder da partilha de segredos e a arte de tecer futuros.",
     imagem_destaque: '/images/mes-edicoes/m05/ed008/i09.png', 
     imageHint: "composite image: half showing a serene natural landscape with a person meditating, the other half showing abstract brain connections and ancient symbols, with a subtle overlay of a tear transforming into a growing plant.",
-    credito_imagem: "PsychDaily Imagens",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: ayahuascaDecolonial008.titulo, id_conteudo: ayahuascaDecolonial008.id },
       { titulo: editorialEd008.titulo, id_conteudo: editorialEd008.id },

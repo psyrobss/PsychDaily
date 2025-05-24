@@ -115,7 +115,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['silêncio', 'introspecção', 'mindfulness', 'autoconhecimento', 'bem-estar emocional', 'paz interior', 'restauração', 'sobrecarga sensorial'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i04.png',
+    imageUrl: '/images/mes-edicoes/m05/ed002/i04i.png',
     imageHint: 'peaceful silence',
   },
   {

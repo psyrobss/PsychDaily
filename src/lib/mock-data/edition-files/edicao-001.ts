@@ -260,7 +260,7 @@ export const edicao001: Edicao = {
     subtitulo: "Edição de estreia: Mergulhe na escuta empática, resiliência, o enigma da consciência, psicofármacos e técnicas terapêuticas.",
     imagem_destaque: '/images/mes-edicoes/m05/ed001/capa.jpg',
     imageHint: "newspaper launch",
-    credito_imagem: "PsychDaily Imagens",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "A Arte da Escuta Compassiva: Conectando-se com o Outro", id_conteudo: "psicologia-empatia-01" },
       { titulo: "Resiliência Psicológica: Como Desenvolver Força Interna", id_conteudo: "psicologia-resiliencia-03" },

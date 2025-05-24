@@ -208,7 +208,7 @@ export const edicao007: Edicao = {
     subtitulo: "Nesta edição aprofundada: TDAH e Autismo em foco, a jornada transformadora do perdão, a mágica biblioteca dos corações remendados, o inestimável valor do tédio criativo e como o mindful eating pode revolucionar sua relação com a comida e com seu corpo.",
     imagem_destaque: '/images/mes-edicoes/m05/ed007/i08.png',
     imageHint: "brain puzzle scales with a human silhouette contemplating, symbolizing diagnostic challenges and self-understanding",
-    credito_imagem: "PsychDaily Imagens",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: tdahAutismoDiagnostico007.titulo, id_conteudo: tdahAutismoDiagnostico007.id },
       { titulo: editorialEd007.titulo, id_conteudo: editorialEd007.id },

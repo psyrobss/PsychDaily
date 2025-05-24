@@ -183,7 +183,7 @@ export const edicao003: Edicao = {
     subtitulo: "Nesta edição: A urgência do autocuidado, a capacidade do cérebro de mudar e como encontrar beleza nos pequenos momentos.",
     imagem_destaque: "/images/mes-edicoes/m05/ed003/capa.png",
     imageHint: "brain calm connection",
-    credito_imagem: "PsychDailyImages",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao003[0].titulo, id_conteudo: conteudosEdicao003[0].id },
       { titulo: conteudosEdicao003[3].titulo, id_conteudo: conteudosEdicao003[3].id },

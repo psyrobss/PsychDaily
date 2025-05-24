@@ -210,7 +210,7 @@ export const edicao010: Edicao = {
     subtitulo: "Uma edição especial mergulhando nas complexidades da inteligência artificial e humana, nos conceitos seminais de self e consciência de William James, na busca contemporânea por propósito no universo profissional e no poder transformador do psicodrama. Inclui também reflexões essenciais sobre o tempo, as emoções e a dança entre paixão e paciência.",
     imagem_destaque: "https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxBSXxlbnwwfHx8fDE3NDc1MjIzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     imageHint: "abstract representation of a human brain merging with circuit board patterns, with a stage curtain partly 세율, symbolizing the intersection of mind, technology, and performance",
-    credito_imagem: "Unsplash (Compilação PsychDaily)",
+    credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: "AGI e Inteligência Humana: Uma Análise Epistemológica e Fenomenológica...", id_conteudo: "aprofundado-010-agi-inteligencia-humana" },
       { titulo: "O Self Multifacetado de William James: O Fluxo Contínuo da Consciência...", id_conteudo: "aprofundado-010-william-james-self" },
@@ -231,7 +231,7 @@ export const edicao010: Edicao = {
       ]
     },
     {
-      nome_secao: "A Perspectiva do Psicólogo: A Alma Compassiva",
+      nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
       conteudo_ids: ["editorial-010-paixao-paciencia"]
     },

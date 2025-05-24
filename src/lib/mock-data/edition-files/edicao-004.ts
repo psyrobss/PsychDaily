@@ -253,7 +253,7 @@ export const edicao004: Edicao = {
     subtitulo: "Nesta edição: O poder da comunidade, a loja de sonhos perdidos, escutando o corpo e a comunicação não-violenta.",
     imagem_destaque: '/images/mes-edicoes/m05/ed004/capa.png',
     imageHint: "community connection abstract",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao004[0].titulo, id_conteudo: conteudosEdicao004[0].id },
       { titulo: conteudosEdicao004[3].titulo, id_conteudo: conteudosEdicao004[3].id },

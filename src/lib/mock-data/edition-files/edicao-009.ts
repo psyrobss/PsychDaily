@@ -35,7 +35,7 @@ const pobrezaDepressaoSocial009: Conteudo = {
 const editorialEd009: Conteudo = {
   id: 'editorial-009-dialogo-interno',
   tipo: 'editorial',
-  titulo: 'A Voz Interior: Cultivando um Diálogo Interno Compassivo, Construtivo e Fortalecedor',
+  titulo: 'A Voz Interior: Cultivando um Diálogo Interno Construtivo e Fortalecedor',
   subtitulo: 'Como a qualidade da nossa autoconversa – o fluxo constante de pensamentos sobre nós mesmos e nossas experiências – influencia diretamente nossa autoestima, resiliência, bem-estar emocional e capacidade de navegação na vida.',
   autor: 'Dra. Helena Fictícia Alcantara',
   persona_autor: 'Dra. Alma Compassiva',
@@ -58,29 +58,29 @@ const editorialEd009: Conteudo = {
   tags: ['diálogo interno', 'autoconversa', 'autocompaixão', 'autoestima', 'saúde mental', 'mindfulness', 'editorial', 'resiliência', 'terapia cognitivo-comportamental'],
   isPremium: false,
   imageUrl: '/images/mes-edicoes/m05/ed009/i02.png',
-  imageHint: 'Close-up or medium shot of a person in a calm, contemplative posture, meditating or journaling. The setting should be serene, either a peaceful indoor space or a tranquil natural environment. Bathed in soft, diffused light to evoke a peaceful atmosphere. Focus on the person\'s expression conveying introspection and inner peace.'
+  imageHint: 'Close-up or medium shot of a person in a calm, contemplative posture, journaling. The setting should be serene, either a peaceful indoor space or a tranquil natural environment. Bathed in soft, diffused light to evoke a peaceful atmosphere. Focus on the person\'s expression conveying introspection and inner peace.'
 };
 
 const narrativaEd009: Conteudo = {
   id: 'narrativa-009-jardim-segredos',
   tipo: 'narrativa_ficticia',
-  titulo: 'O Jardim dos Segredos Murmurantes e a Flor da Verdade Interior',
-  subtitulo: 'Uma história encantada sobre um jardim secreto onde os segredos não ditos das pessoas floresciam como plantas exóticas e misteriosas, revelando o peso da ocultação e a beleza libertadora da confissão e da verdade.',
+  titulo: 'O Labirinto dos Ecos Internos e a Chave do Silêncio Consciente',
+  subtitulo: 'Uma fábula psicológica sobre um labirinto encantado onde os ecos das emoções não expressas guiavam os viajantes a reencontrarem partes perdidas de si mesmos, revelando o poder restaurador da escuta interior e da aceitação das próprias sombras.',
   autor: 'Clarice Fictícia Arantes',
   persona_autor: 'A Psicóloga Inventiva',
   data_publicacao: '2025-05-29',
   corpo: [
-    { tipo: 'paragrafo', texto: 'No centro da enigmática Cidade das Brumas Eternas, onde a verdade muitas vezes se escondia sob véus espessos de discrição e as palavras não ditas pairavam no air como uma névoa persistente, havia um jardim secreto, conhecido apenas por aqueles cujas almas carregavam o peso de confidências inconfessáveis. Não era um jardim de flores comuns, com pétalas vibrantes e perfumes doces, mas de plantas extraordinárias e por vezes sombrias, que brotavam dos segredos não ditos dos habitantes da cidade. Cada segredo, uma vez confiado à terra fértil e escura do jardim por seu misterioso zelador, um eremita chamado Elara, transformava-se em uma planta única, refletindo a natureza e a intensidade da confidência.' },
-    { tipo: 'paragrafo', texto: 'Havia as "Sinos-da-Culpa Silenciosa", cujas flores pálidas e translúcidas emitiam um som quase inaudível de lamento ao toque do vento; as "Trepadeiras-da-Vergonha Oculta", que se enroscavam em si mesmas, escondendo suas flores escuras e aveludadas como feridas secretas; as espinhosas "Roseiras-do-Ressentimento-Não-Expresso", cujos espinhos eram mais afiados que qualquer adaga; e as raras e belas "Orquídeas-da-Esperança-Secreta-e-Preciosa", que brilhavam com uma luz suave e etérea na penumbra do jardim, florescendo apenas sob o olhar da lua. Elara, com suas mãos enrugadas e um olhar que parecia penetrar além das aparências, cuidava de cada planta com reverência e uma compreensão silenciosa, sabendo que os segredos, mesmo os mais dolorosos ou vergonhosos, precisavam de um espaço para existir, para serem reconhecidos e, eventualmente, para se transformar ou se dissolver.' },
-    { tipo: 'dialogo', personagem: 'Elara, a Zeladora do Jardim', fala: 'Os segredos são como sementes, meu jovem amigo. Guardados na escuridão sufocante do peito, podem germinar raízes de amargura, medo e isolamento, consumindo a vitalidade por dentro. Mas plantados com cuidado e intenção, mesmo que em solo sagrado e discreto como este, podem encontrar uma forma de crescer, de se expressar e, quem sabe, até de se libertar da sombra que os acompanha, transformando-se em sabedoria ou compaixão.' },
-    { tipo: 'paragrafo', texto: 'Um dia, um jovem escriba chamado Luan, atormentado por um segredo de família que o consumia com culpa e o impedia de formar laços verdadeiros, encontrou, guiado por um impulso inexplicável, o caminho para o Jardim dos Segredos Murmurantes. Hesitante e com o coração apertado, ele confiou sua história a Elara, que a ouviu sem julgamento, apenas com a presença atenta de quem compreende o peso das palavras não ditas. Juntos, plantaram o segredo em um canto isolado do jardim, sob uma antiga árvore de galhos retorcidos.' },
-    { tipo: 'paragrafo', texto: 'Com o tempo, dali brotou uma árvore de folhas prateadas e luminosas, cujos galhos se estendiam para o céu como mãos em prece. Em noites de lua cheia, a árvore parecia sussurrar a história de Luan para as estrelas, não com o tom pesado da culpa, mas com a serenidade da aceitação e a melodia da compreensão. Luan visitava sua árvore frequentemente. Ao vê-la crescer forte e bela, apesar da natureza sombria do segredo que a originou, percebeu que seu fardo, uma vez compartilhado e "plantado" em um solo de aceitação, não o destruiu. Pelo contrário, deu origem a algo que, embora marcado indelevelmente pela história, possuía sua própria beleza resiliente e sua própria força silenciosa.'},
-    { tipo: 'paragrafo', texto: 'O Jardim dos Segredos Murmurantes ensinava uma verdade profunda: a partilha de um segredo em um espaço seguro e compassivo pode aliviar seu peso esmagador, permitir que a luz da consciência alcance até os recantos mais sombrios da alma e, paradoxalmente, transformar o veneno da ocultação no adubo para o florescimento da verdade interior e da cura.' }
+    { tipo: 'paragrafo', texto: 'No coração da cidade antiga de Nymiria, onde as pessoas aprendiam desde cedo a esconder suas dores atrás de sorrisos educados e a confundir silêncio com força, existia um labirinto oculto sob as raízes do velho teatro abandonado. Não era um labirinto comum, de muros frios e passagens previsíveis, mas um lugar vivo, sensível às emoções reprimidas de quem por ali se aventurava. Suas paredes pulsavam com os ecos das vozes interiores que nunca haviam sido ouvidas, moldando os caminhos conforme os sentimentos soterrados ganhavam espaço para se manifestar.' },
+    { tipo: 'paragrafo', texto: 'Chamavam-no de Labirinto dos Ecos Internos, e dizia-se que ninguém entrava ali por acaso — apenas aqueles cuja alma havia começado a adoecer por falta de escuta. Dentro dele, os viajantes eram confrontados por reflexos metafóricos de suas emoções caladas: corredores que apertavam quando a ansiedade era ignorada, névoas espessas que surgiam diante da negação da tristeza, e espelhos que se estilhaçavam ao menor sinal de raiva não expressa. No centro do labirinto, porém, havia uma sala circular onde habitava uma entidade conhecida como A Voz Silente.' },
+    { tipo: 'dialogo', personagem: 'A Voz Silente', fala: 'Nem toda dor precisa ser dita, mas toda dor precisa ser escutada. As partes que você rejeita clamam por acolhimento, não por correção. Só quando você ousa ouvir sem interromper é que o labirinto se abre.' },
+    { tipo: 'paragrafo', texto: 'Numa noite de vento cortante, uma jovem cartógrafa chamada Ayla encontrou o labirinto enquanto buscava mapas antigos no porão do teatro. Carregava consigo uma tristeza ancestral, herdada por gerações, que a impedia de se sentir pertencente a qualquer lugar. Ao adentrar o labirinto, foi guiada por murmúrios indistintos, ecos de sua própria história, até a sala central. Ali, diante da Voz Silente, pela primeira vez, ela permaneceu em silêncio — não como quem se cala por medo, mas como quem finalmente escuta com o coração.' },
+    { tipo: 'paragrafo', texto: 'Ao deixar o labirinto, Ayla não trazia respostas claras, mas carregava em si uma chave dourada: o poder de escutar suas emoções com compaixão, sem pressa de solucioná-las. A partir daquele dia, desenhou mapas não de terras, mas de almas — trilhas internas onde sentimentos esquecidos podiam ser reencontrados e nomeados. Seus mapas tornaram-se lendas entre os habitantes de Nymiria, inspirando outros a buscarem o centro de seus próprios labirintos.' },
+    { tipo: 'paragrafo', texto: 'O Labirinto dos Ecos Internos ensinava uma lição essencial: que escutar-se verdadeiramente é um ato revolucionário de cura. E que o silêncio, quando escolhido com consciência, não esconde — revela. Não afasta — acolhe. E na escuta profunda de si mesmo, floresce a reconexão com tudo aquilo que se acreditava perdido.' }
   ],
-  tags: ['segredos', 'culpa', 'vergonha', 'partilha', 'narrativa', 'libertação emocional', 'confissão', 'verdade', 'psicologia arquetípica'],
+  tags: ['autoconhecimento', 'escuta interior', 'emoções reprimidas', 'narrativa simbólica', 'cura psicológica', 'silêncio', 'labirinto emocional', 'psicologia existencial'],
   isPremium: false,
   imageUrl: '/images/mes-edicoes/m05/ed009/i03.png',
-  imageHint: 'An ethereal, mystical secret garden at twilight, filled with fantastical plants of various shapes and colors. Some plants are dark and thorny (secrets of guilt/shame), while others glow with soft, internal light (secrets of hope/truth). Emphasize atmospheric mist and a sense of hidden wonder and mystery. Fantasy illustration style.'
+  imageHint: 'An enchanted subterranean labyrinth, dimly lit with shimmering light patterns that shift based on the traveler’s emotions. Mist, emotional shadows, and symbolic paths create an atmosphere of inner reflection and quiet intensity. Fantasy illustration style.'
 };
 
 const colunaEd009: Conteudo = {
@@ -89,7 +89,7 @@ const colunaEd009: Conteudo = {
   titulo: 'Palavras da Alma: A Dança Cósmica da Impermanência e a Leveza Libertadora do Ser',
   subtitulo: 'Refletindo sobre como a aceitação profunda e consciente da natureza transitória e impermanente de todas as coisas pode nos trazer uma paz surpreendente, uma apreciação mais aguçada pelo momento presente e uma liberdade do sofrimento causado pelo apego.',
   autor: 'Kai Fictício Oliveira',
-  persona_autor: 'O Tecelão de Perspectivas',
+  persona_autor: 'O Analista de Contextos',
   data_publicacao: '2025-05-29',
   corpo: [
     { tipo: 'paragrafo', texto: 'Vivemos em uma busca quase instintiva por permanência, por estabilidade, por certezas que nos ancorem em um mundo percebido como caótico e imprevisível. Desejamos relacionamentos eternos, sucesso duradouro, saúde inabalável, juventude perene. No entanto, a natureza fundamental e inescapável da existência, como ensinada por diversas tradições filosóficas e espirituais e confirmada pela observação atenta da vida, é a impermanência (Anicca, em Pali). Tudo flui, tudo se transforma, tudo está em constante devir. As estações mudam, as marés sobem e descem, as células do nosso corpo se renovam, e nós mesmos estamos em contínua evolução física, emocional e psicológica.' },
@@ -195,7 +195,7 @@ export const edicao009: Edicao = {
   capa: {
     titulo_principal: "Determinantes Sociais da Saúde Mental, a Impermanência e a Arte de Solucionar Problemas",
     subtitulo: "Nesta edição: A cruel relação entre pobreza e depressão, a sabedoria da impermanência, o diálogo interno e técnicas para resolver desafios.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "/images/mes-edicoes/m05/ed009/i08.png",
     imageHint: 'Symbolic image featuring intricate balance scales. On one side, abstract elements represent social justice (e.g., diverse figures, simplified structures). On the other side, elements represent mental health (e.g., calming colors, abstract brain shape, calm figure). Emphasize the scales tipping or balanced, showing the strong connection and the need for equilibrium between these concepts. Conceptual art style, high detail.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
