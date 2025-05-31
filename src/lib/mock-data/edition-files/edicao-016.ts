@@ -181,7 +181,7 @@ export const edicao016: Edicao = {
   capa: {
     titulo_principal: "Especial Behaviorismo: Decifrando o Comportamento Humano",
     subtitulo: "Nesta edição: O legado de Pavlov e Skinner, a história do behaviorismo, e aplicações práticas dos princípios comportamentais no cotidiano e na terapia.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "images/mes-edicoes/m06/ed016/capa.png",
     imageHint: 'A composite image representing the core concepts of behaviorism. Include elements like a human brain with abstract connections related to learning and behavior, alongside stylized depictions of key behaviorist experiments such as a Pavlovian dog setup (bell, salivation) and a Skinner box (animal, lever/key, reward dispenser). Unify these elements visually to convey the study of observable behavior and learning mechanisms. Scientific illustration style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

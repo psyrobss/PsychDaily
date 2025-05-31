@@ -205,7 +205,7 @@ export const conteudosEdicao011: Conteudo[] = [
         { texto: 'Conecte os Pontos para Visualizar sua "Roda": Depois de ter avaliado e marcado seu nível de satisfação em todas as áreas escolhidas, conecte os pontos que você marcou em cada fatia, traçando uma linha de um ponto ao outro ao redor do círculo. Isso criará uma nova forma geométrica dentro do seu círculo original, que representa visualmente o seu "equilíbrio" ou "desequilíbrio" atual entre as diferentes áreas de sua vida. Se a roda estiver muito irregular, com muitas áreas pontuando baixo (próximas ao centro) e outras muito altas, isso indica desequilíbrios significativos e áreas que podem estar necessitando de mais foco, atenção e investimento de sua parte.'}
       ],
     },
-              { tipo: 'imagem', url: 'https://images.unsplash.com/photo-1587080414904-7ef0092e5890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBsaWZlJTIwYmFsYW5jZSUyMHdoZWVsJTIwY2hhcnR8ZW58MHx8fHwxNzE4MDg1MTk4fDA&ixlib=rb-4.0.3&q=80&w=1080', legenda: 'Exemplo visual de uma Roda da Vida com as fatias nomeadas e os pontos de satisfação marcados, antes de serem conectados.', imageHint: 'blank life balance wheel chart with categories and marked satisfaction points'},
+              { tipo: 'imagem', url: '/images/mes-edicoes/m06/ed011/i07.png', legenda: 'Exemplo visual de uma Roda da Vida com as fatias nomeadas e os pontos de satisfação marcados, antes de serem conectados.', imageHint: 'blank life balance wheel chart with categories and marked satisfaction points'},
 
       { tipo: 'sub_cabecalho', texto: 'Interpretando sua Roda da Vida e Planejando Ações para o Crescimento:' },
       { tipo: 'paragrafo', texto: 'Após completar sua Roda da Vida, dedique um tempo para refletir sobre o resultado visual e as implicações:'},
@@ -221,7 +221,7 @@ export const conteudosEdicao011: Conteudo[] = [
     ],
     tags: ['roda da vida', 'autoavaliação', 'coaching', 'desenvolvimento pessoal', 'equilíbrio de vida', 'definição de metas', 'técnicas terapêuticas', 'bem-estar integral', 'psicologia positiva', 'autoconhecimento'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m06/ed011/i07.png',
+    imageUrl: '/images/mes-edicoes/m06/ed011/i08.png',
     imageHint: 'life balance wheel chart with a person thoughtfully looking at it and planning'
   }
 ];
@@ -232,9 +232,9 @@ export const edicao011: Edicao = {
   capa: {
     titulo_principal: "Vulnerabilidade, Sonhos Desfeitos e a Roda da Vida: Navegando Emoções e Construindo Equilíbrio",
     subtitulo: "Nesta edição aprofundada: A coragem essencial de ser vulnerável, como remendar sonhos partidos com esperança, o poder da escuta sem julgamentos, desvendando vieses cognitivos, os desafios dos antipsicóticos, superando a procrastinação e o uso da Roda da Vida para uma autoavaliação completa e um planejamento de crescimento pessoal.",
-    imagem_destaque: 'https://images.unsplash.com/photo-1505051508009-121094d47172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFydCUyMHNoaW5pbmclMjB0aHJvdWdoJTIwY3JhY2tzfGVufDB8fHx8MTcxODM2MDMyN3ww&ixlib=rb-4.0.3&q=80&w=1080', // Nova imagem de capa
+    imagem_destaque: '/images/mes-edicoes/m06/ed011/i09.png', // Nova imagem de capa
     imageHint: "a cracked heart or object being mended with glowing golden light (kintsugi style), with a balanced wheel of life subtly in the background, symbolizing healing, vulnerability, and the journey to wholeness.",
-    credito_imagem: "PsychDaily Images (Compilação)",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "A Coragem de Ser Vulnerável: Conectando-se em um Mundo Imperfeito", id_conteudo: "editorial-011-vulnerabilidade" },
       { titulo: "Desvendando a Teia dos Vieses Cognitivos: Como Atalhos Mentais Moldam Nossas Decisões", id_conteudo: "aprofundado-011-vieses-cognitivos" },

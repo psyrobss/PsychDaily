@@ -200,7 +200,7 @@ export const edicao015: Edicao = {
   capa: {
     titulo_principal: "Saúde Mental no Trabalho, Teoria do Apego e a Arte de Relaxar",
     subtitulo: "Nesta edição: Cultivando bem-estar no ambiente profissional, como os vínculos da infância nos moldam e um guia completo de técnicas de relaxamento.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "images/mes-edicoes/m06/ed015/capa.png",
     imageHint: 'Conceptual image depicting workplace wellness and balance. Could show symbolic elements of professional life (e.g., simplified office desk, computer) integrated with elements of well-being (e.g., scale in balance, person in a relaxed pose, elements of nature). Focus on achieving harmony between work demands and mental health. Clean, modern illustration style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

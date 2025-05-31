@@ -176,9 +176,9 @@ export const edicao012: Edicao = {
   capa: {
     titulo_principal: "Autovalidação, Emoções Tempestuosas e a Sabedoria dos Rituais",
     subtitulo: "Nesta edição: A importância de validar a si mesmo, como navegar emoções intensas, o poder dos rituais e uma análise da dissonância cognitiva.",
-    imagem_destaque: "https://images.unsplash.com/photo-1505051508009-121094d47172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbm5lciUyMHN0cmVuZ3RoJTIwY2FsbSUyMGxpZ2h0fGVufDB8fHx8MTcxODMyNjk3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m06/ed012/capa.png",
     imageHint: 'Conceptual image representing inner strength and calm amidst life\'s challenges. Perhaps hands holding a glowing light source, or a serene figure standing composed on a solid ground while abstract elements of chaos or movement swirl gently around them. Use soft, strong lighting and a sense of groundedness.',
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: editorialEd012.titulo, id_conteudo: editorialEd012.id },
       { titulo: artigoAprofundadoEd012.titulo, id_conteudo: artigoAprofundadoEd012.id }, // Dissonância Cognitiva (Premium)

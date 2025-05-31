@@ -223,7 +223,7 @@ export const edicao013: Edicao = {
   capa: {
     titulo_principal: "Resiliência Cotidiana, a Dança das Emoções, o Universo dos Sonhos e a Arte da Assertividade",
     subtitulo: "Nesta edição aprofundada: Fortalecendo a resiliência no dia a dia, acolhendo a complexidade das emoções, desvendando os mistérios e funções dos sonhos, e um guia prático para uma comunicação mais assertiva e eficaz. E mais: o poder curativo da psilocibina e a jornada de superação de expectativas.",
-    imagem_destaque: "/images/mes-edicoes/m05/ed013/i09.png", 
+    imagem_destaque: "/images/mes-edicoes/m06/ed013/i08.png", 
     imageHint: "a stylized brain with interconnected lines representing resilience, surrounded by a kaleidoscope of colors symbolizing emotions and dreamlike imagery, with a clear path illustrazione assertiveness.",
     credito_imagem: "PsychDaily Images (Compilação)",
     links_manchetes: [

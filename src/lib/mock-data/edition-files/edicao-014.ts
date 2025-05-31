@@ -194,7 +194,7 @@ export const edicao014: Edicao = {
   capa: {
     titulo_principal: "Luto Coletivo, Sombras Internas e os Segredos da Memória Emocional",
     subtitulo: "Nesta edição: Navegando a dor compartilhada, a dança com a sombra junguiana, como emoções moldam lembranças e os riscos dos nootrópicos.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "/images/mes-edicoes/m06/ed014/capa.png",
     imageHint: 'A composite or symbolic image representing the edition themes: a group of diverse figures standing together (collective grief), a figure interacting with their shadow (internal shadows), and abstract elements symbolizing memory pathways influenced by emotion (emotional memory). Use contrasting light and shadow, possibly overlapping elements, to connect the themes. Conceptual art style.'
 ,
     credito_imagem: "PsychDaily Images",
