@@ -172,7 +172,7 @@ export const conteudosEdicao018: Conteudo[] = [
     tags: ['ativação comportamental', 'depressão', 'terapia comportamental', 'TCC', 'engajamento', 'reforço positivo', 'técnicas terapêuticas', 'anedonia'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed018/i07.png',
-    imageHint: 'A figure gradually emerging from shadow or a gray area into a bright, colorful space, actively engaged in a simple, enjoyable activity like gardening, painting, or walking outdoors. Show a clear visual transition from inertia to engagement and positive change. Use warm, inviting sunlight or vibrant colors to symbolize improved mood and well-being.'
+    imageHint: 'Foto realista de uma pessoa surgindo gradualmente da sombra, caminhando de uma área acinzentada em direção a um espaço iluminado e colorido. A pessoa está ajoelhada em um jardim, com as mãos na terra, plantando flores coloridas. O cenário mostra uma transição clara entre um ambiente sem cor e um espaço vivo, com luz solar quente incidindo diretamente sobre a figura. O rosto está iluminado, transmitindo serenidade e engajamento. As cores vibrantes ao redor simbolizam melhora no humor, bem-estar e transformação interior. A imagem enfatiza a passagem visual da inércia para a ação positiva, sem elementos de conflito ou distração no fundo.'
   }
 ];
 
@@ -182,8 +182,8 @@ export const edicao018: Edicao = {
   capa: {
     titulo_principal: "Propósito em Tempos de Incerteza, Psicologia Positiva e Desafios da Avaliação Psicológica",
     subtitulo: "Nesta edição: Encontrando significado, o florescimento humano, a complexa avaliação para porte de armas no Brasil e uma crônica sobre inclusão.",
-    imagem_destaque: "https://placehold.co/800x500.png",
-    imageHint: 'A composite image featuring a symbolic balance scale. On one side, abstract elements representing purpose and positive psychology (e.g., a compass pointing to light, symbols of growth and well-being like blooming flowers or a stylized upward arrow). On the other side, abstract elements representing complex challenges or responsibilities (e.g., abstract shapes of a target, intertwined complex lines symbolizing difficult decisions, maybe a subtle legal symbol). The scale should be balancing or finding equilibrium, conveying the themes of finding balance and navigating challenges, especially those involving significant responsibility. Conceptual art style with strong visual contrast and clear symbolism.',
+    imagem_destaque: "/images/mes-edicoes/m06/ed018/capa.png",
+    imageHint: ' Imagem composta de três fotografias integradas em uma única cena com harmonia estética e equilíbrio visual. À esquerda, uma fotografia mostra uma pessoa sozinha em um caminho entre neblina e luz ao fundo, simbolizando a busca por propósito em tempos de incerteza. Ao centro, uma imagem vibrante de duas pessoas interagindo com gestos de apoio, cercadas por natureza com cores quentes, representando psicologia positiva, bem-estar e relações humanas saudáveis. À direita, uma fotografia mais densa exibe um ambiente clínico com uma prancheta, expressões faciais ambíguas e luz lateral dramática, simbolizando os desafios da avaliação psicológica. A composição geral transmite complexidade humana, esperança e reflexão, sem incluir textos ou logotipos.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: "Navegando a Incerteza: A Busca por Propósito em Tempos de Mudança", id_conteudo: "editorial-018-proposito-mudanca" },

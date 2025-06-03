@@ -159,35 +159,93 @@ export const conteudosEdicao017: Conteudo[] = [
     imageUrl: '/images/mes-edicoes/m06/ed017/i06.png',
     imageHint: 'A close-up, poignant depiction of a man with a visible, symbolic knot or constriction around his throat or chest area, representing repressed emotions. A visual transition or dual image shows him later speaking or writing, with the knot dissolving or transforming into words or light, symbolizing emotional release and healing.'
   },
-  {
-    id: 'tecnica-017-intencao-paradoxal',
-    tipo: 'artigo_aprofundado',
-    titulo: 'Intenção Paradoxal: Enfrentando a Ansiedade ao "Desejar" o Temido',
-    subtitulo: 'Uma exploração da técnica da intenção paradoxal, originária da logoterapia de Viktor Frankl, como uma abordagem para lidar com a ansiedade antecipatória e certos medos fóbicos, ao encorajar o indivíduo a tentar, de forma humorística ou exagerada, fazer acontecer aquilo que mais teme.',
-    autor: 'Dr. Arthur Fictício Mendes Neto',
-    persona_autor: 'Dr. Analítico',
-    data_publicacao: '2025-06-10',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'A intenção paradoxal é uma técnica psicoterapêutica fascinante e, à primeira vista, contraintuitiva, desenvolvida por Viktor Frankl, o fundador da Logoterapia. Ela é particularmente utilizada para tratar problemas de ansiedade antecipatória (o medo de que algo ruim aconteça, levando a um ciclo de evitação e mais medo) e certos tipos de fobias ou sintomas psicossomáticos onde o medo do sintoma acaba por provocá-lo ou exacerbá-lo (como medo de ruborizar, tremer em público, ou insônia por medo de não conseguir dormir).' },
-      { tipo: 'paragrafo', texto: 'O princípio básico da intenção paradoxal é instruir o paciente a, deliberadamente e muitas vezes de forma humorística ou exagerada, tentar fazer acontecer ou desejar intensamente aquilo que ele mais teme e que está tentando desesperadamente evitar. Por exemplo, uma pessoa com medo de tremer em público seria encorajada a tentar "tremer o máximo possível" ou a "mostrar a todos como se treme espetacularmente". Alguém com insônia por medo de não dormir seria instruído a "tentar ficar acordado a noite toda, o máximo que conseguir".' },
-      { tipo: 'sub_cabecalho', texto: 'Como e Por Que Funciona a Intenção Paradoxal?' },
-      { tipo: 'paragrafo', texto: 'A eficácia desta técnica reside em alguns mecanismos psicológicos:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Quebra do Ciclo da Ansiedade Antecipatória: A ansiedade antecipatória é alimentada pelo "medo do medo". Ao tentar intencionalmente realizar o sintoma temido, o indivíduo tira o "vento das velas" da ansiedade. É difícil ter medo de algo que você está ativamente tentando fazer acontecer.' },
-          { texto: 'Distanciamento e Humor: A abordagem muitas vezes envolve humor e exagero, o que ajuda o paciente a se distanciar do sintoma, a vê-lo com menos seriedade e a reduzir a autocentralidade excessiva. O humor é incompatível com a ansiedade paralisante.' },
-          { texto: 'Redução da Hiperintenção e da Hiper-reflexão: Frankl argumentava que muitos problemas são exacerbados pela "hiperintenção" (tentar demais forçar algo, como o sono ou o orgasmo) ou pela "hiper-reflexão" (focar excessivamente em si mesmo e no sintoma). A intenção paradoxal desvia o foco dessa luta interna.' },
-          { texto: 'Paradoxo do Controle: Ao tentar "perder o controle" intencionalmente sobre o sintoma (ex: "vou tentar corar o máximo possível"), o indivíduo muitas vezes descobre que o sintoma, que parecia involuntário e avassalador, diminui ou não ocorre, pois a ansiedade que o alimentava foi neutralizada.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'É crucial que a intenção paradoxal seja aplicada por um terapeuta treinado e experiente, que possa explicar adequadamente a lógica da técnica, criar um ambiente de confiança e ajudar o paciente a encontrar a atitude correta (muitas vezes de desafio humorístico) para implementá-la. Não é apropriada para todos os tipos de problemas (por exemplo, não seria usada para ideação suicida ou comportamentos perigosos) e requer uma boa aliança terapêutica.' },
-      { tipo: 'paragrafo', texto: 'A intenção paradoxal é um exemplo poderoso de como abordagens não convencionais podem ser eficazes em psicoterapia, demonstrando a capacidade humana de usar o distanciamento, o humor e a autotranscendência para lidar com o sofrimento e encontrar liberdade mesmo diante do medo.' }
-    ],
-    tags: ['intenção paradoxal', 'logoterapia', 'Viktor Frankl', 'ansiedade antecipatória', 'fobias', 'técnicas terapêuticas', 'psicoterapia', 'humor'],
-    isPremium: false,
-    imageUrl: '/images/mes-edicoes/m06/ed017/i07.png',
-    imageHint: 'A stylized depiction of a person playfully and humorously interacting with symbolic representations of their fears or anxieties, maybe juggling small, not-so-scary monster symbols or intentionally trying to trip while smiling. Use a lighthearted, slightly exaggerated style to convey the paradoxical approach and the use of humor to disarm fear.'
-  }
-];
+{
+  id: 'tecnica-017-intencao-paradoxal',
+  tipo: 'artigo_aprofundado',
+  titulo: 'Intenção Paradoxal: Enfrentando a Ansiedade ao "Desejar" o Temido',
+  subtitulo: 'Como uma técnica criativa da logoterapia de Viktor Frankl ajuda a desarmar medos fóbicos e ansiedade antecipatória ao transformar a relação com o sintoma através do humor e do desejo exagerado.',
+  autor: 'Dr. Arthur Fictício Mendes Neto',
+  persona_autor: 'Dr. Analítico',
+  data_publicacao: '2025-06-10',
+  corpo: [
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Imagine enfrentar seu maior medo... desejando que ele aconteça! A intenção paradoxal, técnica revolucionária criada por Viktor Frankl (fundador da Logoterapia), propõe exatamente isso. Ela é especialmente eficaz para dois tipos de problemas: (1) a ansiedade antecipatória - quando o medo de que algo ruim aconteça no futuro gera um círculo vicioso de evitação e pânico; e (2) fobias específicas ou sintomas psicossomáticos onde o próprio temor do sintoma acaba provocando sua aparição. Exemplos clássicos incluem o medo de tremer ao falar em público, o "rubor fóbico" ou a insônia gerada pela ansiedade de não conseguir dormir.' 
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Funciona assim: o terapeuta orienta o paciente a desejar ativamente, de forma propositalmente exagerada e até humorística, exatamente aquilo que ele mais teme. Por exemplo:'
+    },
+    { 
+      tipo: 'lista_nao_ordenada', 
+      itens: [
+        { texto: 'Para quem tem medo de gaguejar: "Tente gaguejar o mais criativamente possível nesta reunião!"' },
+        { texto: 'Para quem sofre com insônia: "Hoje à noite, desafie-se a ficar acordado até o amanhecer!"' },
+        { texto: 'Para quem teme ruborizar: "Tente corar tão intensamente que seu rosto ilumine o cômodo!"' }
+      ]
+    },
+    { 
+      tipo: 'sub_cabecalho', 
+      texto: 'A Ciência por Trás do Paradoxo: Por Que Funciona?' 
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Esta aparente loucura terapêutica atua através de quatro mecanismos poderosos:'
+    },
+    { 
+      tipo: 'lista_nao_ordenada', 
+      itens: [
+        { 
+          texto: 'Desarmando a Ansiedade Antecipatória: O "medo do medo" perde força quando você tenta ativamente provocar o temido. É como ordenar a si mesmo: "Vamos lá, ansiedade, mostra tua pior versão!" Essa inversão quebra o ciclo de autossabotagem.' 
+        },
+        { 
+          texto: 'Humor como Antídoto: O exagero cômico ("Vou tremer como um bambu no furacão!") cria distanciamento psicológico. O humor reduz a gravidade percebida do sintoma e diminui a autocrítica, tornando o medo menos assustador.' 
+        },
+        { 
+          texto: 'Redução da Hiper-Reflexão: Frankl observou que sofremos quando focamos obsessivamente em nós mesmos (hiper-reflexão) ou quando forçamos demais um resultado (hiperintenção). Ao "desejar" o sintoma, você desvia o foco da autocobrança para uma ação lúdica.' 
+        },
+        { 
+          texto: 'O Paradoxo do Controle: Ao tentar perder o controle voluntariamente ("Vou suar copiosamente agora!"), você descobre que o sintoma não é tão incontrolável quanto parecia. A ansiedade que alimentava o problema dissolve-se, muitas vezes impedindo sua ocorrência.' 
+        }
+      ]
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Aviso Importante para Profissionais: Esta técnica requer aplicação especializada! Um terapeuta treinado deve:' 
+    },
+    { 
+      tipo: 'lista_nao_ordenada', 
+      itens: [
+        { texto: 'Explicar a lógica do paradoxo com clareza' },
+        { texto: 'Ajustar o tom (humor não é ironia!)' },
+        { texto: 'Construir uma aliança terapêutica sólida antes da aplicação' },
+        { texto: 'Monitorar reações emocionais' }
+      ]
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Contraindicações: Não é adequada para crises agudas, ideação suicida, transtornos psicóticos ou comportamentos de risco. Eficácia comprovada principalmente em fobias sociais, transtorno de pânico, TOC leve e distúrbios psicossomáticos.' 
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Para o público leigo: Pense nisso como "desobedecer" ao medo. Quando paramos de lutar contra o sintoma e o abraçamos com humor, retiramos seu poder assustador. É uma lição de liberdade: mesmo diante do temor, podemos escolher nossa resposta.' 
+    }
+  ],
+  tags: [
+    'intenção paradoxal', 
+    'logoterapia', 
+    'Viktor Frankl', 
+    'ansiedade antecipatória', 
+    'fobias', 
+    'técnicas terapêuticas', 
+    'psicoterapia existencial',
+    'humor na terapia',
+    'terapia breve'
+  ],
+  isPremium: false,
+  imageUrl: '/images/mes-edicoes/m06/ed017/i07.png',
+  imageHint: 'Ilustração estilo cartoon: pessoa sorridente "abraçando" monstros minúsculos e inofensivos que simbolizam medos (ex: tremores, insônia). Um dos monstros está sendo empurrado num balanço por ela, com expressão divertida. Cores suaves e traços exagerados transmitindo leveza.'
+}];
 
 export const edicao017: Edicao = {
   edicao: "017",
@@ -195,7 +253,7 @@ export const edicao017: Edicao = {
   capa: {
     titulo_principal: "Autoestima Genuína, a Dança das Emoções e Resiliência Comunitária",
     subtitulo: "Nesta edição: Cultivando o valor próprio, entendendo sentimentos contraditórios, a força do coletivo e o poder da intenção paradoxal.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "/images/mes-edicoes/m06/ed017/capa.png",
     imageHint: 'A composite image blending themes of individual well-being and collective strength. One side could show a serene figure representing self-reflection and genuine self-esteem, perhaps connected by subtle visual lines or roots to a diverse group of people linked together, symbolizing community resilience and shared support. Use warm, inviting lighting and a sense of interconnectedness. Conceptual art style.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

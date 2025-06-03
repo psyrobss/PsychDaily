@@ -19,7 +19,7 @@ const editorial020: Conteudo = {
   tags: ['resiliência comunitária', 'crise', 'apoio social', 'coesão social', 'editorial', 'saúde mental coletiva', 'solidariedade'],
   isPremium: false,
   imageUrl: '/images/mes-edicoes/m06/ed020/i01.png',
-  imageHint: 'A diverse group of hands reaching together, clasped, building, or supporting a central element like a sturdy tree or a symbolic structure, set against a backdrop suggesting overcoming hardship (e.g., clearing storm clouds, damaged infrastructure being rebuilt). Emphasize cooperation, mutual aid, diversity, and collective strength. Use warm, hopeful lighting.'
+  imageHint: 'A cena mostra uma comunidade diversa reunida em um espaço público fortalecido, com elementos que simbolizam infraestrutura social (prédios, praças), participação democrática (pessoas dialogando em círculo, debates), valorização dos saberes locais (arte, cultura, tradições visuais) e solidariedade ativa (mãos se ajudando, troca de cuidados). A atmosfera é de união e força coletiva, com uma luz suave e inspiradora '
 };
 
 const aprofundado020_1: Conteudo = {
@@ -44,7 +44,7 @@ const aprofundado020_1: Conteudo = {
     tags: ['estruturalismo', 'Wilhelm Wundt', 'Edward Titchener', 'história da psicologia', 'introspecção', 'consciência', 'psicologia experimental', 'elementos da mente'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed020/i02.png',
-    imageHint: 'Historical scene or composite illustration depicting Wilhelm Wundt or Edward Titchener in an early psychological laboratory setting (late 19th century, with period-appropriate clothing and equipment), surrounded by scientific instruments for measuring reaction times or sensory perception. Include subtle symbolic elements representing the decomposition of consciousness into basic elements (like abstract blocks or puzzle pieces fitting together). Academic illustration style.'
+    imageHint: 'Historical scene or composite illustration depicting a psychologists in an early psychological laboratory setting (late 19th century, with period-appropriate clothing and equipment), surrounded by scientific instruments for measuring reaction times or sensory perception. Include subtle symbolic elements representing the decomposition of consciousness into basic elements (like abstract blocks or puzzle pieces fitting together). Academic illustration style.'
 };
 
 const aprofundado020_2: Conteudo = {
@@ -125,7 +125,7 @@ const aprofundado020_2: Conteudo = {
 };
 
 const narrativa020: Conteudo = {
-    id: 'narrativa-050-cidade-emocoes-engarrafadas', // Usando ID novo para evitar conflito, mas conteúdo similar ao que foi planejado
+    id: 'narrativa-050-cidade-emocoes-engarrafadas', 
     tipo: 'narrativa_ficticia',
     titulo: 'A Cidade das Emoções Engarrafadas e a Válvula Libertadora da Expressão Criativa e Autêntica',
     subtitulo: 'Uma fábula sobre uma cidade onde as pessoas reprimiam tanto seus sentimentos que eles começavam a se manifestar de formas estranhas e opressoras, até que uma artista os ensinou a liberar suas emoções através da arte, da dança e da música, restaurando a vitalidade da comunidade.',
@@ -147,7 +147,7 @@ const narrativa020: Conteudo = {
 };
 
 const coluna020: Conteudo = {
-    id: 'coluna-050-arquitetura-emocional-espacos', // Usando ID novo
+    id: 'coluna-050-arquitetura-emocional-espacos', 
     tipo: 'coluna_fixa',
     titulo: 'Palavras da Alma: A Influência Sutil da Arquitetura Emocional dos Espaços no Nosso Bem-Estar Cotidiano e Comportamento – Uma Perspectiva da Psicologia Ambiental',
     subtitulo: 'Reflexões sobre como o design, a iluminação, as cores, os materiais e a organização dos ambientes que habitamos (casa, trabalho, cidade) afetam profundamente nosso humor, nossos níveis de estresse, nossa criatividade e nossas interações sociais, e a importância de criar espaços que nutram a alma e promovam a saúde mental.',
@@ -184,7 +184,7 @@ const psicofarmaco020: Conteudo = {
         { texto: 'Ajustar a Dose de Forma Mais Precisa: Orientar a dose inicial ou os ajustes de dose com base no perfil metabólico do paciente (ex: doses menores para metabolizadores lentos, doses maiores ou outro fármaco para metabolizadores ultrarrápidos).' },
         { texto: 'Prever e Minimizar o Risco de Efeitos Colaterais: Identificar pacientes com maior risco genético para certos efeitos adversos (ex: risco aumentado de síndrome de Stevens-Johnson com carbamazepina em portadores de certos alelos HLA) e escolher alternativas mais seguras.' },
         { texto: 'Reduzir o Tempo de Tentativa e Erro: Acelerar o processo de encontrar o tratamento mais adequado, diminuindo o sofrimento do paciente e os custos associados a tratamentos ineficazes ou mal tolerados.' },
-        { texto: 'Aumentar a Adesão ao Tratamento: Pacientes que sentem que seu tratamento é personalizado e que os efeitos colaterais são melhor gerenciados podem ter maior probabilidade de aderir ao regime terapêutico.' } // Adicionado novo item para aumentar linhas
+        { texto: 'Aumentar a Adesão ao Tratamento: Pacientes que sentem que seu tratamento é personalizado e que os efeitos colaterais são melhor gerenciados podem ter maior probabilidade de aderir ao regime terapêutico.' } 
       ]},
       { tipo: 'sub_cabecalho', texto: 'Desafios, Limitações e Considerações Éticas Atuais:' },
       { tipo: 'paragrafo', texto: 'Apesar do grande potencial e do crescente interesse, a farmacogenômica em psiquiatria ainda enfrenta desafios significativos:' },
@@ -194,8 +194,8 @@ const psicofarmaco020: Conteudo = {
         { texto: 'Custo e Acesso: Os testes farmacogenômicos ainda podem ser caros e não amplamente cobertos por sistemas de saúde públicos ou privados, limitando seu acesso.' },
         { texto: 'Interpretação dos Resultados: A interpretação dos resultados dos testes requer conhecimento especializado e deve ser feita no contexto clínico completo do paciente. Não são "bolas de cristal" que ditam a prescrição de forma automática.' },
         { texto: 'Questões Éticas, Legais e Sociais (ELSI): Preocupações sobre privacidade genética, potencial de discriminação com base em resultados genéticos, e a necessidade de aconselhamento genético adequado precisam ser consideradas.' },
-        { texto: 'Integração na Prática Clínica: A educação de médicos e pacientes sobre como usar e interpretar os resultados farmacogenômicos de forma eficaz é um desafio em andamento.' }, // Adicionado novo item para aumentar linhas
-        { texto: 'Variações Populacionais: A frequência de certos polimorfismos genéticos pode variar significativamente entre diferentes grupos étnicos e populacionais, o que precisa ser levado em conta na interpretação dos testes.' } // Adicionado novo item para aumentar linhas
+        { texto: 'Integração na Prática Clínica: A educação de médicos e pacientes sobre como usar e interpretar os resultados farmacogenômicos de forma eficaz é um desafio em andamento.' }, 
+        { texto: 'Variações Populacionais: A frequência de certos polimorfismos genéticos pode variar significativamente entre diferentes grupos étnicos e populacionais, o que precisa ser levado em conta na interpretação dos testes.' } 
       ]},
       { tipo: 'paragrafo', texto: 'A farmacogenômica representa um avanço animador na busca por uma psiquiatria mais precisa e personalizada. À medida que a pesquisa avança e os custos diminuem, é provável que os testes farmacogenômicos se tornem ferramentas cada vez mais integradas à prática clínica. No entanto, é fundamental que seu uso seja guiado por evidências científicas sólidas, por uma interpretação clínica criteriosa e por uma profunda consideração dos aspectos éticos e das necessidades individuais de cada paciente. Eles são uma ferramenta a mais no arsenal terapêutico, e não uma panaceia, e nunca devem substituir a importância crucial de uma avaliação clínica abrangente, de uma forte aliança terapêutica e de uma abordagem de tratamento que seja verdadeiramente holística e centrada na pessoa.' }
     ],
@@ -294,7 +294,7 @@ export const edicao020: Edicao = { // Renomeando para edicao020
   capa: {
     titulo_principal: "Mente em Crise, Saberes da Terra e o Futuro da Psique Personalizada",
     subtitulo: "Nesta edição especial: A psicologia da crise e do desastre, a farmacogenômica na psiquiatria, o estruturalismo de Wundt, a dinâmica da personalidade, a arquitetura emocional dos espaços e o poder do biofeedback.",
-    imagem_destaque: "https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwY3Jpc2lzJTIwcGVyc29uYWxpemVkfGVufDB8fHx8MTcxODYzNTk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m06/ed020/capa.png",
     imageHint: 'A complex composite image representing the core themes of the edition. A central, stylized human head or brain could be depicted with elements suggesting crisis or uncertainty (cracks, storm clouds, chaotic lines, shattered pieces) around it, transitioning or connected via visual pathways to symbols of personalized treatment (DNA strands, tailored patterns, abstract medication shapes) and self-regulation (control panel interfaces, steady physiological graphs from biofeedback). Integrate visual metaphors for structured thinking (geometric shapes, building blocks) and the influence of the environment (architectural elements or flourishing nature elements) within or around the brain/head. Use a blend of abstract and symbolic visuals to tie together the diverse topics, emphasizing the journey from crisis to personalized understanding, structure, and control in psychology. Conceptual art style with strong visual contrast and clear symbolism, perhaps using some metallic or digital textures for the tech/science elements and softer organic forms for the humanistic/nature elements.',
     credito_imagem: "Unsplash",
     links_manchetes: [

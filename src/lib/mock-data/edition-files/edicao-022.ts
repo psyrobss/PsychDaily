@@ -188,7 +188,7 @@ export const edicao022: Edicao = {
   capa: {
     titulo_principal: "O Poder do Sono, a Voz dos Tímidos e o Legado da Gestalt",
     subtitulo: "Nesta edição: A importância do descanso para a mente, como introspectivos podem se comunicar melhor e a técnica da cadeira vazia para resolver conflitos internos.",
-    imagem_destaque: "https://images.unsplash.com/photo-1560008361-283428035604?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb29uJTIwY29tbXVuaWNhdGlvbiUyMGNoYWlyfGVufDB8fHx8MTcxNzY0MDk2NHww&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m06/ed022/capa.png",
     imageHint: "sleep communication gestalt",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

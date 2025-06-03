@@ -1,24 +1,33 @@
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao019: Conteudo[] = [
-  {
-    id: 'editorial-019-beleza-imperfeicao',
-    tipo: 'editorial',
-    titulo: 'A Beleza da Imperfeição: Aceitando Nossas Falhas como Parte da Jornada Humana',
-    subtitulo: 'Uma reflexão sobre como a autoaceitação e a compaixão por nossas imperfeições são essenciais para o crescimento e o bem-estar autêntico.',
-    autor: 'Dra. Helena Fictícia Alcantara',
-    persona_autor: 'Dra. Alma Compassiva',
-    data_publicacao: '2025-06-12',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'Vivemos em uma cultura que frequentemente exalta a perfeição, seja na aparência, no desempenho ou nas conquistas. Essa busca incessante por um ideal inatingível pode nos levar a um ciclo de autocrítica, ansiedade e insatisfação crônica. No entanto, a verdadeira beleza e a riqueza da experiência humana residem, paradoxalmente, em nossa capacidade de abraçar nossas imperfeições, de reconhecer nossas falhas não como sentenças de inadequação, mas como oportunidades de aprendizado e crescimento.' },
-      { tipo: 'paragrafo', texto: 'A autoaceitação radical, que inclui acolher nossas vulnerabilidades e os aspectos de nós mesmos que consideramos menos admiráveis, é um ato de profunda coragem e autocompaixão. Não se trata de complacência ou de desistir de melhorar, mas de nos permitir ser humanos, com todas as nuances e contradições que isso implica. É reconhecer que o valor intrínseco não está condicionado à ausência de erros, mas à nossa capacidade de aprender com eles, de nos levantarmos após as quedas e de seguirmos em frente com mais sabedoria e gentileza para conosco.' },
-      { tipo: 'paragrafo', texto: 'Quando nos permitimos ser imperfeitos, abrimos espaço para a autenticidade, para conexões mais genuínas com os outros (que também são imperfeitos) e para uma maior liberdade criativa. O medo de errar muitas vezes nos paralisa, impedindo-nos de arriscar, de inovar e de viver plenamente. Ao cultivar uma atitude de curiosidade e compaixão por nossas próprias falhas, transformamos o que antes era fonte de vergonha em um degrau para o autoconhecimento e a resiliência. A jornada da vida não é sobre alcançar um estado de perfeição estática, mas sobre a dança contínua entre nossas luzes e sombras, e a beleza que emerge dessa complexa e autêntica humanidade.' }
-    ],
-    tags: ['imperfeição', 'autoaceitação', 'autocompaixão', 'vulnerabilidade', 'crescimento pessoal', 'editorial'],
-    isPremium: false,
-    imageUrl: '/images/mes-edicoes/m06/ed019/i01.png',
-    imageHint: 'A stylized illustration of a human heart or a symbolic object made of kintsugi (broken pieces clearly visible, repaired and joined together with visible lines of gold), symbolizing the beauty and strength found in healing, repair, and acceptance of imperfections and flaws. Warm, luminous gold lines contrasting with the material.'
-  },
+{
+  id: 'editorial-019-beleza-imperfeicao',
+  tipo: 'editorial',
+  titulo: 'A Beleza da Imperfeição: Aceitando Nossas Falhas como Parte da Jornada Humana',
+  subtitulo: 'Uma reflexão sobre como a autoaceitação e a compaixão por nossas imperfeições são essenciais para o crescimento e o bem-estar autêntico.',
+  autor: 'Dra. Helena Fictícia Alcantara',
+  persona_autor: 'Dra. Alma Compassiva',
+  data_publicacao: '2025-06-12',
+  corpo: [
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Vivemos em uma cultura que frequentemente exalta a perfeição, seja na aparência, no desempenho profissional, nas relações interpessoais ou nas conquistas materiais. Essa busca incessante por um ideal inatingível, alimentada por redes sociais e padrões irreais, pode nos levar a um ciclo perigoso de autocrítica excessiva, ansiedade paralisante e insatisfação crônica. No entanto, a verdadeira beleza e a riqueza da experiência humana residem, paradoxalmente, em nossa capacidade de abraçar nossas imperfeições, de reconhecer nossas falhas não como sentenças de inadequação, mas como oportunidades únicas de aprendizado e crescimento transformador. A história humana demonstra que grandes avanços surgiram justamente de tentativas imperfeitas e "fracassos" reciclados.'
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'A autoaceitação radical, que inclui acolher nossas vulnerabilidades emocionais, limitações físicas e os aspectos de nós mesmos que culturalmente consideramos menos admiráveis, é um ato de profunda coragem e autocompaixão. Não se trata de complacência passiva ou de desistir de melhorar, mas de nos permitir existir como humanos plenos, com todas as nuances e contradições que isso implica. É reconhecer que nosso valor intrínseco não está condicionado à ausência de erros, mas à nossa capacidade de aprender com eles organicamente, de nos reerguermos após as quedas com dignidade e de seguirmos em frente com mais sabedoria prática e gentileza incondicional para conosco. Como demonstram estudos em psicologia positiva, essa postura reduz níveis de cortisol e aumenta a resiliência neuropsicológica.'
+    },
+    { 
+      tipo: 'paragrafo', 
+      texto: 'Quando nos permitimos ser autenticamente imperfeitos, abrimos espaço para conexões interpessoais mais genuínas e empáticas, pois os outros se identificam com nossa humanidade compartilhada. Libertamo-nos da prisão do medo de errar, que frequentemente nos paralisa, impedindo-nos de arriscar criativamente, inovar profissionalmente ou viver plenamente. Ao cultivar uma atitude de curiosidade não-julgadora e compaixão ativa por nossas próprias falhas, transformamos o que antes era fonte de vergonha tóxica em alicerce para autoconhecimento profundo e resiliência duradoura. A jornada da vida não é sobre alcançar um estado fictício de perfeição estática, mas sobre a dança contínua entre nossas luzes e sombras interiores, onde a beleza genuína emerge justamente dessa complexa e rica tapeçaria de experiências que constitui nossa autêntica humanidade.'
+    }
+  ],
+  tags: ['imperfeição', 'autoaceitação', 'autocompaixão', 'vulnerabilidade', 'crescimento pessoal', 'bem-estar emocional', 'resiliência psicológica', 'editorial'],
+  isPremium: false,
+  imageUrl: '/images/mes-edicoes/m06/ed019/i01.png',
+  imageHint: "Ilustração em aquarela bastante colorida de um coração humano, ao fundo, silhuetas humanas com expressões serenas. Temas: 'imperfeição', 'autoaceitação', 'autocompaixão', 'vulnerabilidade', 'crescimento pessoal', 'bem-estar emocional'."
+},
   {
     id: 'narrativa-019-oraculo-alegrias',
     tipo: 'narrativa_ficticia',
@@ -55,7 +64,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['quietude', 'desconexão digital', 'mindfulness', 'bem-estar', 'introspecção', 'coluna', 'saúde mental', 'silêncio'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i03.png',
-    imageHint: 'A solitary figure sitting or standing calmly in a serene natural environment (e.g., forest edge, lakeside, mountain view), intentionally holding a smartphone or digital device face down or away, symbolizing disconnecting from technology to find inner peace and quiet. Peaceful, expansive landscape with soft lighting.'
+    imageHint: 'Fotografia realista de uma figura solitária sentada calmamente na borda de uma floresta densa. A pessoa segura um smartphone com a tela voltada para baixo, afastado do corpo, indicando uma desconexão intencional da tecnologia. Ao fundo, uma paisagem com lago tranquilo, montanhas distantes e céu aberto com luz suave do fim de tarde. A iluminação natural destaca a tranquilidade da cena e reforça a sensação de presença, introspecção e paz interior em contato com a natureza.'
   },
   {
     id: 'aprofundado-019-inteligencia-emocional',
@@ -81,7 +90,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['inteligência emocional', 'Daniel Goleman', 'autoconsciência', 'autogerenciamento', 'empatia', 'habilidades sociais', 'bem-estar', 'relacionamentos'],
     isPremium: true,
     imageUrl: '/images/mes-edicoes/m06/ed019/i04.png',
-    imageHint: 'A conceptual illustration depicting the intricate connection between a human brain and a human heart. Visual elements could include complex, glowing pathways or abstract shapes flowing between them, symbolizing emotional processing, understanding, and regulation influencing thought and vice versa. Focus on harmony, balance, and interconnection. Scientific yet artistic style.'
+    imageHint: 'Ilustração conceitual representando a conexão intrincada entre um cérebro humano e um coração humano. Caminhos luminosos e formas abstratas fluem entre os dois órgãos, simbolizando o processamento emocional, a regulação afetiva e a influência mútua entre emoção e pensamento. As estruturas devem exibir equilíbrio visual e harmonia, com destaque para o entrelaçamento simbiótico entre razão e sentimento. O estilo combina precisão científica com elementos artísticos, utilizando cores suaves, contrastes elegantes e composição refinada para transmitir interconexão profunda e equilíbrio inter'
   },
   {
     id: 'psicofarmaco-019-litio-bipolar',
@@ -116,7 +125,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['lítio', 'transtorno bipolar', 'estabilizador de humor', 'psicofarmacologia', 'mania', 'depressão bipolar', 'monitoramento terapêutico', 'efeitos colaterais'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i05.png',
-    imageHint: 'A microscopic or abstract representation of Lithium ions interacting with neural pathways or brain chemistry elements, symbolizing its mood-stabilizing effect in the brain. Could show the chemical symbol Li or small crystals interacting with stylized neurons or neurotransmitters. Scientific illustration style, focus on the molecular level effect.'
+    imageHint: 'Ilustração científica em estilo microscópico representando  estruturas neurais e elementos da bioquímica cerebral. A imagem mostra  varios neurônios e neurotransmissores representados de forma abstrata, com caminhos sinápticos e receptores cerebrais destacados. com visual detalhado, luzes suaves e paleta inspirada em imagens de microscopia molecular.'
   },
   {
     id: 'cronica-019-comparacao-redes-sociais',
@@ -137,7 +146,7 @@ export const conteudosEdicao019: Conteudo[] = [
     tags: ['redes sociais', 'comparação social', 'autoestima', 'saúde mental', 'ansiedade', 'crônica', 'bem-estar digital', 'imagem corporal', 'cultura da perfeição'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed019/i06.png',
-    imageHint: 'A person looking at a smartphone screen, with their reflection in the screen (or a mirror nearby) appearing visibly sad, inadequate, or distorted, while the screen displays exaggeratedly perfect, filtered images of happy people or idealized lifestyles from social media feeds. Emphasize the emotional impact of the contrast and the feeling of not being enough.'
+    imageHint: 'Imagem realista de uma pessoa olhando fixamente para a tela de um smartphone. A tela exibe imagens exageradamente perfeitas de pessoas sorrindo, ambientes luxuosos e estilos de vida idealizados, como vistos em redes sociais. Refletido na própria tela do celular ou em um espelho posicionado ao lado, aparece o rosto da pessoa com expressão visivelmente triste, cansada ou distorcida, representando sentimentos de inadequação e comparação constante. A composição destaca o contraste entre o conteúdo artificial e a reação emocional autêntica. A iluminação deve enfatizar o brilho frio da tela contra o ambiente escuro ou neutro, intensificando a sensação de isolamento, frustração e autocrítica silenciosa.'
   },
   {
     id: 'tecnica-019-thought-record',
@@ -176,7 +185,7 @@ export const edicao019: Edicao = {
   capa: {
     titulo_principal: "A Beleza da Imperfeição, Alegrias Cotidianas e a Força da Inteligência Emocional",
     subtitulo: "Nesta edição: Aceitando falhas, o oráculo das pequenas alegrias, a quietude necessária e desvendando a inteligência emocional.",
-    imagem_destaque: "https://placehold.co/800x500.png",
+    imagem_destaque: "/images/mes-edicoes/m06/ed019/capa.png",
     imageHint: 'A visually striking image of a single, resilient flower that is clearly imperfect (e.g., a petal is torn, the stem is slightly bent) but still vibrant, beautiful, and bathed in warm, hopeful light, symbolizing the beauty and strength found in imperfection and resilience. Abstract elements suggesting growth or inner light could be included.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
