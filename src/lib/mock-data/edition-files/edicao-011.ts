@@ -232,7 +232,7 @@ export const edicao011: Edicao = {
   capa: {
     titulo_principal: "Vulnerabilidade, Sonhos Desfeitos e a Roda da Vida: Navegando Emoções e Construindo Equilíbrio",
     subtitulo: "Nesta edição aprofundada: A coragem essencial de ser vulnerável, como remendar sonhos partidos com esperança, o poder da escuta sem julgamentos, desvendando vieses cognitivos, os desafios dos antipsicóticos, superando a procrastinação e o uso da Roda da Vida para uma autoavaliação completa e um planejamento de crescimento pessoal.",
-    imagem_destaque: '/images/mes-edicoes/m06/ed011/i09.png', // Nova imagem de capa
+    imagem_destaque: '/images/mes-edicoes/m06/ed011/capa.png', 
     imageHint: "a cracked heart or object being mended with glowing golden light (kintsugi style), with a balanced wheel of life subtly in the background, symbolizing healing, vulnerability, and the journey to wholeness.",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
