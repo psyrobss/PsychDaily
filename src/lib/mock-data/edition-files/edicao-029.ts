@@ -2,23 +2,25 @@
 import type { Conteudo, Edicao } from '../../types';
 
 export const conteudosEdicao029: Conteudo[] = [
-  {
-    id: 'editorial-029-resiliencia-cotidiana',
+{
+    id: 'editorial-029-danca-sonhos-realidade',
     tipo: 'editorial',
-    titulo: 'A Resiliência do Cotidiano: Encontrando Força nas Pequenas Adversidades',
-    subtitulo: 'Como a capacidade de superar pequenos obstáculos diários constrói uma fundação sólida para a resiliência emocional em face de grandes desafios.',
+    titulo: 'A Dança entre Sonhos e Realidade: Como Nossas Paisagens Noturnas Podem Iluminar Nossas Jornadas Diurnas e Nutrir a Alma',
+    subtitulo: 'Uma reflexão compassiva sobre a importância de acolhermos o universo dos sonhos não como mera fantasia, mas como um espelho de nosso inconsciente, uma fonte de criatividade, processamento emocional e um guia sutil para o autoconhecimento e o bem-estar na vida desperta.',
     autor: 'Dra. Helena Fictícia Alcantara',
     persona_autor: 'Dra. Alma Compassiva',
     data_publicacao: '2025-06-26',
     corpo: [
-      { tipo: 'paragrafo', texto: 'Frequentemente associamos a resiliência a grandes feitos de superação diante de traumas ou catástrofes. No entanto, a verdadeira fortaleza emocional é construída, tijolo por tijolo, na forma como lidamos com os pequenos percalços, frustrações e desafios do dia a dia. É na paciência diante de um trânsito inesperado, na capacidade de se reerguer após um feedback negativo construtivo, ou na habilidade de encontrar humor em uma situação embaraçosa que a resiliência se manifesta e se fortalece.' },
-      { tipo: 'paragrafo', texto: 'Esses "micro-desafios" cotidianos são como treinos para a mente e para o espírito. Cada vez que escolhemos uma resposta adaptativa em vez de uma reação impulsiva, cada vez que praticamos a autocompaixão em vez da autocrítica feroz por um pequeno erro, estamos depositando moedas no cofre da nossa resiliência. Não se trata de não sentir o impacto das dificuldades, mas de desenvolver a habilidade de navegar por elas, aprender com elas e seguir em frente, talvez um pouco mais sábio e um pouco mais forte.' },
-      { tipo: 'paragrafo', texto: 'Cultivar essa resiliência cotidiana envolve práticas como a atenção plena para reconhecer nossos gatilhos emocionais, a reestruturação cognitiva para desafiar pensamentos negativos e a busca por significado mesmo nas tarefas mais rotineiras. É um lembrete de que a força não reside na ausência de quedas, mas na persistência em se levantar, uma e outra vez, com a dignidade de quem aprende e a coragem de quem continua tentando. São essas pequenas batalhas vencidas no dia a dia que nos preparam para os grandes combates da vida, tornando-nos não invulneráveis, mas profundamente humanos e incrivelmente capazes de florescer.' }
+      { tipo: 'paragrafo', texto: 'Em nossa cultura ocidental, frequentemente tão focada na lógica da vigília, na produtividade e na realidade tangível, o universo dos sonhos pode ser relegado a um segundo plano, visto como um emaranhado de imagens sem sentido, um subproduto caótico da atividade cerebral noturna ou, no máximo, uma curiosidade passageira. No entanto, as tradições de sabedoria ancestral de diversas culturas e as profundas investigações da psicologia, especialmente as de vertente psicodinâmica e junguiana, nos convidam a um olhar mais reverente e curioso para essas paisagens noturnas da alma. Os sonhos, longe de serem insignificantes, podem ser mensageiros valiosos de nosso inconsciente, fontes ricas de autoconhecimento, criatividade e até mesmo de cura emocional.' },
+      { tipo: 'paragrafo', texto: 'Quando adormecemos, as defesas do ego se afrouxam, e o inconsciente encontra um palco para se expressar através de uma linguagem própria, tecida com símbolos, metáforas, emoções intensas e narrativas muitas vezes surreais. Nossos sonhos podem trazer à tona desejos reprimidos, medos não elaborados, conflitos internos que lutamos para ignorar durante o dia, e até mesmo potencialidades criativas e soluções para problemas que nossa mente consciente não conseguiu vislumbrar. Eles são como cartas enviadas de uma parte mais profunda e, por vezes, mais sábia de nós mesmos, esperando para serem lidas com atenção e respeito.' },
+      { tipo: 'paragrafo', texto: 'Acolher o mundo dos sonhos não significa tentar decifrá-los com manuais simplistas ou buscar interpretações definitivas e literais, o que poderia empobrecer sua riqueza simbólica. Significa, antes, cultivar uma atitude de curiosidade e abertura para as imagens e emoções que emergem, permitindo que elas nos toquem, nos questionem e nos revelem aspectos ocultos de nossa psique. Manter um diário de sonhos, por exemplo, pode nos ajudar a perceber padrões, temas recorrentes e a forma como nosso inconsciente processa as experiências da vida desperta. Refletir sobre as emoções que um sonho nos desperta – alegria, medo, tristeza, alívio – pode nos dar pistas valiosas sobre o que está vivo e pulsante em nosso mundo interno.' },
+      { tipo: 'paragrafo', texto: 'Além disso, os sonhos parecem desempenhar um papel crucial no processamento emocional e na consolidação de memórias. Durante o sono REM, quando a maioria dos sonhos vívidos ocorre, o cérebro trabalha ativamente para integrar experiências, para "digerir" emoções e para fortalecer aprendizados. Sonhar pode ser uma forma natural de "terapia noturna", ajudando-nos a lidar com o estresse e a encontrar novas perspectivas para os desafios da vida. Quando nos permitimos lembrar e honrar nossos sonhos, estamos, de certa forma, participando ativamente desse processo de cura e integração.' },
+      { tipo: 'paragrafo', texto: 'Que possamos, então, resgatar o valor de nossas paisagens noturnas, não como um escape da realidade, mas como uma parte essencial e complementar dela. Que possamos nos aproximar de nossos sonhos com a mesma curiosidade e respeito com que exploramos um território desconhecido, sabendo que ali residem tesouros de autoconhecimento, fontes de criatividade e chaves para uma vida mais integrada, autêntica e profundamente conectada com a totalidade de nosso ser. A dança entre o sonhar e o despertar é a própria melodia da alma em sua contínua jornada de se tornar quem ela é.' }
     ],
-    tags: ['resiliência', 'cotidiano', 'bem-estar emocional', 'superação', 'editorial', 'mindfulness', 'autocompaixão'],
+    tags: ['sonhos', 'inconsciente', 'autoconhecimento', 'editorial', 'psicologia analítica', 'cura emocional', 'significado dos sonhos', 'bem-estar'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m06/ed029/i01.png',
-    imageHint: 'plant growing crack'
+    imageHint: 'Stylized image of a sleeping person with a vibrant, dreamlike landscape emanating from their head, blending seamlessly with a more realistic depiction of their waking life surroundings. Convey the idea of dreams illuminating or influencing reality. Use soft, ethereal lighting for the dreamscape and clear, gentle light for the waking world.'
   },
   {
     id: 'aprofundado-029-rorschach-projetivos',
@@ -178,7 +180,6 @@ export const conteudosEdicao029: Conteudo[] = [
     imageUrl: '/images/mes-edicoes/m06/ed029/i07.png',
     imageHint: 'mindfulness breath close'
   }
-  // A crônica foi substituída por uma narrativa e a psicofarmacologia por um dos artigos de aprofundamento.
 ];
 
 export const edicao029: Edicao = {
@@ -187,7 +188,7 @@ export const edicao029: Edicao = {
   capa: {
     titulo_principal: "Desvendando a Psique: Rorschach, Burnout e a Tríade Sombria",
     subtitulo: "Nesta edição: Mergulhe nos testes projetivos, entenda a exaustão profissional e explore os traços sombrios da personalidade. E mais: resiliência, escuta ativa e mindfulness.",
-    imagem_destaque: "https://images.unsplash.com/photo-1634712795204-b807e699c824?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwc3ljaG98ZW58MHx8fHwxNzQ3NjE1MzgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m06/ed029/capa.png",
     imageHint: "magic mind dark abstract",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

@@ -141,7 +141,7 @@ export const conteudosEdicao028: Conteudo[] = [
   },
   {
     id: 'tecnica-028-imaginacao-ativa',
-    tipo: 'artigo_aprofundado', // Ajustado para ser um artigo aprofundado sobre a técnica
+    tipo: 'artigo_aprofundado', 
     titulo: 'Imaginação Ativa: Uma Técnica Junguiana para Dialogar com o Inconsciente e Promover a Individuação',
     subtitulo: 'Explore o método da imaginação ativa, desenvolvido por Carl Jung, como uma forma de engajamento consciente com as imagens e figuras do inconsciente, visando a integração de aspectos da psique e o avanço no processo de individuação.',
     autor: 'Dr. Arthur Fictício Mendes Neto',
@@ -176,7 +176,7 @@ export const edicao028: Edicao = {
   capa: {
     titulo_principal: "Especial Jung: Arquétipos, Nise da Silveira e o Teatro da Alma",
     subtitulo: "Uma imersão profunda no universo da Psicologia Analítica, explorando o inconsciente coletivo, o legado de Nise da Silveira, a interpretação de sonhos, a imaginação ativa e reflexões sobre psicodélicos sob a ótica junguiana.",
-    imagem_destaque: "https://images.unsplash.com/photo-1522134239946-03d8c105a0ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwc3ljaG9sb2d5fGVufDB8fHx8MTc0NzYxNTA4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m06/ed028/capa.png",
     imageHint: "Jung symbols abstract",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

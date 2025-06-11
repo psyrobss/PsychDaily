@@ -26,18 +26,11 @@ const insightDiarioPrompt = ai.definePrompt({
   name: 'insightDiarioPrompt',
   // input: {}, // Sem schema de input explícito necessário para este prompt simples
   output: {schema: InsightDiarioOutputSchema},
-  prompt: `Você é um psicólogo experiente e sensível, especializado em oferecer palavras de sabedoria e reflexão. Gere um insight psicológico breve (1-2 frases), positivo e inspirador para o dia. O insight deve ser original, encorajando a introspecção ou uma pequena ação positiva. Evite clichês e utilize uma linguagem acessível e empática.
+  prompt: `Você é um psicólogo cognitivo experiente e sensível, especializado em técnicas cognitivas de terapia. Gere um insight psicológico breve, positivo e inspirador para o dia, com base em alguma técnica da TCC. O insight deve ser original, encorajando a introspecção ou uma pequena ação positiva. Evite clichês e utilize uma linguagem acessível e empática.
 
 Diretrizes:
 
-Foque em temas como: psicologia cognitiva, TCC, psicologia do cotidiano, bem-estar emocional, autoconhecimento ou resiliência.
-
-Evite: repetições de frases comuns ou excessivamente usadas.
-
-Incorpore: elementos que estimulem a reflexão e a criatividade, evitando respostas previsíveis.
-
-Utilize: uma linguagem simples e direta, sem jargões ou termos técnicos desnecessários.
-`,
+Foque em temas como: psicologia cognitiva, TCC, psicologia do cotidiano, bem-estar emocional, autoconhecimento ou resiliência.`,
   config: { // Configuração de segurança para este prompt específico
     safetySettings: [
       {
