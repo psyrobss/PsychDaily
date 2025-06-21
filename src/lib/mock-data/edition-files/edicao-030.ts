@@ -193,7 +193,7 @@ export const edicao030: Edicao = {
   capa: {
     titulo_principal: "Descolonizando a Psique: Saberes do Sul e a Busca por Propósito",
     subtitulo: "Nesta edição: Epistemologias do Sul, a importância da pausa reflexiva, o resgate da alegria e como um diário de emoções pode transformar seu autoconhecimento.",
-    imagem_destaque: "https://images.unsplash.com/photo-1583292650898-7d22cd27ca6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOXx8YmxhY2slMjB3b21lbnxlbnwwfHx8fDE3NDc2Mjk2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m06/ed030/capa.png",
     imageHint: "global knowledge diversity",
     credito_imagem: "Unsplash",
     links_manchetes: [

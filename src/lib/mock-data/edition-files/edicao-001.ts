@@ -30,7 +30,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['compaixão', 'escuta ativa', 'relacionamentos', 'inteligência emocional', 'editorial', 'bem-estar', 'comunicação não-violenta'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395225/i01_anlyll.png',
     imageHint: 'thoughtful listening',
     audioUrl: '/audio/ed001/compassive-listening.mp3',
   },
@@ -53,7 +53,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['autoconhecimento', 'identidade', 'aceitação', 'narrativa', 'psicologia arquetípica', 'inconsciente', 'psicologia junguiana'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i02.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395226/i02_eqhx39.png',
     imageHint: 'surreal mirror',
   },
   {
@@ -66,7 +66,7 @@ export const conteudosEdicao001: Conteudo[] = [
     data_publicacao: '2025-05-19',
     corpo: [
       { tipo: 'paragrafo', texto: 'A resiliência psicológica é frequentemente definida como a capacidade de se adaptar bem e se recuperar rapidamente de situações de estresse significativo, adversidade, trauma ou tragédia. É crucial entender que resiliência não implica ausência de dificuldades, dor emocional ou sofrimento. Pelo contrário, trata-se da habilidade de navegar por essas experiências desafiadoras, aprender com elas e, idealmente, emergir fortalecido ou, no mínimo, funcionalmente adaptado. É um processo dinâmico que envolve uma interação complexa entre fatores individuais (como traços de personalidade, habilidades de enfrentamento e regulação emocional) e fatores ambientais (como apoio social, recursos comunitários e oportunidades). Este artigo detalha os fatores que contribuem para a resiliência e como eles podem ser desenvolvidos de forma prática e consciente.' },
-      { tipo: 'imagem', url: '/images/mes-edicoes/m05/ed001/i03i.png', legenda: 'O bambu se curva com o vento, mas raramente quebra: uma metáfora visual para a flexibilidade e força da resiliência humana.', imageHint: 'article content image' },
+      { tipo: 'imagem', url: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395222/i03i_qcdmec.jpg', legenda: 'O bambu se curva com o vento, mas raramente quebra: uma metáfora visual para a flexibilidade e força da resiliência humana.', imageHint: 'article content image' },
       { tipo: 'sub_cabecalho', texto: 'Pilares Fundamentais e Estratégias para Cultivar a Resiliência:' },
       { tipo: 'paragrafo', texto: 'A construção da resiliência é análoga à construção de um músculo: requer intenção, prática consistente e tempo. Apresentamos a seguir algumas descobertas, acompanhadas de estratégias para seu desenvolvimento:' },
       {
@@ -90,7 +90,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['resiliência', 'superação', 'saúde mental', 'bem-estar', 'crescimento pessoal', 'estratégias psicológicas', 'adaptação', 'psicologia positiva'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i03.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395289/i03_ulvxed.png',
     imageHint: 'strong tree',
   },
   {
@@ -118,12 +118,12 @@ export const conteudosEdicao001: Conteudo[] = [
         ],
       },
       { tipo: 'paragrafo', texto: 'Cada uma dessas teorias enfrenta desafios conceituais, metodológicos e empíricos significativos. A pesquisa sobre a consciência é eminentemente interdisciplinar, exigindo a colaboração entre neurocientistas, psicólogos cognitivos, filósofos da mente, físicos e especialistas em inteligência artificial. Avanços em neuroimagem, como ressonância magnética funcional (fMRI) e eletroencefalografia (EEG) de alta densidade, e em técnicas de estimulação cerebral, como estimulação magnética transcraniana (TMS), têm permitido investigar os correlatos neurais da consciência com crescente precisão. No entanto, a ponte entre a atividade neural observada e a experiência subjetiva sentida permanece um campo de intenso debate e exploração.' },
-      { tipo: "imagem", url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicmFpbnxlbnwwfHx8fDE3NDc2NTk5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080", legenda: "Representação abstrata da complexidade e cerebral e das redes neurais.", imageHint: "brain activity"},
+      { tipo: "imagem", url: "https://res.cloudinary.com/dlahoe9ue/image/upload/v1750461105/i04i_alvrqt.jpg", legenda: "Representação abstrata da complexidade e cerebral e das redes neurais.", imageHint: "brain activity"},
       { tipo: 'paragrafo', texto: 'A elucidação da natureza da consciência possui implicações profundas que transcendem a academia. Ela afeta nossa compreensão da mente humana, o desenvolvimento ético de inteligência artificial geral (AGI), a prática médica (especialmente em casos de estados alterados de consciência como coma, estado vegetativo ou síndrome do encarceramento), questões sobre direitos e bem-estar dos animais e, em última análise, nossa própria concepção da realidade e do nosso lugar nela. O enigma da consciência continua a nos desafiar e a inspirar a busca por respostas, lembrando-nos da vastidão do que ainda não compreendemos sobre nós mesmos e o universo.'},
     ],
     tags: ['consciência', 'neurociência', 'filosofia da mente', 'teorias científicas', 'mente', 'cognição', 'problema difícil', 'qualia', 'IIT', 'GWT'],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i04.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395291/i04_v5k07a.png',
     imageHint: 'abstract brain',
   },
   {
@@ -142,7 +142,7 @@ export const conteudosEdicao001: Conteudo[] = [
       ],
     tags: ['gentileza', 'reflexão', 'bem-estar', 'humanidade', 'pequenos gestos', 'conexão', 'psicologia positiva'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i05.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395290/i05_jxeqhu.png',
     imageHint: 'kindness abstract',
   },
   {
@@ -174,7 +174,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['psicofarmacologia', 'antidepressivos', 'saúde mental', 'medicalização', 'terapia', 'análise crítica', 'efeitos colaterais'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i06.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395220/i06_undhdi.png',
     imageHint: 'pills reflection',
   },
   {
@@ -199,7 +199,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ['luto', 'terapia', 'saúde mental', 'emoções', 'silêncio', 'casos clínicos', 'crônica', 'psicologia clínica'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i07.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395221/i07_x7dauh.png',
     imageHint: 'solitary figure',
   },
   {
@@ -216,7 +216,7 @@ export const conteudosEdicao001: Conteudo[] = [
       { tipo: 'sub_cabecalho', texto: 'O Que é e Por Que é Eficaz?' },
       { tipo: 'paragrafo', texto: 'Diferente da respiração torácica (curta e superficial, comum em estados de estresse), a respiração diafragmática envolve o uso pleno do diafragma, um grande músculo em forma de cúpula localizado na base dos pulmões. Ao inspirar profundamente, o diafragma se contrai e desce, permitindo que os pulmões se expandam completamente e absorvam mais oxigênio. Essa ação estimula o nervo vago, um componente chave do sistema nervoso parassimpático, que é responsável pela resposta de "repouso e digestão", contrapondo-se à resposta de "luta ou fuga" do sistema simpático.' },
       { tipo: 'paragrafo', texto: 'A ativação do sistema parassimpático através da respiração diafragmática pode levar a uma série de benefícios fisiológicos, como a redução da frequência cardíaca, da pressão arterial e dos níveis de cortisol (o hormônio do estresse). Psicologicamente, promove uma sensação de calma, clareza mental e maior controle sobre as reações emocionais. É uma forma de autorregulação acessível a qualquer momento.' },
-      { tipo: 'imagem', url: '/images/mes-edicoes/m05/ed001/i10.png', legenda: 'Visualização da expansão abdominal durante a respiração diafragmática.', imageHint: 'calm breathing meditation' },
+      { tipo: 'imagem', url: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395228/i10_oxvtaf.png', legenda: 'Visualização da expansão abdominal durante a respiração diafragmática.', imageHint: 'calm breathing meditation' },
       { tipo: 'sub_cabecalho', texto: 'Passo a Passo: Como Praticar a Respiração Diafragmática' },
       { tipo: 'paragrafo', texto: 'Praticar a respiração diafragmática é simples e pode ser feito em qualquer lugar. Aqui está um guia passo a passo com exemplos:' },
       {
@@ -247,7 +247,7 @@ export const conteudosEdicao001: Conteudo[] = [
     ],
     tags: ["respiração diafragmática", "técnicas de relaxamento", "manejo do estresse", "ansiedade", "mindfulness", "bem-estar", "autocuidado"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed001/i08.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395222/i08_mizn6p.png',
     imageHint: 'calm breathing meditation',
   },
 ];
@@ -258,7 +258,7 @@ export const edicao001: Edicao = {
   capa: {
     titulo_principal: "PsychDaily: conteúdos sobre Psicologia, Saúde Mental e Bem-Estar",
     subtitulo: "Edição de estreia: Mergulhe na escuta empática, resiliência, o enigma da consciência, psicofármacos e técnicas terapêuticas.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed001/capa.jpg',
+    imagem_destaque: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395221/capa_m6fina.jpg',
     imageHint: "newspaper launch",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

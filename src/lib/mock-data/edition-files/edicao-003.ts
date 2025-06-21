@@ -26,7 +26,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['autocuidado', 'saúde mental', 'bem-estar', 'limites', 'estresse', 'editorial'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395230/i01_h5kqja.jpg',
     imageHint: 'person relaxing nature',
   },
   {
@@ -47,7 +47,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['preocupação', 'ansiedade', 'deixar ir', 'fábula', 'saúde emocional', 'narrativa'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i02.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395229/i02_upcaib.jpg',
     imageHint: 'wind blowing leaves',
   },
   {
@@ -65,7 +65,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['simplicidade', 'mindfulness', 'gratidão', 'bem-estar', 'reflexão', 'coluna'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i03.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395230/i03_kp0bf6.jpg',
     imageHint: 'simple flower',
   },
   {
@@ -94,7 +94,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['neuroplasticidade', 'cérebro', 'neurociência', 'aprendizado', 'memória', 'terapia', 'saúde cerebral'],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i04.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395230/i04_bizdku.jpg',
     imageHint: 'brain connections',
   },
   {
@@ -121,7 +121,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['ansiolíticos', 'benzodiazepínicos', 'ansiedade', 'saúde mental', 'dependência', 'tratamento', 'psicofarmacologia'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i05.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395236/i05_l6w7rg.png',
     imageHint: 'pills anxiety',
   },
   {
@@ -141,7 +141,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['luto', 'terapia', 'saúde mental', 'superação', 'resiliência', 'crônica', 'alegria'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i06.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395231/i06_kzq8m6.jpg',
     imageHint: 'sunrise hope',
   },
   {
@@ -170,7 +170,7 @@ export const conteudosEdicao003: Conteudo[] = [
     ],
     tags: ['grounding', 'aterramento', 'ansiedade', 'estresse', 'mindfulness', 'técnicas terapêuticas', 'presente', 'TEPT', 'dissociação', 'pânico'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i07.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395237/i07_o7tz4a.png',
     imageHint: 'feet ground nature',
   }
 ];
@@ -181,7 +181,7 @@ export const edicao003: Edicao = {
   capa: {
     titulo_principal: "Autocuidado, Neuroplasticidade e a Simplicidade do Agora",
     subtitulo: "Nesta edição: A urgência do autocuidado, a capacidade do cérebro de mudar e como encontrar beleza nos pequenos momentos.",
-    imagem_destaque: "/images/mes-edicoes/m05/ed003/capa.png",
+    imagem_destaque: "https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395235/capa_qs7ry2.png",
     imageHint: "brain calm connection",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

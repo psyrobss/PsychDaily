@@ -28,7 +28,7 @@ const tdahAutismoDiagnostico007: Conteudo = {
     ],
     tags: ["TDAH", "autismo", "TEA", "diagnóstico", "neurodiversidade", "saúde mental infantil", "medicalização", "desenvolvimento", "DSM", "psicofarmacologia crítica", "abordagem multidisciplinar", "ansiedade"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed007/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395251/i01_jspn19.png',
     imageHint: 'abstract representation of neurodiversity, perhaps interconnected brain pathways with diverse colors and patterns'
   };
 
@@ -60,7 +60,7 @@ const editorialEd007: Conteudo = {
   ],
   tags: ['perdão', 'autocompaixão', 'cura emocional', 'saúde mental', 'libertação', 'editorial', 'ressentimento', 'relacionamentos', 'psicologia humanista', 'processo terapêutico'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed007/i02.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395247/i02_y5fuov.jpg',
   imageHint: 'open hands releasing a glowing light or a dove, symbolizing peace and liberation'
 };
 
@@ -82,7 +82,7 @@ const narrativaEd007: Conteudo = {
   ],
   tags: ['coração partido', 'cura emocional', 'esperança', 'resiliência', 'narrativa', 'kintsugi', 'amor', 'perda', 'transformação', 'arteterapia', 'psicologia inventiva', 'biblioterapia', 'metáfora'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed007/i03.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395253/i03_wmdizm.png',
   imageHint: 'old library with glowing crystal hearts on shelves, some cracked but mended with gold lines (kintsugi style)'
 };
 
@@ -102,7 +102,7 @@ const colunaEd007: Conteudo = {
   ],
   tags: ['tédio', 'criatividade', 'mindfulness', 'descanso mental', 'introspecção', 'coluna', 'sobrecarga de informação', 'ócio criativo', 'saúde mental', 'produtividade tóxica', 'cultura da pressa'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed007/i04.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395250/i04_yidket.png',
   imageHint: 'person looking thoughtfully out a window, perhaps on a quiet, slightly melancholic day, symbolizing creative boredom'
 };
 
@@ -135,7 +135,7 @@ const psicofarmacoEd007: Conteudo = {
   ],
   tags: ['sono', 'insônia', 'higiene do sono', 'relaxamento', 'bem-estar', 'saúde natural', 'TCC-I', 'melatonina', 'ritmo circadiano', 'psicofarmacologia crítica', 'estilo de vida', 'autocuidado'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed007/i05.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395251/i05_tbulnz.png',
   imageHint: 'peaceful sleeping person with a serene moonlit background and subtle natural elements like lavender or chamomile'
 };
 
@@ -157,7 +157,7 @@ const cronicaEd007: Conteudo = {
   ],
   tags: ['ansiedade social', 'TCC', 'exposição gradual', 'habilidades sociais', 'terapia', 'crônica', 'autoconfiança', 'medo do julgamento', 'isolamento', 'mindfulness', 'autocompaixão', 'vulnerabilidade'],
   isPremium: true,
-  imageUrl: '/images/mes-edicoes/m05/ed007/i06.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395251/i06_yypyck.png',
   imageHint: 'person confidently interacting in a group, with a subtle visual metaphor of breaking free from shadows or a confined space'
 };
 
@@ -186,7 +186,7 @@ const tecnicaEd007: Conteudo = {
   ],
   tags: ["mindful eating", "alimentação consciente", "mindfulness", "bem-estar", "saúde", "comer emocional", "técnicas terapêuticas", "fome e saciedade", "relação com a comida", "autocompaixão", "prazer sensorial", "gratidão"],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed007/i07.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395251/i07_x59fye.png',
   imageHint: 'person mindfully eating a colorful plate of fruits and vegetables, with a calm and serene expression'
 };
 
@@ -206,7 +206,7 @@ export const edicao007: Edicao = {
   capa: {
     titulo_principal: "Diagnósticos em Debate, o Poder Libertador do Perdão e a Arte de Comer com Consciência Plena",
     subtitulo: "Nesta edição aprofundada: TDAH e Autismo em foco, a jornada transformadora do perdão, a mágica biblioteca dos corações remendados, o inestimável valor do tédio criativo e como o mindful eating pode revolucionar sua relação com a comida e com seu corpo.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed007/i08.png',
+    imagem_destaque: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395251/i08_svnbfi.jpg',
     imageHint: "brain puzzle scales with a human silhouette contemplating, symbolizing diagnostic challenges and self-understanding",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

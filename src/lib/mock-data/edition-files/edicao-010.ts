@@ -29,7 +29,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['paixão', 'paciência', 'desenvolvimento pessoal', 'bem-estar emocional', 'metas', 'mindfulness', 'editorial', 'perseverança', 'propósito', 'autocompaixão', 'resiliência'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395260/i01_if6zr0.png',
     imageHint: 'a gentle flame (passion) steadily burning beside a calm, flowing stream (patience), symbolizing their harmonious coexistence'
   },
   {
@@ -58,7 +58,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['AGI', 'inteligência artificial', 'inteligência humana', 'epistemologia', 'consciência', 'corporeidade', 'filosofia da mente', 'fenomenologia', 'LLMs', 'compreensão semântica', 'ética da IA'],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i02.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395260/i02_knzsev.png',
     imageHint: 'abstract representation of a human brain and a circuit board, highlighting the differences and connections between human and artificial intelligence'
   },
   {
@@ -90,7 +90,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['William James', 'fluxo de consciência', 'self', 'Eu e Mim', 'hábito', 'psicologia funcionalista', 'história da psicologia', 'pragmatismo', 'consciência', 'identidade', 'plasticidade'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i03.png', // Nova imagem
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395261/i03_zf9rcp.png', // Nova imagem
     imageHint: 'vintage portrait of a thoughtful philosopher, evoking William James, with a backdrop of flowing water or a stream, symbolizing the stream of consciousness'
   },
   {
@@ -121,7 +121,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['sentido do trabalho', 'propósito profissional', 'engajamento', 'satisfação no trabalho', 'bem-estar ocupacional', 'valores', 'psicologia organizacional', 'cultura organizacional', 'motivação intrínseca', 'realização pessoal', 'Kai Fictício Oliveira'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i04.png', // Nova imagem
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395266/i04_r89zp8.png', // Nova imagem
     imageHint: 'diverse group of people working together with a sense of purpose and collaboration, perhaps on a project that benefits the community'
   },
   {
@@ -159,7 +159,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['psicodrama', 'Jacob Levy Moreno', 'terapia de grupo', 'dramatização', 'espontaneidade', 'criatividade', 'técnicas terapêuticas', 'catarse', 'role-playing', 'psicoterapia humanista', 'psicologia inventiva'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i05.png', // Nova imagem
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395261/i05_fs7g21.png', // Nova imagem
     imageHint: 'stylized theater masks representing different emotions, with a spotlight on a central empty stage, symbolizing the potential for psychodramatic exploration'
   },
   {
@@ -179,7 +179,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['tempo', 'ritmo interno', 'mindfulness', 'ansiedade', 'bem-estar', 'narrativa', 'autocuidado', 'pressa', 'psicologia inventiva', 'sincronicidade', 'presença'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i06.png', 
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395268/i06_ijackb.png', 
     imageHint: 'multiple clocks showing wildly different times in a chaotic, surreal cityscape, with one person calmly meditating in the center finding their own rhythm'
   },
   {
@@ -197,7 +197,7 @@ export const conteudosEdicao010: Conteudo[] = [
     ],
     tags: ['nomear emoções', 'inteligência emocional', 'regulação emocional', 'mindfulness', 'autoconsciência', 'coluna', 'Daniel Siegel', 'neurociência afetiva', 'vocabulário emocional', 'saúde mental'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed010/i07.png', 
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395270/i07_iiouli.png', 
     imageHint: 'colorful words emerging from a stylized brain or heart, representing the spectrum of emotions being named and understood'
   }
 ];

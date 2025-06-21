@@ -25,7 +25,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ['autenticidade', 'autoconhecimento', 'pressão social', 'vulnerabilidade', 'editorial', 'conexões humanas', 'compaixão', 'narrativas de cura', 'saúde mental'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395240/i01_wcqb5o.jpg',
     imageHint: 'person removing a mask looking at their true reflection in a mirror, symbolizing authenticity'
   },
   {
@@ -63,8 +63,8 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["efeito spotlight", "percepção social", "ansiedade social", "psicologia cognitiva", "vieses cognitivos", "Thomas Gilovich", "autoconsciência", "julgamento social", "neurociência social"],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i02.png',
-    imageHint: 'person under a spotlight on a stage, looking slightly anxious but with a hint of realization, symbolizing the internal nature of the spotlight effect'
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395241/i02_p5urbs.png',
+    imageHint: 'person under a spotlight on a stage, looking slightly anxious but with realization, symbolizing the internal nature of the spotlight effect'
   },
   {
     id: 'narrativa-rio-tempo-006',
@@ -84,7 +84,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["tempo", "impermanência", "aceitação", "mindfulness", "narrativa", "sabedoria", "fluxo da vida", "psicologia existencial", "desapego", "perda", "renovação"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i03.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395242/i03_mivwin.jpg',
     imageHint: 'old boatman on a mystical river of time, with shimmering waters reflecting past and future moments'
   },
   {
@@ -102,7 +102,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["hábitos", "mudança comportamental", "bem-estar", "desenvolvimento pessoal", "consistência", "coluna", "psicologia positiva", "paciência", "processo", "saberes comunitários"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i04.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395249/i04_h31tis.png',
     imageHint: 'small plant growing through concrete, symbolizing the power of small, consistent efforts'
   },
   {
@@ -132,7 +132,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["medicamentos para dormir", "insônia", "hipnóticos", "zolpidem", "benzodiazepínicos", "dependência", "tolerância", "TCC-I", "higiene do sono", "psicofarmacologia", "efeitos colaterais", "arquitetura do sono", "segurança do paciente"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i05.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395243/i05_zdig45.jpg',
     imageHint: 'sleeping pills next to an alarm clock, symbolizing the struggle with insomnia and the temptation of medication'
   },
   {
@@ -154,7 +154,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["autoestima", "trauma", "cura", "resiliência", "jardinagem terapêutica", "narrativa", "psicologia positiva", "crônica", "natureza", "autocuidado", "esperança", "transformação"],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i06.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395245/i06_ipqbal.jpg',
     imageHint: 'woman gardening with vibrant flowers blooming around her, symbolizing inner healing and growth'
   },
   {
@@ -183,7 +183,7 @@ export const conteudosEdicao006: Conteudo[] = [
     ],
     tags: ["ACT", "terapia de aceitação e compromisso", "mindfulness", "valores", "flexibilidade psicológica", "técnicas terapêuticas", "psicoterapia", "aceitação", "desfusão cognitiva", "ação comprometida", "humanismo", "psicologia contextual"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed006/i07.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395247/i07_vyqfbq.jpg',
     imageHint: 'person embracing a challenge with a determined yet peaceful expression, perhaps on a mountaintop with a wide vista, symbolizing a values-driven life'
   }
 ];
@@ -194,7 +194,7 @@ export const edicao006: Edicao = {
   capa: {
     titulo_principal: "Autenticidade, Holofotes Sociais e a Sabedoria da Impermanência e da Ação Consciente",
     subtitulo: "Nesta edição aprofundada: A jornada corajosa para ser autêntico em um mundo de aparências, o surpreendente efeito holofote, as lições milenares do Rio do Tempo, o poder transformador dos pequenos hábitos consistentes, a arte de abraçar o desconforto com a ACT e a importância da jardinagem para a cura da alma.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed006/i08.png',
+    imagem_destaque: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395249/i08_ld89bf.png',
     imageHint: "A person standing on a stage under a spotlight, but looking away from it towards a path of self-discovery and authenticity, with subtle elements of nature and time.",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

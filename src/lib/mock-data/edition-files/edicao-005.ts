@@ -29,7 +29,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['gratidão', 'bem-estar', 'felicidade', 'psicologia positiva', 'mindfulness', 'editorial', 'compaixão', 'conexões humanas', 'saúde mental', 'narrativas de cura', 'autocuidado', 'apreciação'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395237/i01_p9gcva.jpg',
     imageHint: 'grateful person at sunset with a heart shape made by hands, radiating warmth and peace'
   },
   {
@@ -51,7 +51,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['emoções', 'autoconhecimento', 'mapa emocional', 'narrativa', 'terapia', 'sentimentos', 'arteterapia', 'metáfora', 'criatividade', 'psicologia inventiva', 'expressão criativa', 'cura emocional', 'jornada do herói'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i02.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395238/i02_rzzmr7.png',
     imageHint: 'emotional map heart with artistic details and vibrant, nuanced colors representing different feelings, perhaps with a compass pointing inwards'
   },
   {
@@ -71,7 +71,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['pausa', 'descanso', 'produtividade', 'capitalismo', 'decolonialidade', 'saberes comunitários', 'coluna', 'saúde mental coletiva', 'ócio crítico', 'bem viver', 'justiça social', 'resistência', 'hiperconectividade'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i03.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395239/i03_avhkaq.jpg',
     imageHint: 'community resting under a tree, symbolizing resistance, connection with nature, and shared time, perhaps with diverse people in a circle'
   },
   {
@@ -100,7 +100,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['inconsciente cognitivo', 'tomada de decisão', 'intuição', 'vieses cognitivos', 'priming', 'hábitos', 'neurociência', 'Daniel Kahneman', 'Antonio Damasio', 'psicologia cognitiva', 'Sistema 1 e Sistema 2', 'livre arbítrio', 'autoconsciência'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i04.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395245/i04_mgh8bb.png',
     imageHint: 'iceberg mind showing conscious and unconscious parts, with subtle neural pathways and gear-like cogs visible within the unconscious part, symbolizing complex processing'
   },
   {
@@ -132,7 +132,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['placebo', 'nocebo', 'mente-corpo', 'crenças', 'expectativas', 'saúde', 'psicofarmacologia', 'pesquisa clínica', 'ética médica', 'comunicação em saúde', 'efeitos contextuais', 'relação terapêutica', 'consentimento informado', 'neurobiologia do placebo'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i05.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395243/i05_e85uyr.png',
     imageHint: 'sugar pill with a glowing aura representing mind power, surrounded by scientific charts, brain scans, and symbols of medical ethics and compassionate communication'
   },
   {
@@ -154,7 +154,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['autocrítica', 'autocompaixão', 'autoestima', 'terapia', 'diálogo interno', 'crônica', 'saúde mental', 'narrativa de cura', 'humanismo', 'psicologia compassiva', 'vulnerabilidade', 'aceitação', 'crescimento pessoal'],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i06.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395239/i06_hrr6uy.jpg',
     imageHint: 'person looking at mirror with a gentle, compassionate smile, perhaps with subtle golden threads mending cracks in the mirror or light emanating from within'
   },
   {
@@ -185,7 +185,7 @@ export const conteudosEdicao005: Conteudo[] = [
     ],
     tags: ['visualização criativa', 'imaginação', 'ansiedade', 'metas', 'mindfulness', 'técnicas terapêuticas', 'autoconfiança', 'cura emocional', 'narrativa pessoal', 'psicologia humanista', 'compaixão', 'autocuidado', 'manifestação consciente', 'neuroplasticidade'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed005/i07.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395243/i07_pzhjj1.png',
     imageHint: 'person imagining a positive future with glowing light and symbols of compassion, success, and inner peace, with a very artistic, soulful, and expansive feel'
   }
 ];
@@ -196,7 +196,7 @@ export const edicao005: Edicao = {
   capa: {
     titulo_principal: "Gratidão, O Poder do Inconsciente e a Arte Libertadora da Pausa",
     subtitulo: "Nesta edição aprofundada: Como a gratidão diária e a visualização criativa podem transformar seu bem-estar, o papel crucial do inconsciente em nossas decisões, os dilemas éticos do placebo, e a urgência de pausas conscientes em um mundo acelerado.",
-    imagem_destaque: "/images/mes-edicoes/m05/ed005/i01.png",
+    imagem_destaque: "https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395237/i01_p9gcva.jpg",
     imageHint: "gratitude journal abstract brain",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

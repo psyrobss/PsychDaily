@@ -28,7 +28,7 @@ const pobrezaDepressaoSocial009: Conteudo = {
     ],
     tags: ["pobreza", "depressão", "desigualdade social", "saúde mental", "determinantes sociais da saúde", "estresse crônico", "justiça social", "saúde pública", "vulnerabilidade", "carga alostática", "direitos humanos"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed009/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395256/i01_wkisz3.png',
     imageHint: 'Full shot of a solitary figure in a desolate, low-income urban or rural setting, portraying deep sadness and the weight of mental burden. Muted, somber colors and realistic style with a slight shadow effect to emphasize the struggle. Use a vertical format if possible to enhance the feeling of being overwhelmed.'
   };
 
@@ -57,7 +57,7 @@ const editorialEd009: Conteudo = {
   ],
   tags: ['diálogo interno', 'autoconversa', 'autocompaixão', 'autoestima', 'saúde mental', 'mindfulness', 'editorial', 'resiliência', 'terapia cognitivo-comportamental'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed009/i02.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395258/i02_pcoxge.png',
   imageHint: 'Close-up or medium shot of a person in a calm, contemplative posture, journaling. The setting should be serene, either a peaceful indoor space or a tranquil natural environment. Bathed in soft, diffused light to evoke a peaceful atmosphere. Focus on the person\'s expression conveying introspection and inner peace.'
 };
 
@@ -79,7 +79,7 @@ const narrativaEd009: Conteudo = {
   ],
   tags: ['autoconhecimento', 'escuta interior', 'emoções reprimidas', 'narrativa simbólica', 'cura psicológica', 'silêncio', 'labirinto emocional', 'psicologia existencial'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed009/i03.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395261/i03_vy1aju.png',
   imageHint: 'An enchanted subterranean labyrinth, dimly lit with shimmering light patterns that shift based on the traveler’s emotions. Mist, emotional shadows, and symbolic paths create an atmosphere of inner reflection and quiet intensity. Fantasy illustration style.'
 };
 
@@ -99,7 +99,7 @@ const colunaEd009: Conteudo = {
   ],
   tags: ['impermanência', 'aceitação', 'mindfulness', 'presente', 'desapego', 'coluna', 'filosofia oriental', 'budismo', 'estoicismo', 'sofrimento'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed009/i04.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395295/i04_wpskhb.png',
   imageHint: 'A wide shot landscape photograph of a vibrant, gentle river flowing through a dense forest during peak autumn colors. Leaves are visibly falling from trees and some are floating on the water\'s surface. Captured during golden hour to enhance warm light and atmospheric depth. Focus on the smooth movement of water and richness of colors.'
 };
 
@@ -126,7 +126,7 @@ const psicofarmacoEd009: Conteudo = {
   ],
   tags: ['interações medicamentosas', 'psicofarmacologia', 'segurança do paciente', 'polifarmácia', 'citocromo P450', 'síndrome serotoninérgica', 'suplementos herbais', 'farmacocinética', 'farmacodinâmica'],
   isPremium: true,
-  imageUrl: '/images/mes-edicoes/m05/ed009/i05.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395261/i05_heg0xe.png',
   imageHint: 'Overhead shot of an array of assorted prescription pills, capsules, and potentially herbal supplements scattered across a surface, prominently featuring a stylized warning sign or symbol positioned centrally or near the medications. Emphasize variety and quantity of pills to convey polypharmacy. Use dramatic lighting and focus for a serious tone.'
 };
 
@@ -148,7 +148,7 @@ const cronicaEd009: Conteudo = {
   ],
   tags: ['depressão pós-parto', 'saúde mental materna', 'terapia', 'apoio social', 'autocuidado', 'crônica', 'maternidade', 'puerpério', 'estigma'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed009/i06.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395259/i06_agvxel.png',
   imageHint: 'A close-up, emotional shot of a mother gently cradling her infant. The lighting is soft and warm, symbolizing comfort and hope emerging from darkness. Focus on the connection between mother and baby, conveying tenderness and a sense of relief or peace, possibly with a subtle suggestion of a lighthouse beam in the background, representing guidance and finding light.'
 };
 
@@ -175,7 +175,7 @@ const tecnicaEd009: Conteudo = {
   ],
   tags: ['solução de problemas', 'TCC', 'tomada de decisão', 'estresse', 'autoeficácia', 'habilidades de enfrentamento', 'técnicas terapêuticas', 'planejamento', 'resiliência'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed009/i07.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395259/i07_hw6ibj.png',
   imageHint: 'A metaphorical illustration depicting a determined figure standing at the entrance of a complex, intricate puzzle or maze, with glowing lines or paths indicating a clear strategy or pathway towards a solution or exit. Visualize the process of breaking down complexity into manageable steps. Conceptual art style, focus on clarity of path finding.'
 };
 
@@ -195,7 +195,7 @@ export const edicao009: Edicao = {
   capa: {
     titulo_principal: "Determinantes Sociais da Saúde Mental, a Impermanência e a Arte de Solucionar Problemas",
     subtitulo: "Nesta edição: A cruel relação entre pobreza e depressão, a sabedoria da impermanência, o diálogo interno e técnicas para resolver desafios.",
-    imagem_destaque: "/images/mes-edicoes/m05/ed009/i08.png",
+    imagem_destaque: "https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395258/i08_sh8tsw.jpg",
     imageHint: 'Symbolic image featuring intricate balance scales. On one side, abstract elements represent social justice (e.g., diverse figures, simplified structures). On the other side, elements represent mental health (e.g., calming colors, abstract brain shape, calm figure). Emphasize the scales tipping or balanced, showing the strong connection and the need for equilibrium between these concepts. Conceptual art style, high detail.',
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

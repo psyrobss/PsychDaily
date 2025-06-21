@@ -27,7 +27,7 @@ const ayahuascaDecolonial008: Conteudo = {
     ],
     tags: ["ayahuasca", "medicina ancestral", "decolonialidade", "saúde mental", "espiritualidade", "psicodélicos", "etnofarmacologia", "saberes indígenas", "cura holística", "DMT", "Banisteriopsis caapi", "justiça epistêmica", "sustentabilidade", "apropriação cultural"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed008/i01.png', 
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395294/i01_iiezs1.png', 
     imageHint: 'shaman or indigenous person in a respectful ritualistic setting with ayahuasca elements, emphasizing the cultural and spiritual context, with amazon rainforest background'
   };
 
@@ -56,7 +56,7 @@ const editorialEd008: Conteudo = {
   ],
   tags: ['natureza', 'saúde mental', 'bem-estar', 'ecopsicologia', 'estresse', 'editorial', 'conexão', 'biofilia', 'restauração da atenção', 'Shinrin-yoku', 'psicologia ambiental', 'cura natural'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed008/i02.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395252/i02_jbmpqy.jpg',
   imageHint: 'person in a tranquil forest setting, with soft light filtering through the trees, evoking peace and connection with nature'
 };
 
@@ -78,7 +78,7 @@ const narrativaEd008: Conteudo = {
   ],
   tags: ['futuro', 'escolhas', 'agência', 'responsabilidade', 'esperança', 'narrativa', 'propósito', 'livre arbítrio', 'psicologia existencial', 'criatividade', 'psicologia inventiva', 'metáfora', 'autodescoberta'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed008/i03.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395253/i03_ncjgvr.jpg',
   imageHint: 'mystical loom with colorful threads weaving intricate patterns of possible futures, held by wise, gentle hands'
 };
 
@@ -98,7 +98,7 @@ const colunaEd008: Conteudo = {
   ],
   tags: ['autocompaixão', 'gentileza', 'bem-estar emocional', 'resiliência', 'autocuidado', 'coluna', 'mindfulness', 'humanidade comum', 'Kristin Neff', 'saúde mental', 'autoestima'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed008/i04.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395253/i04_gbi0ic.jpg',
   imageHint: 'person gently hugging themselves with a peaceful and kind expression, perhaps in a serene natural setting'
 };
 
@@ -125,7 +125,7 @@ const psicofarmacoEd008: Conteudo = {
   ],
   tags: ['adaptógenos', 'estresse', 'ansiedade', 'saúde natural', 'suplementos', 'medicina integrativa', 'ashwagandha', 'rhodiola', 'ginseng', 'fitoterapia', 'eixo HPA', 'psicofarmacologia crítica', 'segurança do paciente', 'medicina tradicional'],
   isPremium: true,
-  imageUrl: '/images/mes-edicoes/m05/ed008/i05.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395256/i05_nw8wnf.png',
   imageHint: 'herbs in a mortar and pestle, with a backdrop of scientific lab equipment and ancient texts, symbolizing the blend of traditional wisdom and modern science'
 };
 
@@ -147,7 +147,7 @@ const cronicaEd008: Conteudo = {
   ],
   tags: ['segredos', 'vulnerabilidade', 'confiança', 'terapia', 'ansiedade', 'crônica', 'partilha', 'saúde mental', 'isolamento', 'cura emocional', 'processo terapêutico', 'trauma', 'autenticidade', 'acolhimento'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed008/i06.png', 
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395255/i06_j7ellj.jpg', 
   imageHint: 'person carefully opening an old, ornate box with a gentle light emanating from within, symbolizing the release of secrets and the beginning of healing'
 };
 
@@ -175,7 +175,7 @@ const tecnicaEd008: Conteudo = {
   ],
   tags: ['reestruturação cognitiva', 'TCC', 'pensamentos negativos', 'distorções cognitivas', 'ansiedade', 'depressão', 'técnicas terapêuticas', 'saúde mental', 'resiliência', 'Aaron Beck', 'psicologia baseada em evidências'],
   isPremium: false,
-  imageUrl: '/images/mes-edicoes/m05/ed008/i07.png', 
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395255/i07_vbpa7h.jpg', 
   imageHint: 'stylized brain with interconnected gears turning, some tangled (negative thoughts) and others being straightened or replaced by brighter gears (adaptive thoughts), symbolizing cognitive restructuring'
 };
 
@@ -214,7 +214,7 @@ export const conteudosEdicao008: Conteudo[] = [
     ],
     tags: ['luto', 'perda', 'cura emocional', 'saúde mental', 'compaixão', 'autocuidado', 'resiliência', 'significado', 'processo terapêutico', 'psicologia humanista'],
     isPremium: false, // Tornando acessível
-    imageUrl: '/images/mes-edicoes/m05/ed008/i08.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395256/i08_yuq4ab.png',
     imageHint: 'cracked pottery with a flower growing resiliently from it, symbolizing healing and new meaning after loss'
   }
 ];
@@ -225,7 +225,7 @@ export const edicao008: Edicao = {
   capa: {
     titulo_principal: "Saberes Ancestrais, Natureza Curativa, a Arquitetura da Mente e a Jornada do Luto Compassivo",
     subtitulo: "Nesta edição expandida: Ayahuasca sob olhar decolonial, o poder terapêutico da natureza e dos adaptógenos, a reestruturação de pensamentos, e uma profunda reflexão sobre como acolher a dor da perda com compaixão, tempo e a busca por novos significados. E mais: o poder da partilha de segredos e a arte de tecer futuros.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed008/i09.png', 
+    imagem_destaque: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395256/i09_ojjetf.png', 
     imageHint: "composite image: half showing a serene natural landscape with a person meditating, the other half showing abstract brain connections and ancient symbols, with a subtle overlay of a tear transforming into a growing plant.",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

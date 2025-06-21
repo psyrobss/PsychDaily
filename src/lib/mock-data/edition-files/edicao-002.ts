@@ -32,7 +32,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['vulnerabilidade', 'autocompaixão', 'perfeccionismo', 'crescimento pessoal', 'saúde mental', 'editorial', 'aceitação', 'bem-estar'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395231/i01_sdqlj6.png',
     imageHint: 'kintsugi pottery',
   },
   {
@@ -54,7 +54,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['memória', 'esquecimento', 'identidade', 'narrativa', 'redescoberta', 'inconsciente', 'cura emocional', 'fábula psicológica'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i02.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395292/i02_oxphux.png',
     imageHint: 'mystical garden',
   },
   {
@@ -96,7 +96,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['estresse crônico', 'saúde mental', 'fisiologia do estresse', 'bem-estar', 'manejo do estresse', 'psiconeuroimunologia', 'cortisol', 'doenças crônicas', 'carga alostática', 'eixo HPA'],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i03.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395293/i03_npobfs.png',
     imageHint: 'brain stress',
   },
   {
@@ -115,7 +115,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['silêncio', 'introspecção', 'mindfulness', 'autoconhecimento', 'bem-estar emocional', 'paz interior', 'restauração', 'sobrecarga sensorial'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i04i.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395225/i04i_glbkce.png',
     imageHint: 'peaceful silence',
   },
   {
@@ -147,7 +147,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['TDAH', 'estimulantes', 'psicofarmacologia', 'saúde mental', 'neurodiversidade', 'produtividade', 'tratamento', 'metilfenidato'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i05.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395231/i05_o5whzi.png',
     imageHint: 'brain focus',
   },
   {
@@ -171,7 +171,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ['limites saudáveis', 'assertividade', 'terapia', 'autocuidado', 'codependência', 'casos clínicos', 'crônica', 'relações interpessoais'],
     isPremium: true,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i06.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395227/i06_ebmnpx.png',
     imageHint: 'person drawing line',
   },
   {
@@ -226,7 +226,7 @@ export const conteudosEdicao002: Conteudo[] = [
     ],
     tags: ["diário terapêutico", "escrita terapêutica", "autoconhecimento", "regulação emocional", "processamento emocional", "bem-estar", "saúde mental"],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed002/i07.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395230/i07_ummyly.jpg',
     imageHint: 'journal writing person',
   },
 ];
@@ -237,7 +237,7 @@ export const edicao002: Edicao = {
   capa: {
     titulo_principal: "Desvendando a Imperfeição, Estresse, TDAH e o Poder da Escrita",
     subtitulo: "Nesta edição: Vulnerabilidade, impacto do estresse, TDAH em debate, limites internos e o diário terapêutico como ferramenta.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed002/capa.png',
+    imagem_destaque: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395222/capa_oq9ooj.jpg',
     imageHint: "thoughtful abstract",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [

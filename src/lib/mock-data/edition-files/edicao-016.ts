@@ -115,25 +115,68 @@ export const conteudosEdicao016: Conteudo[] = [
   imageUrl: '/images/mes-edicoes/m06/ed016/i04.png',
   imageHint: 'Máquina steampunk adaptativa que reflete reforçadores internos e externos, misturando engrenagens com painéis digitais que monitoram emoções e autorreforço.'
 },
-  {
-    id: 'coluna-016-comportamento-no-cotidiano',
-    tipo: 'coluna_fixa',
-    titulo: 'Pequenos Reforços, Grandes Mudanças: Observando o Behaviorismo em Nosso Dia a Dia',
-    subtitulo: 'Uma reflexão sobre como os princípios comportamentais, muitas vezes despercebidos, influenciam nossas escolhas, hábitos e interações sociais, e como podemos usá-los conscientemente para nosso benefício.',
-    autor: 'Kai Fictício Oliveira',
-    persona_autor: 'O Analista de Contextos',
-    data_publicacao: '2025-06-09',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'O behaviorismo, com seus conceitos de condicionamento e aprendizagem por consequências, pode parecer uma teoria acadêmica distante para muitos. No entanto, seus princípios estão intrinsecamente entrelaçados em nosso cotidiano, moldando nossos hábitos, preferências e interações de maneiras que frequentemente nem percebemos. Reconhecer essas influências pode nos dar um maior poder de autocompreensão e de escolha consciente sobre nossos comportamentos.' },
-      { tipo: 'paragrafo', texto: 'Pense nos pequenos reforços positivos que nos motivam: o "like" em uma postagem nas redes sociais (que nos incentiva a postar mais), o elogio de um chefe após um trabalho bem feito (que aumenta nossa dedicação), ou mesmo o simples prazer de uma xícara de café após acordar (que reforça o hábito de levantar cedo). Da mesma forma, o reforço negativo opera quando evitamos algo desagradável: adiamos uma tarefa difícil (alívio temporário da ansiedade), ou cedemos a uma birra infantil (para cessar o choro incômodo).' },
-      { tipo: 'paragrafo', texto: 'Até mesmo nossos medos e aversões podem ter raízes no condicionamento clássico. Uma experiência negativa com um determinado alimento na infância pode gerar uma aversão duradoura. O som específico de uma notificação de trabalho pode, com o tempo, eliciar uma resposta de estresse antes mesmo de vermos a mensagem.' },
-      { tipo: 'paragrafo', texto: 'A beleza de compreender esses mecanismos não está em nos sentirmos como meros autômatos respondendo a estímulos, mas em perceber que temos a capacidade de usar esses mesmos princípios de forma intencional. Podemos criar sistemas de auto-reforço para novos hábitos saudáveis (ex: recompensar-se após uma semana de exercícios), quebrar associações negativas através da exposição gradual e da recontextualização (como na terapia comportamental para fobias), e ser mais conscientes das consequências que nossos próprios comportamentos geram nos outros e em nós mesmos. O behaviorismo, despido de seus radicalismos, oferece um espelho fascinante para a dança sutil entre nós e nosso ambiente.' }
-    ],
-    tags: ['behaviorismo', 'cotidiano', 'reforço', 'hábitos', 'condicionamento', 'coluna', 'autoconsciência'],
-    isPremium: false,
-    imageUrl: '/images/mes-edicoes/m06/ed016/i05.png',
-    imageHint: 'A visually engaging illustration of a chain reaction using symbolic dominoes. Each domino falls sequentially, representing a behavior leading to a consequence, which triggers the next behavior. Labels or small icons on the dominoes could represent common daily actions or reinforcers/punishers (e.g., phone notification, like button, cup of coffee, anxious thought, successful task completion). Bright, clear, and dynamic style.'
-  },
+  // Coluna completa revisada segundo princípios do behaviorismo radical
+// Autor: Kai Fictício Oliveira (O Analista de Contextos)
+
+{
+  id: 'coluna-016-comportamento-no-cotidiano',
+  tipo: 'coluna_fixa',
+  titulo: 'Pequenos Reforços, Grandes Mudanças: Observando o Behaviorismo em Nosso Dia a Dia',
+  subtitulo: 'Uma reflexão sobre como os princípios comportamentais, muitas vezes despercebidos, influenciam nossas escolhas, hábitos e interações sociais, e como podemos usá-los conscientemente para nosso benefício.',
+  autor: 'Kai Fictício Oliveira',
+  persona_autor: 'O Analista de Contextos',
+  data_publicacao: '2025-06-12',
+  corpo: [
+    {
+      tipo: 'paragrafo',
+      texto: 'O behaviorismo radical estuda o comportamento humano como objeto científico, considerando tanto eventos públicos quanto privados. Longe de nos reduzir a autômatos, essa abordagem nos convida a compreender a relação funcional entre estímulos, respostas e consequências, e a reconhecer o papel dos reforçadores intrínsecos e extrínsecos em nosso dia a dia.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Quando recebemos um “like” em uma postagem, não é apenas um gesto social: esse reforço social atua como um estímulo discriminativo, sinalizando aprovação do grupo e, assim, aumentando a probabilidade de publicarmos conteúdos semelhantes. Esse é um exemplo claro de reforçamento extrínseco de tipo social, que molda nosso repertório comportamental online.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Do outro lado, os reforçadores intrínsecos ocorrem dentro de nós: a satisfação de completar uma tarefa ou a sensação de orgulho ao vencer um desafio são eventos privados que funcionam como reforço. Registrar mentalmente o pensamento “eu consigo” e valorizar essa fala interna pode servir de autorreforço, fortalecendo hábitos saudáveis de forma autônoma.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Já o reforço negativo envolve a remoção de estímulos aversivos para aumentar comportamentos desejados. Por exemplo, ao finalizarmos uma tarefa trabalhosa, sentimos alívio da ansiedade — essa retirada do desconforto reforça a prática de enfrentar desafios em vez de procrastinar.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Antes de aplicar qualquer intervenção comportamental, a análise funcional se torna essencial. Perguntamos: qual a função desse comportamento? Busca de atenção, fuga de demandas, obtenção de estimulação sensorial ou tangível? Identificar essa função garante que reforcemos contingências apropriadas, aumentando a eficácia das mudanças comportamentais.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'No convívio familiar, observe como uma simples rotina de elogios matinais (reforço social) e o incentivo a declarações de gratidão (reforçamento intrínseco) podem transformar o clima de casa. Quando as crianças dizem “obrigado” ao ganhar algo, reforçadores sociais e privados se combinam para fortalecer comportamentos de gentileza e reconhecimento.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'O reforço vicário ou modelagem acontece quando imitamos comportamentos que observamos serem reforçados em outros. Se vemos um colega ser elogiado por ajudar voluntariamente, aumentamos nossa probabilidade de oferecer ajuda em futuras situações, movidos pela expectativa de reforço social similar.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Em contextos de aprendizado, esquemas de reforçamento — contínuo, intermitente ou gradual — influenciam a resistência ao apagamento. Um hábito reforçado intermitentemente tende a persistir mais tempo sem reforço do que aquele reforçado sempre, explicando por que algumas rotinas difíceis de abandonar parecem “grudar” em nós.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Na terapia comportamental para fobias, a exposição gradual combinada com reforço positivo e autorreforço auxilia na extinção do comportamento de fuga. Ao enfrentar o medo em pequenas doses e receber reforço — verbal ou interno — cada aproximação reforçada enfraquece a resposta de esquiva, reconstruindo respostas mais adaptativas.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'A autoconsciência também se desenvolve ao monitorarmos nossos próprios comportamentos. Manter um diário de hábitos, anotando respostas emocionais e pensamentos associados, cria um histórico de eventos privados que, ao serem revisitados, funcionam como reforçadores condicionados para o planejamento e a autorregulação.'
+    },
+    {
+      tipo: 'paragrafo',
+      texto: 'Ao reconhecermos como pequenos reforços moldam nossas escolhas — do café pós-despertar às notificações de apps — ganhamos ferramentas para projetar nossas rotinas com mais propósito. Podemos deliberadamente oferecer reforços a nós mesmos e aos outros, reforçando comportamentos saudáveis e criando ambientes mais produtivos e harmônicos.'
+    }
+  ],
+  tags: ['behaviorismo', 'cotidiano', 'reforço intrínseco', 'reforço extrínseco', 'análise funcional', 'reforço vicário', 'autoconsciência'],
+  isPremium: false,
+  imageUrl: '/images/mes-edicoes/m06/ed016/i05.png',
+  imageHint: 'Uma ilustração dinâmica de dominós com ícones de redes sociais, café, tarefas e emoções, conectando comportamentos a reforçadores de forma sequencial.'
+},
   {
     id: 'cronica-016-superando-fobia-comportamental',
     tipo: 'narrativa_ficticia',

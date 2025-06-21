@@ -27,7 +27,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['comunidade', 'saúde mental', 'conexões sociais', 'pertencimento', 'bem-estar', 'editorial', 'isolamento'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed003/i01.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1750462561/i01_oxqkbx.jpg',
     imageHint: 'community hands',
   },
   {
@@ -47,7 +47,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['sonhos', 'esperança', 'medo', 'coragem', 'narrativa', 'autodescoberta'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed004/i02.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395235/i02_wznviv.png',
     imageHint: 'glowing orb hand',
   },
   {
@@ -65,7 +65,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['corpo', 'mente-corpo', 'interocepção', 'bem-estar', 'sabedoria', 'escuta', 'coluna'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed004/i03.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395234/i03_z4lc6g.png',
     imageHint: 'body silhouette nature',
   },
 {
@@ -124,7 +124,7 @@ export const conteudosEdicao004: Conteudo[] = [
 
   isPremium: false,
 
-  imageUrl: '/images/mes-edicoes/m05/ed004/i04.png',
+  imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395235/i04_ovtc6a.png',
 
   imageHint: 'group people interaction',
 },
@@ -193,7 +193,7 @@ export const conteudosEdicao004: Conteudo[] = [
     "tratamento"
   ],
   isPremium: true,
-  imageUrl: "/images/mes-edicoes/m05/ed004/i05.png",
+  imageUrl: "https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395238/i05_opie1a.png",
   imageHint: "child thinking classroom"
 },
 
@@ -214,7 +214,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['ansiedade social', 'medo', 'terapia', 'TCC', 'exposição gradual', 'autoconfiança', 'crônica'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed004/i06.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1750463417/i06_uuyrdc.jpg',
     imageHint: 'person overcoming fear',
   },
   {
@@ -240,7 +240,7 @@ export const conteudosEdicao004: Conteudo[] = [
     ],
     tags: ['CNV', 'comunicação não-violenta', 'empatia', 'relacionamentos', 'conflitos', 'técnicas terapêuticas'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m05/ed004/i07.png',
+    imageUrl: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395241/i07_brg2zi.png',
     imageHint: 'two people talking calmly',
   }
 ];
@@ -251,7 +251,7 @@ export const edicao004: Edicao = {
   capa: {
     titulo_principal: "Laços Comunitários, Sonhos Redescobertos e a Sabedoria do Corpo",
     subtitulo: "Nesta edição: O poder da comunidade, a loja de sonhos perdidos, escutando o corpo e a comunicação não-violenta.",
-    imagem_destaque: '/images/mes-edicoes/m05/ed004/capa.png',
+    imagem_destaque: 'https://res.cloudinary.com/dlahoe9ue/image/upload/v1749395232/capa_mxnfwa.jpg',
     imageHint: "community connection abstract",
     credito_imagem: "PsychDaily Images",
     links_manchetes: [
