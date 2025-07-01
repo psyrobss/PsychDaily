@@ -34,10 +34,8 @@ Diretrizes:
 Explore diferentes temas como: psicologia cognitiva, TCC, psicologia do cotidiano, bem-estar emocional, autoconhecimento, resiliência, manejo de emoções, pensamentos distorcidos, crenças centrais, resolução de problemas, mindfulness aplicado à TCC, etc.`,
   config: {
     // Aumentar a temperatura para incentivar maior variação
-    temperature: 1.0, // <-- Modificado
+    temperature: 1.5, // <-- Modificado
 
-    // Gerar um seed mais robusto combinando timestamp e um valor aleatório
-    seed: Math.floor(Math.random() * 2147483647), // <-- Modificado para tentar forçar maior variação e garantir um inteiro
 
     // Configuração de segurança (mantida)
     safetySettings: [
