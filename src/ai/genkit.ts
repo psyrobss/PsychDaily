@@ -19,7 +19,7 @@ const plugins: GenkitPlugin[] = [googleAIPlugin];
 
 export const ai = genkit({
   plugins: plugins,
-  model: 'googleai/gemini-2.5-flash-preview-05-20', // Model padrão para geração de texto
+  model: 'googleai/gemini-2.5-flash-lite-preview-06-17', 
    // Configurações de segurança podem ser adicionadas aqui globalmente se necessário
   // config: {
   //   safetySettings: [

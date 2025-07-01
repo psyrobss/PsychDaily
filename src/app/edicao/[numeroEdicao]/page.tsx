@@ -1,10 +1,11 @@
+//src\app\edicao\[numeroEdicao]\page.tsx
+
 
 import { getEdicaoByNumero, getConteudoById } from '@/lib/mock-data/index';
 import type { Edicao, Conteudo, Secao } from '@/lib/types';
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-// import { Badge } from '@/components/ui/badge'; // No longer directly used here
 import { Button } from '@/components/ui/button';
 import { ArrowLeft, Newspaper, LockKeyhole, CalendarDays } from 'lucide-react';
 import { Separator } from '@/components/ui/separator';

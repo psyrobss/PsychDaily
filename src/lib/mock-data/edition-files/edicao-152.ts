@@ -107,7 +107,7 @@ export const conteudosEdicao152: Conteudo[] = [
       { tipo: 'paragrafo', texto: 'Inicialmente, Elian viu isso como uma proteção. Sem as cores vibrantes, a dor do mundo parecia menos intensa, a felicidade alheia, menos zombeteira. Ele se fechou em seu ateliê, pintando paisagens cinzentas de uma realidade desbotada, em um exílio autoimposto da policromia da vida. O cinza tornou-se sua zona de conforto, sua anestesia emocional.' },
       { tipo: 'dialogo', personagem: 'Um Crítico de Arte (observando as novas obras de Elian)', fala: 'A técnica é impecável, a composição é perfeita... mas onde está a alma? Onde estão as cores que nos faziam sentir? É como olhar para um corpo belíssimo, mas sem vida.' },
       { tipo: 'paragrafo', texto: 'Um dia, uma menina cega chamada Lira, que conhecia o mundo através do toque, do cheiro e do som, entrou em seu ateliê, guiada pelo cheiro de tinta a óleo. Ela não podia ver suas pinturas, mas podia "sentir" sua tristeza. Ela tocou a tela de uma paisagem cinzenta e disse: "Sua montanha é triste. Ela não tem o cheiro do vento que passa por ela, nem a textura das pequenas flores que crescem em suas fendas."' },
-      { tipo: 'paragrafo', texto: 'Intrigado, Elian começou a conversar com Lira. Ela o levava para passeios, não para que ele "visse", mas para que ele "sentisse" o mundo novamente. Ela o fez tocar a casca áspera de uma árvore e disse: "Isso é marrom, a cor da força e da terra". Fez com que ele sentisse o calor do sol em seu rosto e disse: "Isso é amarelo, a cor da alegria que aquece". Fê-lo cheirar uma rosa e disse: "Isso é vermelho, a cor do amor que tem espinhos".' },
+      { tipo: 'paragrafo', texto: 'Intrigado, Elian começou a conversar com Lira. Ela o levava para passeios, não para que ele "visse", mas para que ele "sentisse" o mundo novamente. Ela o fez tocar a casca áspera de uma árvore e disse: "Isso é marrom, a cor da força e da terra". Fez com que ele sentisse o calor do sol em seu rosto e disse: "Isso é amarelo, a cor da alegria que aquece". Fê-lo cheirar uma rosa e disse: "Isso é vermelho, a cor da amor que tem espinhos".' },
       { tipo: 'paragrafo', texto: 'Através da percepção de Lira, que era tão rica e vívida quanto a sua visão anterior, Elian começou a redescobrir as cores, não com os olhos, mas com o coração. Ele voltou a pintar, mas de forma diferente. Usava os tons de cinza para representar a forma, mas adicionava texturas, aromas sutis e até mesmo sons escondidos em suas obras. E, milagrosamente, à medida que ele pintava o mundo que sentia, e não apenas o que via, as cores começaram a retornar sutilmente à sua própria visão. Ele aprendeu que a percepção da realidade não é uma experiência solitária, mas uma tapeçaria tecida com os fios dos sentidos e das emoções de todos, e que a verdadeira beleza reside na partilha dessas múltiplas e coloridas visões de mundo.' }
     ],
     tags: ['percepção', 'cores', 'sentidos', 'sinestesia', 'daltonismo', 'narrativa', 'fábula', 'empatia', 'conexão', 'arte'],
@@ -201,7 +201,7 @@ export const edicao152: Edicao = {
       { titulo: conteudosEdicao152[0].titulo, id_conteudo: conteudosEdicao152[0].id },
       { titulo: conteudosEdicao152[1].titulo, id_conteudo: conteudosEdicao152[1].id },
       { titulo: conteudosEdicao152[2].titulo, id_conteudo: conteudosEdicao152[2].id },
-      { titulo: conteudosEdicao152[7].titulo, id_conteudo: conteudosEdicao152[7].id }
+      { titulo: conteudosEdicao152[6].titulo, id_conteudo: conteudosEdicao152[6].id }
     ]
   },
   secoes: [
@@ -209,7 +209,7 @@ export const edicao152: Edicao = {
       nome_secao: "Destaques da Edição: Mente e Realidade",
       tipo: "capa",
       conteudo_ids: [
-        conteudosEdicao152[0].id, // Editorial
+        conteudosEdicao152[0].id, // Editorial (Criptomnésia)
         conteudosEdicao152[1].id, // Terapia de Conversão
         conteudosEdicao152[2].id, // Apego Desorganizado
         conteudosEdicao152[4].id  // Coluna - Pink Tax
@@ -218,37 +218,37 @@ export const edicao152: Edicao = {
     {
       nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
-      conteudo_ids: [conteudosEdicao152[0].id]
+      conteudo_ids: [conteudosEdicao152[0].id] // Criptomnésia
     },
     {
       nome_secao: "Exploração Profunda",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao152[1].id, conteudosEdicao152[2].id]
+      conteudo_ids: [conteudosEdicao152[1].id, conteudosEdicao152[2].id] // Terapia Conversão, Apego Desorganizado
     },
     {
       nome_secao: "Contos da Psique",
       tipo: "narrativas",
-      conteudo_ids: [conteudosEdicao152[3].id]
+      conteudo_ids: [conteudosEdicao152[3].id] // Pintor Cores
     },
     {
       nome_secao: "Palavras da Alma",
       tipo: "colunas",
-      conteudo_ids: [conteudosEdicao152[4].id]
+      conteudo_ids: [conteudosEdicao152[4].id] // Pink Tax
     },
     {
       nome_secao: "Do Consultório: Relatos e Reflexões",
       tipo: "narrativas",
-      conteudo_ids: [conteudosEdicao152[6].id]
+      conteudo_ids: [conteudosEdicao152[5].id] // Fobia Riqueza
     },
     {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao152[5].id]
+      conteudo_ids: []
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao152[7].id]
+      conteudo_ids: [conteudosEdicao152[6].id] // Orçamento Consciente
     }
   ]
 };

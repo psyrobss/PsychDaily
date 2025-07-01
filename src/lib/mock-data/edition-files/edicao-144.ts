@@ -173,7 +173,7 @@ export const conteudosEdicao144: Conteudo[] = [
       { tipo: 'paragrafo', texto: 'A terapia com configurações não-monogâmicas, como o poliamor, requer do terapeuta uma postura de mente aberta, livre de preconceitos e com conhecimento sobre as dinâmicas específicas desses relacionamentos. O objetivo não é "consertar" a relação para que ela se pareça com um modelo monogâmico, mas ajudar os membros a construir uma estrutura que seja ética, consensual, funcional e satisfatória para todos os envolvidos, com base em seus próprios valores e acordos.' },
       { tipo: 'paragrafo', texto: 'Nosso trabalho focou intensamente na comunicação. Criamos um espaço seguro onde cada um pôde expressar seus medos, inseguranças e necessidades sem interrupção. Ana pôde falar de seu medo de ser substituída. Clara pôde verbalizar sua necessidade de se sentir uma parceira plena, e não um satélite. Beto pôde expressar sua exaustão. Utilizamos técnicas para diferenciar o ciúme (o medo da perda) da inveja (o desejo pelo que o outro tem), e para que pudessem desenvolver a "compersão" (a alegria pela felicidade do parceiro, mesmo que com outra pessoa).' },
       { tipo: 'dialogo', personagem: 'Clara (em sessão)', fala: '"Às vezes sinto que não posso reclamar, porque eu "concordei" com isso. Mas a verdade é que me sinto sozinha dentro do relacionamento. Eles têm uma história, piadas internas... e eu sou a peça nova que tem que se encaixar."' },
-      { tipo: 'paragrafo', texto: 'Ajudamos o trisal a renegociar seus acordos, tornando-os mais explícitos e equitativos. Discutimos a importância de "tempo de qualidade" em diferentes configurações (os três juntos, e cada par separadamente), de rituais que fortalecessem a identidade da "tríade" como uma unidade, e de estratégias para lidar com o ciúme de forma construtiva. A jornada deles foi sobre aprender que o amor, para ser multiplicado, exige uma dose ainda maior de comunicação, autoconsciência e um compromisso radical com a ética do cuidado mútuo. Foi um processo de desconstruir o "casal" como única unidade possível e de construir, com intenção e coragem, uma nova e singular forma de ser família.' }
+      { tipo: 'paragrafo', texto: 'A ajudamos o trisal a renegociar seus acordos, tornando-os mais explícitos e equitativos. Discutimos a importância de "tempo de qualidade" em diferentes configurações (os três juntos, e cada par separadamente), de rituais que fortalecessem a identidade da "tríade" como uma unidade, e de estratégias para lidar com o ciúme de forma construtiva. A jornada deles foi sobre aprender que o amor, para ser multiplicado, exige uma dose ainda maior de comunicação, autoconsciência e um compromisso radical com a ética do cuidado mútuo. Foi um processo de desconstruir o "casal" como única unidade possível e de construir, com intenção e coragem, uma nova e singular forma de ser família.' }
     ],
     tags: ['poliamor', 'trisal', 'não-monogamia consensual', 'terapia de relacionamento', 'crônica terapêutica', 'ciúme', 'comunicação', 'compersão', 'ética relacional'],
     isPremium: false,
@@ -268,7 +268,7 @@ export const conteudosEdicao144: Conteudo[] = [
     tags: ['Diálogo Imago', 'terapia de casal', 'comunicação', 'Harville Hendrix', 'técnicas terapêuticas', 'escuta ativa', 'empatia', 'validação', 'relacionamentos'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m12/ed144/i06.png',
-    imageHint: 'A clear diagram showing two figures in conversation. One figure (the "Sender") has a speech bubble. The other figure (the "Receiver") has a thought bubble that shows them actively "mirroring" or reflecting the sender\'s words. Arrows should indicate the three steps: Mirroring, Validating, Empathizing. The style should be educational, clear, and focused on the communication process.'
+    imageHint: 'A clear diagram showing two figures in conversation. One figure (the "Sender") has a speech bubble. The other figure (the "Receiver") has a thought bubble that shows them actively "mirroring" or reflecting the sender\'s words. Arrows should indicate the three steps: Mirroring, Validating, Empatizing. The style should be educational, clear, and focused on the communication process.'
   }
 ];
 
@@ -282,10 +282,10 @@ export const edicao144: Edicao = {
     imageHint: "A composite image blending a human brain, an animal brain (e.g., dolphin or primate), and a circuit board representing AI. Glowing lines of consciousness or thought connect all three, posing a question about the nature of sentience across different forms of intelligence. The visual style should be philosophical and thought-provoking.",
     credito_imagem: "Unsplash",
     links_manchetes: [
-      { titulo: conteudosEdicao144[0].titulo, id_conteudo: conteudosEdicao144[0].id },
-      { titulo: conteudosEdicao144[1].titulo, id_conteudo: conteudosEdicao144[1].id },
-      { titulo: conteudosEdicao144[2].titulo, id_conteudo: conteudosEdicao144[2].id },
-      { titulo: conteudosEdicao144[7].titulo, id_conteudo: conteudosEdicao144[8].id } // Corrigido para ID do último artigo
+      { titulo: conteudosEdicao144[0].titulo, id_conteudo: conteudosEdicao144[0].id }, // Psicologia Comparada (Editorial)
+      { titulo: conteudosEdicao144[1].titulo, id_conteudo: conteudosEdicao144[1].id }, // Radicalização (Aprofundado)
+      { titulo: conteudosEdicao144[2].titulo, id_conteudo: conteudosEdicao144[2].id }, // Consciência em IA (Aprofundado)
+      { titulo: conteudosEdicao144[7].titulo, id_conteudo: conteudosEdicao144[7].id }
     ]
   },
   secoes: [
@@ -293,10 +293,10 @@ export const edicao144: Edicao = {
       nome_secao: "Destaques da Edição: Fronteiras da Consciência",
       tipo: "capa",
       conteudo_ids: [
-        conteudosEdicao144[0].id, // Editorial
-        conteudosEdicao144[1].id, // Radicalização
-        conteudosEdicao144[2].id, // Consciência em IA
-        conteudosEdicao144[4].id  // Coluna - Ética Animal
+        conteudosEdicao144[0].id,
+        conteudosEdicao144[1].id,
+        conteudosEdicao144[2].id,
+        conteudosEdicao144[4].id
       ]
     },
     {
@@ -322,17 +322,17 @@ export const edicao144: Edicao = {
     {
       nome_secao: "Do Consultório: Relatos e Reflexões",
       tipo: "narrativas",
-      conteudo_ids: [conteudosEdicao144[6].id]
+      conteudo_ids: [conteudosEdicao144[5].id] // Terapia Trisal
     },
     {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao144[5].id]
+      conteudo_ids: [conteudosEdicao144[6].id] // Orexina Insônia
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao144[7].id, conteudosEdicao144[8].id] // Corrigido para IDs corretos
+      conteudo_ids: [conteudosEdicao144[7].id] // Diálogo Imago
     }
   ]
 };

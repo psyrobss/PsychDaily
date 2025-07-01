@@ -144,12 +144,12 @@ export const conteudosEdicao033: Conteudo[] = [
     imageHint: 'person looking mirror smiling'
   },
 {
-  "id": "tecnica-062-psicoeducacao",
+  "id": "tecnica-033-psicoeducacao",
   "tipo": "artigo_aprofundado",
   "titulo": "Psicoeducação: Conhecer para Empoderar – A Base do Entendimento Terapêutico",
   "subtitulo": "Desvende o papel fundamental da psicoeducação na terapia, compreendendo como ela capacita pacientes e famílias a entender e gerenciar diagnósticos, sintomas e estratégias de enfrentamento para a saúde mental.",
   "autor": "Dr. Arthur Fictício Mendes Neto",
-  "persona_autor": "Dr. Explicador",
+  "persona_autor": "Dr. Analítico",
   "data_publicacao": "2025-07-02",
   "corpo": [
     { "tipo": "paragrafo", "texto": "A psicoeducação é um componente fundamental em diversas abordagens terapêuticas, incluindo a Terapia Cognitivo-Comportamental (TCC) e a Terapia Comportamental Dialética (DBT). Ela consiste no processo sistemático de fornecer informações claras e acessíveis sobre saúde mental, diagnósticos, sintomas, causas, tratamentos e estratégias de enfrentamento, tanto para os pacientes quanto para suas famílias e cuidadores. O objetivo principal é capacitar os indivíduos, transformando-os de meros receptores de tratamento em participantes ativos e informados de sua própria jornada de cura e bem-estar." },
@@ -195,7 +195,7 @@ export const edicao033: Edicao = {
     subtitulo: "Nesta edição: A arte de pensar sobre o pensar, a essência do autocuidado, o TDAH em adultos e como a Roda da Vida pode guiar seu desenvolvimento.",
     imagem_destaque: "/images/mes-edicoes/m07/ed033/capa.png",
     imageHint: "thinking brain selfcare",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao033[1].titulo, id_conteudo: conteudosEdicao033[1].id }, // Metacognição
       { titulo: conteudosEdicao033[0].titulo, id_conteudo: conteudosEdicao033[0].id }, // Editorial Autocuidado

@@ -10,6 +10,8 @@ import { edicao007, conteudosEdicao007 } from './edition-files/edicao-007';
 import { edicao008, conteudosEdicao008 } from './edition-files/edicao-008';
 import { edicao009, conteudosEdicao009 } from './edition-files/edicao-009';
 import { edicao010, conteudosEdicao010 } from './edition-files/edicao-010';
+import { edicao011, conteudosEdicao011 } from './edition-files/edicao-011';
+
 
 
 import { equipeEditorial as allEquipeEditorial } from './team';

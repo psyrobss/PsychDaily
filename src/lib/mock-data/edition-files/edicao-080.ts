@@ -250,11 +250,10 @@ export const edicao080: Edicao = {
     imagem_destaque: "https://images.unsplash.com/photo-1518186214795-3593b12361b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncm93dGglMjBpbm5vdmF0aW9uJTIwcHN5Y2hvbG9neXxlbnwwfHx8fDE3MTg0MjAxMjB8MA&ixlib=rb-4.0.3&q=80&w=1080",
     imageHint: "A composite image showing a small sprout growing into a large, innovative tree, whose branches are made of glowing lightbulbs and interconnected gears. In the background, subtle elements of economic charts and social structures can be seen, representing the interplay of personal growth, innovation, and the systems we live in. The style should be modern, symbolic, and inspiring.",
     credito_imagem: "Unsplash",
-    links_manchetes: [
-      { titulo: conteudosEdicao080[0].titulo, id_conteudo: conteudosEdicao080[0].id },
-      { titulo: conteudosEdicao080[1].titulo, id_conteudo: conteudosEdicao080[1].id },
-      { titulo: conteudosEdicao080[2].titulo, id_conteudo: conteudosEdicao080[2].id },
-      { titulo: conteudosEdicao080[7].titulo, id_conteudo: conteudosEdicao080[7].id }
+    links_manchetes: [      { titulo: conteudosEdicao080[0].titulo, id_conteudo: conteudosEdicao080[0].id }, // Editorial: A Mente Inovadora
+      { titulo: conteudosEdicao080[1].titulo, id_conteudo: conteudosEdicao080[1].id }, // Aprofundado: Psicologia Econômica
+      { titulo: conteudosEdicao080[2].titulo, id_conteudo: conteudosEdicao080[2].id }, // Aprofundado: História Hospitais Psiquiátricos
+      { titulo: conteudosEdicao080[6].titulo, id_conteudo: conteudosEdicao080[6].id } // Ferramentas: Matriz de Eisenhower
     ]
   },
   secoes: [
@@ -265,7 +264,7 @@ export const edicao080: Edicao = {
         conteudosEdicao080[0].id, // Editorial
         conteudosEdicao080[1].id, // Psicologia Econômica
         conteudosEdicao080[2].id, // Luta Antimanicomial
-        conteudosEdicao080[7].id  // Técnica - Matriz de Eisenhower
+        conteudosEdicao080[6].id  // Técnica - Matriz de Eisenhower
       ]
     },
     {
@@ -301,7 +300,7 @@ export const edicao080: Edicao = {
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao080[7].id]
+      conteudo_ids: [conteudosEdicao080[6].id]
     }
   ]
 };

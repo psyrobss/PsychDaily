@@ -140,27 +140,6 @@ export const conteudosEdicao082: Conteudo[] = [
     imageHint: 'A group of people by a mystical, foggy river (the River of Forgetting). Some are shown trying to wash away shadowy, painful memories, which are depicted as dark shapes or chains. In contrast, one figure is shown turning away from the river and instead building a beautiful, resilient mosaic or sculpture out of these same shadowy shapes, symbolizing the act of transforming and integrating trauma rather than trying to erase it.'
   },
   {
-    id: 'do-consultorio-082-sobrevivente-suicidio',
-    tipo: 'narrativa_ficticia',
-    titulo: 'O Trabalho Terapêutico com um Sobrevivente de Tentativa de Suicídio, Navegando a Culpa, a Vergonha e a Reconstrução de um Sentido para a Vida',
-    subtitulo: 'Uma crônica terapêutica sobre o delicado processo de acompanhar um paciente após uma tentativa de suicídio, explorando o trabalho com a ambivalência entre o desejo de morrer e o de viver, o manejo do risco e a busca por novas razões para se conectar com a vida.',
-    autor: 'Dra. Helena Fictícia Alcantara',
-    persona_autor: 'Dra. Alma Compassiva',
-    data_publicacao: '2025-09-10',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'Ricardo chegou ao consultório encaminhado do hospital, algumas semanas após ter sobrevivido a uma grave tentativa de suicídio. Seu corpo carregava as cicatrizes físicas, mas as feridas em sua alma eram muito mais profundas. Havia um silêncio pesado nele, uma mistura de alívio e decepção por estar vivo, e uma vergonha avassaladora que o fazia evitar o contato visual. O primeiro desafio na terapia com um sobrevivente de suicídio é criar um espaço de segurança radical, onde essa ambivalência extrema possa ser expressa e acolhida sem qualquer tipo de julgamento ou pânico por parte do terapeuta.' },
-      { tipo: 'paragrafo', texto: 'Muitas vezes, a pessoa que tenta o suicídio não deseja acabar com a vida em si, mas com uma dor psíquica que se tornou insuportável. A tentativa é vista como a única saída para um sofrimento extremo. Após sobreviver, a pessoa pode se deparar não apenas com a dor original, mas também com a culpa pelo sofrimento que causou aos familiares, com a vergonha do "fracasso" da tentativa e com o medo de seus próprios impulsos destrutivos. É um lugar de imensa vulnerabilidade.' },
-      { tipo: 'paragrafo', texto: 'Com Ricardo, nosso trabalho inicial foi focado na estabilização e no manejo de risco. Construímos juntos um plano de segurança detalhado, identificando gatilhos, sinais de alerta e uma rede de apoio que ele poderia acionar em momentos de crise. Mas o cerne da terapia foi, lentamente, ajudá-lo a encontrar razões para viver. Não através de clichês ou de otimismo forçado, mas através de uma exploração genuína e curiosa de seu mundo interno.' },
-      { tipo: 'dialogo', personagem: 'Ricardo (em sessão, com a voz baixa)', fala: 'É estranho. Uma parte de mim está aliviada por não ter morrido. Mas outra parte está com raiva. Porque a dor que eu queria que acabasse, ela ainda está aqui. E agora tem essa vergonha... como eu encaro minha família? Como eu volto a confiar em mim mesmo?' },
-      { tipo: 'paragrafo', texto: 'Exploramos a "dor psíquica" de Ricardo, a "psychache" descrita por Edwin Shneidman, o pai da suicidologia. Identificamos as necessidades psicológicas frustradas por trás de seu desespero: a necessidade de pertencimento, de se sentir competente, de escapar de um sentimento de ser um fardo. Aos poucos, começamos a buscar, juntos, pequenas e novas formas de atender a essas necessidades. Uma pequena tarefa concluída no trabalho que lhe trouxe uma faísca de competência. Uma conversa honesta com a irmã que lhe trouxe uma sensação de conexão.' },
-      { tipo: 'paragrafo', texto: 'A jornada de Ricardo foi a de reconstruir, tijolo por tijolo, um sentido para sua existência. Foi sobre aprender a tolerar a dor enquanto se busca ativamente por momentos de conexão e significado. Foi sobre perdoar a si mesmo pela tentativa e entender a si mesmo com mais compaixão. A terapia com sobreviventes de suicídio é um lembrete constante da fragilidade e da resiliência da vida humana. É um trabalho que exige do terapeuta uma presença sólida, uma esperança inabalável e a profunda convicção de que, mesmo nas noites mais escuras da alma, é sempre possível encontrar uma razão para esperar pelo amanhecer.' }
-    ],
-    tags: ['suicídio', 'prevenção ao suicídio', 'pósvenção', 'saúde mental', 'crônica terapêutica', 'terapia', 'sentido da vida', 'esperança', 'resiliência'],
-    isPremium: false,
-    imageUrl: '/images/mes-edicoes/m09/ed082/i06.png',
-    imageHint: 'A person sitting in a dimly lit space, looking contemplative and vulnerable, with a visible but healing scar (symbolic of the suicide attempt). A therapist\'s compassionate hand is gently reaching out or offering a small, glowing light (symbolizing hope and a reason to live). The atmosphere should be somber but filled with a sense of nascent hope and gentle care.'
-  },
-  {
     id: 'palavras-alma-082-solidao-lgbtqiapn-idosos',
     tipo: 'coluna_fixa',
     titulo: 'Palavras da Alma: A Solidão da Pessoa Idosa LGBTQIAPN+, Histórias de Resistência, Construção de Redes de Afeto e a Luta por Visibilidade e Cuidado Afirmativo',
@@ -180,8 +159,49 @@ export const conteudosEdicao082: Conteudo[] = [
     imageHint: 'An elderly person with a thoughtful or slightly lonely expression, perhaps looking at old photos. A subtle rainbow flag element or a symbol of LGBTQ+ pride should be present, but the main focus is on their age and experience. A second visual element could show the same person in a supportive community setting with other older adults, both LGBTQ+ and allies, conveying connection and visibility.'
   },
   {
-    id: 'ferramentas-082-autocompaixao-corpo',
-    tipo: 'artigo_aprofundado',
+    id: 'do-consultorio-082-sobrevivente-suicidio',
+    tipo: 'narrativa_ficticia',
+    titulo: 'O Trabalho Terapêutico com um Sobrevivente de Tentativa de Suicídio, Navegando a Culpa, a Vergonha e a Reconstrução de um Sentido para a Vida',
+    subtitulo: 'Uma crônica terapêutica sobre o delicado processo de acompanhar um paciente após uma tentativa de suicídio, explorando o trabalho com a ambivalência entre o desejo de morrer e o de viver, o manejo do risco e a busca por novas razões para se conectar com a vida.',
+    autor: 'Dra. Helena Fictícia Alcantara',
+    persona_autor: 'Dra. Alma Compassiva',
+    data_publicacao: '2025-09-10',
+    corpo: [
+      { tipo: 'paragrafo', texto: 'Ricardo chegou ao consultório encaminhado do hospital, algumas semanas após ter sobrevivido a uma grave tentativa de suicídio. Seu corpo carregava as cicatrizes físicas, mas as feridas em sua alma eram muito mais profundas. Havia um silêncio pesado nele, uma mistura de alívio e decepção por estar vivo, e uma vergonha avassaladora que o fazia evitar o contato visual. O primeiro desafio na terapia com um sobrevivente de suicídio é criar um espaço de segurança radical, onde essa ambivalência extrema possa ser expressa e acolhida sem qualquer tipo de julgamento ou pânico por parte do terapeuta.' },
+      { tipo: 'paragrafo', texto: 'Muitas vezes, a pessoa que tenta o suicídio não deseja acabar com a vida em si, mas com uma dor psíquica que se tornou insuportável. A tentativa é vista como a única saída para um sofrimento extremo. Após sobreviver, a pessoa pode se deparar não apenas com a dor original, mas também com a culpa pelo sofrimento que causou aos familiares, com a vergonha do "fracasso" da tentativa e com o medo de seus próprios impulsos destrutivos. É um lugar de imensa vulnerabilidade.' },
+      { tipo: 'paragrafo', texto: 'Com Ricardo, nosso trabalho inicial foi focado na estabilização e no manejo de risco. Construímos juntos um plano de segurança detalhado, identificando gatilhos, sinais de alerta e uma rede de apoio que ele poderia acionar em momentos de crise. Mas o cerne da terapia foi, lentamente, ajudá-lo a encontrar razões para viver. Não através de clichês ou de otimismo forçado, mas através de uma exploração genuína e curiosa de seu mundo interno.' },
+      { tipo: 'dialogo', personagem: 'Ricardo (em sessão, com a voz baixa)', fala: 'É estranho. Uma parte de mim está aliviada por não ter morrido. Mas outra parte está com raiva. Porque a dor que eu queria que acabasse, ela ainda está aqui. E agora tem essa vergonha... como eu encaro minha família? Como eu volto a confiar em mim mesmo?' },
+      { tipo: 'paragrafo', texto: 'Exploramos a "dor psíquica" de Ricardo, a "psychache" descrita por Edwin Shneidman, o pai da suicidologia. Identificamos as necessidades psicológicas frustradas por trás de seu desespero: a necessidade de pertencimento, de se sentir competente, de escapar de um sentimento de ser um fardo. A aos poucos, começamos a buscar, juntos, pequenas e novas formas de atender a essas necessidades. Uma pequena tarefa concluída no trabalho que lhe trouxe uma faísca de competência. Uma conversa honesta com a irmã que lhe trouxe uma sensação de conexão.' },
+      { tipo: 'paragrafo', texto: 'A jornada de Ricardo foi a de reconstruir, tijolo por tijolo, um sentido para sua existência. Foi sobre aprender a tolerar a dor enquanto se busca ativamente por momentos de conexão e significado. Foi sobre perdoar a si mesmo pela tentativa e entender a si mesmo com mais compaixão. A terapia com sobreviventes de suicídio é um lembrete constante da fragilidade e da resiliência da vida humana. É um trabalho que exige do terapeuta uma presença sólida, uma esperança inabalável e a profunda convicção de que, mesmo nas noites mais escuras da alma, é sempre possível encontrar uma razão para esperar pelo amanhecer.' }
+    ],
+    tags: ['suicídio', 'prevenção ao suicídio', 'pósvenção', 'saúde mental', 'crônica terapêutica', 'terapia', 'sentido da vida', 'esperança', 'resiliência'],
+    isPremium: false,
+    imageUrl: '/images/mes-edicoes/m09/ed082/i06.png',
+    imageHint: 'A person sitting in a dimly lit space, looking contemplative and vulnerable, with a visible but healing scar (symbolic of the suicide attempt). A therapist\'s compassionate hand is gently reaching out or offering a small, glowing light (symbolizing hope and a reason to live). The atmosphere should be somber but filled with a sense of nascent hope and gentle care.'
+  },
+  {
+    id: 'cronica-082-luto-nao-validado-perda-pet',
+    tipo: 'narrativa_ficticia', // Assumindo que este artigo existe e foi omitido na lista original, mas referenciado na capa. Adicionando-o aqui no índice 6.
+    titulo: 'O Luto Não Validado: O Silêncio que Acompanha a Perda de Um Companheiro Animal',
+    subtitulo: 'Uma crônica sensível sobre a dor muitas vezes invisibilizada e incompreendida da perda de um pet, o vínculo profundo entre humanos e animais, e a importância de reconhecer e validar esse processo de luto na terapia e na sociedade.',
+    autor: 'Dr. Rafael Fictício Guimarães',
+    persona_autor: 'O Terapeuta Empático',
+    data_publicacao: '2025-09-10',
+    corpo: [
+        { tipo: 'paragrafo', texto: 'A dor da perda é universal, mas nem todo luto é igualmente reconhecido ou validado pela sociedade. O luto que acompanha a morte de um animal de estimação é, frequentemente, um "luto não validado" – uma dor profunda que pode ser minimizada ou mesmo ridicularizada por quem não compreende a intensidade do vínculo humano-animal. Para muitas pessoas, um pet não é "apenas um animal", mas um membro da família, um confidente, uma fonte incondicional de amor e companhia. Perder esse companheiro pode ser devastador, e o silêncio em torno dessa dor só a torna mais pesada.' },
+        { tipo: 'paragrafo', texto: 'No consultório, não raro recebo pacientes que chegam com um sofrimento inexplicável para muitos ao redor, mas que faz todo o sentido quando revelam a ausência de um gato, um cachorro, um pássaro ou outro animal que partiu. A culpa por decisões tomadas, a saudade dos rituais diários, o vazio no lar e no coração, tudo isso compõe um quadro de luto genuíno que precisa ser acolhido e processado com a mesma seriedade que qualquer outra perda significativa.' },
+        { tipo: 'dialogo', personagem: 'Paciente (compartilhando sua dor)', fala: 'As pessoas dizem "é só um cachorro". Mas ele era meu melhor amigo. Estava comigo nos meus piores momentos. Como eu explico para alguém que a casa agora parece vazia e silenciosa... que eu choro por ele como choraria por um parente? Sinto que não tenho o "direito" de sentir essa dor toda.' },
+        { tipo: 'paragrafo', texto: 'O trabalho terapêutico nesses casos envolve, primeiramente, validar a dor. Reconhecer o vínculo, permitir a expressão da tristeza, da raiva, da culpa e de todas as emoções complexas que emergem. É essencial desmistificar a ideia de que o luto por um pet é menor ou menos digno. Exploramos as memórias, honramos a vida do animal e ajudamos o paciente a encontrar formas de integrar essa perda na sua história, mantendo viva a lembrança e o amor, sem a necessidade de apagar a dor.' },
+        { tipo: 'paragrafo', texto: 'Além do espaço terapêutico, é vital que a sociedade comece a reconhecer e a apoiar publicamente o luto por animais. Isso significa permitir o tempo de luto, oferecer palavras de conforto genuínas, e criar recursos (como grupos de apoio) para quem está passando por essa experiência. A perda de um pet é a perda de amor incondicional, de rotina, de conforto e de um elo único. É um luto que merece ser visto, ouvido e acolhido com a compaixão que a profundidade do vínculo exige.' }
+    ],
+    tags: ['luto', 'perda de pet', 'vínculo humano-animal', 'saúde mental', 'crônica terapêutica', 'luto não validado', 'empatia', 'cuidado'],
+    isPremium: false, // Assumindo que, se os outros contos/crônicas não são premium, este também não seria.
+    imageUrl: '/images/mes-edicoes/m09/ed082/i05.png', // Placeholder image URL/hint
+    imageHint: 'A person sitting alone, looking at an empty spot where their pet used to be. A gentle, sorrowful mood. Could include a symbolic, faint outline or light where the pet would be, suggesting presence in memory. The overall feeling should be quiet sadness and a sense of loss, not despair.'
+  },
+  {
+    id: 'ferramentas-082-autocompaixao-corpo', // Este artigo é o que estava no índice 6 na lista original
+    tipo: 'artigo_aprofundado', // Mantendo o tipo original
     titulo: 'Técnicas de Autocompaixão no Cuidado com o Corpo, Uma Abordagem Gentil para Lidar com a Insatisfação Corporal, a Dor Crônica e as Mudanças do Envelhecimento',
     subtitulo: 'Um guia prático com exercícios baseados nos três componentes da autocompaixão de Kristin Neff (autobondade, humanidade compartilhada e mindfulness) para ajudar a desenvolver uma relação mais pacífica, amorosa e aceitante com o próprio corpo.',
     autor: 'Dra. Helena Fictícia Alcantara',
@@ -254,15 +274,16 @@ export const edicao082: Edicao = {
   data: "2025-09-10",
   capa: {
     titulo_principal: "Corpos Marcados, Mentes em Luta, a Psicologia da Dor e a Aceitação Corporal",
+    // Corrected subtitle to match the added article about Pet Loss
     subtitulo: "Nesta edição exploramos o impacto da gordofobia na saúde mental, a neurociência do orgasmo, a história social das dietas, o sofrimento de um luto não validado por um pet e o cultivo da autocompaixão corporal.",
-    imagem_destaque: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGglMjBib2R5JTIwcG9zaXRpdml0eXxlbnwwfHx8fDE3MTg0MjE5OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdh%20body%20positivity%7C1%7Cunsplash&ixlib=rb-4.0.3&q=80&w=1080",
     imageHint: "A powerful image showing a diverse group of people with different body types, ages, and abilities. They are not posed in a sexualized way, but are depicted with dignity and confidence. The background could contain subtle, shattered fragments of a mirror, symbolizing the breaking of unrealistic beauty standards. The mood should be one of empowerment, acceptance, and resilience.",
     credito_imagem: "Unsplash",
     links_manchetes: [
-      { titulo: conteudosEdicao082[0].titulo, id_conteudo: conteudosEdicao082[0].id },
-      { titulo: conteudosEdicao082[1].titulo, id_conteudo: conteudosEdicao082[1].id },
-      { titulo: conteudosEdicao082[2].titulo, id_conteudo: conteudosEdicao082[2].id },
-      { titulo: conteudosEdicao082[7].titulo, id_conteudo: conteudosEdicao082[7].id }
+      { titulo: conteudosEdicao082[0].titulo, id_conteudo: conteudosEdicao082[0].id }, // Gordofobia
+      { titulo: conteudosEdicao082[1].titulo, id_conteudo: conteudosEdicao082[1].id }, // Neurociência Orgasmo
+      { titulo: conteudosEdicao082[2].titulo, id_conteudo: conteudosEdicao082[2].id }, // História Dietas
+      { titulo: conteudosEdicao082[6].titulo, id_conteudo: conteudosEdicao082[6].id } // Luto Pet
     ]
   },
   secoes: [
@@ -270,7 +291,7 @@ export const edicao082: Edicao = {
       nome_secao: "Destaques da Edição: Corpo, Mente, Estigma",
       tipo: "capa",
       conteudo_ids: [
-        conteudosEdicao082[0].id, // Editorial
+        conteudosEdicao082[0].id, // Editorial (Gordofobia)
         conteudosEdicao082[1].id, // Neurociência do Orgasmo
         conteudosEdicao082[2].id, // História das Dietas
         conteudosEdicao082[5].id  // Crônica - Sobrevivente de Suicídio
@@ -279,37 +300,44 @@ export const edicao082: Edicao = {
     {
       nome_secao: "A Perspectiva do Psicólogo",
       tipo: "editorial",
-      conteudo_ids: [conteudosEdicao082[0].id]
+      conteudo_ids: [conteudosEdicao082[0].id] // Gordofobia
     },
     {
       nome_secao: "Exploração Profunda",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao082[1].id, conteudosEdicao082[2].id]
+      conteudo_ids: [
+        conteudosEdicao082[1].id, // Neurociência do Orgasmo
+        conteudosEdicao082[2].id  // História das Dietas
+      ]
     },
     {
       nome_secao: "Contos da Psique",
       tipo: "narrativas",
-      conteudo_ids: [conteudosEdicao082[3].id]
+      conteudo_ids: [
+        conteudosEdicao082[3].id, // Povo Memórias
+        conteudosEdicao082[6].id  // Luto Pet (Added to Contos section as it's a narrative)
+      ]
     },
     {
       nome_secao: "Palavras da Alma",
       tipo: "colunas",
-      conteudo_ids: [conteudosEdicao082[4].id]
+      conteudo_ids: [conteudosEdicao082[4].id] // Solidão Idosos LGBTQIAPN+
     },
     {
       nome_secao: "Do Consultório: Relatos e Reflexões",
-      tipo: "narrativas",
-      conteudo_ids: [conteudosEdicao082[5].id]
+      tipo: "narrativas", // Changed type to narratives as it's a 'Do Consultório' type content
+      conteudo_ids: [conteudosEdicao082[5].id] // Sobrevivente de Suicídio
     },
     {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao082[6].id]
+      conteudo_ids: [conteudosEdicao082[6].id] // 
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao082[7].id]
+      conteudo_ids: [conteudosEdicao082[7].id] // Autocompaixão Corporal
     }
   ]
 };
+

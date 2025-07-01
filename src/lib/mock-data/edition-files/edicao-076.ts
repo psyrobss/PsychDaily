@@ -170,6 +170,35 @@ export const conteudosEdicao076: Conteudo[] = [
     imageHint: 'A person is shown being pulled in multiple directions by strings, as if a marionette, controlled by other figures representing family or partners. The visual should then transition or show a separate image of the same person confidently cutting one of the strings and holding a compass, symbolizing the journey towards autonomy and self-directedness.'
   },
   {
+    id: 'psicofarmaco-076-psicofarmacos-idosos',
+    tipo: 'artigo_aprofundado',
+    titulo: 'Psicofármacos em Idosos: Um Guia de Cuidado e Atenção, Considerando Metabolismo, Interações e Riscos Específicos nessa População',
+    subtitulo: 'Uma exploração sobre as particularidades da prescrição e uso de medicamentos psicotrópicos em idosos, destacando a necessidade de doses mais baixas, monitoramento cuidadoso de efeitos colaterais, interações medicamentosas e a importância de abordagens não farmacológicas.',
+    autor: 'Dr. Arthur Fictício Mendes Neto',
+    persona_autor: 'Dr. Analítico',
+    data_publicacao: '2025-09-02',
+    corpo: [
+      { tipo: 'paragrafo', texto: 'A população idosa (geralmente definida como indivíduos com 65 anos ou mais) representa um desafio particular no campo da psicofarmacologia. Com o envelhecimento, ocorrem alterações fisiológicas significativas que afetam a forma como o corpo absorve, distribui, metaboliza e elimina medicamentos (farmacocinética), e também como os medicamentos interagem com os receptores no cérebro e em outras partes do corpo (farmacodinâmica). Essas mudanças tornam os idosos mais suscetíveis a efeitos colaterais, interações medicamentosas e a respostas atípicas aos psicofármacos. A prescrição e o monitoramento nessa faixa etária exigem um cuidado e uma atenção redobrados, visando maximizar os benefícios terapêuticos e minimizar os riscos.' },
+      { tipo: 'sub_cabecalho', texto: 'Particularidades Farmacocinéticas e Farmacodinâmicas em Idosos:' },
+      { tipo: 'paragrafo', texto: 'Com o envelhecimento, geralmente há uma diminuição da massa muscular e da água corporal total, enquanto a gordura corporal pode aumentar. Isso afeta a distribuição dos medicamentos, especialmente aqueles que se dissolvem bem em gordura. A função hepática (metabolismo) e renal (eliminação) também tendem a diminuir, o que pode levar ao acúmulo de medicamentos no corpo, aumentando o risco de toxicidade. No nível farmacodinâmico, o cérebro envelhecido pode apresentar uma sensibilidade alterada aos efeitos dos psicofármacos. Por exemplo, os idosos podem ser mais sensíveis aos efeitos sedativos e anticolinérgicos de certos medicamentos, aumentando o risco de quedas, confusão mental e outros eventos adversos.' },
+      { tipo: 'sub_cabecalho', texto: 'Princípios Essenciais na Prescrição para Idosos:' },
+      { tipo: 'lista_ordenada', itens: [
+        { texto: 'Começar Baixo e Ir Devagar (Start Low and Go Slow): A dose inicial deve ser significativamente mais baixa do que a usada em adultos mais jovens, e qualquer aumento na dose deve ser feito de forma muito gradual, monitorando de perto a resposta e os efeitos colaterais.' },
+        { texto: 'Revisão Regular da Lista de Medicamentos: Idosos frequentemente usam múltiplos medicamentos para diversas condições médicas (polifarmácia), o que aumenta dramaticamente o risco de interações medicamentosas perigosas. É fundamental revisar regularmente todos os medicamentos que o paciente utiliza (incluindo suplementos e medicamentos sem prescrição) para identificar e evitar interações.' },
+        { texto: 'Monitoramento Atento dos Efeitos Colaterais: Efeitos colaterais comuns em idosos incluem tontura, sedação excessiva, confusão, quedas, efeitos anticolinérgicos (boca seca, constipação, retenção urinária), e alterações cognitivas. O monitoramento deve ser contínuo.' },
+        { texto: 'Considerar Abordagens Não Farmacológicas: Antes de iniciar ou aumentar um psicofármaco, é crucial explorar e otimizar abordagens não medicamentosas, como terapia, mudanças no estilo de vida, suporte social e tratamento de condições médicas coexistentes que possam estar contribuindo para os sintomas psiquiátricos.' },
+        { texto: 'Educação do Paciente e Cuidadores: É vital que o idoso e seus cuidadores compreendam para que serve o medicamento, como tomá-lo corretamente, quais efeitos colaterais esperar e quando procurar ajuda médica.' }
+      ]},
+      { tipo: 'sub_cabecalho', texto: 'Desafios Específicos e Considerações por Classe de Medicamento:' },
+      { tipo: 'paragrafo', texto: 'O uso de antidepressivos, ansiolíticos (benzodiazepínicos devem ser usados com extrema cautela e por curtos períodos devido ao risco de sedação, quedas, confusão e dependência), antipsicóticos e estabilizadores de humor em idosos exige conhecimento aprofundado das particularidades de cada classe nessa população. Por exemplo, alguns antidepressivos podem ter mais efeitos anticolinérgicos ou cardiovasculares em idosos. Antipsicóticos podem aumentar o risco de acidentes vasculares cerebrais (AVCs) e mortalidade em idosos com demência.' },
+      { tipo: 'paragrafo', texto: 'Em resumo, a psicofarmacologia em idosos não é simplesmente uma questão de ajustar doses, mas sim de integrar um conhecimento sólido sobre as mudanças fisiológicas do envelhecimento com uma avaliação clínica cuidadosa, um monitoramento rigoroso e uma comunicação aberta com o paciente e sua rede de apoio. O objetivo é garantir que o tratamento medicamentoso, quando necessário, seja o mais seguro e eficaz possível, promovendo a qualidade de vida nessa importante fase da vida.' }
+    ],
+    tags: ['psicofármacos', 'idosos', 'psicogeriatria', 'farmacologia', 'saúde do idoso', 'polifarmácia', 'efeitos colaterais', 'cuidado farmacêutico', 'medicação'],
+    isPremium: true,
+    imageUrl: '/images/mes-edicoes/m09/ed076/i05.png',
+    imageHint: 'An image depicting the complexity of medication in older adults. Show an elderly person surrounded by several different pill bottles, connected by subtle lines to diagrams illustrating physiological changes (like a liver, kidney, or brain) or potential interactions between the medications. The tone should be one of careful consideration and expertise, emphasizing the need for vigilance and tailored care.'
+  },
+  {
     id: 'palavras-alma-076-preconceito-linguistico',
     tipo: 'coluna_fixa',
     titulo: 'Palavras da Alma: Preconceito Linguístico e o Impacto na Autoestima e nas Oportunidades – Quando a Norma Vira Arma e o Sotaque Vira Estigma',
@@ -237,7 +266,6 @@ export const edicao076: Edicao = {
     credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: conteudosEdicao076[0].titulo, id_conteudo: conteudosEdicao076[0].id },
-      { titulo: conteudosEdicao076[1].titulo, id_conteudo: conteudosEdicao076[1].id },
       { titulo: conteudosEdicao076[2].titulo, id_conteudo: conteudosEdicao076[2].id },
       { titulo: conteudosEdicao076[7].titulo, id_conteudo: conteudosEdicao076[7].id }
     ]
@@ -281,7 +309,7 @@ export const edicao076: Edicao = {
     {
       nome_secao: "Psicofarmacologia: Entre a Cura e a Crítica",
       tipo: "caderno_especial",
-      conteudo_ids: [conteudosEdicao076[6].id]
+      conteudo_ids: [conteudosEdicao076[5].id]
     },
     {
       nome_secao: "Ferramentas para o Bem-Estar: Técnicas Terapêuticas",
