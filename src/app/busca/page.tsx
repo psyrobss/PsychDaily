@@ -1,4 +1,3 @@
-
 'use client';
 
 import { useState, useEffect, useMemo } from 'react';
@@ -7,8 +6,10 @@ import { Input } from '@/components/ui/input';
 import ArticleCard from '@/components/ArticleCard';
 import { conteudos as todosConteudos } from '@/lib/mock-data/index';
 import type { Conteudo } from '@/lib/types';
-import { Search, Frown } from 'lucide-react';
+import { Search, Frown, Library } from 'lucide-react';
 import { Separator } from '@/components/ui/separator';
+import { Button } from '@/components/ui/button';
+import Link from 'next/link';
 
 export default function BuscaPage() {
   const searchParams = useSearchParams();
@@ -70,7 +71,7 @@ export default function BuscaPage() {
         </p>
       </header>
 
-      <div className="max-w-2xl mx-auto">
+      <div className="max-w-2xl mx-auto space-y-4">
         <div className="relative">
           <Input
             type="search"
@@ -81,6 +82,14 @@ export default function BuscaPage() {
             aria-label="Campo de busca"
           />
           <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
+        </div>
+        <div className="text-center">
+            <Button variant="link" asChild>
+                <Link href="/indice" className='text-muted-foreground font-sans'>
+                    <Library className="mr-2 h-4 w-4" />
+                    Ou navegue pelo índice completo de matérias
+                </Link>
+            </Button>
         </div>
       </div>
 
@@ -122,5 +131,3 @@ export default function BuscaPage() {
     </div>
   );
 }
-
-    

@@ -143,53 +143,48 @@ export const conteudosEdicao033: Conteudo[] = [
     imageUrl: '/images/mes-edicoes/m07/ed033/i06.png',
     imageHint: 'person looking mirror smiling'
   },
-  {
-    id: 'tecnica-033-roda-vida',
-    tipo: 'artigo_aprofundado',
-    titulo: 'A Roda da Vida: Mapeando o Equilíbrio e Definindo Metas Estratégicas para o Desenvolvimento Pessoal Integral',
-    subtitulo: 'Um guia prático sobre como utilizar a ferramenta da Roda da Vida para avaliar a satisfação em diversas áreas e criar um plano de ação para uma vida mais equilibrada e com propósito.',
-    autor: 'Dr. Arthur Fictício Mendes Neto',
-    persona_autor: 'Dr. Analítico',
-    data_publicacao: '2025-07-02',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'A Roda da Vida é uma ferramenta de autoavaliação visual e introspectiva amplamente utilizada em coaching, desenvolvimento pessoal e algumas abordagens terapêuticas. Ela oferece uma maneira simples, mas profunda, de obter um "instantâneo" do seu nível de satisfação e equilíbrio percebido em diferentes áreas importantes da sua vida, ajudando a identificar quais domínios podem estar necessitando de mais atenção, energia ou desenvolvimento.' },
-      { tipo: 'paragrafo', texto: 'A premissa é que uma vida plena e equilibrada envolve um bom funcionamento em múltiplas dimensões, e não apenas em uma ou duas. Negligenciar consistentemente uma área importante pode, eventualmente, impactar negativamente as outras e o bem-estar geral. A Roda da Vida não é um teste diagnóstico, mas um instrumento de autoconhecimento e um ponto de partida para a reflexão e o estabelecimento de metas de melhoria.' },
-      { tipo: 'sub_cabecalho', texto: 'Como Construir e Utilizar sua Roda da Vida:' },
-      { tipo: 'paragrafo', texto: '1. Desenhe um Círculo: Em uma folha de papel, desenhe um círculo grande. Divida este círculo em 8 ou 10 fatias (como uma pizza), dependendo de quantas áreas da vida você quer avaliar. Cada fatia representará uma área.'},
-      { tipo: 'paragrafo', texto: '2. Nomeie as Áreas da Vida: Escolha as áreas que são mais relevantes para você. Algumas categorias comuns incluem:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Carreira / Trabalho / Propósito Profissional' },
-          { texto: 'Finanças / Dinheiro' },
-          { texto: 'Saúde Física / Bem-Estar Corporal (incluindo sono, alimentação, exercício)' },
-          { texto: 'Relacionamentos Afetivos / Amorosos' },
-          { texto: 'Família (relacionamento com pais, filhos, irmãos, etc.)' },
-          { texto: 'Vida Social / Amigos / Lazer / Diversão' },
-          { texto: 'Desenvolvimento Pessoal / Aprendizado / Intelectualidade' },
-          { texto: 'Espiritualidade / Propósito de Vida / Contribuição' },
-          { texto: 'Ambiente Físico (casa, organização)' },
-          { texto: 'Saúde Emocional / Equilíbrio Mental' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'Escreva o nome de cada área escolhida em uma das fatias do círculo.'},
-      { tipo: 'paragrafo', texto: '3. Avalie seu Nível de Satisfação: Para cada área, reflita honestamente sobre seu nível atual de satisfação, em uma escala de 0 (totalmente insatisfeito, no centro do círculo) a 10 (totalmente satisfeito e realizado, na borda externa do círculo). Marque um ponto na linha divisória da fatia correspondente à sua nota para aquela área.'},
-      { tipo: 'imagem', url: 'https://placehold.co/400x400.png', legenda: 'Exemplo visual de uma Roda da Vida preenchida.', imageHint: 'life balance diagram'},
-      { tipo: 'paragrafo', texto: '4. Conecte os Pontos: Depois de avaliar todas as áreas, conecte os pontos que você marcou em cada fatia. Isso criará uma nova forma dentro do seu círculo, que representa visualmente o seu "equilíbrio" atual. Se a roda estiver muito irregular ou com muitas áreas próximas ao centro, isso indica desequilíbrios e áreas que podem precisar de mais foco.'},
-      { tipo: 'sub_cabecalho', texto: 'Interpretando e Agindo sobre sua Roda da Vida:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-          { texto: 'Observe o Formato: Uma roda mais redonda e com notas mais altas geralmente indica maior equilíbrio e satisfação. Áreas com notas baixas são as que "achatam" a roda e podem estar impactando seu bem-estar.' },
-          { texto: 'Identifique Prioridades: Quais áreas, se melhoradas, teriam o maior impacto positivo em sua vida geral? Não tente mudar tudo de uma vez. Escolha 1 a 3 áreas para focar inicialmente.' },
-          { texto: 'Defina Metas SMART: Para cada área prioritária, defina metas Específicas, Mensuráveis, Alcançáveis, Relevantes e com Prazo definido (SMART). Que pequenas ações você pode começar a tomar hoje ou esta semana para melhorar sua satisfação nessa área?' },
-          { texto: 'Crie um Plano de Ação: Detalhe os passos necessários para alcançar suas metas. Quais recursos você precisará? Quem pode te ajudar?' },
-          { texto: 'Revise Regularmente: A Roda da Vida não é estática. Refaça o exercício periodicamente (ex: a cada 3 ou 6 meses) para monitorar seu progresso, celebrar conquistas e reajustar suas metas conforme suas prioridades e circunstâncias mudam.' }
-        ]
-      },
-      { tipo: 'paragrafo', texto: 'A Roda da Vida é uma ferramenta de autoconsciência que pode impulsionar a mudança positiva. Ao visualizar claramente onde você está e onde gostaria de estar, você ganha clareza e motivação para tomar ações concretas em direção a uma vida mais equilibrada, satisfatória e alinhada com seus valores mais profundos.' }
-    ],
-    tags: ['roda da vida', 'desenvolvimento pessoal', 'equilíbrio', 'metas', 'coaching', 'técnicas terapêuticas', 'autoavaliação'],
-    isPremium: false,
-    imageUrl: '/images/mes-edicoes/m07/ed033/i07.png',
-    imageHint: 'life balance wheel chart'
-  }
+{
+  "id": "tecnica-062-psicoeducacao",
+  "tipo": "artigo_aprofundado",
+  "titulo": "Psicoeducação: Conhecer para Empoderar – A Base do Entendimento Terapêutico",
+  "subtitulo": "Desvende o papel fundamental da psicoeducação na terapia, compreendendo como ela capacita pacientes e famílias a entender e gerenciar diagnósticos, sintomas e estratégias de enfrentamento para a saúde mental.",
+  "autor": "Dr. Arthur Fictício Mendes Neto",
+  "persona_autor": "Dr. Explicador",
+  "data_publicacao": "2025-07-02",
+  "corpo": [
+    { "tipo": "paragrafo", "texto": "A psicoeducação é um componente fundamental em diversas abordagens terapêuticas, incluindo a Terapia Cognitivo-Comportamental (TCC) e a Terapia Comportamental Dialética (DBT). Ela consiste no processo sistemático de fornecer informações claras e acessíveis sobre saúde mental, diagnósticos, sintomas, causas, tratamentos e estratégias de enfrentamento, tanto para os pacientes quanto para suas famílias e cuidadores. O objetivo principal é capacitar os indivíduos, transformando-os de meros receptores de tratamento em participantes ativos e informados de sua própria jornada de cura e bem-estar." },
+    { "tipo": "paragrafo", "texto": "Em essência, a psicoeducação visa desmistificar a doença mental, reduzir o estigma associado a ela e, crucialmente, melhorar a adesão e o engajamento do paciente no processo terapêutico. Ao entender o que estão enfrentando e por que certas intervenções são necessárias, os pacientes podem tomar decisões mais informadas, aplicar estratégias de enfrentamento de forma mais eficaz e se sentir mais no controle de suas condições." },
+    { "tipo": "sub_cabecalho", "texto": "O Que É Psicoeducação?" },
+    { "tipo": "paragrafo", "texto": "Mais do que uma simples transmissão de dados, a psicoeducação é um diálogo. Ela é adaptada às necessidades e ao nível de compreensão de cada pessoa, e tipicamente aborda os seguintes temas:" },
+    { "tipo": "lista_nao_ordenada", "itens": [
+        { "texto": "**Natureza da Condição:** O que é o diagnóstico (ex: ansiedade, depressão, transtorno bipolar), seus critérios e como ele se manifesta." },
+        { "texto": "**Sintomas:** Detalhes sobre os sintomas específicos, sua intensidade e frequência, e como eles afetam o funcionamento diário." },
+        { "texto": "**Causas e Fatores de Risco:** Explanação sobre a complexidade dos fatores biológicos, psicológicos e sociais que podem contribuir para a condição." },
+        { "texto": "**Opções de Tratamento:** Visão geral das modalidades de tratamento disponíveis (terapia, medicação, terapias complementares) e como elas funcionam." },
+        { "texto": "**Estratégias de Enfrentamento e Habilidades:** Ensino prático de técnicas (como respiração, reestruturação cognitiva, regulação emocional) para lidar com os sintomas e desafios." },
+        { "texto": "**Manejo de Crises:** Orientação sobre como identificar e agir em situações de crise, e onde buscar ajuda de emergência." },
+        { "texto": "**Importância do Apoio Social:** O papel da família e amigos na recuperação e como eles podem oferecer suporte efetivo." }
+      ]
+    },
+    { "tipo": "sub_cabecalho", "texto": "A Importância da Psicoeducação no Tratamento:" },
+    { "tipo": "lista_nao_ordenada", "itens": [
+        { "texto": "**Redução do Estigma e da Auto-culpa:** Ajuda os indivíduos a entender que suas dificuldades são condições de saúde legítimas, não falhas de caráter, promovendo a autocompaixão." },
+        { "texto": "**Aumento da Adesão e Motivação ao Tratamento:** Quando os pacientes compreendem o porquê de cada técnica ou intervenção, a probabilidade de se engajarem ativamente e persistirem no tratamento aumenta significativamente." },
+        { "texto": "**Desenvolvimento de Habilidades de Enfrentamento:** Ao entender a natureza de seus desafios, os pacientes estão mais aptos a aprender e aplicar estratégias práticas para gerenciar seus sintomas no dia a dia." },
+        { "texto": "**Fortalecimento de Famílias e Cuidadores:** Familiares bem informados podem oferecer suporte mais eficaz, entender melhor o comportamento do paciente e reduzir a sobrecarga emocional própria." },
+        { "texto": "**Prevenção de Recaídas:** A capacidade de reconhecer sinais de alerta e aplicar as estratégias aprendidas precocemente é crucial para manter os ganhos terapêuticos a longo prazo." }
+      ]
+    },
+    { "tipo": "sub_cabecalho", "texto": "Como a Psicoeducação é Aplicada?" },
+    { "tipo": "paragrafo", "texto": "A psicoeducação pode ser entregue de várias formas: em sessões individuais de terapia (através de conversas e analogias), em grupos terapêuticos (onde a troca de experiências enriquece o aprendizado), com materiais escritos (folhetos, livros, guias), recursos audiovisuais e aplicativos. Ela não é um evento único, mas um processo contínuo que evolui conforme o paciente progride e suas necessidades mudam, solidificando o conhecimento ao longo do tempo." },
+    { "tipo": "imagem", "url": "/images/mes-edicoes/m07/ed062/i07i.png", "legenda": "Terapeuta e paciente dialogando sobre conceitos de saúde mental em sessão.", "imageHint": "doctor explaining brain diagram to patient"},
+    { "tipo": "paragrafo", "texto": "A psicoeducação transforma a percepção do paciente sobre si mesmo e sua condição. Ela transcende o consultório, promovendo um ciclo virtuoso de autoconhecimento, aplicação de habilidades e autonomia na gestão da saúde mental. É o primeiro passo para o empoderamento, permitindo que a jornada de cada indivíduo seja marcada por compreensão, esperança e progresso contínuo." }
+  ],
+  "tags": ["psicoeducacao", "saude mental", "TCC", "DBT", "empoderamento", "tratamento", "terapia", "psicologia"],
+  "isPremium": false,
+  "imageUrl": "/images/mes-edicoes/m07/ed062/i07.png",
+  "imageHint": "doctor explaining brain diagram to patient"
+}
 ];
 
 export const edicao033: Edicao = {
@@ -198,14 +193,14 @@ export const edicao033: Edicao = {
   capa: {
     titulo_principal: "Metacognição, Autocuidado e a Sabedoria do Perdão",
     subtitulo: "Nesta edição: A arte de pensar sobre o pensar, a essência do autocuidado, o TDAH em adultos e como a Roda da Vida pode guiar seu desenvolvimento.",
-    imagem_destaque: "https://images.unsplash.com/photo-1518708909080-704599b19972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8c2VsZmNhcmV8ZW58MHx8fHwxNzQ3NjI5Mzk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed033/capa.png",
     imageHint: "thinking brain selfcare",
     credito_imagem: "Unsplash",
     links_manchetes: [
       { titulo: conteudosEdicao033[1].titulo, id_conteudo: conteudosEdicao033[1].id }, // Metacognição
       { titulo: conteudosEdicao033[0].titulo, id_conteudo: conteudosEdicao033[0].id }, // Editorial Autocuidado
       { titulo: conteudosEdicao033[4].titulo, id_conteudo: conteudosEdicao033[4].id }, // Psicofarmaco TDAH Adulto
-      { titulo: conteudosEdicao033[6].titulo, id_conteudo: conteudosEdicao033[6].id }  // Técnica Roda da Vida
+      { titulo: conteudosEdicao033[6].titulo, id_conteudo: conteudosEdicao033[6].id }  // Técnica Psicoeducação
     ]
   },
   secoes: [

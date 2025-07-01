@@ -11,7 +11,7 @@ export const conteudosEdicao032: Conteudo[] = [
     persona_autor: 'Dra. Alma Compassiva',
     data_publicacao: '2025-07-01',
     corpo: [
-      { tipo: 'paragrafo', texto: 'Na tapeçaria complexa das relações humanas, a escuta ativa e empática emerge como um dos fios mais preciosos e, paradoxalmente, um dos mais frequentemente negligenciados. Em um mundo onde o ruído da informação e a pressa para expressar nossas próprias opiniões muitas vezes dominam, a capacidade de verdadeiramente ouvir o outro – com presença, curiosidade e sem julgamento – torna-se um ato revolucionário de conexão e respeito.' },
+      { tipo: 'paragrafo', texto: 'Na dinâmica complexa das relações humanas, a escuta ativa e empática emerge como um dos fios mais preciosos e, paradoxalmente, um dos mais frequentemente negligenciados. Em um mundo onde o ruído da informação e a pressa para expressar nossas próprias opiniões muitas vezes dominam, a capacidade de verdadeiramente ouvir o outro – com presença, curiosidade e sem julgamento – torna-se um ato revolucionário de conexão e respeito.' },
       { tipo: 'paragrafo', texto: 'Escutar ativamente não é apenas ficar em silêncio enquanto o outro fala; é um engajamento profundo que envolve prestar atenção não só às palavras, mas também ao tom de voz, à linguagem corporal e às emoções subjacentes. É sobre validar a experiência do outro, mesmo que não concordemos com ela, criando um espaço seguro onde ele se sinta visto, compreendido e valorizado. Essa forma de escuta transcende a mera troca de informações; ela nutre a confiança, fortalece os laços e é fundamental para a resolução construtiva de conflitos.' },
       { tipo: 'paragrafo', texto: 'A empatia, nesse contexto, não é sentir exatamente o que o outro sente – o que seria impossível – mas sim um esforço genuíno para compreender sua perspectiva, suas necessidades e seus sentimentos a partir de seu próprio quadro de referência. É suspender nossos próprios filtros e preconceitos para realmente tentar "caminhar um pouco nos sapatos do outro".' },
       { tipo: 'sub_cabecalho', texto: 'Cultivando a Escuta que Transforma:' },
@@ -129,7 +129,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['psicologia do esporte', 'desempenho atlético', 'motivação', 'foco mental', 'ansiedade competitiva', 'visualização', 'saúde mental do atleta'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i05.png',
     imageHint: 'athlete focused mind'
   },
   {
@@ -150,7 +150,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['luto complicado', 'perda', 'terapia', 'arteterapia', 'grupo de apoio', 'crônica', 'resiliência', 'significado', 'cura emocional'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i06.png',
     imageHint: 'cracked pottery flower'
   },
   {
@@ -178,7 +178,7 @@ export const conteudosEdicao032: Conteudo[] = [
     ],
     tags: ['relaxamento', 'estresse agudo', 'ansiedade', 'técnicas de enfrentamento', 'mindfulness', 'respiração', 'grounding', 'autocuidado'],
     isPremium: false,
-    imageUrl: '/images/mes-edicoes/m07/ed032/i01.png',
+    imageUrl: '/images/mes-edicoes/m07/ed032/i07.png',
     imageHint: 'calm breath quick'
   }
 ];
@@ -189,7 +189,7 @@ export const edicao032: Edicao = {
   capa: {
     titulo_principal: "Antipsicóticos em Debate, a Alma Esportiva e o Poder da Gratidão",
     subtitulo: "Nesta edição: Os desafios da esquizofrenia, a psicologia do esporte, a importância da escuta ativa e como cultivar a gratidão diária para o bem-estar.",
-    imagem_destaque: "https://images.unsplash.com/photo-1562243061-204550d8a2c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVkaWNpbmV8ZW58MHx8fHwxNzQ3NjU4NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed032/capa.png",
     imageHint: "brain sport gratitude",
     credito_imagem: "Unsplash",
     links_manchetes: [

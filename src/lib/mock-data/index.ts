@@ -6,14 +6,22 @@ import { equipeEditorial as allEquipeEditorial } from './team';
 import { edicoesMaio2025, conteudosMaio2025 } from './months/2025-05';
 import { edicoesJunho2025, conteudosJunho2025 } from './months/2025-06';
 import { edicoesJulho2025, conteudosJulho2025 } from './months/2025-07';
-// Adicione importações para outros meses aqui conforme eles são criados
+import { edicoesAgosto2025, conteudosAgosto2025 } from './months/2025-08';
+import { edicoesSetembro2025, conteudosSetembro2025 } from './months/2025-09';
+import { edicoesOutubro2025, conteudosOutubro2025 } from './months/2025-10';
+import { edicoesNovembro2025, conteudosNovembro2025 } from './months/2025-11';
+import { edicoesDezembro2025, conteudosDezembro2025 } from './months/2025-12';
 
 // Agregando todos os conteúdos
 export const conteudos: Conteudo[] = [
     ...conteudosMaio2025,
     ...conteudosJunho2025,
     ...conteudosJulho2025,
-    // Espalhe os conteúdos de outros meses aqui
+    ...conteudosAgosto2025,
+    ...conteudosSetembro2025,
+    ...conteudosOutubro2025,
+    ...conteudosNovembro2025,
+    ...conteudosDezembro2025,
 ];
 
 // Agregando todas as edições
@@ -21,7 +29,11 @@ export const edicoes: Edicao[] = [
     ...edicoesMaio2025,
     ...edicoesJunho2025,
     ...edicoesJulho2025,
-    // Espalhe as edições de outros meses aqui
+    ...edicoesAgosto2025,
+    ...edicoesSetembro2025,
+    ...edicoesOutubro2025,
+    ...edicoesNovembro2025,
+    ...edicoesDezembro2025,
 ];
 
 // Mantendo a exportação da equipe editorial
