@@ -111,7 +111,7 @@ export const conteudosEdicao033: Conteudo[] = [
       { tipo: 'lista_nao_ordenada', itens: [
         { texto: 'Medicação: Estimulantes (como metilfenidato e lisdexanfetamina) são frequentemente a primeira linha farmacológica e podem ser muito eficazes para melhorar o foco, a concentração e reduzir a impulsividade. Medicamentos não estimulantes (como atomoxetina) também são opções. A escolha e o ajuste da dose devem ser individualizados e monitorados por um médico.' },
         { texto: 'Psicoterapia: A Terapia Cognitivo-Comportamental (TCC) é particularmente útil para ajudar adultos com TDAH a desenvolverem estratégias de organização, planejamento, gerenciamento de tempo, regulação emocional e para lidar com a procrastinação e crenças disfuncionais sobre si mesmos.' },
-        { texto: 'Coaching para TDAH: Pode oferecer suporte prático e personalizado para desenvolver habilidades de funcionamento executivo no cotidiano.' },
+        { texto: 'Aprendizagem atencional para TDAH: Pode oferecer suporte prático e personalizado para desenvolver habilidades de funcionamento executivo no cotidiano.' },
         { texto: 'Psicoeducação: Compreender o TDAH, seus sintomas e como ele afeta o indivíduo é fundamental para o paciente e seus familiares, ajudando a reduzir o autoestigma e a buscar estratégias de enfrentamento mais eficazes.' },
         { texto: 'Estratégias Comportamentais e Ambientais: Criar rotinas estruturadas, usar lembretes visuais, dividir tarefas grandes em menores, minimizar distrações no ambiente de trabalho ou estudo, e incorporar pausas regulares podem ser muito úteis.' }
       ]},
@@ -177,7 +177,7 @@ export const conteudosEdicao033: Conteudo[] = [
     },
     { "tipo": "sub_cabecalho", "texto": "Como a Psicoeducação é Aplicada?" },
     { "tipo": "paragrafo", "texto": "A psicoeducação pode ser entregue de várias formas: em sessões individuais de terapia (através de conversas e analogias), em grupos terapêuticos (onde a troca de experiências enriquece o aprendizado), com materiais escritos (folhetos, livros, guias), recursos audiovisuais e aplicativos. Ela não é um evento único, mas um processo contínuo que evolui conforme o paciente progride e suas necessidades mudam, solidificando o conhecimento ao longo do tempo." },
-    { "tipo": "imagem", "url": "/images/mes-edicoes/m07/ed062/i07i.png", "legenda": "Terapeuta e paciente dialogando sobre conceitos de saúde mental em sessão.", "imageHint": "doctor explaining brain diagram to patient"},
+    { "tipo": "imagem", "url": "/images/mes-edicoes/m07/ed033/i07i.png", "legenda": "Terapeuta e paciente dialogando sobre conceitos de saúde mental em sessão.", "imageHint": "doctor explaining brain diagram to patient"},
     { "tipo": "paragrafo", "texto": "A psicoeducação transforma a percepção do paciente sobre si mesmo e sua condição. Ela transcende o consultório, promovendo um ciclo virtuoso de autoconhecimento, aplicação de habilidades e autonomia na gestão da saúde mental. É o primeiro passo para o empoderamento, permitindo que a jornada de cada indivíduo seja marcada por compreensão, esperança e progresso contínuo." }
   ],
   "tags": ["psicoeducacao", "saude mental", "TCC", "DBT", "empoderamento", "tratamento", "terapia", "psicologia"],
@@ -192,7 +192,7 @@ export const edicao033: Edicao = {
   data: "2025-07-02",
   capa: {
     titulo_principal: "Metacognição, Autocuidado e a Sabedoria do Perdão",
-    subtitulo: "Nesta edição: A arte de pensar sobre o pensar, a essência do autocuidado, o TDAH em adultos e como a Roda da Vida pode guiar seu desenvolvimento.",
+    subtitulo: "Nesta edição: A arte de pensar sobre o pensar, a essência do autocuidado, o TDAH em adultos e como a Psicoeducação pode guiar seu desenvolvimento.",
     imagem_destaque: "/images/mes-edicoes/m07/ed033/capa.png",
     imageHint: "thinking brain selfcare",
     credito_imagem: "PsychDaily Images",
