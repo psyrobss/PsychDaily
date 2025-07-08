@@ -133,36 +133,35 @@ export const conteudosEdicao036: Conteudo[] = [
     imageUrl: '/images/mes-edicoes/m07/ed036/i05.png',
     imageHint: 'halo effect portrait'
   },
-  {
-    id: 'psicofarmaco-036-betabloqueadores-ansiedade',
-    tipo: 'artigo_aprofundado',
-    titulo: 'Betabloqueadores para Ansiedade de Desempenho: Eficácia, Riscos e Uso Consciente Além do Palco',
-    subtitulo: 'Uma análise sobre o uso off-label de betabloqueadores (como propranolol) para controlar sintomas físicos da ansiedade de desempenho (ex: em músicos, palestrantes), seus mecanismos de ação, benefícios e as importantes considerações sobre riscos e alternativas.',
-    autor: 'Dra. Sofia Fictícia Klein',
-    persona_autor: 'A Farmacologista Cautelosa',
-    data_publicacao: '2025-07-07',
-    corpo: [
-      { tipo: 'paragrafo', texto: 'Os betabloqueadores, como o propranolol, são uma classe de medicamentos primariamente desenvolvida e aprovada para tratar condições cardiovasculares, como hipertensão, angina e arritmias. Eles atuam bloqueando os efeitos da adrenalina (epinefrina) e de outros hormônios do estresse nos receptores beta do corpo. No entanto, devido à sua capacidade de reduzir os sintomas físicos periféricos da ansiedade – como palpitações, tremores, sudorese e voz trêmula – os betabloqueadores têm sido cada vez mais utilizados "off-label" (fora das indicações aprovadas em bula) para o manejo da ansiedade de desempenho, também conhecida como "medo de palco".' },
-      { tipo: 'paragrafo', texto: 'Músicos, atores, palestrantes, estudantes antes de provas orais e outros profissionais que enfrentam situações de alta pressão e avaliação pública podem recorrer aos betabloqueadores para controlar essas manifestações físicas da ansiedade, que podem ser debilitantes e prejudicar o desempenho. A ideia é que, ao reduzir os sintomas físicos, a ansiedade cognitiva ("mental") também possa diminuir, permitindo uma performance mais focada e tranquila.' },
-      { tipo: 'sub_cabecalho', texto: 'Mecanismo de Ação e Benefícios Percebidos:' },
-      { tipo: 'paragrafo', texto: 'Ao bloquear os receptores beta-adrenérgicos, os betabloqueadores diminuem a resposta do sistema nervoso simpático. Isso resulta na redução da frequência cardíaca, da força de contração do coração e da pressão arterial. Para a ansiedade de desempenho, o principal benefício é a atenuação dos sintomas físicos que podem ser visíveis ou sentidos pelo indivíduo, como mãos trêmulas, coração acelerado ou voz instável. Muitos usuários relatam sentir-se mais calmos e controlados fisicamente, o que pode indiretamente melhorar a confiança e o foco mental.' },
-      { tipo: 'sub_cabecalho', texto: 'Riscos, Efeitos Colaterais e Considerações Críticas:' },
-      { tipo: 'paragrafo', texto: 'Apesar dos benefícios percebidos, o uso de betabloqueadores para ansiedade de desempenho, especialmente sem acompanhamento médico, não é isento de riscos:' },
-      { tipo: 'lista_nao_ordenada', itens: [
-        { texto: 'Efeitos Colaterais Cardiovasculares: Podem incluir bradicardia (frequência cardíaca lenta), hipotensão (pressão baixa), tontura, fadiga e extremidades frias. Em indivíduos com certas condições cardíacas preexistentes (como asma, insuficiência cardíaca descompensada, bloqueios cardíacos), o uso pode ser perigoso.' },
-        { texto: 'Não Tratam a Causa da Ansiedade: Betabloqueadores atuam nos sintomas físicos periféricos, mas não modificam os componentes cognitivos ou emocionais da ansiedade (os pensamentos e medos subjacentes). Podem mascarar a necessidade de desenvolver habilidades de enfrentamento mais robustas.' },
-        { texto: 'Potencial de Dependência Psicológica: O indivíduo pode começar a acreditar que só consegue performar bem com o uso do medicamento, desenvolvendo uma dependência psicológica.' },
-        { texto: 'Uso Off-Label e Falta de Supervisão: O uso sem prescrição e acompanhamento médico impede a avaliação de contraindicações, o ajuste adequado de dose e o monitoramento de efeitos adversos.' },
-        { texto: 'Embotamento da Resposta "Positiva" ao Estresse: Uma certa dose de adrenalina pode ser benéfica para o desempenho, fornecendo energia e foco ("eustresse"). Betabloqueadores podem, em alguns casos, levar a uma sensação de letargia ou falta de "brilho" na performance.' }
-      ]},
-      { tipo: 'paragrafo', texto: 'Para a ansiedade de desempenho, abordagens não medicamentosas, como a Terapia Cognitivo-Comportamental (TCC) – que inclui técnicas de reestruturação de pensamentos catastróficos, exposição gradual a situações temidas e treinamento de habilidades de relaxamento – são frequentemente consideradas o tratamento de primeira linha e mais sustentável a longo prazo. Técnicas como mindfulness e visualização também podem ser muito úteis.' },
-      { tipo: 'paragrafo', texto: 'O uso de betabloqueadores para ansiedade de desempenho deve ser uma decisão cuidadosamente ponderada e discutida com um médico, que poderá avaliar os riscos e benefícios no contexto individual do paciente, considerar alternativas e, se optar pelo uso, prescrever a dose adequada e orientar sobre o monitoramento. Não devem ser vistos como uma solução casual ou "pílula mágica" para o nervosismo normal diante de desafios.' }
-    ],
-    tags: ['betabloqueadores', 'ansiedade de desempenho', 'medo de palco', 'propranolol', 'psicofarmacologia', 'uso off-label', 'TCC'],
-    isPremium: false,
-    imageUrl: '/images/mes-edicoes/m07/ed036/i06.png',
-    imageHint: 'performance stage calm'
-  },
+{
+id: 'psicofarmaco-036-syrian-rue-depressao',
+tipo: 'artigo_aprofundado',
+titulo: 'Arruda Síria (Peganum harmala) na Depressão: Potencial Terapêutico, Riscos e Considerações Científicas',
+subtitulo: 'Uma análise sobre o uso tradicional e farmacológico da arruda síria (Peganum harmala) no tratamento de sintomas depressivos, seus mecanismos de ação (como inibição da monoamina oxidase), evidências emergentes e as importantes precauções quanto ao uso seguro e alternativas validadas.',
+autor: 'Dra. Sofia Fictícia Klein',
+persona_autor: 'A Farmacologista Cautelosa',
+data_publicacao: '2025-07-07',
+corpo: [
+{ "tipo": "paragrafo", "texto": "A Arruda Síria (Peganum harmala), planta nativa de regiões do Sudoeste Asiático e Norte da África, é um pilar em diversas culturas e práticas espirituais há milênios. Mais do que um 'recurso natural', é reverenciada como protetora, purificadora e um portal para o sagrado. [2, 3, 5] No Irã, o incenso de suas sementes, conhecido como 'espand', é queimado para purificar o ambiente e a mente, enquanto em outras tradições é usada em rituais para afastar o mau-olhado. [3] Sua conexão com o bem-estar emocional é intrínseca a essa visão de mundo holística, onde a saúde da mente não se separa da saúde do espírito e da comunidade." },
+{ "tipo": "paragrafo", "texto": "A narrativa científica ocidental frequentemente 'descobre' os alcaloides da planta, como a harmina e a harmalina, e os classifica como 'inibidores da monoamina oxidase' (IMAO). [4] Essa lente reducionista, embora útil em seu próprio contexto, ofusca séculos de conhecimento acumulado. Para as culturas que a utilizam, seu poder não reside em moléculas isoladas, mas na integridade da planta e na intenção de seu uso. A recente descoberta arqueológica de seu uso há 2700 anos na Península Arábica apenas confirma o que a tradição oral sempre soube. [6]" },
+{ "tipo": "sub_cabecalho", "texto": "Diálogos entre Saberes: A Visão Ocidental" },
+{ "tipo": "paragrafo", "texto": "Do ponto de vista farmacológico, os alcaloides da Arruda Síria inibem a enzima monoamina oxidase (MAO), aumentando a disponibilidade de neurotransmissores como a serotonina. [3, 4] Esse mecanismo é análogo ao de certos antidepressivos. No entanto, é crucial entender que essa é apenas *uma* linguagem para descrever um fenômeno complexo, que é compreendido de formas muito distintas em seus contextos originais. Isolar um 'princípio ativo' é uma prática da farmacologia moderna, que ignora as sinergias e o espírito da planta." },
+{ "tipo": "sub_cabecalho", "texto": "Riscos da Descontextualização e Apropriação" },
+{ "tipo": "paragrafo", "texto": "Os perigos associados à Arruda Síria surgem, majoritariamente, quando ela é retirada de seu contexto cultural e de seu sistema de conhecimento. Os riscos mais graves não vêm do uso tradicional, mas da mercantilização e da combinação inadequada com substâncias de outra matriz médica:" },
+{ "tipo": "lista_nao_ordenada", "itens": [
+{ "texto": "Conflito entre Sistemas Médicos: A interação com antidepressivos farmacêuticos (ISRS, IRSN) é um risco criado pelo encontro desinformado de dois sistemas de saúde distintos, podendo levar a crises hipertensivas ou síndrome serotoninérgica. [2]" },
+{ "texto": "Comoditização e Dosagem Imprudente: A venda de extratos padronizados e o uso sem o conhecimento tradicional sobre preparação e dosagem podem levar a experiências adversas, que são interpretadas como 'tóxicas' pela visão biomédica. [3]" },
+{ "texto": "Biopirataria e Apropriação Cultural: O maior risco é a apropriação de um saber ancestral para o desenvolvimento de 'novos' fármacos, sem o devido respeito, reconhecimento e reciprocidade com as comunidades de origem." },
+{ "texto": "Invalidação do Conhecimento Tradicional: Rotular a planta como 'não estudada' ou 'não comprovada' por ensaios clínicos randomizados é um ato de colonialidade epistêmica, que invalida milênios de conhecimento empírico e culturalmente validado." }
+]},
+{ "tipo": "paragrafo", "texto": "Enquanto a medicina ocidental propõe tratamentos como os antidepressivos e a psicoterapia cognitivo-comportamental (TCC) como o 'padrão-ouro', é preciso questionar essa hierarquia. São ferramentas valiosas dentro de sua própria visão de mundo, mas não são universalmente superiores às práticas de cuidado e cura que floresceram em outras culturas, que entendem o sofrimento psíquico a partir de outras raízes e em conexão com o cosmos." },
+{ "tipo": "paragrafo", "texto": "A Arruda Síria não é uma 'alternativa natural' a ser simplesmente integrada ao arsenal farmacêutico. Ela exige respeito, estudo decolonial e, acima de tudo, a escuta atenta das vozes que guardam seus saberes. O diálogo entre medicinas deve ser horizontal, reconhecendo a legitimidade e a sofisticação de cada sistema, em vez de submeter um ao crivo do outro. A verdadeira sabedoria está em proteger e honrar esses conhecimentos ancestrais." }
+],
+"tags": ["arruda síria", "decolonialidade", "Peganum harmala", "etnobotânica", "saberes ancestrais", "apropriação cultural", "medicina tradicional"],
+"isPremium": false,
+"imageUrl": "/images/mes-edicoes/m07/ed036/i05.png",
+"imageHint": "Planta de Arruda Síria com motivos culturais persas e norte-africanos ao fundo."
+},
   {
     id: 'tecnica-036-analise-funcional-comportamento',
     tipo: 'artigo_aprofundado',
@@ -202,7 +201,7 @@ export const edicao036: Edicao = {
   capa: {
     titulo_principal: "Esperança, Decisões e a Riqueza Transcultural da Psique",
     subtitulo: "Nesta edição: Cultivando a esperança, os vieses por trás de nossas escolhas, a importância da psicologia transcultural e como a análise funcional pode nos ajudar a mudar comportamentos.",
-    imagem_destaque: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBjb25uZWN0aW9ucyUyMGhvcGV8ZW58MHx8fHwxNzE4MTE5MzIxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed036/capa.png",
     imageHint: "global connections hope",
     credito_imagem: "Unsplash",
     links_manchetes: [

@@ -7,8 +7,8 @@ export const conteudosEdicao034: Conteudo[] = [
     tipo: 'editorial',
     titulo: 'Neurodiversidade: Celebrando as Diferenças e Construindo um Mundo Verdadeiramente Inclusivo e Acolhedor',
     subtitulo: 'Reflexões sobre a importância de reconhecer e valorizar a diversidade de mentes e cérebros, e como criar ambientes que permitam o florescimento de todos.',
-    autor: 'Dra. Helena Fictícia Alcantara', // Autor alterado
-    persona_autor: 'Dra. Alma Compassiva',      // Persona correspondente
+    autor: 'Dra. Helena Fictícia Alcantara', 
+    persona_autor: 'Dra. Alma Compassiva',      
     data_publicacao: '2025-07-03',
     corpo: [
       { tipo: 'paragrafo', texto: 'O conceito de neurodiversidade nos convida a uma mudança de paradigma fundamental: em vez de vermos as variações neurológicas como "déficits" ou "transtornos" a serem "corrigidos", passamos a reconhecê-las como parte da rica tapeçaria da diversidade humana. Cérebros que funcionam de maneiras diferentes – como os de pessoas no espectro autista, com TDAH, dislexia, entre outras condições – não são inerentemente "defeituosos", mas sim expressões distintas da neurologia humana, cada uma com seus desafios, mas também com suas potencialidades e perspectivas únicas.' },
@@ -169,9 +169,9 @@ export const edicao034: Edicao = {
   capa: {
     titulo_principal: "Neurodiversidade em Foco, Autismo Adulto e a Conexão Mente-Corpo",
     subtitulo: "Nesta edição: Celebrando a neurodiversidade, a vivência do autismo na vida adulta, a psicologia da saúde e o poder da comunicação não-violenta.",
-    imagem_destaque: "https://images.unsplash.com/photo-1570393080660-de4e4a15a247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkaXZlcnNpdHl8ZW58MHx8fHwxNzQ3NjI5MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed034/capa.png",
     imageHint: "neurodiversity brain health",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao034[1].titulo, id_conteudo: conteudosEdicao034[1].id }, 
       { titulo: conteudosEdicao034[0].titulo, id_conteudo: conteudosEdicao034[0].id }, 

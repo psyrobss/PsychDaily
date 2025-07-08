@@ -193,9 +193,9 @@ export const edicao035: Edicao = {
   capa: {
     titulo_principal: "Descolonizando Saberes, SUS e Cannabis: Um Olhar Crítico e Social",
     subtitulo: "Nesta edição: A urgência da psicologia decolonial, o papel da psicologia no SUS, uma análise crítica da cannabis medicinal, e o poder curativo da escrita expressiva.",
-    imagem_destaque: "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmFzcyUyMHJvb3RzJTIwY29tbXVuaXR5fGVufDB8fHx8MTcxODExODY2MXww&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed035/capa.png",
     imageHint: "grassroots community",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao035[1].titulo, id_conteudo: conteudosEdicao035[1].id }, // Psicologia Decolonial
       { titulo: conteudosEdicao035[2].titulo, id_conteudo: conteudosEdicao035[2].id }, // Psicologia no SUS
