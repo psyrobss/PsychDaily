@@ -46,7 +46,7 @@ export const conteudosEdicao037: Conteudo[] = [
   {
     id: 'psicofarmaco-037-etnopsicofarmacologia',
     tipo: 'artigo_aprofundado',
-    titulo: 'Etnopsicofarmacologia: A Confluência de Saberes Ancestrais, Plantas de Poder e a Busca por Novos Horizontes Terapêuticos na Saúde Mental',
+    titulo: 'Etnopsicofarmacologia: A Confluência de Saberes Ancestrais e a Busca por Novos Horizontes Terapêuticos na Saúde Mental',
     subtitulo: 'Uma análise crítica e respeitosa sobre o estudo de substâncias psicoativas tradicionais usadas por culturas indígenas e outras comunidades, seus potenciais terapêuticos, desafios éticos e a importância da descolonização da pesquisa farmacológica.',
     autor: 'Dra. Sofia Fictícia Klein',
     persona_autor: 'A Farmacologista Cautelosa',
@@ -163,9 +163,9 @@ export const edicao037: Edicao = {
   capa: {
     titulo_principal: "Autocompaixão, Decisões e a Sabedoria Ancestral da Etnofarmacologia",
     subtitulo: "Nesta edição: A força da autocompaixão, os sistemas de pensamento de Kahneman, o diálogo entre saberes ancestrais e farmacologia moderna, e uma introdução à DBT.",
-    imagem_destaque: "https://images.unsplash.com/photo-1503454453421-fc7cdd0940b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwY29tcGFzc2lvbnxlbnwwfHx8fDE3MTgzMjczNzF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed037/capa.png",
     imageHint: "brain compassion wisdom",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao037[0].titulo, id_conteudo: conteudosEdicao037[0].id },
       { titulo: conteudosEdicao037[1].titulo, id_conteudo: conteudosEdicao037[1].id },
