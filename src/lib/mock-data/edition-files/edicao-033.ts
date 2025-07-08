@@ -182,7 +182,7 @@ export const conteudosEdicao033: Conteudo[] = [
   ],
   "tags": ["psicoeducacao", "saude mental", "TCC", "DBT", "empoderamento", "tratamento", "terapia", "psicologia"],
   "isPremium": false,
-  "imageUrl": "/images/mes-edicoes/m07/ed062/i07.png",
+  "imageUrl": "/images/mes-edicoes/m07/ed033/i07.png",
   "imageHint": "doctor explaining brain diagram to patient"
 }
 ];
