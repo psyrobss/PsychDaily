@@ -159,14 +159,14 @@ corpo: [
 ],
 "tags": ["arruda síria", "decolonialidade", "Peganum harmala", "etnobotânica", "saberes ancestrais", "apropriação cultural", "medicina tradicional"],
 "isPremium": false,
-"imageUrl": "/images/mes-edicoes/m07/ed036/i05.png",
+"imageUrl": "/images/mes-edicoes/m07/ed036/i06.png",
 "imageHint": "Planta de Arruda Síria com motivos culturais persas e norte-africanos ao fundo."
 },
   {
     id: 'tecnica-036-analise-funcional-comportamento',
     tipo: 'artigo_aprofundado',
-    titulo: "Análise Funcional do Comportamento (ABC): Entendendo o 'Porquê' das Nossas Ações para Promover Mudanças Significativas",
-    subtitulo: 'Explore como o modelo ABC (Antecedente-Comportamento-Consequência) da Análise do Comportamento pode nos ajudar a identificar os gatilhos e as recompensas que mantêm nossos hábitos e comportamentos, e como usar esse conhecimento para mudanças positivas.',
+    titulo: "Análise Funcional do Comportamento (SRC): Entendendo o 'Porquê' das Nossas Ações para Promover Mudanças Significativas",
+    subtitulo: 'Explore como o modelo SRC (Situação Antecedente-Resposta-Consequência) da Análise do Comportamento pode nos ajudar a identificar os gatilhos e as recompensas que mantêm nossos hábitos e comportamentos, e como usar esse conhecimento para mudanças positivas.',
     autor: 'Dr. Arthur Fictício Mendes Neto',
     persona_autor: 'Dr. Analítico',
     data_publicacao: '2025-07-07',
@@ -177,8 +177,19 @@ corpo: [
       { tipo: 'lista_ordenada', itens: [
         { texto: '1. Antecedente (A - Antecedent): Refere-se a tudo o que acontece imediatamente antes do comportamento ocorrer. Podem ser eventos externos (um lugar, uma pessoa, uma situação específica, um som, uma tarefa) ou internos (um pensamento, um sentimento, uma sensação física, uma lembrança). Os antecedentes "preparam o palco" para o comportamento, sinalizando que uma determinada consequência pode estar disponível se o comportamento for emitido. Exemplo: Se o comportamento é "comer um chocolate", o antecedente pode ser "sentir-se estressado após um dia de trabalho" (interno) ou "ver uma caixa de chocolates na mesa" (externo).' },
         { texto: '2. Comportamento (B - Behavior): É a ação específica, observável e mensurável que estamos analisando. Deve ser descrito de forma objetiva, sem julgamentos. Exemplo: Continuando o exemplo anterior, o comportamento é "pegar e comer três pedaços de chocolate".' },
-        { texto: '3. Consequência (C - Consequence): É o que acontece imediatamente após o comportamento. As consequências determinam se o comportamento tem maior ou menor probabilidade de ocorrer novamente no futuro. Podem ser reforçadoras (aumentam a probabilidade do comportamento) ou punitivas (diminuem a probabilidade). \n • Reforço Positivo: Algo agradável é adicionado (ex: sensação de prazer ao comer o chocolate, alívio temporário do estresse). \n • Reforço Negativo: Algo desagradável é removido (ex: a sensação de estresse diminui momentaneamente). \n • Punição Positiva: Algo desagradável é adicionado (ex: sentir-se culpado ou enjoado após comer muito chocolate). \n • Punição Negativa: Algo agradável é removido (ex: se o chocolate acabar e não houver mais para os próximos dias). \n No exemplo do chocolate e estresse, a consequência imediata (alívio do estresse, prazer) provavelmente atua como um reforçador, tornando mais provável que a pessoa coma chocolate novamente quando se sentir estressada.' }
-      ]},
+        { texto: '3. Consequência (C - Consequence): É o que acontece imediatamente após o comportamento. As consequências determinam se o comportamento tem maior ou menor probabilidade de ocorrer novamente no futuro. Podem ser reforçadoras (aumentam a probabilidade do comportamento) ou punitivas (diminuem a probabilidade).', 
+          subLista: {
+              tipo: 'lista_nao_ordenada',
+              itens: [
+                { texto:  'Reforço Positivo: Algo agradável é adicionado (ex: sensação de prazer ao comer o chocolate, alívio temporário do estresse).'},
+                { texto: 'Reforço Negativo: Algo desagradável é removido (ex: a sensação de estresse diminui momentaneamente após comer o chocolate).'},
+                { texto: 'Punição Positiva: Algo desagradável é adicionado (ex: sentir-se culpado ou enjoado após comer muito chocolate).'},
+                { texto: 'Punição Negativa: Algo agradável é removido (ex: se o chocolate acabar e não houver mais para os próximos dias).'}  
+              ]
+            },
+          },
+          ],
+      },
       { tipo: 'sub_cabecalho', texto: 'Aplicando a Análise Funcional para a Mudança:' },
       { tipo: 'paragrafo', texto: 'Uma vez que identificamos o padrão ABC de um comportamento, podemos intervir em qualquer um dos três pontos para promover a mudança:' },
       { tipo: 'lista_nao_ordenada', itens: [
@@ -188,7 +199,7 @@ corpo: [
       ]},
       { tipo: 'paragrafo', texto: 'A Análise Funcional do Comportamento é uma ferramenta poderosa para o autoconhecimento e para o planejamento de intervenções eficazes. Ao nos tornarmos detetives de nossos próprios padrões ABC, ganhamos uma maior compreensão do porquê fazemos o que fazemos e, mais importante, como podemos começar a fazer escolhas diferentes que nos levem a uma vida mais alinhada com nossos valores e objetivos.' }
     ],
-    tags: ['análise funcional do comportamento', 'modelo ABC', 'behaviorismo', 'TCC', 'mudança comportamental', 'técnicas terapêuticas', 'ABA', 'reforço', 'antecedente', 'consequência'],
+    tags: ['análise funcional do comportamento', 'modelo SRC', 'behaviorismo', 'TCC', 'mudança comportamental', 'técnicas terapêuticas', 'ABA', 'reforço', 'antecedente', 'consequência'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m07/ed036/i07.png',
     imageHint: 'mind map choice path'
