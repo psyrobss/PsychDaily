@@ -190,9 +190,9 @@ export const edicao038: Edicao = {
   capa: {
     titulo_principal: "Especial Gestalt-Terapia: Consciência, Contato e a Arte do Aqui e Agora",
     subtitulo: "Uma imersão profunda no universo da Gestalt-Terapia, explorando seus conceitos centrais, a figura de Fritz Perls, o ciclo de contato, os mecanismos de bloqueio e técnicas transformadoras como a cadeira vazia e a experimentação.",
-    imagem_destaque: "https://images.unsplash.com/photo-1541849001490-5b06b4598783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZXN0YWx0JTIwdGhlcmFweSUyMGFic3RyYWN0fGVufDB8fHx8MTcxODMyNTA4MXww&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed038/capa.png",
     imageHint: "gestalt therapy abstract",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao038[0].titulo, id_conteudo: conteudosEdicao038[0].id }, // Editorial
       { titulo: conteudosEdicao038[1].titulo, id_conteudo: conteudosEdicao038[1].id }, // Fritz Perls (Premium)

@@ -182,7 +182,7 @@ export const edicao040: Edicao = {
   capa: {
     titulo_principal: "Perdão, Evolução e o Poder da Pausa: Desvendando a Psique",
     subtitulo: "Nesta edição: A psicologia do perdão, as raízes evolucionistas do comportamento, o papel da família no desenvolvimento, e a importância do descanso intencional.",
-    imagem_destaque: "https://images.unsplash.com/photo-1508672019048-805c876b67e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlJTIwaGVhcnQlMjBicmFpbiUyMGV2b2x1dGlvbnxlbnwwfHx8fDE3MTgzNTgyMjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed040/capa.png",
     imageHint: "heart brain evolution",
     credito_imagem: "Unsplash",
     links_manchetes: [

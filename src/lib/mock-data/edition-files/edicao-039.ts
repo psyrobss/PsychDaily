@@ -209,9 +209,9 @@ export const edicao039: Edicao = {
   capa: {
     titulo_principal: "Psique e Sociedade: Cirurgia Bariátrica, Noção de Tempo, Freud e o Papel do CREAS",
     subtitulo: "Nesta edição exploramos o acompanhamento psicológico na cirurgia bariátrica, o desenvolvimento da noção de tempo, as cinco lições de Freud e a importância do CREAS na assistência social. E mais: narrativas e reflexões sobre o poder da intenção e do 'não fazer nada'.",
-    imagem_destaque: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kJTIwc29jaWV0eSUyMGhlYWx0aHxlbnwwfHx8fDE3MTgzNTcyMzJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed039/capa.png",
     imageHint: "mind society health",
-    credito_imagem: "Unsplash",
+    credito_imagem: "psychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao039[1].titulo, id_conteudo: conteudosEdicao039[1].id }, // Bariátrica
       { titulo: conteudosEdicao039[2].titulo, id_conteudo: conteudosEdicao039[2].id }, // Noção de Tempo

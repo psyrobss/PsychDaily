@@ -185,9 +185,9 @@ export const edicao041: Edicao = {
   capa: {
     titulo_principal: "Ética, Neurobiologia e a Mente Experimental: Desafios da Psicologia",
     subtitulo: "Nesta edição: A ética na pesquisa, a neurobiologia da depressão, grandes experimentos da psicologia e o treino de inoculação de estresse.",
-    imagem_destaque: "https://images.unsplash.com/photo-1550355201-ac56f75a1970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwZWFycyUyMGJyYWluJTIwZXRoaWNzfGVufDB8fHx8MTcxODM2ODYzNXww&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed041/capa.png",
     imageHint: "brain ethics balance",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao041[0].titulo, id_conteudo: conteudosEdicao041[0].id },
       { titulo: conteudosEdicao041[1].titulo, id_conteudo: conteudosEdicao041[1].id },

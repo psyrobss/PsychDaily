@@ -189,7 +189,7 @@ export const conteudosEdicao042: Conteudo[] = [
     tags: ['gentrificação', 'saúde mental', 'direito à cidade', 'desigualdade urbana', 'psicologia social comunitária', 'coluna', 'deslocamento', 'identidade territorial', 'estresse psicossocial', 'justiça social'],
     isPremium: false,
     imageUrl: '/images/mes-edicoes/m07/ed042/i04.png',
-    imageHint: 'a stark contrast in a city scene, with a new, modern, expensive building архитектура next to older, more modest homes, symbolizing the social and economic displacement of gentrification'
+    imageHint: 'a stark contrast in a city scene, with a new, modern, expensive building next to older, more modest homes, symbolizing the social and economic displacement of gentrification'
   },
   {
     id: 'polifarmacia-idosos-saude-mental-042', // Novo ID para o artigo da Dra. Klein
@@ -270,7 +270,7 @@ export const edicao042: Edicao = {
   capa: {
     titulo_principal: "Neurociência da Criatividade, Psicologia da Libertação e a Realidade dos 'Desertos de Saúde Mental'",
     subtitulo: "Nesta edição especial: Como o cérebro cria, o legado transformador da Psicologia da Libertação na América Latina, uma reportagem investigativa sobre a falta de acesso a cuidados psicológicos no Brasil, e o desafio da polifarmácia em idosos. E mais: a psicologia do cuidado e fábulas sobre silêncio e intenção.",
-    imagem_destaque: "https://images.unsplash.com/photo-1518002798698-4583603b72e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwcmFpbiUyMGV4cGxvZGluZyUyMGNvbG9yZnVsJTIwaWRlYXN8ZW58MHx8fHwxNzE4MzYyNjM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed042/capa.png",
     imageHint: "a composite image showing a brain with colorful creative sparks, intertwined with symbols of social justice and community support, and a subtle map highlighting underserved areas.",
     credito_imagem: "PsychDaily Images (Compilação)",
     links_manchetes: [
