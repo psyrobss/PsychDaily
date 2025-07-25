@@ -230,9 +230,9 @@ export const edicao043: Edicao = {
   capa: {
     titulo_principal: "Consciência Digital: Navegando a Mente na Era da IA e dos Sonhos Tecnológicos",
     subtitulo: "Nesta edição: Os impactos da tecnologia na alma, a neurociência dos sonhos lúcidos, a história crítica da IA e como cultivar uma relação mais saudável com o mundo digital.",
-    imagem_destaque: "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxicmFpbiUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzE4MzY4OTgxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed043/capa.png",
     imageHint: "brain technology abstract",
-    credito_imagem: "PsychDaily Images (Compilação)",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao043[0].titulo, id_conteudo: conteudosEdicao043[0].id },
       { titulo: conteudosEdicao043[1].titulo, id_conteudo: conteudosEdicao043[1].id },

@@ -110,7 +110,7 @@ export const conteudosEdicao050: Conteudo[] = [
       { tipo: 'paragrafo', texto: 'Para pessoas com deficiência, idosos, crianças, gestantes, ou qualquer pessoa que enfrente limitações (temporárias ou permanentes), o Desenho Universal pode ser a diferença entre a exclusão social e a plena participação na vida comunitária, educacional e profissional. Ao eliminarmos barreiras desnecessárias e ao projetarmos com a diversidade humana em mente desde o início, não estamos apenas beneficiando grupos específicos, mas criando um mundo que é mais funcional, mais agradável e mais humano para todos. A filosofia do Desenho Universal nos desafia a sermos mais empáticos, mais criativos e mais comprometidos com a construção de uma sociedade onde a inclusão não seja uma reflexão tardia, mas o ponto de partida fundamental de todo design e de toda política pública.' }
     ],
     tags: ['desenho universal', 'inclusão', 'acessibilidade', 'equidade', 'saúde mental', 'design inclusivo', 'capacitismo', 'psicologia social', 'diversidade funcional', 'Ronald Mace'],
-    isPremium: false, // Tornando acessível pela importância do tema
+    isPremium: false, 
     imageUrl: '/images/mes-edicoes/m07/ed050/i04.png',
     imageHint: 'universal design accessible city'
   },
@@ -285,7 +285,7 @@ export const edicao050: Edicao = {
   capa: {
     titulo_principal: "PsychDaily 50: Trilhas da Psique, Horizontes da Mente – Reflexões sobre o Passado, Presente e Futuro da Psicologia e do Bem-Estar",
     subtitulo: "Uma edição especial comemorativa mergulhando nos avanços da psicologia, nos desafios da neurociência, na importância da inclusão e no futuro do cuidado com a alma. Textos mais longos e aprofundados para celebrar nosso marco!",
-    imagem_destaque: "https://images.unsplash.com/photo-1518002798698-4583603b72e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiJTIwcmFpbiUyMGV4cGxvZGluZyUyMGNvbG9yZnVsJTIwaWRlYXN8ZW58MHx8fHwxNzE4MzYyNjM3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed050/capa.png",
     imageHint: "a composite image showing a brain with colorful creative sparks, intertwined with symbols of social justice and community support, and a subtle map highlighting underserved areas.",
     credito_imagem: "PsychDaily Images (Compilação)",
     links_manchetes: [
