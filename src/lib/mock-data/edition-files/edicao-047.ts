@@ -205,9 +205,9 @@ export const edicao047: Edicao = {
   capa: {
     titulo_principal: "Mente Expandida: Psicodélicos, Trauma e a Busca por Conexão Cultural e Emocional",
     subtitulo: "Nesta edição: A ciência da psilocibina, o conceito de 'self' em diferentes culturas, o impacto da gentrificação verde e a terapia de exposição narrativa para traumas.",
-    imagem_destaque: "https://images.unsplash.com/photo-1545341849-33a5380f0d88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwc3ljaGVkZWxpYyUyMGJyYWluJTIwY29ubmVjdGlvbnN8ZW58MHx8fHwxNzE4MzcxMjkxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed047/capa.png",
     imageHint: "psychedelic brain connections",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao047[0].titulo, id_conteudo: conteudosEdicao047[0].id },
       { titulo: conteudosEdicao047[1].titulo, id_conteudo: conteudosEdicao047[1].id },

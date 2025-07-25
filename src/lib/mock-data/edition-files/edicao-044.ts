@@ -230,9 +230,9 @@ export const edicao044: Edicao = {
   capa: {
     titulo_principal: "Raízes da Cura: Ecopsicologia, Saberes Ancestrais e o Poder Restaurador da Natureza",
     subtitulo: "Nesta edição: A conexão curativa com a Terra, o uso ritualístico de cogumelos na Mesoamérica, como a natureza impacta o cérebro e a prática dos banhos de floresta.",
-    imagem_destaque: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBoZWFsaW5nJTIwYnJhaW58ZW58MHx8fHwxNzE4MzY5NjA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed044/capa.png",
     imageHint: "nature healing brain",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao044[0].titulo, id_conteudo: conteudosEdicao044[0].id },
       { titulo: conteudosEdicao044[1].titulo, id_conteudo: conteudosEdicao044[1].id },

@@ -217,9 +217,9 @@ export const edicao045: Edicao = {
   capa: {
     titulo_principal: "Memórias em Movimento: Trauma, Narrativas e a Força da Resiliência",
     subtitulo: "Nesta edição: O poder da narrativa na cura do trauma, a neurobiologia do trauma complexo, a herança do trauma colonial e a técnica do EMDR.",
-    imagem_destaque: "https://images.unsplash.com/photo-1541849001490-5b06b4598783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZW1vcnklMjBoZWFsaW5nJTIwYnJhaW58ZW58MHx8fHwxNzE4MzY5ODA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed045/capa.png",
     imageHint: "memory healing brain",
-    credito_imagem: "PsychDaily Images (Compilação)",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao045[0].titulo, id_conteudo: conteudosEdicao045[0].id },
       { titulo: conteudosEdicao045[1].titulo, id_conteudo: conteudosEdicao045[1].id },

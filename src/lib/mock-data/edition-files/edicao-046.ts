@@ -242,9 +242,9 @@ export const edicao046: Edicao = {
   capa: {
     titulo_principal: "O Universo Interior: Emoções, Sonhos e a Fascinante Busca por Sentido",
     subtitulo: "Nesta edição: A sabedoria das emoções, a neurobiologia da empatia, sonhos em diferentes culturas e como um diário onírico pode revelar seu inconsciente.",
-    imagem_destaque: "https://images.unsplash.com/photo-1530388456030-84db50b0ab41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkcmVhbSUyMGxhbmRzY2FwZSUyMGNvbG9yZnVsJTIwYnJhaW58ZW58MHx8fHwxNzE4MzcwMzAyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed046/capa.png",
     imageHint: "dream landscape colorful brain",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao046[0].titulo, id_conteudo: conteudosEdicao046[0].id },
       { titulo: conteudosEdicao046[1].titulo, id_conteudo: conteudosEdicao046[1].id },

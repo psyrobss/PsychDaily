@@ -211,7 +211,7 @@ export const edicao048: Edicao = {
   capa: {
     titulo_principal: "Mente Corpórea: A Sutil Orquestra entre o Físico e o Psíquico – Inflamação, Histeria e Relaxamento",
     subtitulo: "Nesta edição: A conexão mente-corpo, a neurobiologia da inflamação e depressão, a história da histeria e o poder do relaxamento muscular progressivo.",
-    imagem_destaque: "https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5kJTIwYm9keSUyMGNvbm5lY3Rpb258ZW58MHx8fHwxNzE4Mzg2MTYxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed048/capa.png",
     imageHint: "mind body connection abstract",
     credito_imagem: "Unsplash",
     links_manchetes: [

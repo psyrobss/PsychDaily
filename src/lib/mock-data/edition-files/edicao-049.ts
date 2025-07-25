@@ -207,9 +207,9 @@ export const edicao049: Edicao = {
   capa: {
     titulo_principal: "Desafios da Vida Líquida: Trabalho, Amor e Identidade na Era da Incerteza",
     subtitulo: "Nesta edição: Navegando a ansiedade do futuro, o impacto da 'gig economy', a psicologia do tédio e como a ACT pode ajudar a lidar com a incerteza.",
-    imagem_destaque: "https://images.unsplash.com/photo-1542838132-92c53300491e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXF1aWQlMjBtb2Rlcm5pdHklMjBicmFpbnxlbnwwfHx8fDE3MTgzODU4Njd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    imagem_destaque: "/images/mes-edicoes/m07/ed049/capa.png",
     imageHint: "liquid modernity brain abstract",
-    credito_imagem: "Unsplash",
+    credito_imagem: "PsychDaily Images",
     links_manchetes: [
       { titulo: conteudosEdicao049[0].titulo, id_conteudo: conteudosEdicao049[0].id }, // Editorial
       { titulo: conteudosEdicao049[1].titulo, id_conteudo: conteudosEdicao049[1].id }, // Gig Economy
